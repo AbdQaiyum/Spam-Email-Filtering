@@ -7,6 +7,26 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 import shutil
+import re
+
+# Define a function to preprocess a single email
+def preprocess_email(email_text):
+    # Split the email into lines and remove headers
+    lines = email_text.split('\n')
+    content_start = 0
+    for i, line in enumerate(lines):
+        if line.strip() == '':
+            content_start = i + 1
+            break
+    email_text = '\n'.join(lines[content_start:])
+
+    # Lowercase the text
+    email_text = email_text.lower()
+
+    # Remove special characters and numbers
+    email_text = re.sub(r'[^a-z\s]', '', email_text)
+
+    return email_text
 
 # Define the function to load and preprocess the emails
 def load_and_preprocess_emails(directory):
@@ -16,9 +36,10 @@ def load_and_preprocess_emails(directory):
     for label in ['ham', 'spam']:
         label_dir = os.path.join(directory, label)
         for filename in os.listdir(label_dir):
-            with open(os.path.join(label_dir, filename), 'r', encoding='latin1') as file:
+            with open(os.path.join(label_dir, filename), 'r', encoding='utf-8', errors='ignore') as file:
                 email_text = file.read()
-                emails.append(email_text)
+                preprocessed_email = preprocess_email(email_text)
+                emails.append(preprocessed_email)
                 labels.append(0 if label == 'ham' else 1)
 
     return emails, labels
@@ -34,11 +55,11 @@ def train_and_save_model():
     train_email, train_email_label = load_and_preprocess_emails(train_dir)
 
     # Create a TF-IDF vectorizer to convert text to numerical features
-    vectorizer = TfidfVectorizer(max_features=90000, stop_words='english')
+    vectorizer = TfidfVectorizer(max_features=95000, stop_words='english')
     train_email_tfidf = vectorizer.fit_transform(train_email)
 
     # Train a Random Forest classifier
-    model = RandomForestClassifier(n_estimators=135, random_state=20)
+    model = RandomForestClassifier(n_estimators=110, random_state=20)
     model.fit(train_email_tfidf, train_email_label)
 
     # Save the trained model and vectorizer to the same directory
@@ -82,22 +103,26 @@ def load_and_test_model():
     print('Classification Report:')
     print(report)
 
-# Function to upload one or more text files to a specified folder and label (ham or spam)
+
+# Function to upload text files to a specified folder and label
 def upload_text_files(target_dir, label):
     file_paths = filedialog.askopenfilenames(filetypes=[("Text Files", "*.txt")])
     if not file_paths:
         return  # User canceled the file dialog
 
-    if label:
-        label_dir = os.path.join(target_dir, label)
-        os.makedirs(label_dir, exist_ok=True)
-        
-        for file_path in file_paths:
-            # Copy each selected file to the specified folder and label
+    for file_path in file_paths:
+        if label:
+            label_dir = os.path.join(target_dir, label)
+            # Copy the file to the selected folder and label
             file_name = os.path.basename(file_path)
             target_path = os.path.join(label_dir, file_name)
             shutil.copyfile(file_path, target_path)
-            print(f"File '{file_name}' copied to '{label}' in '{target_dir}'")
+            with open(target_path, 'r', encoding='utf-8', errors='ignore') as file:
+                email_text = file.read()
+                preprocessed_email = preprocess_email(email_text)
+            with open(target_path, 'w', encoding='utf-8') as output_file:
+                output_file.write(preprocessed_email)
+            print(f"File '{file_name}' copied and preprocessed, then saved to '{label}' in '{target_dir}'")
 
 # Create a UI with buttons
 window = tk.Tk()
@@ -113,7 +138,7 @@ train_button.pack()
 test_button = tk.Button(window, text="Load & Test Model", command=load_and_test_model)
 test_button.pack()
 
-upload_frame = ttk.LabelFrame(window, text="Upload Text Files")
+upload_frame = ttk.LabelFrame(window, text="Upload Text File")
 upload_frame.pack()
 
 train_upload_label = ttk.Label(upload_frame, text="Upload to:")
