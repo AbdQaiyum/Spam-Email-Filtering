@@ -17,3 +17,6 @@ Version 1.1.1
 Version 1.2
 - Integrated PreProcessing Email program into Email Spam Filter program
 
+Version 1.3
+- Added a text box where user can paste content of an email and the program determines wether it is ham or spam
+
