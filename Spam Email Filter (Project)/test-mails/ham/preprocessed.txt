@@ -1,0 +1,46 @@
+
+   i cant reproduce this error
+
+for me it is very repeatable like every time without fail
+
+this is the debug log of the pick happening 
+
+ pickit exec pick inbox list lbrace lbrace subject ftp rbrace rbrace  sequence mercury
+ exec pick inbox list lbrace lbrace subject ftp rbrace rbrace  sequence mercury
+ ftocpickmsgs  hit
+ marking  hits
+ tkerror syntax error in expression int 
+
+note if i run the pick command by hand 
+
+delta pick inbox list lbrace lbrace subject ftp rbrace rbrace   sequence mercury
+ hit
+
+thats where the  hit comes from obviously  the version of nmh im
+using is 
+
+delta pick version
+pick  nmh compiled on fuchsiacsmuozau at sun mar   ict 
+
+and the relevant part of my mhprofile 
+
+delta mhparam pick
+seq sel list
+
+
+since the pick command works the sequence actually both of them the
+one thats explicit on the command line from the search popup and the
+one that comes from mhprofile do get created
+
+kre
+
+ps this is still using the version of the code form a day ago i havent
+been able to reach the cvs repository today local routing issue i think
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

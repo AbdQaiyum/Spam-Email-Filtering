@@ -125,12 +125,16 @@ def upload_text_file(target_dir, label):
 
 # Function to classify email text as spam or ham
 def classify_email():
-    global model
-    global vectorizer
+    # Load the model and vectorizer using relative paths
+    model_filename = os.path.join(model_dir, 'email_classifier_model.joblib')
+    loaded_model = joblib.load(model_filename)
+
+    vectorizer_filename = os.path.join(model_dir, 'email_vectorizer.joblib')
+    loaded_vectorizer = joblib.load(vectorizer_filename)
     email_text = email_text_box.get("1.0", "end-1c")  # Get text from the text box
     preprocessed_email = preprocess_email(email_text)
-    email_tfidf = vectorizer.transform([preprocessed_email])
-    prediction = model.predict(email_tfidf)
+    email_tfidf = loaded_vectorizer.transform([preprocessed_email])
+    prediction = loaded_model.predict(email_tfidf)
     result_label.config(text="Result: " + ("Spam" if prediction[0] == 1 else "Ham"))
 
 # Create a UI with buttons
