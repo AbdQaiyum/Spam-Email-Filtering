@@ -14,3 +14,6 @@ Version 1.1
 Version 1.1.1
 - Able to upload multiple .txt file at a time
 
+Version 1.2
+- Integrated PreProcessing Email program into Email Spam Filter program
+
