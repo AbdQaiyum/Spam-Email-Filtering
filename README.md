@@ -9,5 +9,8 @@ TL:DR
 - Able to load its state during testing and subsequently improve after each training
 
 Version 1.1
-- ABle to upload datasets into train-mails & test-mails folder (and choose wether it is Ham or Spam) through UI.
+- Able to upload datasets into train-mails & test-mails folder (and choose wether it is Ham or Spam) through UI.
+
+Version 1.1.1
+- Able to upload multiple .txt file at a time
 
