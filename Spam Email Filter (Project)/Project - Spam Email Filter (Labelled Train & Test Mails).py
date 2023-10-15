@@ -2,9 +2,11 @@ import os
 import joblib
 import tkinter as tk
 from tkinter import filedialog
+from tkinter import ttk
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+import shutil
 
 # Define the function to load and preprocess the emails
 def load_and_preprocess_emails(directory):
@@ -39,11 +41,14 @@ def train_and_save_model():
     model = RandomForestClassifier(n_estimators=135, random_state=20)
     model.fit(train_email_tfidf, train_email_label)
 
-    # Save the trained model and vectorizer to the directory
+    # Save the trained model and vectorizer to the same directory
     model_filename = os.path.join(model_dir, 'email_classifier_model.joblib')
-    vectorizer_filename = os.path.join(model_dir, 'email_vectorizer.joblib')
+    
+    # Create the "trained_model" directory if it doesn't exist
+    os.makedirs(model_dir, exist_ok=True)
+
     joblib.dump(model, model_filename)
-    joblib.dump(vectorizer, vectorizer_filename)
+    joblib.dump(vectorizer, os.path.join(model_dir, 'email_vectorizer.joblib'))
     print("Model trained and saved.")
 
 # Load and test the model function
@@ -77,6 +82,20 @@ def load_and_test_model():
     print('Classification Report:')
     print(report)
 
+# Function to upload a text file to a specified folder and label (ham or spam)
+def upload_text_file(target_dir, label):
+    file_path = filedialog.askopenfilename(filetypes=[("Text Files", "*.txt")])
+    if not file_path:
+        return  # User canceled the file dialog
+
+    if label:
+        label_dir = os.path.join(target_dir, label)
+        # Copy the file to the selected folder and label
+        file_name = os.path.basename(file_path)
+        target_path = os.path.join(label_dir, file_name)
+        shutil.copyfile(file_path, target_path)
+        print(f"File '{file_name}' copied to '{label}' in '{target_dir}'")
+
 # Create a UI with buttons
 window = tk.Tk()
 window.title("Email Classifier")
@@ -90,5 +109,26 @@ train_button.pack()
 
 test_button = tk.Button(window, text="Load & Test Model", command=load_and_test_model)
 test_button.pack()
+
+upload_frame = ttk.LabelFrame(window, text="Upload Text File")
+upload_frame.pack()
+
+train_upload_label = ttk.Label(upload_frame, text="Upload to:")
+train_upload_label.grid(row=0, column=0)
+
+train_upload_ham_button = tk.Button(upload_frame, text="Train Ham", command=lambda: upload_text_file(train_dir, "ham"))
+train_upload_ham_button.grid(row=0, column=1)
+
+train_upload_spam_button = tk.Button(upload_frame, text="Train Spam", command=lambda: upload_text_file(train_dir, "spam"))
+train_upload_spam_button.grid(row=0, column=2)
+
+test_upload_label = ttk.Label(upload_frame, text="Upload to:")
+test_upload_label.grid(row=1, column=0)
+
+test_upload_ham_button = tk.Button(upload_frame, text="Test Ham", command=lambda: upload_text_file(test_dir, "ham"))
+test_upload_ham_button.grid(row=1, column=1)
+
+test_upload_spam_button = tk.Button(upload_frame, text="Test Spam", command=lambda: upload_text_file(test_dir, "spam"))
+test_upload_spam_button.grid(row=1, column=2)
 
 window.mainloop()
