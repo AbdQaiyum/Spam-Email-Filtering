@@ -8,3 +8,6 @@ TL:DR
 - Able to train model and retain its state after training
 - Able to load its state during testing and subsequently improve after each training
 
+Version 1.1
+- ABle to upload datasets into train-mails & test-mails (Ham or Spam) through UI.
+
