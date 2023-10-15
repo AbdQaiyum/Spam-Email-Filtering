@@ -20,3 +20,6 @@ Version 1.2
 Version 1.3
 - Added a text box where user can paste content of an email and the program determines wether it is ham or spam
 
+Version 1.3.1
+- Able to directly paste content of an email to text box without training the model first as it loads existing vectorizer.joblib and model.joblib from previous session.
+
