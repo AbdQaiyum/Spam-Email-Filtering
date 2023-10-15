@@ -1,0 +1,59 @@
+
+i wrote this last night but it appears i never sent it still 
+havent had time to dig in to it
+
+
+ on tue  oct  robert  robert elz wrote
+
+  robert no but using pickmarkseen and pickids as an
+  robert alternative to just doing
+
+  robert seqdel exmhfolder mhprofileunseensequence results
+
+
+ah  neither ted nor i were particularly up to date  i pulled 
+down the lates from cvs and am now running with it  i miss the 
+blue ftoc lines but ill sort that out soon iirc chris said 
+its a simple resource change
+
+teds code to ketchup made use of some of the procs that went 
+away in the sequence generalization  ive fixed it up almost 
+and it looks like this now
+
+proc cabeenmarkcurseen  
+    global exmh mhprofile msg
+    set results 
+    exmhstatus clearing unseen up to cur red
+    mhsetcur exmhfolder msgid
+    set unseen mhsequence exmhfolder mhprofileunseensequence 
+    foreach elem unseen 
+         if  elem  msgid  
+            lappend results elem
+         
+    
+    busy seqdel exmhfolder mhprofileunseensequence results
+    exmhstatus ok blue
+
+
+
+the almost is because its not updating the highlighting on 
+the ftoc  im too tired to go figure out how to fix that just 
+now and have to move on to other stuff  if someone wants to 
+forward me a clue feel free
+
+now that ive got all of chris sequence stuff i discovered that 
+my sequences are  cluttered
+
+hal
+
+
+
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

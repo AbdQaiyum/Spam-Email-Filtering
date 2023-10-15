@@ -1,0 +1,80 @@
+ive been running hammie on all my incoming messages and i noticed that
+multipartalternative messages are totally hosed they have no content
+just the mime boundaries  for instance the following message
+
+
+from somebody someonesomewhereorg
+to nealewoozleorg
+subject booga
+contenttype multipartalternative boundarysnot
+
+this is a multipart message in mime format
+
+snot
+contenttype textplain charsetiso
+contenttransferencoding bit
+
+hi there
+snot
+contenttype texthtml charsetiso
+contenttransferencoding bit
+
+prehi therepre
+snot
+
+
+comes out like this
+
+
+from somebody someonesomewhereorg
+to nealewoozleorg
+subject booga
+contenttype multipartalternative boundarysnot
+xhammiedisposition no  unrelated gar removed
+
+this is a multipart message in mime format
+
+snot
+
+snot
+
+
+im using python a  sep    
+
+ive fixed it with the following patch to tims tokenizer but i have to
+admit that im baffled as to why it works  maybe theres some subtle
+interaction between generators and lists that i cant understand  or
+something  being as im baffled i dont imagine any theory i come up
+with will be anywhere close to reality
+
+in any case be advised that at least for me hammie will eat
+multipartalternative messages until this patch is applied  the patch
+seems rather bogus though so im not checking it in in the hope that
+theres a better fix i just wasnt capable of discovering 
+
+
+index tokenizerpy
+
+rcs file cvsrootspambayesspambayestokenizerpyv
+retrieving revision 
+diff u r tokenizerpy
+ tokenizerpy	 sep   	
+ tokenizerpy	 sep   
+   
+ usrbinenv python
+ module to tokenize email messages for spam filtering
+ 
+ import email
+   
+             htmlpart  textpart  none
+             stack  partgetpayload
+             while stack
+                subpart  stackpop
+                subpart  stack
+                stack  stack
+                 ctype  subpartgetcontenttype
+                 if ctype  textplain
+                     textpart  subpart
+
+
+

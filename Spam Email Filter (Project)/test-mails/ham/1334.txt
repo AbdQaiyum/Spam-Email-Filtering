@@ -1,0 +1,115 @@
+
+although it looks like im replying to myself i just havent gotten
+matthias reply yet although i can see it on the website and i did
+subscribe but probably to the digest
+
+anyway matthias wrote
+ once upon a time steve wrote 
+ 
+  i did aptget update and it seemed to have gotten the new packages
+ 
+ hmmm it seems check closer as this may be where the problem is
+ coming
+ from
+  but doing things like aptget install synaptic didnt work neither
+  did other known packages like aptget install lame
+  
+  i just get
+  rootcanarsievarcacheapt  aptget install lame
+  reading package lists done
+  building dependency tree done
+  e couldnt find package lame
+ 
+ could you double check what aptget update does and eventually post
+ the
+ output if there are any errors or messages you dont understand
+
+ok i did it again and heres what i got
+rootcanarsietmp  aptget update
+ign httpaptfreshrpmsnet redhateni release
+hit httpaptfreshrpmsnet redhatenios pkglist
+hit httpaptfreshrpmsnet redhatenios release
+hit httpaptfreshrpmsnet redhateniupdates pkglist
+hit httpaptfreshrpmsnet redhateniupdates release
+get httpaptfreshrpmsnet redhatenifreshrpms pkglist kb
+hit httpaptfreshrpmsnet redhatenifreshrpms release
+hit httpaptfreshrpmsnet redhatenios srclist
+hit httpaptfreshrpmsnet redhateniupdates srclist
+get httpaptfreshrpmsnet redhatenifreshrpms srclist kb
+fetched kb in s kbs
+reading package lists done
+rootcanarsietmp  aptget install lame
+reading package lists done
+building dependency tree done
+e couldnt find package lame
+
+rootcanarsievarcacheapt  ls ltr
+total 
+drwxrxrx     root     root          sep   gensrclist
+drwxrxrx     root     root          sep   genpkglist
+drwxrxrx     root     root          sep   archives
+rwrr     root     root         oct    srcpkgcachebin
+rwrr     root     root        oct    pkgcachebin
+rootcanarsievarcacheapt  date
+fri oct    edt 
+
+so it looks like it worked and the files are updated  very strange  
+
+maybe something went wrong updating apt from my old version as used
+with rh and this one  lemme try totally uninstalling and
+reinstalling it
+
+rootcanarsie  rpm e apt synaptic
+warning etcaptsourceslist saved as etcaptsourceslistrpmsave
+rootcanarsie  ls l etcapt
+total 
+rwrr     root     root          oct   
+sourceslistrpmsave
+rootcanarsie  rpm ivh tmpaptcncfrirpm
+warning tmpaptcncfrirpm v dsa signature nokey key
+id edb
+preparing                
+
+   apt                    
+
+rootcanarsie  aptget update
+ign httpaptfreshrpmsnet redhateni release
+hit httpaptfreshrpmsnet redhatenios pkglist
+hit httpaptfreshrpmsnet redhatenios release
+hit httpaptfreshrpmsnet redhateniupdates pkglist
+hit httpaptfreshrpmsnet redhateniupdates release
+hit httpaptfreshrpmsnet redhatenifreshrpms pkglist
+hit httpaptfreshrpmsnet redhatenifreshrpms release
+hit httpaptfreshrpmsnet redhatenios srclist
+hit httpaptfreshrpmsnet redhateniupdates srclist
+hit httpaptfreshrpmsnet redhatenifreshrpms srclist
+reading package lists done
+rootcanarsie  aptget install synaptic
+reading package lists done
+building dependency tree done
+e couldnt find package synaptic
+rootcanarsie 
+
+still no go
+
+im stumped
+
+stevek
+
+
+
+ 
+ matthias
+ 
+
+
+ 
+  steve kann  chief engineer   th ave  ny     
+                horizonlivecom  collaborate  interact  learn
+   the box said requires windows  nt or better so i installed linux
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

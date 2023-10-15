@@ -1,0 +1,103 @@
+html
+
+body onloadwindowopenhttpnationwide linkff vlinkff alinkff
+
+div aligncenter
+  center
+  table border width bordercolordark cellspacing
+  bordercolor bgcolorffffcc
+    tr
+      td width
+        table border width cellspacing cellpadding
+          tr
+            td width bgcolorffffcc valignmiddle aligncenter
+              p aligncenterfont facearial black size
+              colorffbr
+              fontfont facearial narrow colorff sizebrefinancing
+              your mortgage may be easier then you thinkbfontp
+              p aligncenterbfont facearial narrow colordb
+              sizenow that rates are downnbspbr
+              this may be a good time to start saving moneyfontbp
+              p aligncenterfont colorff size
+              facemicrosoft sans serifa hrefhttpnationwideclick here for all detailsafonttd
+          tr
+        table
+        div aligncenter
+          center
+          table border width cellspacing cellpadding
+            tr
+              td width valignmiddle aligncenter
+              bordercolor bgcolorffffccbfont
+                facearial narrow size colorfffree service for usa homeownersfontbtd
+            tr
+          table
+          center
+        div
+        div aligncenter
+          center
+          table border width cellspacing cellpadding
+            tr
+              td width bgcolor
+p aligncenterbfont size facearial colorffbr
+fontfont colorffffcc facearial narrow sizewhether
+your credit rating is a or you are quotcredit challengedquot
+we have many loannbspbr
+ programs through hundreds of aggressive lenders wanting to help younbspfontbp
+div aligncenter
+  center
+  table border width bgcolor cellspacing
+  cellpadding
+    tr
+      td width
+                p alignleftbfont facearial narrow colorffff
+                sizesecond mortgagesfontfont facearial
+                size colorffffffbr
+                fontfont facearial
+                size colorffffcc
+                we can help you get up to  of your
+homes value ratios vary by statenbspfontbp
+p alignleftbfont facearial narrow colorffff sizerefinancingfontfont
+facearial colorff sizebr
+fontfont
+size facearial colorffffccreduce your monthly payments and get
+some cash backfontbp
+p alignleftbfont facearial narrow colorffff sizedebt
+consolidationfontfont size facearial colorffbr
+fontfont size facearial colorffffcccombine all your bills into one low
+payment
+and save money every monthnbsp
+fontbp
+      td
+    tr
+  table
+  center
+div
+p aligncenterfont colorffff facearial narrow sizebwe will get you the
+best deal possiblenbspbr
+ lower rates and easier termsbfontp
+p aligncenterba hrefhttpnationwidefont 
+colorffffcc size facearial narrowclick 
+here for all details and a free loan quotation 
+todayfontabp
+p aligncenterp
+              td
+            tr
+          table
+          center
+        div
+      center
+      p aligncenterfont facearial colordb sizewe strongly
+oppose the use of spam email and do not want anyone who does not wish to receive
+ournbspmailings to receive them we strongly oppose the use of spam email and do not want anyone who does not wish to receive our mailings to receive
+      them a hrefmailtomortgagemarketsexcitecomsubjectremoveclick
+      here toa me taken off of our listbr    fontfont faceelephant sizebbr
+      bfonttd
+  tr
+  table
+div
+
+html
+
+
+
+

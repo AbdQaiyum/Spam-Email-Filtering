@@ -1,0 +1,41 @@
+on wed  sep    
+robert waldner waldnerwaldnerprivat wrote
+ on tue  sep   pdt j c lawrence writes
+
+ i run exmh on my desktops at home and at work with the resulting exmh
+ windows being displayed on both my work and home desktops gratis ssh
+ x forwarding  in fact your message was read and replied to this
+ message while at work using an exmh instance running on my home
+ machine
+
+ so you have  copies  per desktop of exmh running
+
+yes
+
+one of the nicer aspects of exmhs colour handling is that while i have
+the default background for the message pane set to black the second
+insance of exmh displaying to a given display will set the background
+of the message pane to darkslategray  very nice as it provides an
+instant visual cue as to which is which  no ive not checked where it
+gets that colour selection from
+
+ thats what i usually do but what id really like would be some
+ automagism to tell them flist rescan folder which i now do
+ manually whenever im going to work at the other machine
+
+nod
+
+ 
+j c lawrence                
+                satan oscillate my metallic sonatas 
+clawkanganu               he lived as a devil eh		  
+httpwwwkanganuclaw  evil is a name of a foeman as i live
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

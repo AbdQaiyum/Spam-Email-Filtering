@@ -1,0 +1,208 @@
+
+html
+body
+table cellspacing cellpadding width aligncenter bgcolorblack
+  tr bgcolorffffff 
+    td alignmiddle colspan
+      div alignleftdiv
+    td
+  tr
+  tbody 
+  tr 
+    td alignmiddle width bgcolorblack nowrap 
+      div aligncenterfont facearialhelvetica 
+      colorwhite sizebget your postal mailb fontfont 
+      facearialhelvetica colorblack sizebr
+        br
+        fontfont 
+      facearialhelvetica colorwhite sizebanytime anywhereb fontfont faceverdanaarialhelvetica colorblack 
+      sizebr
+        br
+        fontfont facearialhelvetica colorwhite sizebvia emailb 
+        fontdiv
+    td
+    td alignmiddle bgcolorblackimg srchttpglobalsiximagesjpg 
+      border td
+    td alignmiddle bgcolorblackimg 
+      srchttpglobalpaperlesspoboxlogonarrowgif border 
+    td
+  tr
+  tbody 
+table
+table cellspacing cellpadding width aligncenter bgcolorwhite 
+border
+  tbody
+  tr
+    td
+      table cellspacing cellpadding width aligncenter bgcolorwhite 
+      border
+        tbody
+        tr
+          td valigntop width bgcolorwhitefont 
+            faceverdanaarialhelvetica colorred sizebwhat is 
+            itbfont td
+          td width bgcolorwhitefont faceverdanaarialhelvetica 
+            colorblack sizepaperlesspobox is the fast easy and secure way 
+            to receive your postal mail bfrom any email program or web 
+            browserb fonttdtr
+        tr
+          td bgcolorblack colspan heighttdtr
+        tr
+          td valigntop width bgcolorwhitefont 
+            faceverdanaarialhelvetica colorred sizebstay in 
+            touchnbspnbspbfont td
+          td width bgcolorwhitefont faceverdanaarialhelvetica 
+            colorblack sizereceive your postal mail at hotels airports 
+            satellite offices internet cafes  anywhere with email or web 
+            access fonttdtr
+        tr
+          td bgcolorblack colspan heighttdtr
+        tr
+          td valigntop width bgcolorwhitefont 
+            faceverdanaarialhelvetica colorred sizebprivate and 
+            securebfont td
+          td width bgcolorwhitefont faceverdanaarialhelvetica 
+            colorblack sizedata encrypted passwordprotected account access 
+            insures privacy mail is opened and scanned by highspeed machines 
+            that process hundreds of mail pieces per hour mail safety concerns 
+            are eliminated fonttdtr
+        tr
+          td bgcolorblack colspan heighttdtr
+        tr
+          td valigntop width bgcolorwhitefont 
+            faceverdanaarialhelvetica colorred sizebeasybfont td
+          td width bgcolorwhitefont faceverdanaarialhelvetica 
+            colorblack sizepaperlesspobox is as simple to use as email each 
+            mail piece is converted to an image file simply open the image file 
+            and view it with the free adobe pdf viewer fonttdtr
+        tr
+          td bgcolorblack colspan heighttdtr
+        tr
+          td valigntop width bgcolorwhitefont 
+            faceverdanaarialhelvetica colorred sizebfastbfont td
+          td width bgcolorwhitefont faceverdanaarialhelvetica 
+            colorblack sizeimportant correspondence is sent sameday via 
+            email using paperlesspoboxs proprietary sorting technology 
+          fonttdtr
+        tr
+          td bgcolorblack colspan heighttdtr
+        tr
+          td valigntop width bgcolorwhitefont 
+            faceverdanaarialhelvetica colorred sizebno more brjunk 
+            mailbfont td
+          td width bgcolorwhitefont faceverdanaarialhelvetica 
+            colorblack sizeopt for the firstclass only feature to have junk 
+            mail removed from your life fonttdtrtbodytabletd
+    td
+      table cellspacing cellpadding width aligncenter bgcolorwhite 
+      border
+        tbodytbodytabletd
+    td
+      table cellspacing cellpadding width bgcolorwhite border 
+      valigntop
+        tbody
+        tr
+          td bgcolorwhite colspan heighttdtr
+        tr
+          td valigntop alignmiddlea 
+            hrefhttpwwwpaperlesspoboxcomservlethomeservletgotopageimg 
+            srchttpglobalsignupnowgif bordera td
+        tr
+        tr
+          td alignmiddle bgcoloryellow colspanfont 
+            faceverdanaarialhelvetica sizeenter promo code xvxkl to get 
+            bone month freeb fonttdtr
+        tr
+          td alignmiddle bgcolorwhite colspanfont 
+            faceverdanaarialhelvetica sizepay for month   get a credit 
+            for the same amount for month  fonttdtr
+        tr
+          td bgcolorwhite colspan heighttdtr
+        tr
+          td alignmiddlefont faceverdanaarialhelvetica sizeservice 
+            plans start at just  per month fonttdtr
+        tr
+          td bgcolorwhite colspan heighttdtr
+        tr
+          td alignmiddlefont faceverdanaarialhelvetica sizeget your 
+            new paperlesspobox address in just  minutes fonttdtr
+        tr
+          td bgcolorwhite colspan heighttdtr
+        tr
+          td alignmiddle bgcoloryellow colspanfont 
+            faceverdanaarialhelvetica sizeunconditional moneyback 
+            guarantee fonttdtr
+        tr
+          td alignmiddle bgcolorwhite colspanfont 
+            faceverdanaarialhelvetica sizecancel anytime during the first 
+             days for a full refund fonttdtr
+        tr
+          td bgcolorwhite colspan heightnbsptd
+        tr
+        tr
+          td alignmiddlefont faceverdanaarialhelvetica sizebfind 
+            out moreb fontbrfont faceverdanaarialhelvetica 
+            sizeclick on an icon below fonttdtr
+        tr
+          td bgcolorwhite colspan heighttdtrtbodytable
+      table cellspacing cellpadding width bgcolorwhite border 
+      valigntop
+        tbody
+        tr
+          td alignmiddlea 
+            hrefhttpwwwpaperlesspoboxcomservlethomeservletgotopageimg 
+            srchttpglobalsmallframevideojpg width borderbr
+            font 
+            faceverdanaarialhelvetica size minutebrvideofonta td
+          td alignmiddlea 
+            hrefhttpwwwpaperlesspoboxcomservlethomeservletgotopageimg 
+            srchttpglobalsmallframenewsjpg width borderbr
+            font 
+            faceverdanaarialhelvetica sizein thebrnewsfonta td
+          td alignmiddlea 
+            hrefhttpwwwpaperlesspoboxcomservlethomeservletgotopageimg 
+            srchttpglobalsmallframetellmemorejpg width 
+            borderbr
+            font faceverdanaarialhelvetica sizehow 
+            itbrworksfonta td
+          td alignmiddlea 
+            hrefhttpwwwpaperlesspoboxcomservlethomeservletgotopageimg 
+            srchttpglobalsmallframesamplecorrespondencejpg width 
+            borderbr
+            font faceverdanaarialhelvetica 
+            sizesamplebrlettersfonta td
+          td alignmiddlea 
+            hrefhttpwwwpaperlesspoboxcomservlethomeservletgotopageimg 
+            srchttpglobalsmallframehomejpg width borderbr
+            font 
+            faceverdanaarialhelvetica sizehomebrpagefonta 
+        tdtrtbodytabletdtrtbodytable
+table cellspacing cellpadding width aligncenter bgcolorff 
+border
+  tbody
+  tr
+    td bgcolorwhite colspan heighttdtr
+  tr
+    td bgcolorblack colspan heighttdtr
+  tr
+    td alignleft bgcolorblackfont faceverdanaarialhelvetica 
+      colorwhite sizebnbspnbspnbsppaperlesspobox 
+      nbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+      nbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+      nbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+      nbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+      nbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+      nbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+      nbspnbspnbspnbspnbspnbsp postal service mail via emailb 
+      fonttdtr
+  tr
+    td bgcolorblack colspan heighttdtr 
+    td bgcolorwhite colspanfont faceverdana arial helvetica sansserif sizethis 
+message has been sent to you in compliance with our strict antiabuse regulations 
+if you do not wish to receive further mailings please send a blank mail 
+to a hrefmailtobestoffersdishnetdslnetsubjectremovebestoffersdishnetdslneta 
+with remove as subjectfonttd
+  trtbodytablebodyhtml
+
+
+

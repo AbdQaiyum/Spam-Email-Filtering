@@ -1,0 +1,151 @@
+html
+
+head
+meta httpequivdcontentlanguage contentdenus
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+titlewould you like to save up to title
+head
+
+body bgcolord
+
+div aligndcenter
+  center
+
+table borderd widthd heightd bgcolord border
+colordff
+  tr
+    td widthd heightd aligndcenter bordercolordffff
+fffont facedtahoma colordffffff sized would you like to
+      b save bup tob bfontbfont facedtahoma sized
+ colordffffccfontbfont facedtahoma colordffffff s
+ized
+      on bprinterb fontbfont facedtahoma sized colord
+fffaxfontbfont facedtahoma colordffffff sized
+
+      amp fontbfont facedtahoma sized colordffffcc 
+copierfontbfont facedtahoma colordffffff sized suppl
+iesfonttd
+  tr
+table
+  center
+div
+div aligndcenter
+  center
+  table borderd widthd heightd bordercolord
+    tr
+      td widthd heightd bordercolordffffffbifont fa
+cedverdana sized colordffffffon
+        brands like gtfontibtd
+      td widthd heightd bgcolord aligndcenter
+font facedtahoma sized colordffffffepsonfonttd
+      td widthd heightd aligndcenter bordercolordcc
+ styledborderstyle solid borderwidth  bordercolorlightdff
+ bordercolordarkdcc bgcolordfffffffont facedpalatin
+o linotype sized colordccbcanonbfonttd
+      td widthd heightd aligndcenter bgcolord
+ibfont facedarial colordffffff sizedhewlett
+        packardfontbitd
+      td widthd heightd bgcolordcc aligndcenter
+font facedbook antiqua colordffffff sizedlexmarkfontt
+d
+      td widthd heightd aligndcenter bordercolordfffff
+fbifont facedverdana sized colordffffccamp
+        morefontibtd
+    tr
+  table
+  center
+div
+div aligndcenter
+  center
+  table borderd widthd heightd
+    tr
+      td widthd heightd bgcolordffffcc aligndcenter
+font colordcc facedimpact sized
+        quality satisfaction guarantee or your money backfonttd
+    tr
+    tr
+      td widthd heightd bgcolordcc aligndcenter
+font colordffffff facedimpact sizedfree
+        same day shipping on all us ordersfonttd
+    tr
+    tr
+      td widthd heightd bgcolord aligndcenter
+ styledtextdecoration blinkfont colordffffcc facedimpact
+ sizedwell
+        beat any price on the internet  guaranteedfonttd
+    tr
+  table
+  center
+div
+div aligndcenter
+  center
+  table borderd widthd heightd bordercolord
+    tr
+      td widthd heightd aligndcenter styledborder 
+ solid ba hrefdhttperikinkjets styled
+color fffont facedtahoma sized colordffffffclick
+        here to order nowfontabtd
+    tr
+  table
+  center
+div
+div aligndcenter
+  center
+  table borderd widthd bgcolord heightd
+    tr
+      td widthd aligndcenter bordercolordffffff heightd
+bfont facedverdana colordffffff sizedor
+        call us tollfree at fontbtd
+    tr
+  table
+  center
+div
+br
+pnbspp
+pnbspp
+div aligndcenter
+  center
+  table borderd widthd bordercolord heightd
+    tr
+      td widthd bordercolordffffff heightdbfont fa
+cedtahoma sized colordccfree shipping only on
+        orders of  or morebrwe beat any online retailers price by
+ 
+        call us with the url website advertising the lower price and onc
+e we
+        verify the price we will beat it by  must be same manufacture
+rfontbtd
+    tr
+  table
+  center
+div
+div aligndcenter
+  center
+  table borderd widthd bordercolord heightd
+    tr
+      td widthd bordercolordffffff aligndcenter heightd
+font facedtahoma sized colordccyou
+        are receiving this special offer because you have provided permiss
+ion to
+        receive email communications regarding special online promotions o
+r
+        offers if you feel you have received this message in error or wi
+sh to
+        be removed from our subscriber list a hrefdhttp
+erikinkjetsremoveasp styledcolor ffclick
+        herea  thank you and we apologize for any inconveniencefont
+td
+    tr
+  table
+  center
+div
+body
+
+html
+
+
+
+

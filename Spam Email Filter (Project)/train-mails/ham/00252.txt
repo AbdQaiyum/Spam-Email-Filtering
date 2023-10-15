@@ -1,0 +1,19 @@
+quoting kevin lyda kevindatedeiesubericnet
+
+ anyone here have experience with windows cvs clients accessing a cvs
+ server securely  preferably using ssh of some form putty or cygwins
+ openssh port and the wincvs client
+
+heres something i cobbled together
+httpsourceforgenetdocmandisplaydocphpdocidgroupid
+
+ 
+cheers           i dont like country music but i dont mean to denigrate
+rick moen         those who do  and for the people who like country music
+ricklinuxmafiacom         denigrate means put down       bob newhart
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

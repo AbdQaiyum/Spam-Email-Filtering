@@ -1,0 +1,19 @@
+is there a way to tell spamassassin to put the results at the bottom
+of the message instead  if not what is the easiest way to do this
+i found a reportheader but no equivalent reportbottom
+
+thanks
+
+jon
+jongdirectfreightcom
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

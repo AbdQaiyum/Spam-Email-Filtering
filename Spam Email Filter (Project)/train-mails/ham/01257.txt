@@ -1,0 +1,34 @@
+once upon a time quaffa wrote 
+
+ ive tried the without options but still end up with similar for the
+ regular package
+ 
+ 	glut is needed by xinelibsfr
+
+you need to install the glut package from red hat linux  and
+glutdevel if you intend to recompile the source rpm
+
+         aalib is needed by xinelibsfr
+         lirc is needed by xinelibsfr
+         libaaso is needed by xinelibsfr
+         libglutso is needed by xinelibsfr
+
+here you need both aalib and lirc from freshrpmsnet theyre small
+they can be quite useful thats why ive compiled xine with them as a
+default
+you should be able to get rid of those two though by rebuilding the source
+rpm otherwise its a bug in my packaging 
+rpmbuild rebuild without aalib without lirc xinesrcrpm
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel 
+load     ac online battery charging  
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

@@ -1,0 +1,146 @@
+html
+
+head
+meta httpequivdcontentlanguage contentdenus
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+titledoes your computer need an oil changetitle
+head
+
+body
+
+table borderd widthd heightd
+  tr
+    td widthd heightd aligndcenter bgcolordffb
+font facedverdana sized colordffffffdo
+      you care about your computerfontbtd
+  tr
+table
+table borderd widthd heightd
+  tr
+    td widthd heightd bgcolordffbfont faced
+tahoma sized colordffffsymantecfontfont colord
+ facedverdana sizedbrfontifont facedverdana sized
+ colordffffffsystemworks
+      fontifont sized facedverdanabr fontfont f
+acedtahoma sized colordffffuprofessional
+      editionufontbtd
+  tr
+table
+table borderd widthd heightd
+  tr
+    td widthd heightd aligndcenter bgcolordff
+bfont facedverdana colordfffffffrom
+      the creators of the  rated antivirus softwarefontbtd
+  tr
+table
+
+table borderd widthd heightd
+  tr
+    td widthd heightd aligndcenter bgcolordff
+bfont facedtimes new roman sized colordffffffbrfont
+font facedarial colordffffff sizedthis
+      uunbeatableu software suite comes with every
+      program youll ever need to answer the problems or threats that your
+      computer faces each day of its lifefontbfont facedarial
+ colordffffffbrfontfont facedlucida sans unicode colord
+cc brfontbfont facedtahoma colordffffincluded i
+n this magnificent deal
+      are the following programsfontbtd
+  tr
+table
+
+table borderd widthd heightd
+  tr
+    td widthd heightd bgcolordffffff bordercolord
+ff bordercolorlightdff bordercolordarkd styled
+border  solid fffont colordfffont sized faced
+tahomanorton
+      antivirusffffff   fontfont facedtahoma sizedb
+the 
+      antivirus protecion everbfontfont sized facedtahoma
+brnorton utilitiesffffff 
+       fontfont facedtahoma sizedbdiagnose any problem wi
+th your
+      systembfontfont sized facedtahomabr
+      font sizednorton ghostffffff   fontfontfont fa
+cedtahoma sizedbmakes
+      backing up your valuable data easybfontfont sized faced
+tahomabr
+      norton cleansweepffffff   fontbfont facedtahoma si
+zedeliminates excess
+      data instantlyfontbfont sized facedtahomabr
+      norton winfaxffffff basic  fontfont facedtahoma sized
+bturns your
+      cpu into a fax machinebfontfont sized facedtrebuchet
+ msbr
+      font
+      font sized facedtahomagobackffffffae  personal  font
+bfont facedtahoma sizedhelps
+      prevent you from making any mistakesfontbfonttd
+  tr
+table
+
+table borderd widthd heightd
+  tr
+    td widthd heightd aligndcenter bgcolordff
+bfont facedverdana sized colordffffall
+      this sells at the store for fontfont facedverdana siz
+ed colordffbr fontfont facedverdana sized co
+lordffffffget it
+      now for only fontfont facedverdana sized colord
+ffbrfontifont facedverdana sized colordffff
+with
+      free shippingfontibtd
+  tr
+table
+
+table borderd widthd heightd bgcolord border
+colordffffff
+  tr
+    td widthd heightd aligndcenter bgcolordff
+font sized colordffffff facedimpacta hrefdhttp
+erik styledcolor ffffffclick
+      here to order nowafonttd
+  tr
+table
+pfont facedsystem colordffbnbspnbspnbspnbspnbs
+pnbspnbspnbsp
+limited time offer when we
+run out its gone so get it while its hotbfontp
+
+table borderd widthd bgcolordffffff heightd
+  tr
+    td widthd heightd aligndcenter bgcolordff
+bfont facedtahoma sized colordffffffcall
+       amp order nowfontbtd
+  tr
+table
+pnbspp
+pnbspp
+table borderd widthd heightd bordercolorlightd
+ bordercolordarkd
+  tr
+    td widthd heightd aligndcenterfont facedtahoma
+ sized colordyour
+      email address was obtained from an optin list ieac international 
+email abuse
+      councilnbspapproved listbr
+      nbsptype code  eastustdnbspnbspif you wish to be unsubs
+cribed from
+      this list please a styledcolor  hrefdhttp
+erikremoveaspclick
+      herea we do not condone spam in any shape or form we appreciate
+ your cooperationfonttd
+  tr
+table
+
+body
+
+html
+
+
+
+

@@ -1,0 +1,78 @@
+on tue  aug  david neary wrote
+
+  actually the following would be in some way sensible
+  echo e echo enc  sed safafxg
+ 
+ why  why not 
+
+no idea
+
+the above was something along the lines i was attempting once i 
+realised it was a straight swap but i couldnt get awks gensub to 
+insert the x for s and s
+
+anyway in the end i found something on the internet and adapted it
+
+function decodeurl str    hextabiccclencode 
+
+         hex to dec lookup table
+        hextab          hextab   
+        hextab          hextab   
+        hextab          hextab a  
+        hextab          hextab b  
+        hextab          hextab c  
+        hextab          hextab d  
+        hextab          hextab e  
+        hextab          hextab f  
+
+        decoded  
+        i    
+        len  length str
+        while  i  len  
+                c  substr str i 
+                 check for usual start of uri hex encoding chars
+                if  c    c    
+                        if  i  len  
+                                 valid hex encoding
+                                c  touppersubstrstr i 
+                                c  touppersubstrstr i 
+                                if  hextab c    hextab c    
+                                        code    hextab c    hextab c  
+                                        c  sprintf c code
+                                        i  i  
+                                
+                        
+                  is space apparently
+                 else if  c    
+                        c   
+                
+                decoded  decoded c
+                i
+        
+        return decoded
+
+
+ cheers
+ dave
+
+ ps the late reply is because the footer on the original mail if
+ you received this mail in error yadda yadda got caught in my
+ spam filter and ended up in my junkmail directory
+
+he he
+
+might not have been the footer  check my headers 
+
+regards
+ 
+paul jakma	paulclubiie	pauljakmaorg	key id affa
+	warning do not ever send email to spamdishonest
+fortune
+one nuclear bomb can ruin your whole day
+
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

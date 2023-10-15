@@ -1,0 +1,36 @@
+i just saw the isos on an internal server here and was tempted
+
+	d
+
+original message
+from john p looney mailtovalentuathaorg 
+sent monday september    pm
+to hamiltondavid hpirelandex
+cc iluglinuxie
+subject re ilug redhat 
+
+
+on mon sep   at pm  hamiltondavid hpirelandex
+mentioned
+ does anyone know when redhat  is going to be released
+ i have seen some iso images of it around and i am trying to work out 
+ if its near release
+
+ null the third beta was out last week
+
+ itll be an interesting release gnome  and gcc   both very new
+large projects
+
+ id not be putting it on any production machines for a while
+
+ though many say redhat x releases are rubbish  its worth baring in
+mind that they jump a release when the underlying archtechture changes not
+just the installer so they are  for a reason
+
+kate
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

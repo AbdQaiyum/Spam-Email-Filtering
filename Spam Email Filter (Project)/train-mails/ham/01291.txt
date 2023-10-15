@@ -1,0 +1,27 @@
+on sat  at  ben liblit wrote
+
+ well ive figured out the problem  i guess you could say its an alsa 
+ bug  when one configures using withcardsall alsa blindly turns 
+ on the various configsndusb macros even if configusb is not 
+ actually set
+
+ matthias would you please consider hooking up this patch in your 
+ alsadriverspec  it can be added in the obvious manner
+ 
+ i suppose i should send this along to the alsa developers as well  for 
+ them ill produce a proper patch that makes the fix in acincludem 
+   or is someone else on this list already part of the alsa developer 
+ community and willing to shepherd this through for me
+
+not me but imho its kind of offtopic to put it in freshrpmsnet rpms 
+upstream is the way to go
+
+ 
+ille skytt
+villeskytta at ikifi
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

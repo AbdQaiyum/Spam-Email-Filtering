@@ -1,0 +1,22 @@
+on wed  at  michael clark wrote
+ to update spamassasin all i need to do is install the new targz 
+ file as if it were a new installation i dont need to stop incoming 
+ mail or anything like that thanks mike
+if you are using spamd you will have to stoprestart it 
+
+ 
+larry rosenman                     httpwwwlerctrorgler
+phone                   email lerlerctrorg
+us mail  steamboat springs drive garland tx 
+
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

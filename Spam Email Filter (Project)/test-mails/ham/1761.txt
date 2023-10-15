@@ -1,0 +1,96 @@
+barry a warsaw gives answers and asks questions
+
+heres the code that produced the header tokens
+
+    xn  
+    for x in msgkeys
+        xnx  xngetx   
+    for x in xnitems
+        yield headersd  x
+
+
+some responses
+
+         headerxmailmanversion
+         headerlistid
+         headerxbeenthere
+
+ these three are definitely mm artifacts although the second one
+ could be inserted by other list management software its described
+ in an rfc
+
+since all the ham came from mailman and only  spam had it its quite
+safe to assume then that i should ignore these for now
+
+          headernewsgroups
+          headerxref
+          headerpath
+
+ these arent mm artifacts but are byproducts of gating a message off
+ of an nntp feed  some of the other nntp headers are similar but i
+ wont point them out below
+
+i should ignore these too then
+
+         headerlistunsubscribe
+         headerlistsubscribe
+         headerlistpost
+         headerlisthelp
+         headerlistarchive
+
+ rfc recommended generic listserve headers that mm injects
+
+ditto
+
+ so why do you get two entries for this one
+
+           headerreceived
+           headerreceived
+
+read the code wink  the first line counts msgs that had  instances of a
+received header and the second counts msgs that had  instances  i
+expect this is a good clue  the more indirect the mail path the more of
+those thingies well see and if youre posting from a spam trailer park in
+tasmania you may well need to travel thru more machines
+
+ 
+ note that header names are case insensitive so this ones no
+ different than mimeversion  similarly other headers in your list
+
+ignoring case here may or may not help thats for experiment to decide
+its plausible that case is significant if eg a particular spam mailing
+package generates unusual case or a particular clueless spammer
+misconfigures his package
+
+         headerprecedence
+
+ could be mailman or not  this header is supposed to tell other
+ automated software that this message was automated  eg a replybot
+ should ignore any message with a precedence bulkjunklist
+
+rule of thumb  if mailman inserts a thing i should ignore it  or better
+i should stop trying to outthink the flaws in the test data and get better
+test data instead
+
+             header
+
+ 
+ 
+             header
+
+ heh
+
+i sucked out all the wordinfo keys that began with header  the last line
+there  was probably due to unrelated instances of the string header in
+message bodies  harder to guess about the first line
+
+ 
+ some headers of course are totally unreliable as to their origin  im
+ thinking stuff like mimeversion contenttype to from etc etc
+ everyone sticks those in
+
+the brilliance of anthonys just count them scheme is that it requires no
+thought so cant be fooled wink  header lines that are evenly
+distributed across spam and ham will turn out to be worthless indicators
+prob near  so do no harm
+

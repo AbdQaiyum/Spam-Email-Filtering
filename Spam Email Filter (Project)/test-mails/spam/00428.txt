@@ -1,0 +1,129 @@
+htmlheadtitleinsurancetitlestyletd fontfamily arialstyle
+head
+body bgcolordfdfediv aligndcenter styledfontfamilytimesfon
+t sized colordredsave up to  on your life insurancefontbr
+font sizedwhy spend more than you have tobrlife quote search saves
+ you time and money p
+bfontbrcheck out these example monthly ratesbryear level pr
+emium term insurancebr and  year rates also availablediv
+table widthd aligndcenter bgcolordwhite
+tr
+tdtd 
+td colspand aligndcentertd 
+td colspand aligndcentertd 
+td colspand aligndcentertd 
+tr 
+tr bgcolord 
+td styledcolorwhiteagetd 
+td styledcolorwhitemaletd 
+td styledcolorwhitefemaletd 
+td styledcolorwhitemaletd 
+td styledcolorwhitefemaletd 
+td styledcolorwhitemaletd 
+td styledcolorwhitefemaletdtr
+tr
+tdtdtdtdtdtdtdtdtdtdtdtdtd
+td
+tr
+tr
+tdtdtdtdtdtdtdtdtdtdtdtdtd
+td
+tr
+tr
+tdtdtdtdtdtdtdtdtdtdtdtdt
+dtd
+tr
+tr
+tdtdtdtdtdtdtdtdtdtdtdtd
+tdtd
+tr
+table
+div aligndcentersmoker rates also availablepfont sizedtake a
+ minute to fill out the simple form below and receive a free quotebrcomp
+aring the best values from among hundreds of the nations top insurance co
+mpaniesfontdivhr sizedtabletdform actiondmailtoaab
+tamailnetcnsubjectd methoddpost enctypedtextplainall fields
+ requiredtdtrtdfirst nametdtdinput namedfirstnametd
+trtrtdlast nametdtdinput namedlastnametdtrtrtda
+ddresstdtdinput namedaddresstd
+trtrtdcitytdtdinput namedcitytdtrtrtdstatetd
+tdinput namedstate sizedtdtrtrtdziptdtdinput na
+medzipcodetdtrtrtdday phonetdtdinput nameddayphone
+ xxxxxxxxxxtdtrtrtdevening phonetdtdinput namedeve
+ningphonetdtrtrtdfaxtdtdinput namedfax xxxxxxxxxx
+tdtrtrtdemailtdtdinput namedemailtd
+trtrtdmale or femaletdtdinput namedmaleorfemaletdt
+rtrtddate of birthtdtdinput nameddateofbirth sized
+mmddyytdtrtrtdtype of insurancetdtdselect namedtype
+ofinsurance sizedoption
+yr guaranteed level termoption selected
+yr guaranteed level termoption yr guaranteed level termoption
+yr guaranteed level termoptionuniversal lifeoptionndtodie
+survivorship insuranceselecttdtrtrtdinsurance amounttd
+tdselect namedinsuranceamountoptionoptionoption
+optionoptionoptionoption
+optionoption selectedoptionoptiono
+ptionoptionoptionoptionoption
+optionoptionoptionoptiono
+ptionoptionoptionoptionopt
+ionoptionoptionoptionabove 
+selecttdtrtrtdheighttdtdinput namedheight sized
+tdtrtr
+tdweighttdtdinput namedweight sized lbstdtrtrtdto
+bacco usetdtdselect namedtobaccouse sizedoption selectedp
+lease
+selectoptionhave never smoked or used nicotineoptionused to smoke bu
+t quit less than  yr agooptionused to
+smoke  yrs agooptionused to smoke  yrs agooptionused to smoke ov
+er  yrs agooptioncurrently smoke cigarettesoptionother
+nicotine usecigarspipechewpatchselecttdtrtrtdhealth statu
+stdtdselect namedhealthstatusoption selectedplease
+selectoptionexcellent trim and athletic no medicationsoptiongood
+no infirmities and no medicationsoptionfair slightly overweight
+or taking medicationoptionpoor havehad a serious health conditionsel
+ecttd
+trtrtdhealth conditionsbrinput namedhealthprobs typedradio 
+valuedyesyesinput checked namedhealthprobs typedradio valuednon
+otdtdexplainbrtextarea namedhealthprobsdesctextareatdt
+rtrtdprescription medicationsbrinput namedtakerx typedradio v
+aluedyesyesinput checked namedtakerx typedradio valuednonotd
+tdexplainbrtextarea namedtakerxdesctextareatdtrtrtdd
+o you engage in any hazardous activitiesbrie scubaskydivingprivate
+ pilotetcbrinput namedhazavococc typedradio valuedyesyesinpu
+t checked namedhazavococc typedradio valuednonotdtdexplainbr
+textarea namedhazavococcdesctextareatdtrtrtddid your par
+ents or siblings havebr heart disease or cancer prior to age brinp
+ut namedfamilyhistory typedradio 
+valuedyesyesinput checked namedfamilyhistory typedradio valuedno
+notdtdexplainbrtextarea namedfamilyhistorydesctextareatd
+trtablediv aligndcenterinput typedsubmit valuedsubmit quo
+te requestdivptabletrbrbrbrbrtd styledfontsizept
+if you are in receipt of this email in error andor wish to be removed fr
+om our list a hrefdmailtojcbtamailnetcnplease click herea a
+nd type remove if you reside in any state which prohibits email solicitat
+ions for insurance please disregard this emailtdtr
+b
+b
+b
+b
+trtrtd
+br
+br
+br
+br
+br
+br
+br
+we will open your email application to submit your inquiry all quotes wil
+l be from insurance companies rated a a a or a by am best actual 
+premiums and coverage availability will vary depending upon age sex stat
+e health history and tobacco use this is not an offer or contract to buy
+ insurance products but rather a confidential informational inquiry  lif
+e quote search is an information gathering service and does not sell insur
+ance  all information submitted is strictly confidential and will be giv
+en to an insurance professional licensed in your state of residence who w
+ill contact you and provide your quote directly 
+bodyhtml
+
+
+

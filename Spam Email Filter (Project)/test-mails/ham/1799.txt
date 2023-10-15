@@ -1,0 +1,16 @@
+skip montanaro
+ im listed as a developer on sf and have the spambayes cvs module checked
+ out using my sf username but im unable to write to the repository  cvs
+ complains
+
+      cvs add unheaderpy
+     cvs server aborted add requires write access to the repository
+
+ any thoughts
+
+not really  try again  about half the developers on the spambayes project
+were missing some permission or other so i ran thru all of them and checked
+every damned box and clicked on every damn dropdown list i could find  as
+far as sf is concerned youre all sitting on gods right hand now so if it
+still doesnt work i suggest you upgrade to win wink
+

@@ -1,0 +1,19 @@
+i have been trying to research via sa mirrors and search engines if a canned
+script exists giving clients access to their userprefs options via a
+webbased cgi interface numerous isps provide this feature to clients but
+so far i can find nothing our configuration uses amavispostfix and clamav
+for virus filtering and procmail with spamassassin for spam filtering i
+would prefer not to have to write a script myself but will appreciate any
+suggestions
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

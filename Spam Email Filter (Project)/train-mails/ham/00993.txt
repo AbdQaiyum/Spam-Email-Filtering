@@ -1,0 +1,78 @@
+multiparttuesep
+contenttype textplain charsetusascii
+
+ from hal devore haldevoreacmorg
+ sender exmhusersadminspamassassintaintorg
+ date mon  sep   
+ 
+ 
+ 
+  on mon  sep  rick  rick baartman wrote
+ 
+   rick this is dangerous i have to remember to rescan each
+   rick folder i enter is there a safeguard for this
+ 
+ nope  regenerate the cache in the script
+ 
+ 	for f in folders fast r
+ 	do
+ 		echo sorting f 
+ 		sortm f
+ 		scan mhpath fxmhcache
+ 	done
+ 
+ hal
+
+here is the little script i run i run nightly from cron it does a
+general tidying of things including sorting and updating the cache
+
+i didnt write it and im afraid i have lost track of who did but
+its worked well for years i run a similar one to update the glimpse
+indices nightly
+
+r kevin oberman network engineer
+energy sciences network esnet
+ernest o lawrence berkeley national laboratory berkeley lab
+email obermanesnet			phone   
+
+
+multiparttuesep
+contenttype applicationoctetstream
+contentdisposition attachment filenameswasort
+contenttransferencoding bit
+
+bintcsh f
+ 
+  sorts all folders
+
+  we dont want to sort the drafts folder and the folders mailglimpse
+
+  default field to sort  date
+  default scan width  
+
+set mhdirusrlocalnmhbin
+set mailhomeobermanmail
+
+ update mailfolders
+mhdirfolders fast recurse all  mailfolders
+
+ thru all folders 
+foreach i  cat mailfolders  grep v glim  grep v drafts 
+
+     sort the stuff
+    mhdirmhsortm i datefield date  devnull
+
+     and update the cache
+    mhdirscan i width   mailixmhcache
+end
+
+multiparttuesep
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

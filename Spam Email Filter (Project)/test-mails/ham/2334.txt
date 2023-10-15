@@ -1,0 +1,8 @@
+url httpjeremyzawodnycomblogarchiveshtml
+date t
+
+last week i noticed that i was on daves radar now that ive caught up on 
+blogging it seems that im on windleys radar too he picked up on my 
+freebsdlinux mysql story and that provoked an interesting discussion of
+
+

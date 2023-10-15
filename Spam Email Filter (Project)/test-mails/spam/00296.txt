@@ -1,0 +1,221 @@
+this is a multipart message in mime format
+
+nextpartcfaacae
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ a one of a kind annuitythat isnt a gamblea
+upside only 
+treasurylinked   commission
+ 
+
+ liquid after  yearsa
+ minimum guaranteed floor for  years
+   
+
+  upside of annual increases in year tnote
+ bonus crediting over normal treasury notes
+ alternative for large municipal bond or tnote buyers
+
+   
+
+ 	
+call or email mailtoannuitiesfsfginccom  us today
+ 
+ or 	
+please fill out the form below for more information	
+name	  
+email	  
+phone	  
+city	  	state	  	 
+ 	  	 	   
+
+ httpwwwfsfginccom
+
+for deposits over  
+we dont want anybody to receive our mailings who does not wish to
+receive them this is professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+httpwwwinsurancemailnet
+legal notice httpwwwinsuranceiqcomlegalhtm
+
+
+nextpartcfaacae
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titleupside only treasurylinked annuitytitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolord textd
+table widthd cellpaddingd cellspacingd 
+bgcolord aligndcenter
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          td bgcolordimg 
+srcdhttpimagessaprilbjpg 
+widthd heightd altda one of a kind annuitythat isnt 
+a gambleupside only  treasurylinked   commissionbr
+            img 
+srcdhttpimagessaprilspacergif widthd 
+heightdtd
+        tr
+        tr
+          tdbr
+            img 
+srcdhttpimagessaprilagif 
+widthd heightd altdliquid after  years 
+minimum guaranteed floor for  years
+          td
+        tr
+        tr
+          td
+            hr widthd sized colord
+            bfont facedverdana arial helvetica sansserif 
+sized colord
+            img 
+srcdhttpimagessaprilspacergif widthd 
+heightd aligndleft
+            font colordffupside of annual increasesfont in 
+year tnotebr
+            nbspfont colordffbonus creditingfont 
+over normal
+            treasury notesbr
+            nbspfont colordffquotalternativefont 
+for large
+            municipal bond or tnote buyersquotfontbbr
+            hr widthd sized colord
+          td
+        tr
+        tr
+          tdnbsptd
+        tr
+        tr
+          td aligndcenterbfont facedverdana arial 
+helvetica sansserif sized colord
+            call or a hrefdmailtoannuitiesfsfginccomemaila 
+us todaybr
+            img 
+srcdhttpimagessaprilgif 
+widthd heightd altdbr
+             or fontbtd
+        tr
+        tr
+          td aligndcenter
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcc
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont facedarial helvetica sansserif 
+sized colordffffffplease fill out the form below for more 
+informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizednamefonttd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedemailfonttd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedphonefonttd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedcityfonttd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedstatefonttd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                        td rowspand aligndcenter 
+valigndmiddleimg srcdhttpimagesqgif 
+widthd heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedannuitiesfsfginccom
+                          input typedhidden namedhdnsubjecttxt 
+valuedfsfgs iq ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+          td
+        tr
+        tr
+          td aligndcenter
+            a hrefdhttpwwwfsfginccomimg 
+srcdhttpimagessaprilgif 
+widthd heightd borderdabrbr
+            font facedarial helvetica sansserif sized for 
+deposits over font
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anybody
+        to receive our mailings who does not wish to receive them this 
+is professional
+        communication sent to insurance professionals to be removed 
+from this
+        mailing list bdo not replyb to this message instead go 
+here a hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetabr
+        a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafontp
+    td
+  tr
+table
+body
+html
+
+nextpartcfaacae

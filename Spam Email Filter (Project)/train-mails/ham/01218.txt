@@ -1,0 +1,40 @@
+once upon a time ben wrote 
+
+ i use a mostly red hat  system but prefer to configure and build my 
+ kernel by hand  id like to humbly offer a tweak to alsadriverspec 
+ that helps it build cleanly under such circumstances  i recognize that 
+ freshrpmsnet packages are designed with standard red hat in mind 
+ including a standard kernel rpm  however i hope that matthias will 
+ consider the tweak small enough to justify its incorporation
+
+well i dont really find it consistent at all to use an rpm package built
+against something that wasnt installed through rpm 
+
+what id recommend in your case  you should keep at least one original red
+hat linux kernel you do just in case right  and install the matching
+alsakernel package as youll need at least one because of the
+dependencies then for your custom built kernel simply configure
+withcardsall  make  make install destdirtmpalsadriver from the
+alsadriver sources then as root copy all the modules under
+tmpalsadriverlibmodules to your modules dir and run depmod a
+
+of course you can even make it much faster by not compiling all unneeded
+drivers as i guess thats one of the reasons one would rebuild his own
+kernel
+
+i find this the easiest and cleanest way to get around the problem its
+what ive done and what ill keep doing on my laptop where im running a
+kernel recompiled with acpi
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel acpi
+load    
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

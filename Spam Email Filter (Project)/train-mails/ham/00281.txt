@@ -1,0 +1,31 @@
+since libdvdcss i have been unable to play dvds using ogle xine
+vlc or mplayer  they all show a scrambled picture with very choppy
+audio  when i run xine i see tons of these in the console 
+
+liba ablock error
+liba ablock error
+liba ablock error
+liba ablock error
+audioout inserting  frames to fill a gap of  pts
+metronom audio jump
+liba ablock error
+
+has anyone seen this before and know how to fix it  or should i file a
+bug report  
+
+thanks for your help  
+
+ jon
+
+ 
+jontgpsolutionscom
+
+administrator tgpsolutions
+httpwwwtgpsolutionscom
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

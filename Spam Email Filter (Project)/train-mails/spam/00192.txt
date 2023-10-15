@@ -1,0 +1,356 @@
+this is a multipart message in mime format
+
+nextpartcbabe
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+  homeowners cant be wrong	
+ 	 
+ agent opportunities now available
+ 	
+ 	
+ the mortgage savings programtm  great new product for your clients
+
+  
+ year old company  leader in industry	 
+ no refinancing fees	  no payroll deductions	 
+ no credit report	  no paperwork to do	 
+ no group requirements	  generate free leads	 
+ perpetual commissions	  no competition	 
+  
+your current mortgage 	
+dollar amount of your mortgage	 	 
+percentage rate of your mortgage	 	 
+your current monthly payment	 	 
+total interest paid	 	 
+paid off in	  years	 
+with the reducemymortgage plan 	
+your biweekly payment	 	 
+total interest paid	 	 
+total interest savings	 	 
+paid off in	  years	 
+number of payments saved	 	 
+equivalent interest rate	 	 
+ 	 
+call today for more information
+  ext 
+ or 
+
+please fill out the form below for more information	 
+name	  	 	
+email	  	
+phone	  	
+city	  	state	  	
+timezone	  eastern     central     mountain     pacific 	
+ 	  	 	   	
+ 
+ 
+ 
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet 
+
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartcbabe
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlenew insurance product  no competitiontitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolord textd
+font facedarial helvetica sansserif
+table widthd cellpaddingd cellspacingd 
+aligndcenter bgcolordffffff bordercolord 
+borderd
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          td colspandimg 
+srcdhttpiiqusimagesrymagif widthd 
+heightd altd homeowners cant be wrongtd
+        tr
+        tr
+          tdimg srcdhttpiiqusimagesrymajpg 
+widthd heightdtd
+          td
+            img srcdhttpiiqusimagesrymjpg 
+widthd heightdbr
+            img srcdhttpiiqusimagesrymgif 
+widthd heightd altdagent opportunities now 
+availablebr
+            img srcdhttpiiqusimagesrymjpg 
+widthd heightd
+          td
+        tr
+        tr
+          td colspandimg 
+srcdhttpiiqusimagesrymgif widthd 
+heightdtd
+        tr
+        tr
+          td colspandimg 
+srcdhttpiiqusimagesrymagif widthd 
+heightd altdthe mortgage savings programtm  great new 
+product for your clientstd
+        tr
+        tr aligndcenter
+          td colspandnbsp
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr aligndcenter
+                td colspandbfont sized year old 
+company  leader in industryfontbtd
+              tr
+							tr
+                td widthdfont sizednbspbno 
+refinancing feesbfonttd
+                td widthdfont sizednbspbno 
+payroll deductionsbfonttd
+              tr
+              tr
+                td widthdfont sizednbspbno 
+credit reportbfonttd
+                td widthdfont sizednbspbno 
+paperwork to dobfonttd
+              tr
+              tr
+                td widthdfont sizednbspbno 
+group requirementsbfonttd
+                td widthdfont 
+sizednbspbgenerate free leadsbfonttd
+              tr
+              tr
+                td widthdbnbspperpetual 
+commissionsbtd
+                td widthdbnbspno competitionbtd
+              tr
+            table
+          td
+        tr
+        tr aligndcenter
+          td colspand nbsp
+            table borderd cellpaddingd widthd 
+cellspacingd bordercolord bgcolord
+              tr
+                td widthd aligndcenter colspand 
+bgcolordffff
+                  bfont sized colordyour font 
+colordffcurrent mortgagefontfontb
+                td
+              tr
+              tr
+                td widthd aligndrightfont 
+colordffffff sizeddollar amount of your mortgagefonttd
+                td widthdbfont colordffffff 
+sizedfontbtd
+              tr
+              tr
+                td widthd aligndrightfont 
+colordffffff sizedpercentage rate of your 
+mortgagefonttd
+                td widthdbfont colordffffff 
+sizedfontbtd
+              tr
+              tr
+                td widthd aligndrightfont 
+colordffffff sizedyour current monthly paymentfonttd
+                td widthdbfont colordffffff 
+sizedfontbtd
+              tr
+              tr
+                td widthd aligndrightfont 
+colordffffff sizedtotal interest paidfonttd
+                td widthdbfont colordffffff 
+sizedfontbtd
+              tr
+              tr
+                td widthd aligndrightfont 
+colordffffff sizedpaid off infonttd
+                td widthdbfont colordffffff 
+sized yearsfontbtd
+              tr
+              tr
+                td widthd aligndcenter colspand 
+bgcolordffff
+                  font sized colordbwith the font 
+colordffreducemymortgagefont planbfont
+                td
+              tr
+              tr
+                td widthd aligndrightfont 
+colordffffff sizedyour biweekly paymentfonttd
+                td widthdbfont colordffffff 
+sizedfontbtd
+              tr
+              tr
+                td widthd aligndrightfont 
+colordffffff sizedtotal interest paidfonttd
+                td widthdbfont colordffffff 
+sizedfontbtd
+              tr
+              tr
+                td widthd aligndrightfont 
+colordff sizedtotal interest savingsfonttd
+                td widthdbfont colordff 
+sizedfontbtd
+              tr
+              tr
+                td widthd aligndrightfont 
+colordffffff sizedpaid off infonttd
+                td widthdbfont colordffffff 
+sized yearsfontbtd
+              tr
+              tr
+                td widthd aligndrightfont 
+colordffffff sizednumber of payments savedfonttd
+                td widthdbfont colordffffff 
+sizedfontbtd
+              tr
+              tr
+                td widthd aligndrightfont 
+colordffffff sizedequivalent interest ratefonttd
+                td widthdbfont colordffffff 
+sizedfontbtd
+              tr
+            table
+          td
+        tr
+        tr
+          td colspandnbsptd
+        tr
+        tr aligndcenter
+          td colspandfont sizedbcall today for more 
+informationbr
+            img srcdhttpiiqusimagesrymagif 
+widthd heightd altd ext 
+            br
+             or bfontbr
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont sized colordffffffplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                        td rowspand valigndmiddle 
+aligndcenter widthdimg srcdhttpiiqusimagesqgif 
+widthd heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedtimezonefontbtd
+                        td colspand bfont sized
+                          input typedcheckbox namedcheckbox 
+valuedeastern easternnbspnbspnbsp
+                          input typedcheckbox namedcheckbox 
+valuedcentral centralnbspnbspnbsp
+                          input typedcheckbox namedcheckbox 
+valuedmountain mountainnbspnbspnbsp
+                          input typedcheckbox namedcheckbox 
+valuedpacific pacific fontb
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedmarketingreduceyourmortgagecom
+                          input typedhidden namedhdnsubjecttxt 
+valuedrym ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            nbspbr
+            img srcdhttpiiqusimagesrymagif 
+widthd heightd
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+font
+body
+html
+
+nextpartcbabe
+

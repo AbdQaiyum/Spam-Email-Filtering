@@ -1,0 +1,336 @@
+this is a multipart message in mime format
+
+nextparteacfbf
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ free	 sizzling ltc sales materials	
+ catch the ltc advantage	
+ 	 	
+ltc prospecting pamplets	 ltc scriptless flip chart	 
+ of what is long term care
+or
+ of  big myths of long term care
+
+help your clients see the facts and figures needed in order to
+understand the long term care insurance market help them to learn what
+ltci actually is and how important it is to their financial future
+ 
+
+yours free with your first appointment 
+your options for long term care
+unique scriptless flip chart
+includes our step sales presentation
+
+contrast the value of long term care insurance against medicare
+medicaid and family care  showing that ltci is the alternative that
+makes sense statistically prove the importance of ltci for your
+clients twilight years
+
+yours free with your first application 
+ 	
+free pamphlet samples with inquiry
+ 	
+    dont forget to ask about
+   our full portfolio of senior products 	
+ltc annuity	 lead programs	 
+medicare supplement	 ltci sales training	 
+final expense	 career opportunities	 
+
+call or email mailtoinfoltcadvantagenet  ltc advantage today 	
+ 	
+ or 
+ 	
+please fill out the form below for more information	 
+name	  	
+email	  	
+phone	  	
+city	  	state	  	
+ 	  	 	   	
+ 
+
+ltc advantage specializing in ltci for over  years
+httpwwwltcadvantagenet  	
+we dont want anybody to receive our mailings who does not wish to
+receive them this is professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsuranceiqcomoptout
+
+
+nextparteacfbf
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlefree sizzling ltc sales materialstitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolord textd
+table widthd cellpaddingd cellspacingd 
+bgcolord aligndcenter
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          td aligndrightimg 
+srcdhttpimagesltcadvjpg widthd 
+heightd altdfreetd
+          tdimg 
+srcdhttpimagesltcadvgif widthd 
+heightd altdsizzling ltc sales materialstd
+        tr
+        tr
+          td colspand aligndcenterimg 
+srcdhttpimagesltcadvgif widthd 
+heightd altdcatch the ltc advantagetd
+        tr
+        tr valigndbottom
+          td aligndcenterimg 
+srcdhttpimagesltcadvjpg widthd 
+heightdtd
+          td aligndcenterimg 
+srcdhttpimagesltcadvjpg widthd 
+heightdtd
+        tr
+        tr valigndbottom bgcolord
+          td aligndcenterbfont sized facedarial 
+helvetica sansserif colordffffffltc prospecting 
+pampletsfontbtd
+          td aligndcenterbfont sized facedarial 
+helvetica sansserif colordffffffltc scriptless flip 
+chartfontbtd
+        tr
+        tr valigndtop bgcolordcccccc
+          td
+            font facedarial helvetica sansserif sized 
+colord
+            p aligndcenterb of what is long term 
+carequotbr
+              orbr
+               of  big myths of long term carebp
+            phelp your clients see the facts and figures needed in 
+order to
+              understand the long term care insurance market help them 
+to learn
+              what ltci actually is and how important it is to their 
+financial futurebr
+              nbspp
+            center
+              font colordbyours free with your first 
+appointmentbfont
+            center
+            font
+          td
+          td font facedarial helvetica sansserif sized 
+colord
+            p aligndcenterbyour options for long term carebr
+              unique scriptless flip chartbr
+              font sized colordffincludes our step 
+sales presentationfontbp
+            pimg srcdspacergif widthd 
+heightdcontrast the value of
+              long term care insurance against medicare medicaid and 
+family care
+               showing that ltci is the alternative that makes sense 
+statistically
+              prove the importance of ltci for your clients twilight 
+yearsp
+            center
+              font colordbyours free with your first 
+applicationbfont
+            center
+            font
+          td
+        tr
+        tr
+          td colspandimg 
+srcdhttpimagesltcadvspacergif widthd 
+heightdtd
+        tr
+        tr
+          td colspand aligndcenter
+            ibfont colord sized facedarial 
+helvetica sansseriffree pamphlet samples with 
+inquiryfontbibr
+            img srcdhttpimagesltcadvspacergif 
+widthd heightd
+          td
+        tr
+        tr
+          td colspand
+            table widthd borderd cellspacingd 
+cellpaddingd bordercolord
+              tr
+                td
+                  table widthd cellpaddingd 
+cellspacingd borderd bgcolordcccccc
+                    tr
+                      td colspand bgcolord
+                        font colordffffff facedverdana arial 
+helvetica sansserif
+                        nbspnbspnbspnbspdont forget to ask 
+aboutbr
+                        ibfont sizednbspnbspnbspour 
+full portfolio of senior productsfontbifont
+                      td
+                    tr
+                    tr aligndcenter
+                      td widthdbfont colord 
+sized facedverdana arial helvetica sansserifltc 
+annuityfontbtd
+                      td widthdbfont colord 
+sized facedverdana arial helvetica sansseriflead 
+programsfontbtd
+                    tr
+                    tr aligndcenter
+                      td widthdbfont colord 
+sized facedverdana arial helvetica sansserifmedicare 
+supplementfontbtd
+                      td widthdbfont colord 
+sized facedverdana arial helvetica sansserifltci sales 
+trainingfontbtd
+                    tr
+                    tr aligndcenter
+                      td widthdbfont colord 
+sized facedverdana arial helvetica sansseriffinal 
+expensefontbtd
+                      td widthdbfont colord 
+sized facedverdana arial helvetica sansserifcareer 
+opportunitiesfontbtd
+                    tr
+                  table
+                td
+              tr
+            table
+          td
+        tr
+        tr
+          td colspand aligndcenter
+            bfont facedarial helvetica sansserif sized 
+colordimg srcdspacergif widthd heightdbr
+            call or a hrefdmailtoinfoltcadvantagenetemaila 
+ltc advantage todayfontb
+          td
+        tr
+        tr
+          td colspand aligndcenterimg 
+srcdhttpimagesltcadvjpg widthd 
+heightd altdtd
+        tr
+        tr
+          td colspand aligndcenter
+            b or bbr
+            img srcdhttpimagesltcadvspacergif 
+widthd heightd
+          td
+        tr
+        tr
+          td colspand aligndcenter
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccc
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont colordffffff facedverdana arial 
+helvetica sansserif sizedplease fill out the form below for 
+more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizednamefonttd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedemailfonttd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedphonefonttd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedcityfonttd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedstatefonttd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedinfoltcadvantagenet
+                          input typedhidden namedhdnsubjecttxt 
+valuedltc advantages insuranceiq ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+          td
+        tr
+        tr aligndcenter
+          td colspandbr
+            a hrefdhttpwwwltcadvantagenetimg 
+srcdhttpimagesltcadvgif widthd 
+heightd borderd altdltc advantage specializing in ltci 
+for over  yearsa
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anybody
+        to receive our mailings who does not wish to receive them this 
+is professional
+        communication sent to insurance professionals to be removed 
+from this
+        mailing list bdo not replyb to this message instead go 
+here
+        a hrefdhttpwwwinsuranceiqcomoptout 
+httpwwwinsuranceiqcomoptoutafontp
+    td
+  tr
+table
+body
+html
+
+nextparteacfbf

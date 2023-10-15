@@ -1,0 +1,40 @@
+update of cvsrootspamassassinspamassassin
+in directory uswprcvstmpcvsserv
+
+modified files
+      tag b
+	spamassassinraw 
+log message
+fixed bug  r and w were not respecting autowhitelistpath
+
+index spamassassinraw
+
+rcs file cvsrootspamassassinspamassassinspamassassinrawv
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ spamassassinraw	 sep   	
+ spamassassinraw	 oct   	
+   
+   if   warn  
+ 
+   if doingwhitelistoperation 
+     read the config
+    spamtestinit 
+
+     if optaddtowhitelist 
+       spamtestaddalladdressestowhitelist mail
+      elsif optremovefromwhitelist 
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassincommits mailing list
+spamassassincommitslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassincommits
+
+

@@ -1,0 +1,127 @@
+this is a multipart message in mime format
+
+nextpartcdffc
+contenttype textplain
+	charsetiso
+contenttransferencoding quotedprintable
+
+vc computers ltd  ireland
+
+hosting from an irish company from as little as  per month
+
+yes its true we can offer your business hosting from only  per 
+year
+with local support and service and without the time difference you find 
+with many companies based in the us you are sure to get a swift 
+response to any queries or questions you have
+
+standard hosting pack includes
+ email addresses
+mb space
+mb transfer per month
+php
+jsp
+cgi
+
+we can also offer other enhanced services for your hosting requirements 
+including databases ssl shopping cart systems etc
+
+contact hostingvccomputersie for more information or visit our site at 
+httpwwwvccomputersie
+
+all prices exclude applicable taxes eoe
+we respect your privacy and we are only sending you this mail to inform 
+you of the products and services we can offer your business
+if you would prefer not to receive these mails in the future simply 
+send us a reply at nomoremailvccomputersie stating this fact and we 
+will remove you from our list straight away we would also appologise 
+for any inconvenience this mail may have caused you
+
+nextpartcdffc
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+doctype html public wcdtd html  transitionalen
+htmlhead
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+meta contentdmshtml  namedgenerator
+stylestyle
+head
+body bgcolordffffff
+div aligndjustifyfont facedarial colordff 
+sizedstrongvc computers
+ltd  irelandstrongfontdiv
+div aligndjustifyfont facedarial sizedfontnbspdiv
+div aligndjustifyfont facedarial colordffhosting from an 
+irish company
+from as little as  per monthfontdiv
+div aligndjustifyfont facedarial 
+colordfffontnbspdiv
+div aligndjustifyfont facedarial colordffyesnbspits 
+true we can
+offer your business hosting from only  per year fontdiv
+div aligndjustifyfont facedarial colordffwith local 
+support and
+service and without the time differencenbspyou find with 
+manynbspcompanies
+based in the us you are sure to get a swift response to any queries or
+questions you havefontdiv
+div aligndjustifyfont facedarial 
+colordfffontnbspdiv
+div aligndcenterfont colord sizedstandard hosting pack 
+
+includesnbspfontdiv
+div aligndcenterfont colord sized email 
+addressesfontdiv
+div aligndcenterfont colord sizedmb 
+spacefontdiv
+div aligndcenterfont colord sizedmb transfer per
+monthfontdiv
+div aligndcenterfont colord sizedphpfontdiv
+div aligndcenterfont colord sizedjspfontdiv
+div aligndcenterfont colord sizedcgifontdiv
+div aligndjustifyfont facedarial 
+colordfffontnbspdiv
+div aligndjustifyfont facedarial colordffwe can also 
+offer other
+enhanced services for your hosting requirements including databases
+sslnbspshopping cart systemsfontfont facedarial
+colordffnbspetcfontdiv
+div aligndjustifyfont facedarial 
+colordfffontnbspdiv
+div aligndjustifyfont facedarialfont 
+colordffcontactfontfont
+colordff fonta hrefdmailtohostingvccomputersiefont
+colordffhostingvccomputersiefontafont colordff 
+for more
+information or visit our site at a 
+hrefdhttpwwwvccomputersiefont
+colordffhttpwwwvccomputersiefonta 
+fontfontdiv
+div aligndjustifyfont facedarial colordff 
+sizedfontnbspdiv
+div aligndjustifyfont facedarial colordff sizedall 
+prices exclude
+applicable taxes eampoefontdiv
+div aligndjustifyfont facedarial sizedwe respect your privacy 
+and we are
+only sending you this mail to inform you of the products and services we 
+can
+offer your businessfontdiv
+div aligndjustifyfont facedarialfont sizedif you would 
+prefer not to
+receive these mails in the future simply send us a reply at fonta
+hrefdmailtonomoremailvccomputersiefont facedtimes new roman 
+
+colordff sizednomoremailvccomputersiefontafont
+sizednbspstating this fact and we will remove you from our list 
+straight
+away we would also appologise for any inconvenience this mail may have 
+caused
+youfontfontdivbodyhtml
+
+nextpartcdffc
+
+

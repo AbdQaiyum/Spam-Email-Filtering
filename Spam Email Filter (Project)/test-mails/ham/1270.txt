@@ -1,0 +1,34 @@
+on mon  sep   
+matthias saou matthiasegwnnet wrote
+
+ so did my build if the original source is what you were mentioning
+  one drawback  they changed from pspell to aspell apparently
+ and it requires aspell   which isnt even in rawhide so spell
+ checking is disabled for now until i take a decision about it 
+
+oops i didnt see the webpage get updated  i saw the new claws and
+checked your site forgot about it for half a day and then posted
+here  you beat me once again 
+
+ if i build recent aspell packages they may not be upgraded when
+ ungrating to the next red hat linux release the final version of
+ the limbos andnull betas which is maybe not really desired ill
+ probably test and see
+
+oh yeah i was following this thread in the sylpheedclaws list  very
+interesting stuff  i might have to stick w  until aspell gets
+updated in red hat
+
+ 
+jesse keating
+jsolutionsnet
+mondo devteam wwwmondorescueorg
+
+was i helpful  let others know
+ httpsvcsafferonetrmphprjkeating
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

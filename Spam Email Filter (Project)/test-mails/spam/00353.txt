@@ -1,0 +1,17 @@
+html
+head
+titlefreightmart mail campaigntitle
+meta httpequivcontenttype contenttexthtml
+
+div aligncenter
+	a hrefhttpwwwfreightmartcomimg srchttpwwwfreightmartcomimagesadsemailcampaigngif alt bordera
+	brbra hrefhttpwwwfreightmartcomfreightmartcom  ship anythinganywhereanytimeauction stylea
+	brbra hrefmailtolisafreightmartcomsubjectneed more infoneed more infoanbspnbsp
+	a hrefhttpwwwfreightmartcomgettemplatecfmidif youre a shipperanbspnbsp
+	a hrefhttpwwwfreightmartcomgettemplatecfmidif youre a forwardera
+	brbrto be bremovedb from any future offers simply a hrefmailtoremovefreightmartcomsubjectremoveclick herea
+div
+
+body
+html
+

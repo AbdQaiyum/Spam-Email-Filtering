@@ -1,0 +1,28 @@
+justin mason wrote
+
+ what do you all think  are we ready to go  anyone run into any trouble
+ with the new autoconf code or found a bug from the merge of that spamc
+
+i am now preparing a small patch to configurein for netbsd possibly
+also useful for open and freebsd dont know should be ready and
+tested in the next half hour
+
+if you think  is ready i would suggest to wait just  hours more
+for possible reports by b users not everyone can follow the
+development during daytime at work
+
+
+ciao
+     klaus
+
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+

@@ -1,0 +1,34 @@
+good day
+
+on thu aug   at pm  larry w virden wrote
+ i am wondering whether theres a way that i can use sitescooper andor plucker
+ or some other free utility to convert word documents into something a bit
+ more palmos friendly
+
+	you could try antiword httpwwwwinfielddemonnllinux
+its consoled based and converts word  docs to text and some images to
+postscript and png  you could also try openoffice andor abiword if you
+have x installed
+
+ i dont have a windows machine so it becomes problematic to convert them
+ i know that if this were not the case in word i could save them as some
+ other more friendly format
+
+	great 
+
+mabuhay barryg
+
+ 
+barry dexter a gonzaga bofh
+barrygksspupdeduph 
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+sitescoopertalk mailing list
+sitescoopertalklistssourceforgenet
+httpslistssourceforgenetlistslistinfositescoopertalk
+

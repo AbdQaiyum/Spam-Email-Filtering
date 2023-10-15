@@ -1,0 +1,46 @@
+update of cvsrootspamassassinspamassassinmasses
+in directory uswprcvstmpcvsservmasses
+
+modified files
+      tag b
+	masscheck 
+log message
+fixes additions to masscheck
+
+index masscheck
+
+rcs file cvsrootspamassassinspamassassinmassesmasscheckv
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ masscheck	 aug   	
+ masscheck	 aug   	
+   
+ 
+ print  masscheck results from whowhere on whenn
+ print  msa version spamtestversionn
+print  cvs tag namen
+ itersetfunction wanted
+ iterrun argv
+ exit
+   
+   my tests  statusgetnamesoftestshit
+ 
+   tests  join sortsplit tests
+
+  id  ssg
+ 
+   printf s d s sn
+ 		    yorn  y  
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassincommits mailing list
+spamassassincommitslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassincommits
+

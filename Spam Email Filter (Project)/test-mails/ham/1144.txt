@@ -1,0 +1,43 @@
+make sure you rebuild as root and youre in the directory that you
+downloaded the file  also it might complain of a few dependencies but
+you can get these at freshrpmsnet except for gcc which you can find
+on your red hat cd red hat ftp or rpmfindnet
+
+after you rebuild the source rpm it should install a binary rpm in
+usrsrcredhatrpmsi  with all dependencies met install mplayer
+with rpm ivh mplayerfrrpm and you should be good to go
+
+one last thing you will need the win codecs i found them on google
+create a directory usrlibwin and place the codecs in there
+
+good luck
+
+lance
+
+on thu  at  rob bains wrote
+     
+  hello
+    
+          i just installed redhat  and i think i have everything 
+ working properly  anyway i want to install mplayer because i heard it 
+ can play quicktime movs  i aptget source mplayer and dld it to 
+ usrsrc 
+ 
+          i tried to just rpm rebuild mplayerfrsrcrpm 
+ then i get  mplayerfrsrcrpm no such file or directory
+ 
+          any help or a link to some document would be appreciated thanks
+ rob
+ 
+ 
+ 
+ rpmlist mailing list rpmlistfreshrpmsnet
+ httplistsfreshrpmsnetmailmanlistinforpmlist
+
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

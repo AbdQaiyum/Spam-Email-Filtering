@@ -1,0 +1,38 @@
+
+ original message 
+from gary lawrence murphy garymcanadacom
+
+  and the one thing i think weve learned in all that time is that
+ as a helpdesk it doesnt work
+im not sure they are doing strictly helpdesk stuff
+but the whole who in their right mind would use that it doesnt have all
+these cool features isnt always a guarantee of failure  maybe there is a
+strength in this approach agents andor im as ui than can find a nich
+application space
+
+
+ in all the prologbased nl database query systems of the s and
+ other later chatterbot helpdesk projects like shallow red even
+ simpler tries like ask jeeves people very quickly know theyre
+ talking to a robot and the queries anneal to short truncated and
+ terse databaselike verbnoun or just nounkeyword requests
+kind of like a web query  and with google someone else can turn them into
+a link so you dont even have to type anything
+
+
+ people are just too quick to adapt and too impatient to forgive a
+ clunky interface and for now especially when the average computer
+ user still cant type more than maybe wpm nl is a painfully slow
+ clunky interface
+yes  true true
+
+
+ put it this way would you login wake the bot and ask for the seattle
+ weather or would you do as we all do and just click the weather
+ icon sitting there on your desktop
+what about a situation where you dont directly asktalk to the bot but
+they listen in and advisecorrectinterjectetc
+example two people discussing trips etc may trigger a weather bot to
+mention what the forecast says  without directly being asked
+
+

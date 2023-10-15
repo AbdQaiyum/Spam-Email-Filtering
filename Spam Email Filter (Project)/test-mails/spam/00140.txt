@@ -1,0 +1,406 @@
+
+this is a mime message
+
+nextpartfbdfcfabacb
+contenttype multipartalternative boundarynextpartbdfcfabacb
+
+nextpartbdfcfabacb
+contenttype textplain charsetiso
+contenttransferencoding quotedprintable
+
+ this is an html message  
+
+
+nextpartbdfcfabacb
+contenttype texthtml charsetiso
+contenttransferencoding quotedprintable
+
+doctype html public wcdtd html e
+ transitionalen
+ html
+ head
+    
+    titleexecutive guild membership
+ applicationresponseomatic formtitle
+ head
+ body textd bgcolordffff
+ linkd vlinkdff alinkdc
+ p
+ font colorddear candidateabr
+ br
+ you have been selected as a potential candidate for a free listing ina
+br
+ the   edition of the international executive guild registryeabr
+
+ br
+ please accept our congratulations for this coveted honoreabr
+ br
+ as this edition is so important in view of the new millennium theabr
+
+ international executive guild registry will be published in two different
+abr
+ formats the searchable cdrom and the online registryeabr
+ br
+ since inclusion can be considered recognition of your career positiona
+br
+ and professionalism each candidate is evaluated in keeping with higha
+br
+ standards of individual achievemente in light of this the internationa
+l executivebr
+ guild thinks that you may make an interesting biographical subjectea
+br
+ br
+ we look forward to your inclusion and appearance in the internationala
+br
+ executive guilds registrye best wishes for your continued successea
+br
+ br
+ international executive guildabr
+ listing depteafont
+ hr widthd
+ p aligndcenterbifont colordif you
+ wish to be removed from our list please submit
+ your requestfontib
+ brbifont facedtimes new
+ romantimesfont colordat the
+ bottom of this emailefontfontib
+ p
+ hr widthd
+ table widthd 
+ captionscript languagedjavascript
+ 
+ 
+ function validateform 
+   validity d true  assume valid
+   if checkemptydocumenteformebusphoneevalue
+          validity d false alertday time
+ phone field is empty 
+     if validity
+         alert thank you for your registration
+ 
+                  your form is now being passed
+ to your browsers 
+                  mail delivery subsystem for
+ normal
+                   nonencrypted email
+ deliverye
+                    all email addresses are
+ removed from our system
+                   upon registratione  please
+ click ok to proceed
+   return validity
+ 
+
+ function checkemptytext 
+   return textelength    returns false if
+ empty
+ 
+ 
+  
+ 
+ script
+ 
+ 
+  change email address in action of form 
+ 
+ form namedform
+  methoddpost
+  actiondmailtocarmentymailecomsubjectdieg registration
+  enctypedtextplain
+  
+ tr
+  caption
+ tdtd
+ tr
+ 
+ tr
+ td valigndtop colspand
+ centerbifont colordfont
+ sizedinternational executive guildfontfontib
+ brbfont colordfont
+ sizedregistration formfontfontb
+ brbfont colordus and canada
+ onlyfontb
+ br
+ hr widthdcenter
+ td
+ tr
+ 
+ tr
+ td valigndtop colspandifont
+ facedarialhelveticafont
+ colordfont sizedplease
+ fill out this form if you would like to be
+ included on the international
+ executive guild for accuracy and
+ publication purposes please
+ complete and send this form at the earliest
+ opportunitye there is fontno
+ charge or obligationfont sized to be listed
+ on the international executive guildefontfontfonti
+ br
+ hr widthdtd
+ tr
+ 
+ tr
+ td valigndtoptd
+ tr
+ 
+ tr
+ td aligndright widthdbfont
+ facedarialhelveticafont
+ colordfont sizedyour
+ namefontfontfontbtd
+ 
+ td aligndleft widthdinput typedtext
+ value sized maxlengthd namednametd
+ tr
+ 
+ tr
+ td aligndright widthdbfont
+ facedarialhelveticafont
+ colordfont sizedyour
+ companyfontfontfontbtd
+ 
+ td aligndleft widthdinput typedtext
+ value sized maxlengthd
+ namedcompanytd
+ tr
+ 
+ tr
+ td aligndright widthdbfont
+ facedarialhelveticafont
+ colordfont sized
+ titlefontfontfontbtd
+ 
+ td aligndleft widthdinput typedtext
+ value sized maxlengthd
+ namedtitletd
+ tr
+ 
+ tr
+ td aligndright widthdbfont
+ facedarialhelveticafont
+ colordfont sized
+ addressfontfontfontbtd
+ 
+ td aligndleft widthdinput typedtext
+ value sized maxlengthd
+ namedaddresstd
+ tr
+ 
+ tr
+ td aligndright widthdbfont
+ facedarialhelveticafont
+ colordfont sized
+ cityfontfontfontbtd
+ 
+ td aligndleft widthdinput typedtext
+ value sized maxlengthd namedcitytd
+ tr
+ 
+ tr
+ td aligndright widthdbfont
+ facedarialhelveticafont
+ colordfont sizedstate
+ or provincefontfontfontbtd
+ 
+ td aligndleft widthdinput typedtext
+ value sized maxlengthd namedstatetd
+ tr
+ 
+ tr
+ td aligndright widthdbfont
+ facedarialhelveticafont
+ colordfont sized
+ countryfontfontfontbtd
+ 
+ td aligndleft widthdselect
+ namedcountry sizedoption selectedfont
+ colordusaoption
+ selectedcanadafontselecttd
+ tr
+ 
+ tr
+ td aligndright widthdbfont
+ facedarialhelveticafont
+ colordfont sizedzippostal
+ codefontfontfontbtd
+ 
+ td aligndleft valigndcenter widthdinput
+ typedtext value sized maxlengthd
+ namedziptd
+ tr
+ 
+ tr
+ td aligndright widthdbfont
+ facedarialhelveticafont
+ colordfont sizedday
+ time telephonefontfontfontbtd
+ 
+ td aligndleft widthdinput typedtext
+ value sized maxlengthd
+ namedbusphonetd
+ tr
+ 
+ tr
+ td
+ div aligndrightbfont
+ facedarialhelveticafont
+ colordfont sizedhome
+ phonefontfontfontbdiv
+ td
+ 
+ tdinput typedtext value sized
+ maxlengthd namedhomephonebfont
+ colordfont sizednot
+ to be publishedfontfontbtd
+ tr
+ 
+ tr
+ td
+ div aligndrightbfont
+ facedarialhelveticafont
+ colordfont sized
+ emailfontfontfontbdiv
+ td
+ 
+ tdinput typedtext value sized
+ maxlengthd namedemailtd
+ tr
+ 
+ tr
+ tdtd
+ 
+ tdtd
+ tr
+ table
+ 
+ center
+ p
+ hr widthdbfont
+ facedarialhelveticafont
+ colordfont sizedto
+ help us in considering your application please
+ tell us a little about
+ yourselfeeefontfontfontb
+ br
+ hr widthdcenter
+ 
+ centertable widthd 
+ tr
+ td aligndright valigndtop widthdbfont
+ facedarialhelveticafont
+ colordfont sizedyour
+ businessfontfontfontbtd
+ 
+ td
+ div aligndrightinput typedtext value
+ sized maxlengthd
+ namedbusinessdiv
+ font facedarialhelveticafont colordfont
+ sizedfinancial
+ svcs banking computer hardware software professional svcs
+ chemicals
+ apparel aerospace food government utility
+ etcefontfontfonttd
+ tr
+ 
+ tr
+ td aligndright valigndtop widthdbfont
+ facedarialhelveticafont
+ colordfont sizedtype
+ of organizationfontfontfontbtd
+ 
+ td
+ div aligndrightinput typedtext value sized maxlengthd
+
+ namedorgtypediv
+ font facedarialhelveticafont colordfont sizedm
+fg
+ distwholesaler retailer law firmfontfontfont
+ brfont facedarialhelveticafont colordfont
+ sizedinvestment
+ bank commercial bank universityfontfontfont
+ brfont facedarialhelveticafont colordfont
+ sizedfinancial
+ consultants ad agency contractor broker
+ etcefontfontfonttd
+ tr
+ 
+ tr
+ td valigndtop widthd
+ div aligndrightbfont facedarialhelveticafont
+ colordfont
+ sizedyour
+ business expertisefontfontfontbdiv
+ td
+ 
+ td
+ div aligndrightinput typedtext value sized maxlengthd
+
+ namedexpertisediv
+ font facedarialhelveticafont colordfont
+ sizedcorpemgmt
+ marketing civil engineeringfontfontfont
+ brfont facedarialhelveticafont colordfont sized
+tax
+ 
+ law nuclear physics database development operations pathologist
+ mortgage
+ banking etcefontfontfonttd
+ tr
+ 
+ tr
+ td aligndright valigndtop widthdbfont
+ facedarialhelveticafont
+ colordfont sizedmajor
+ product linefontfontfontbtd
+
+ td
+ div aligndrightinput typedtext value sized maxlengthd
+
+ namedproductdiv
+ font facedarialhelveticafont colordfont
+ sizedintegrated
+ circuits commercial aircraft adhesives cosmetics plastic components
+ 
+ snack foods etcefontfontfonttd
+ tr
+ tablecenter
+ 
+ center
+ pinput namedsubmit typedsubmit valued submit by email i
+nput
+ namedreset typedreset valued clear form form
+ brbfont colordfont sizednote submitting this form
+
+ will
+ be made by email not by use ofnbsp wwwenbsp confirmation of its de
+livery
+ is made by browsing your outgoing mailefontfontb
+ br
+ hr widthdbifont facedarialhelveticafont
+ colordfont
+ sizedthank
+ you for filling in this form we will contact you with more
+ informationefontfontfontib
+ br
+ hr widthd
+ brbfont sizedlist
+ removalfontb
+ brbfont colordfont sizeda
+ hrefdmailtocarmentyusaecomsubjectdremoveclick
+ hereafontfontbcenter
+ 
+ body
+ html
+
+nextpartbdfcfabacb
+
+nextpartfbdfcfabacb
+
+
+
+
+

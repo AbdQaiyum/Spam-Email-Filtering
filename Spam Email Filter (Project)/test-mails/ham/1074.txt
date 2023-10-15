@@ -1,0 +1,55 @@
+on tue  sep    
+tom reingold nogliderpoboxcom wrote
+ on tue  sep   pdt j c lawrence clawkanganu wrote
+
+ ahh  at work we fire people who use outlook literally true they
+ get escorted to the door their badge confiscated and told to return
+ the next day to collect their office contents
+
+ why  what threat does outlook pose to your organization
+
+it places the company corporate network and data at risk
+
+outlook is subject to an absurdly large number of exploits with more
+being regularly found  an exploited system to whatever extent places
+other corporate systems at risk customer systems at risk company
+reputation and liability with customers at risk and
+proprietarycorporate data at risk  further users cannot be reliably
+expected to use outlook in a safe manner  the net result is that
+outlook use is considered to be somewhere between criminal negligence
+and deliberately malicious as far as the employer is concerned
+
+ have you looked into using a custom sequences file
+
+ more detail please  i do use sequences so im familiar with their
+ use but how can i make indices with them and how can i keep them up
+ to date
+
+i dont use custom sequences so i cant comment well  i suspect that
+youd have to use a cron job to maintain the sequences
+
+ the only thing i actually miss in that regard is support for smime
+
+ youre probably running exmh on a local machine  im running it on a
+ very remote machine  in this scenario the mime handling is weak
+
+nope  i run exmh on my desktops at home and at work with the resulting
+exmh windows being displayed on both my work and home desktops gratis
+ssh x forwarding  in fact your message was read and replied to
+this message while at work using an exmh instance running on my home
+machine
+
+ 
+j c lawrence                
+                satan oscillate my metallic sonatas 
+clawkanganu               he lived as a devil eh		  
+httpwwwkanganuclaw  evil is a name of a foeman as i live
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

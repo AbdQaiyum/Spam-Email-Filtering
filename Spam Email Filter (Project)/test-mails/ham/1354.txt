@@ -1,0 +1,22 @@
+on mon  oct    roi dayan dejavopunkasscom wrote
+
+ when i try to use aptget upgrade
+ it wants to install libusb while i got it
+ same version
+ and all collapse because of this
+
+    i had that too i removed libusb i dont think it needed nodeps and then aptget f install and all was well
+
+
+brian fahrlnder              linux zealot conservative and technomad
+evansville in                    my voyage httpwwwcountermooncom
+icq  
+
+angegangen schlangehften sein es ganz rber jetzt bgel innen fest
+weil es eine lange ssse fahrt ist 
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

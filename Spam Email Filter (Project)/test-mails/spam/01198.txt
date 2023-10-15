@@ -1,0 +1,143 @@
+htmlheadtitlenew web technologytitle
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+meta contentdmshtml  namedgeneratorhead
+body vlinkdccc linkdccc bgcolordeaeaae leftmargindfon
+t 
+facedmicrosoft sans sarif
+p
+center
+table widthd borderd
+  tbody
+  tr
+    td aligndmiddlebfont colordf sizedunlimited web con
+ferencingfontb
+      hrfont colordfff sizedsubscribe to the web conference c
+enter for only  per month
+font
+br
+font colordf sizedconnects up to  participants at a time p
+lus audio chargesfonttdtrtbodytablep
+table widthd borderd
+  tbody
+  tr
+    td aligndleftfont colordfff sizedb
+      liconduct realtime interactive meetings and presentationsbr ove
+r the internet 
+      liapplication sharing
+      lireview and revise documents in realtime
+      lirecord and archive your meeting 
+      lisimulate a live classroom
+      liquickly hold a meeting with anyone anywhere in the world
+      lilowest rate  per minute for audio toll chargesbr included
+ call anytime from anywhere to anywhere
+      liquality easy to use servicebfontlitdtrtbody
+table
+p
+table widthd borderd
+  tbody
+  tr
+    td aligndleftfont colordf sizedbfree demobfo
+nt
+brbr
+font colordf sizedbeliminate or reduce travel expenseb
+font
+brfont colordfff sizedb
+try this on for savings 
+and turn those unnecessary trips into problem solving and fact finding con
+ferences 
+saving time and wear and tear on your overworked business staff 
+bfonttdtrtbodytable
+p
+table widthd borderd
+  tbody
+  tr
+    td aligndmiddlefont colordf sizedto find out more abo
+ut this revolutionary concept
+fill out the form belowfonttdtrtbodytable
+pfont colordfff sizedbrequired input fieldfont colordc
+ 
+sizedfontb 
+p
+table cellspacingd bordercolordarkd cellpaddingd widthd
+ 
+bordercolorlightdffffcc
+  tbody
+  tr
+    td aligndmiddle
+      form actiondmailtoconferencingfiremaildesubjectdwebcin
+quiry 
+      methoddpost enctypedtextplain
+      table widthd
+        tbody
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colordfff
+          sizedbnamebfontfont 
+            facedarial helvetica sansserif colordc 
+            sizedfonttd
+          tdinput namednametdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colordfff sized
+bweb 
+            addressbfonttd
+          tdinput valuedhttp namedurltdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colordfff sized
+bcompany 
+            namebfontfont 
+            facedarial helvetica sansserif colordc
+            sizedfonttd
+          tdinput namedcompanynametdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colordfff sized
+b
+            statebfontfont 
+            facedarial helvetica sansserif colordc
+            sizedfonttd
+          tdinput sized namedstatetdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colordfff sized
+bbusiness 
+            phonebfontfont 
+            facedarial helvetica sansserif colordc 
+            sizedfonttd
+          tdinput namedbusphonetdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colordfff sized
+bhome 
+            phonebfonttd
+          tdinput namedhomephonetdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colordfff sized
+bemail 
+            addressbfontfont 
+            facedarial helvetica sansserif colordc
+            sizedfonttd
+          tdinput namedemailtdtr
+        tbodytable
+      pinput typedsubmit valuedsubmit information namedsubmit 
+    formptdtrtbodytable
+brbr
+table widthd
+  tbody
+  tr
+    td aligndmiddlefont colord sizedball information g
+iven herein is strictly confidential and will not be redistributed
+      for any reason other than for the specific use intendedfontb
+br
+      font facedarial helvetica sansserif colord
+      sizedto be removed from our distribution lists please  
+      a hrefdmailtoinbocksfiremailcomsubjectdremovewebccl
+ick 
+      herefont colordafontfonttdtrtbodyta
+blepcenterbodyhtml
+
+
+

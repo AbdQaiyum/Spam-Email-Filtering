@@ -1,0 +1,35 @@
+once upon a time clee wrote 
+
+   i think ill use this with whatever switch more and more where
+   possible
+ 	mmm great stuff  now to get the redhat samba packager to do the
+ 	same thing 
+
+im sure that if you file a bugzilla entry with a relevant patch against
+the spec file chances of getting the change done are on your side 
+
+ 	i have used there spec file and fun a few problems in it and one
+ 	of them was just hashing out things for other use 
+ 
+ 	now to get to grips with the kernel  still have not found and
+ 	easy way to rebuild the kernel without having to wait and hour for
+       it to generate the headers for all arch  arrrrhhhh 
+
+the problem is that with foo without bar is clearly not meant to
+change deeply the way a package is built its use would be more like
+enablingdisabling gpg ldap whateversql support in packages as its not
+possible to use something like withfoobar which could be used for
+a much wider scope
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel 
+load     ac online battery charging  
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

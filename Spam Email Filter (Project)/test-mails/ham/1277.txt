@@ -1,0 +1,61 @@
+hi
+
+red hat  is released tomorrow monday  i took some time out to make 
+rpms of gstreamer for it
+
+all of them core plugins and player have been uploaded to the apt 
+repository in a new redhati directory
+
+the repository for dependencies is again called deps and the one for 
+the gstreamer rpms is redhat because this time around the base distro 
+contains all the necessary packages
+
+a screenshot of red hat  running gstplayer is up at
+httpthomasapestaartorgdownloadscreenshotsredhatgstplayerpng
+
+
+here are some known issues with the resulting rpms 
+
+a gstreamernautilus isnt built the package got renamed and i dont 
+have a devel package for it yet
+
+b the c plugins have problems which i havent been able to resolve
+here are the errors
+
+info  gstxmlregistryrebuild plugin 
+usrlibgstlibgstwincodecso failed to load error loading plugin 
+usrlibgstlibgstwincodecso reason usrliblibaviplayso 
+undefined symbol ztvncxxabivsiclasstypeinfoe
+
+plugin usrlibgstlibgstwincodecso failed to load
+debug gstpluginloadplugin attempt to load plugin 
+usrlibgstlibgstmodplugso
+info  gstxmlregistryrebuild plugin 
+usrlibgstlibgstmodplugso failed to load error loading plugin 
+usrlibgstlibgstmodplugso reason usrlibgstlibgstmodplugso 
+undefined symbol gxxpersonalityv
+
+im not sure how to fix this running strings on the libs in usrlib 
+reveals that there are other libs that have these symbols so there must 
+be something straightforward that should fix this
+if anyone has a suggestion please share 
+
+thomas
+
+ 
+
+the davedina project  future tv today   httpdavedinaapestaartorg
+                      
+kiss me please kiss me
+kiss me out of desire baby not consolation
+oh you know it makes me so angry cause i know that in time
+ill only make you cry
+ thomasapestaartorg 
+urgent the best radio on the internet     httpurgentrugacbe
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

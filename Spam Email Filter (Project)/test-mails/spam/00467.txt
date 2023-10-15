@@ -1,0 +1,187 @@
+this is a multipart message in mime format
+
+nextpartacceedd
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ free prospects by the millions
+ online prospecting that works	
+ 	
+ free retirement and benefit plan data	
+ 	erisa form  filings
+financial reports of qualified retirement and welfare benefit plans of
+us employers
+ 	
+ 	irs form 
+companies who have applied to the irs to terminate their retirement plan
+ 	
+ 	public pension funds
+summary data on pension funds for state county and municipal government
+employees
+ 	
+ 	terminating pension plans
+defined benefit plans that recently teminated as filed with the pension
+benefit guaranty corporation
+ 	
+ 	ein finder
+find that tax identification number you need over  million in our
+database	 
+
+click here to register for free today
+free erisa com httpwwwfreeerisacom 	 
+ 	
+freeerisacom  free access to pension and benefit data
+httpwwwfreeerisacom 	 
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet 
+
+lega notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartacceedd
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlefree prospectsby the millionstitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+table widthd cellpaddingd cellspacingd borderd 
+bordercolord aligndcenter
+  tr
+    td
+      img srcdhttpiiqusimagesfreeerisagif 
+widthd heightdaltdfree prospects by the 
+millionsbr
+      img srcdhttpiiqusimagesfreeerisajpg 
+widthd heightd altdonline prospecting that works
+    td
+	tr
+	tr
+	  td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          tdimg srcdhttpiiqusimagesfreeerisaspacergif 
+widthd heightdtd
+        tr
+        tr
+          td aligndcenterimg 
+srcdhttpiiqusimagesfreeerisagif widthd 
+heightd altdfree retirement and benefit plan datatd
+        tr
+				tr
+					td
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                td widthd valigndtopimg 
+srcdhttpiiqusimagesfreeerisagif widthd 
+heightdtd
+                tdfont facedarial helvetica sansserif 
+sizedberisa form  filingsbbr
+                  financial reports of qualified retirement and welfare 
+benefit plans of us employersbr
+                  img srcdhttpiiqusimagesfreeerisaspacergif 
+widthd heightdfonttd
+              tr
+              tr
+                td widthd valigndtopimg 
+srcdhttpiiqusimagesfreeerisagif widthd 
+heightdtd
+                tdfont facedarial helvetica sansserif 
+sizedbirs form bbr
+                  companies who have applied to the irs to terminate 
+their retirement planbr
+                  img srcdhttpiiqusimagesfreeerisaspacergif 
+widthd heightdfonttd
+              tr
+              tr
+                td widthd valigndtopimg 
+srcdhttpiiqusimagesfreeerisagif widthd 
+heightdtd
+                tdfont facedarial helvetica sansserif 
+sizedbpublic pension fundsbbr
+                  summary data on pension funds for state county and 
+municipal government employeesbr
+                  img srcdhttpiiqusimagesfreeerisaspacergif 
+widthd heightdfonttd
+              tr
+              tr
+                td widthd valigndtopimg 
+srcdhttpiiqusimagesfreeerisagif widthd 
+heightdtd
+                tdfont facedarial helvetica sansserif 
+sizedbterminating pension plansbbr
+                  defined benefit plans that recently teminated as filed 
+with the pension benefit guaranty corporationbr
+                  img srcdhttpiiqusimagesfreeerisaspacergif 
+widthd heightdfonttd
+              tr
+              tr
+                td widthd valigndtopimg 
+srcdhttpiiqusimagesfreeerisagif widthd 
+heightdtd
+                tdfont facedarial helvetica sansserif 
+sizedbein finderbbr
+                  find that tax identification number you need over  
+million in our databasefonttd
+              tr
+            table
+          td
+				tr
+				tr
+					td aligndcenterbr
+            a hrefdhttpwwwfreeerisacomimg 
+srcdhttpiiqusimagesfreeerisagif widthd 
+heightd borderd altdclick here to register for free 
+todaybr
+						img srcdhttpiiqusimagesfreeerisagif 
+widthd heightd borderd altdfree
+						img srcdhttpiiqusimagesfreeerisagif 
+widthd heightd borderd altderisa
+						img srcdhttpiiqusimagesfreeerisagif 
+widthd heightd borderd altdcomatd
+				tr
+        tr
+          tdimg srcdhttpiiqusimagesfreeerisaspacergif 
+widthd heightdtd
+        tr
+      table
+    td
+  tr
+  tr
+    td aligndcenter bgcolordaa 
+hrefdhttpwwwfreeerisacomimg 
+srcdhttpiiqusimagesfreeerisagif widthd 
+heightd borderd altdfreeerisacom  free access to 
+pension and benefit dataatd
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlega noticeafont
+center
+body
+html
+
+nextpartacceedd

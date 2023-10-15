@@ -1,0 +1,65 @@
+html
+
+head
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+titlenew page title
+head
+
+body
+
+b
+p aligndcenterfont colordcc facedverdana sizedre
+ach the massesfontp
+p aligndcenterfont colord facedverdana sizeddi
+rect email
+advertisingfontp
+p aligndcenterfont colordcc facedverdana sizedth
+e bulk email
+expertsfontp
+b
+p aligndcenterbfont colordcc facedverdana sized
+if we can
+reach you you can reach themfontbp
+p aligndcenterfont facedarial sizedbr
+b usbbr
+b usbfontp
+p aligndcenterfont facedarial sizedbvolume discounts av
+ailablebfontp
+p aligndcenternbspp
+blockquote
+  p aligndcenterbfont facedarial sizedfor more info or 
+to place an order
+  please leave
+  your name telephone number andnbsp best time to callfontbbr
+  a hrefdmailtojdpbtamailnetcnbfont sizedplease click 
+herefontbap
+blockquote
+pnbspp
+pnbspp
+pnbspp
+pnbspp
+pnbspp
+pfont sized colordfffto be removed from further mailings
+ fonta hrefdmailtojcbtamailnetcnplease
+click hereabr
+nbspbr
+nbspbr
+nbspbr
+nbspbr
+nbspbr
+nbspbr
+nbspbr
+nbspbr
+nbspbr
+nbspbr
+nbspp
+
+body
+
+html
+
+
+

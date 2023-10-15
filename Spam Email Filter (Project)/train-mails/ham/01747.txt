@@ -1,0 +1,26 @@
+skip montanaro
+ after my latest cvs up timtest fails with
+
+     traceback most recent call last
+       file homeskipsrcspambayestimtestpy line  in 
+         drivensets
+       file homeskipsrcspambayestimtestpy line  in drive
+         d  driver
+       file homeskipsrcspambayestimtestpy line  in init
+         selfglobalhamhist  histoptionsnbuckets
+     attributeerror optionsclass object has no attribute nbuckets
+
+ im running it as
+
+     timtest n  datatimtestout
+
+ from my mail directory not from my srcspambayes directory  if i
+ create a symlink to srcspambayesbayesini it works once again but
+ shouldnt there be an nbuckets attribute with a default value already
+
+i never used configparser before but i read that its read method silently
+ignores files that dont exist  if bayesini isnt found none of the
+options will be defined  since you want to run this from a directory other
+than my spambayes directory its up to you to check in changes to make that
+possible wink
+

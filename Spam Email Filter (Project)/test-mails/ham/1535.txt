@@ -1,0 +1,24 @@
+
+jesus climent said
+
+ d output bareword found where operator expected at eval  line 
+ near freemegsurluritest  missing operator before
+ freemegsurluritest bareword found whe
+
+ is that a bug or is a fault in my system
+
+looks like theres an outofdate copy of the rules files on your system
+that rules is called freemegsurl nowadays
+
+j
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

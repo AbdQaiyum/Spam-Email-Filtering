@@ -1,0 +1,78 @@
+this is a multipart message in mime format
+
+nextpartcf
+contenttype textplain
+	charsetiso
+contenttransferencoding quotedprintable
+
+hi 
+
+i upgraded to  now  last week and the messages which are 
+definitely in the dcc database arent being marked as such by 
+spamassassin when connected to via spamc interestingly it is detected 
+when running spamassassin t  samplespamtxt using the same userid 
+incidentally is this a known feature of spamc under x or is there 
+anything obvious that i am not implementing correctly note that as i 
+implied above this used to work under x of spamassassin and 
+spamdspamc
+
+regards
+
+ray gardener
+sheffield hallam university
+uk
+
+
+nextpartcf
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+doctype html public wcdtd html  transitionalen
+htmlhead
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+meta contentdmshtml  namedgenerator
+stylestyle
+head
+body bgcolordffffff
+divfont facedarial sizedhi  fontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizedinbspupgraded to  now  last 
+week and
+the messages which are definitely in the dcc databasenbsparent being 
+marked
+as such by spamassassin when connected to via spamc interestingly it is 
+
+detected when running spamassassin t lt samplespamtxt using the 
+same
+userid incidentally is this a known feature of spamc under x or 
+is there
+anything obvious that i am not implementing correctly note that as i 
+implied
+above this used to work under x of spamassassin and 
+spamdspamcfontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizedregardsfontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizedray gardenerfontdiv
+divfont facedarial sizedsheffield hallam 
+universityfontdiv
+divfont facedarial sizedukfontdiv
+divfont facedarial sizedfontnbspdivbodyhtml
+
+nextpartcf
+
+
+
+
+this sfnet email is sponsored by amd  your access to the experts
+on hammer technology open source  linux developers register now
+for the amd developer symposium code ex
+httpwwwdevelopwithamdcomdeveloperlab
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

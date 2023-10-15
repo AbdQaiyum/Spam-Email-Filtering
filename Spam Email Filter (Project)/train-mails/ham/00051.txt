@@ -1,0 +1,12 @@
+is there a way to look for a particular file or directory in s of zip
+files
+something like zgrep but for the filename instead of a word
+
+thanks justin
+
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

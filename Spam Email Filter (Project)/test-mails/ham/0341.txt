@@ -1,0 +1,30 @@
+on tue  oct   
+ben liblit libliteecsberkeleyedu wrote
+
+  rpm build errors
+      file not found by glob
+  vartmpfreetyperootusrliblibttfso
+      file not found vartmpfreetyperootusrliblibttfso
+ 
+ weird  i had no problems at all rebuilding from the srpm with specfile
+ modified to enable the bytecode interpreter  the checkfiles test
+ warns that usrshareaclocalfreetypem was not included in any
+ package but other then that its all perfectly clean
+hi ben
+
+it seems the rh freetype package should be repacked
+see for this
+httpsbugzillaredhatcombugzillashowbugcgiid
+
+please can you atach and send your sucessfully rebuild of the rh freetype
+rpm with the bytecode enabled to me
+
+ 
+  regards from germany
+                     matthias
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

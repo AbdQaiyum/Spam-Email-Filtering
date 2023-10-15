@@ -1,0 +1,52 @@
+
+uhnqoqbuvplonb
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on fri sep   at am  josh hildebrand wrote
+ unfortunately when i run that it complains about the h parameter
+
+   f           removeadd from  line at start of output default 
+
+ but i can run it on the command line as spamd d c a h just fine
+
+ anyone else run into this problem
+
+you look to have  versions of spamd installed  the one running from
+the rc script is pre there is a h now and f has been removed
+but the one you run from the commandline seems to be a x version
+
+i would find that old version of sa and blow it away
+
+
+randomly generated tagline
+if you lend someone  and never see that person again it was probably
+ worth it  zen musings
+
+uhnqoqbuvplonb
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqeeovdauoquewasmramqqakdvrrfvfasxshcasqccdfbvxmbqcekeq
+ixnsrljkelfiopbnqedei
+woqj
+end pgp signature
+
+uhnqoqbuvplonb
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

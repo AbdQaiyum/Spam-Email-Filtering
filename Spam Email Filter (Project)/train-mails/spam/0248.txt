@@ -1,0 +1,203 @@
+this is a multipart message in mime format
+
+nextpartcbbeff
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ if you need capital for your business or want to know how much its
+worth
+ call us today
+
+tap the hidden value of your business 
+and get the cash you need today
+
+youve got money coming to you but because its in the form of renewal
+commissions it comes slowly a little every year
+
+were twg capital we help turn your renewal commissions into immediate
+cash  cash you can use any way you see fit we are currently purchasing
+renewal commissions from the following product lines long term care
+medicare supplement specified disease life and health insurance
+
+ 	
+
+for a free evaluation call or email todd rooks
+mailtotoddrookstwgcapitalcomsubjectiq twg inquiry  today
+  ext 
+ or 
+
+please fill out the form below for more information	 
+name	 	  	
+email	 	 
+phone	 	 
+city	 	 state	 	 
+ 	    	
+ 
+
+ twg capital financial professionals
+httpwwwtwgcapitalcom httpwwwtwgcapitalcom 
+  
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsuranceiqcomoptout
+httpwwwinsuranceiqcomoptout 
+
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartcbbeff
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlewe buy renewal commissionstitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+font facedarial helvetica sansserif
+table widthd cellpaddingd cellspacingd 
+aligndcenter bgcolordffffff bordercolord 
+borderd
+  tr
+    td
+      img srcdhttpiiqusimagestwggif 
+widthd heightd altdif you need capital for your business 
+or want to know how much its worthbr
+      img srcdhttpiiqusimagestwggif 
+widthd heightd altdcall us todaybr
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          td widthd heightdfont sized
+            p aligndcenterbtap the hidden value of your business 
+br
+              and get the cash you need todaybp
+            pyouve got money coming to you but because its in the 
+form of
+              renewal commissions it comes slowly a little every 
+yearp
+            pwere bfont colordtwg capitalfontb 
+we help
+              turn your renewal commissions into immediate cash  cash 
+you can
+              use any way you see fit we are currently purchasing 
+renewal commissions
+              from the following product lines long term care medicare 
+supplement
+              specified disease life and health insurancep
+            font
+          td
+          td aligndright valigndbottom widthdimg 
+srcdhttpiiqusimagestwgjpg widthd 
+heightdtd
+        tr
+        tr
+          td colspand aligndcenterbr
+            bfont sizedfor a free evaluation call or email a 
+hrefdmailtotoddrookstwgcapitalcomsubjectdiq twg 
+inquiryfont colordtodd
+            rooksfonta todaybr
+            img srcdhttpiiqusimagestwggif 
+widthd heightd altd ext br
+             or fontbbr
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont sized colordffffffplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspandinput typedtext 
+namedcontactname sizedtd
+                        td rowspand valigndmiddle 
+aligndcenterimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspandinput typedtext 
+namedemail sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspandinput typedtext 
+namedphone sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthdinput typedtext 
+namedcity sizedtd
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthdinput typedtext 
+namedstate sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd colspand
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          input typedhidden 
+namedhdnrecipienttxt valuedtoddrookstwgcapitalcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedtwg ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            br
+            img srcdhttpiiqusimagestwgbgif 
+widthd heightd altdtwg capital financial 
+professionalsbr
+            a hrefdhttpwwwtwgcapitalcomfont 
+sizedhttpwwwtwgcapitalcomfontabr
+            nbsp
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptout
+        httpwwwinsuranceiqcomoptoutafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+font
+body
+html
+
+nextpartcbbeff
+
+

@@ -1,0 +1,26 @@
+on fri  oct   
+vincent cultfreefr wrote
+
+ if i get troubles with the targz source file compilation will it
+ work with the srcrpm source file compilation 
+ if it will how do i manage with a srcrpm file sorry i dont
+ remeber 
+
+the srcrpm will prompt you for what packages you need to complete
+the compile
+
+rpmbuild rebuild targetarch filesrcrpm
+
+ 
+jesse keating
+jsolutionsnet
+mondo devteam wwwmondorescueorg
+
+was i helpful  let others know
+ httpsvcsafferonetrmphprjkeating
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

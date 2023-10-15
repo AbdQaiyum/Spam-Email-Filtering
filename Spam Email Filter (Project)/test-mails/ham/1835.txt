@@ -1,0 +1,53 @@
+tim
+ id prefer to strip html tags from everything but last time i tried
+ that it still had bad effects on the error rates in my corpora
+
+guido
+ your corpora are biased in this respect though  newsgroups have a
+ strong social taboo on posting html but in many peoples personal
+ inboxes it is quite abundant
+
+were in violent agreement there  the comments in tokenizerpy say that as
+strongly as possible and ive repeated it endlessly here too  but so long
+as i was the only one doing serious testing it was a dubious idea to make
+the code maximally clumsy for me to use on the clpy task wink
+
+ getting a good ham corpus may prove to be a bigger hurdle than i
+ though  my own saved mail doesnt reflect what i receive since i
+ save and throw away selectively much more so than in the past 
+
+yup the system picks up on everything in the tokens  grahams proposed
+delete as ham and delete as spam keys would probably work very well for
+motivated geeks  but paul svensson has pointed out here that they probably
+wouldnt work nearly so well for real people
+
+ ah  that explains why the html tags didnt get stripped  id again
+ offer to add an optional argument to tokenize so that theyd get
+ stripped here too but if it gets glossed over a third time that
+ would feel too much like a loss wink
+
+ ill bite  sounds like a good idea to strip the html in this case
+ id like to see how this improves the fp rate on this corpus
+
+ill soon check in this change
+
+    def tokenizebodyself msg retainpurehtmltagsfalse
+                                 
+        generate a stream of tokens from an email message
+
+        if a multipartalternative section has both textplain and texthtml
+        sections the texthtml section is ignored  this may not be a good
+        idea eg the sections may have different content
+
+        html tags are always stripped from textplain sections
+
+        by default html tags are also stripped from texthtml sections
+        however doing so hurts the false negative rate on tims
+        complangpython tests where htmlonly messages are almost never
+        legitimate traffic  if optional argument retainpurehtmltags
+        is specified and true html tags are retained in texthtml sections
+        
+
+you should do a cvs up and establish a new baseline first as i checked in a
+purewin change in the wee hours that cut the fp and fn rates in my tests
+

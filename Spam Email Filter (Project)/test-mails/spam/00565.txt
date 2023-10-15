@@ -1,0 +1,184 @@
+this is a multipart message in mime format
+
+nextpartebcae
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ holy cow
+ 
+ 	  year annuitya
+guaranteed  ratea
+ commissiona
+ year
+surrender
+ limited time only
+
+call or email mailtoannuitiesinsursafecom  us today
+ 
+ or 
+
+please fill out the form below for more information	
+name	  
+email	  
+phone	  
+city	  	state	  	 
+ 	  	 	   
+
+ 
+
+  
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet
+
+legal notice httpwwwinsiqcomlegalhtm 
+
+nextpartebcae
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+title year annuity guaranteed ratetitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+table widthd cellpaddingd cellspacingd borderd 
+bgcolordffffff aligndcenter
+  tr
+    td
+      img srcdhttpiiqusimagesmilnerbgif 
+widthd heightd altdholy cowbr
+      img srcdhttpiiqusimagesmilnerbjpg 
+widthd heightdtd
+  tr
+  tr
+    td
+      table widthd borderd cellspacingd 
+cellpaddingd
+        tr
+          td valigndtopimg 
+srcdhttpiiqusimagesmilnerbjpg widthd 
+heightdtd
+          tdimg srcdhttpiiqusimagesmilnerbgif 
+widthd heightd altd year annuityguaranteed  
+rate commission year surrenderbr
+            img srcdhttpiiqusimagesmilnerbjpg 
+widthd heightd altdlimited time onlytd
+        tr
+      table
+    td
+  tr
+  tr
+    td aligndcenter
+      img srcdhttpiiqusimagesmilnerspcrgif widthd 
+heightdbr
+      font facedarial helvetica sansserif sizedbcall or 
+a hrefdmailtoannuitiesinsursafecomemaila us todaybr
+      img srcdhttpiiqusimagesmilnerbjpg 
+widthd heightd altd
+      br
+       or bbr
+      table widthd bgcolord
+        tr
+          form methoddpost 
+actiondhttpresponseresponseasp
+            td
+              table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                tr
+                  td colspand aligndcenter 
+bgcolordbfont sized colordffffffplease fill 
+out the form below for more informationfontbtd
+                tr
+                tr
+                  td widthd aligndrightbfont 
+sizednamefontbtd
+                  td colspand
+                    input typedtext namedcontactname 
+sized
+                  td
+                tr
+                tr
+                  td widthd aligndrightbfont 
+sizedemailfontbtd
+                  td colspand
+                    input typedtext namedemail sized
+                  td
+                tr
+                tr
+                  td widthd aligndrightbfont 
+sizedphonefontbtd
+                  td colspand
+                    input typedtext namedphone sized
+                  td
+                tr
+                tr
+                  td widthd aligndrightbfont 
+sizedcityfontbtd
+                  td widthd
+                    input typedtext namedcity sized
+                  td
+                  td widthd aligndrightbfont 
+sizedstatefontbtd
+                  td widthd
+                    input typedtext namedstate sized
+                  td
+                  td rowspand aligndcenter 
+valigndmiddleimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                tr
+                tr
+                  td widthd aligndrightnbsptd
+                  td widthd
+                    input typedsubmit namedbtnsubmit 
+valuedsubmit
+                  td
+                  td widthd aligndrightnbsptd
+                  td widthd
+                    input typedhidden namedhdnrecipienttxt 
+valuedannuitiesinsursafecom
+                     input typedhidden namedhdnsubjecttxt 
+valuedmilner group ad inquiry
+                  td
+                tr
+              table
+            td
+          input typedhidden namedsentto valued
+form
+        tr
+      table
+      nbspfonttd
+  tr
+  tr
+    td aligndcenterimg 
+srcdhttpiiqusimagesmilnerbgif widthd 
+heightdbr
+      nbsp td
+  tr
+  tr
+    td widthd aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsiqcomlegalhtmlegal noticeafont
+center
+body
+html
+
+nextpartebcae

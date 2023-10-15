@@ -1,0 +1,48 @@
+neale pickett
+ i hacked up something to turn wordinfo into a tuple before pickling
+
+thats what wordinfogetstate does
+
+ and then turn the tuple back into wordinfo right after unpickling
+
+likewise for wordinfosetstate
+
+ without this hack my database was  bytes  after its 
+bytes
+ thats a  savings not a bad optimization
+
+im not sure what youre doing but suspect youre storing individual
+wordinfo pickles  if so most of the administrative pickle bloat is due to
+that and doesnt happen if you pickle an entire classifier instance
+directly
+
+ so my question is would it be too painful to ditch wordinfo in favor of
+ a straight out tuple  or list if youd rather although making it a
+ tuple has the nice sideeffect of forcing you to play nice with my
+ dbdict class
+
+ i hope doing this sort of optimization isnt too far distant from the
+ goal of this project even though readmetxt says it is 
+
+ diff attached  im not comfortable checking this in
+
+i think its healthy that youre uncomfortable checking things in with
+
+              xxx kludge kludge kludge
+
+comments wink
+
+ since i dont really like how it works id rather just get rid of
+wordinfo
+ but i guess it proves the point 
+
+im not interested in optimizing anything yet and get many benefits from
+the ease of working with utterly vanilla python instance objects  lots of
+code all over picks these apart for display and analysis purposes  very few
+people have tried this code yet and there are still many questions about it
+see eg jeremys writeup of his disappointing firsttime experiences
+today  lets keep it as easy as possible to modify for now  if youre
+desparate to save memory write a subclass
+
+other people are free to vote in other directions of course wink
+

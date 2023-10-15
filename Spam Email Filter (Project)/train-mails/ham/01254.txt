@@ -1,0 +1,35 @@
+on  oct    quaffa pint quaffapintclippersoftnet wrote
+
+ on a rh  box im trying to install your package
+ xinefrirpm i keep running into dependency problems  ive
+ tried to install the dev and lib rpms as well and they error out with
+ dependency problems on each other they each want something from the
+ others package
+ 
+ ive tried the without options but still end up with similar for the
+ regular package
+ 
+ 	glut is needed by xinelibsfr
+         aalib is needed by xinelibsfr
+         lirc is needed by xinelibsfr
+         libaaso is needed by xinelibsfr
+         libglutso is needed by xinelibsfr
+ 
+ what am i missing here
+
+    aptget install xine  itll find all these  oh and im told that redhat  will also suggest things like this for ya not apt but the actual package names you need
+
+
+brian fahrlnder              linux zealot conservative and technomad
+evansville in                    my voyage httpwwwcountermooncom
+icq  
+
+just machines to make big decisions programmed by fellas with
+compassion and vision  well be clean when that work is done
+eternally free and eternally young  linux
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

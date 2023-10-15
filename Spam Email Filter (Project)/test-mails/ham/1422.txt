@@ -1,0 +1,37 @@
+update of cvsrootspamassassinspamassassindebian
+in directory uswprcvstmpcvsservdebian
+
+modified files
+	spamassassinreadmedebian 
+log message
+removed p
+
+index spamassassinreadmedebian
+
+rcs file cvsrootspamassassinspamassassindebianspamassassinreadmedebianv
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ spamassassinreadmedebian	 jun   	
+ spamassassinreadmedebian	 aug   	
+   
+ you wish to use spamd the daemon version of spamassassin please edit
+ etcdefaultspamassassin
+ 
+spamc is equivalent to spamassassin p and you should use it instead if
+spamc is equivalent to spamassassin and you should use it instead if
+ and only if you enabled spamd and youve installed the spamc package
+ 
+ to add rules change scores edit the template edit
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassincommits mailing list
+spamassassincommitslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassincommits
+

@@ -1,0 +1,30 @@
+on a rh  box im trying to install your package
+xinefrirpm i keep running into dependency problems  ive
+tried to install the dev and lib rpms as well and they error out with
+dependency problems on each other they each want something from the
+others package
+
+ive tried the without options but still end up with similar for the
+regular package
+
+	glut is needed by xinelibsfr
+        aalib is needed by xinelibsfr
+        lirc is needed by xinelibsfr
+        libaaso is needed by xinelibsfr
+        libglutso is needed by xinelibsfr
+
+what am i missing here
+
+thanks for your efforts
+quaffapint
+
+
+
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

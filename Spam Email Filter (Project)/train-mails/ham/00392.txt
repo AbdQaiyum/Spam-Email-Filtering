@@ -1,0 +1,24 @@
+
+
+ on sat  aug  harlan  harlan feinstein wrote
+
+  harlan whats the trick again to have it default to showing
+  harlan textplain instead of html
+
+in exmhexmhdefaults add
+
+mimealternativeprefs textplain textenriched textrichtext texthtml
+
+order possible alternatives from your most preferred to least
+preferred
+
+hal
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+

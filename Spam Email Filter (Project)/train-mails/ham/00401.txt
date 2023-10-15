@@ -1,0 +1,21 @@
+on mon aug   at pm  matthias saou wrote
+ ive repackaged the new gkrellm  which is now ported to gtk
+ woohoo unfortunately the plugins are incompatible with the
+ previous x ones and since not manyall have been ported yet i
+ prefer not to release the package on the main freshrpmsnet site for
+ now
+
+you could go the same way as the others and call it gkrellm and
+conflict with v if the executables or paths are the same
+
+ 
+hey youre right i dont want to call a destructor on my objects
+i want to call a destroyer gozer has come for your memory
+little persistentnode
+		 joel gluth 
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

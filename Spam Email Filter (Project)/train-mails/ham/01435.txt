@@ -1,0 +1,52 @@
+update of cvsrootspamassassinspamassassinlibmailspamassassin
+in directory uswprcvstmpcvsservlibmailspamassassin
+
+modified files
+      tag b
+	confpm 
+log message
+added deprecation regarding starting line with space reserved for future use also changed sample versiontag
+
+index confpm
+
+rcs file cvsrootspamassassinspamassassinlibmailspamassassinconfpmv
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ confpm	 aug   	
+ confpm	 sep   	
+   
+ files loaded from the usrsharespamassassin and etcmailspamassassin
+ directories
+ 
+the c character starts a comment which continues until end of line
+and whitespace in the files is not significant
+the c character starts a comment which continues until end of line
+
+whitespace in the files is not significant but please note that starting a
+line with whitespace is deprecated as we reserve its use for multiline rule
+definitions at some point in the future
+ 
+ paths can use c to refer to the users home directory
+ 
+   
+ 
+ eg
+ 
+  versiontag perkel     versionperkel
+  versiontag myrules     versionmyrules
+ 
+ cut
+ 
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassincommits mailing list
+spamassassincommitslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassincommits
+

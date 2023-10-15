@@ -1,0 +1,13 @@
+so then neale pickett nealewoozleorg is all like
+
+ maybe theres some subtle interaction between generators and lists
+ that i cant understand  or something  being as im baffled i dont
+ imagine any theory i come up with will be anywhere close to reality
+
+and then just as i was about to fall asleep i figured it out  the
+tokenizer now has an extra  and all is well  i feel like a real
+chawbacon for not realizing this earlier  
+
+blaming it on staying up past bedtime
+
+neale

@@ -1,0 +1,261 @@
+this is a multipart message in mime format
+
+nextpartfcbeaec
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ 	
+asset marketing systems
+is the insurance industrys fastest growing field marketing organization
+over the past four years this year well place  billion in premium
+selling highquality highcommission fixed annuities to americas 
+million senior citizens
+
+	 	
+
+why have so many agents chosen to do business with asset marketing
+systems
+asset marketing is the only fmo in america that generates qualified
+leads helps set appointments structures product positioning increases
+closing ratios and handles all the paperwork at absolutely no cost to
+the agent
+
+we are also proud to report our agents routinely earn  times the
+industry average assuming you qualify well pick up the entire tab for
+you to visit our corporate offices in sunny san diego
+	
+ one phone call can change your life guaranteed	
+
+ready to join the best call susan at
+ 
+or email jennifer at jenniferassetmarketingsystemscom
+mailtojenniferassetmarketingsystemscom 
+ or 
+
+please fill out the form below for more information	 
+name	  	
+email	  	
+phone	  	
+city	  	state	  	 	
+ 	  	 	   	
+ 
+
+asset marketing systems httpwwwassetmarketingsystemscom 
+  	
+we do not want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet 	
+legal notice httpwwwinsiqcomlegalhtm  
+
+nextpartfcbeaec
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titleearn  times your peerstitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolord textd
+table widthd cellpaddingd cellspacingd 
+aligndcenter borderd bgcolordffffff 
+bordercolord
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd 
+backgrounddhttpiiqusimagesassetmktgajpg
+        tr
+          td
+            table widthd cellpaddingd cellspacingd 
+borderd
+              tr
+                td colspandimg 
+srcdhttpiiqusimagesassetmktgspacergif widthd 
+heightdtd
+              tr
+              tr
+                td widthd valigndtop
+                  bfont facedverdana arial helvetica 
+sansserif sized colord
+                  asset marketing systemsbr
+                  font colord sizedis the insurance 
+industrys fastest
+                  growing field marketing organization over the past 
+four years
+                  this year well place  billion in premium selling 
+highquality
+                  highcommission fixed annuities to americas  
+million senior
+                  citizensfontfontbbr
+                  br
+                td
+                td widthd valigndtopimg 
+srcdhttpiiqusimagesassetmktgspacergif widthd 
+heightdtd
+              tr
+            table
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td
+      table widthd borderd cellspacingd 
+cellpaddingd
+        tr
+          td
+            bfont facedverdana arial helvetica sansserif 
+sized colord
+            brfont sized colordi
+            why have so many agents chosen to do business with asset 
+marketing
+            systemsifontbr
+            asset marketing is the only fmo in america that
+            generates qualified leads helps set appointments 
+structures
+            product positioning increases closing ratios and handles 
+all the
+            paperwork at absolutely no cost to the agentbr
+            br
+            we are also proud to report font sized 
+colord
+            our agents routinely earn  times the industry average 
+fontassuming
+            you qualify well pick up the entire tab for you to visit 
+our corporate
+            offices in sunny san diegofontbbr
+          td
+        tr
+        tr
+          td aligndcenterimg 
+srcdhttpiiqusimagesassetmktggif widthd 
+heightd altdone phone call can change your life 
+guaranteedtd
+        tr
+        tr
+          td aligndcenter
+            brbfont facedverdana arial helvetica sansserif 
+sizedready to join the best call susan atbr
+            img srcdhttpiiqusimagesassetmktgjpg 
+widthd heightd altdbr
+            or email jennifer at a 
+hrefdmailtojenniferassetmarketingsystemscomjenniferassetmarketin
+gsystemscomafontbr
+             or br
+            b
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr bgcolord
+                        td colspand aligndcenterbfont 
+facedarial helvetica sansserif sized 
+colordffffffplease fill out the form below for more 
+informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+facedarial helvetica sansserif sizednamefontbtd
+                        td colspand b
+                          input typedtext namedcontactname 
+sized
+                          btd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+facedarial helvetica sansserif sizedemailfontbtd
+                        td colspand b
+                          input typedtext namedemail 
+sized
+                          btd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+facedarial helvetica sansserif sizedphonefontbtd
+                        td colspand b
+                          input typedtext namedphone 
+sized
+                          btd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+facedarial helvetica sansserif sizedcityfontbtd
+                        td widthd b
+                          input typedtext namedcity 
+sized
+                          btd
+                        td widthd aligndrightbfont 
+facedarial helvetica sansserif sizedstatefontbtd
+                        td widthd b
+                          input typedtext namedstate 
+sized
+                          btd
+                        td rowspand aligndcenter 
+valigndmiddlebimg srcdhttpiiqusimagesqgif 
+widthd heightdbtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd b
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          btd
+                        td widthd aligndrightnbsptd
+                        td widthd b
+                          input typedhidden 
+namedhdnrecipienttxt valuedjenniferassetmarketingsystemscom
+                          input typedhidden namedhdnsubjecttxt 
+valuedamss iq ad inquiry
+                          btd
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+          td
+        tr
+        tr
+          td aligndcenterbr
+            a hrefdhttpwwwassetmarketingsystemscomimg 
+srcdhttpiiqusimagesassetmktggif widthd 
+heightd borderd altdasset marketing systemsabr
+            nbsp td
+        tr
+        tr
+          td aligndcenterfont sized facedarial 
+helvetica sansserifwe
+            do not want anyone to receive our mailings who does not wish 
+to this
+            is professional communication sent to insurance 
+professionals to
+            be removed from this mailing list do not reply to this 
+message instead
+            go here a 
+hrefdhttpwwwinsurancemailnethttpwwwinsurancemailnetaf
+ont
+          td
+        tr
+      table
+    td
+  tr
+table
+center
+  a hrefdhttpwwwinsiqcomlegalhtmfont sized 
+facedarial helvetica sansserif colordccfflegal 
+noticefonta
+center
+body
+html
+
+nextpartfcbeaec

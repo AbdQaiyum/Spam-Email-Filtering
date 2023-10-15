@@ -1,0 +1,122 @@
+html
+
+head
+titleclassic winestitle
+head
+
+body
+
+div aligncenter
+  center
+  table border cellpadding cellspacing width bordercolor
+    tr
+      td valigntop aligncenter
+        div aligncenter
+          table border cellpadding cellspacing width
+            tr
+              td bgcolorefefda width valigntopa hrefhttptheadmanagercomservercaspadkeytamosxhjcwjqextimg border srchttpwwwbeertripscommerchantimageslogoclassicgif altclassic wines width heightatd
+              td bgcolor width valignbottoma hrefhttptheadmanagercomservercaspadkeytamosxhjcwjqextimg border srchttpwwwbeertripscommerchantimagesmainjpg altthe worlds best wines width heightatd
+            tr
+            tr
+              td valigntop bgcolorefefda width
+                p stylemargintop  marginbottom  aligncentera hrefhttptheadmanagercomservercaspadkeytamosxhjcwjqextimg border srchttpwwwbeertripscommerchantimagesmywinestartercjpg altfree wine kit width heightap
+                a hrefhttptheadmanagercomservercaspadkeytamosxhjcwjqextimg border srchttpwwwbeertripscommerchantimagesfreegiftbottlegif width heighta
+                p stylemargintop  marginbottom  aligncenterfont facearialbiall of this can bebr
+                yours for onlybr
+                ibfontp
+                table border cellpadding cellspacing width msimagelist
+                  tr msimagelist
+                    td valignbaseline width msimagelistimg srchttpwwwbeertripscommerchantimagesbulletgif width height hspacetd
+                    td valigntop width
+                      p alignleft stylemarginleft  marginright font size facearial  bottles of premium winefonttd msimagelist
+                  tr
+                  tr msimagelist
+                    td valignbaseline width msimagelistimg srchttpwwwbeertripscommerchantimagesbulletgif width height hspacetd
+                    td valigntop width
+                      p alignleft stylemarginleft  marginright font size facearial  elegant wine glassesfonttd msimagelist
+                  tr
+                  tr msimagelist
+                    td valignbaseline width msimagelistimg srchttpwwwbeertripscommerchantimagesbulletgif width height hspacetd
+                    td valigntop width
+                      p alignleft stylemarginleft  marginright font size facearial capitano waiters corkscrewfonttd msimagelist
+                  tr
+                  tr msimagelist
+                    td valignbaseline width msimagelistimg srchttpwwwbeertripscommerchantimagesbulletgif width height hspacetd
+                    td valigntop width
+                      p alignleft stylemarginleft  marginright font size facearial marble bottle stopperfonttd msimagelist
+                  tr
+                  tr msimagelist
+                    td valignbaseline width msimagelistimg srchttpwwwbeertripscommerchantimagesbulletgif width height hspacetd
+                    td valigntop width
+                      p alignleft stylemarginleft  marginright font size facearial delicious gourmet wine crackersfonttd msimagelist
+                  tr
+                  tr msimagelist
+                    td valignbaseline width msimagelistimg srchttpwwwbeertripscommerchantimagesbulletgif width height hspacetd
+                    td valigntop width
+                      p alignleft stylemarginleft  marginright font size facearial member discounts on additional wine
+                      selectionsfonttd msimagelist
+                  tr
+                  tr msimagelist
+                    td valignbaseline width msimagelistimg srchttpwwwbeertripscommerchantimagesbulletgif width height hspacetd
+                    td valigntop width
+                      p alignleft stylemarginleft  marginright font size facearial our cellar profile newsletterfonttd msimagelist
+                  tr
+                table msimagelist
+                p aligncenterfont facearialbitotal retail value of this special offer 
+                ibfontp
+                p aligncentera hrefhttptheadmanagercomservercaspadkeytamosxhjcwjqextimg border srchttpwwwbeertripscommerchantimagesordersshippedgif width heightabr
+
+              td
+              td valigntop alignright bgcolorffffff widthfont faceariala hrefhttptheadmanagercomservercaspadkeytamosxhjcwjqextimg border srchttpwwwbeertripscommerchantimagesmainjpg width heightafontp stylemargintop  marginbottom  aligncenterfont faceariala hrefhttptheadmanagercomservercaspadkeytamosxhjcwjqextimg border srchttpwwwbeertripscommerchantimagestastetwobottlegif width heightafontp
+              centerp stylemarginleft  marginright  margintop  marginbottom  alignleftbifont faceariala
+                special offer for the discriminatingbr
+                wine drinkerfontib
+              p
+  center
+              p stylemarginleft  marginright  margintop  alignleftbfont size facearialinfontbfont size facearialbdulge your love of adventure  discovery  and fine wine from the comfort of your home with our convenient programb receive two expertly selected premium wines for
+              the price of one  only    off the regular price  delivered to your door with our wine starter kit as a free gift  starter kit includes  elegant wine glasses a capitano waiters corkscrew gourmet wine crackers and morefontp
+              p stylemarginleft  marginright  alignleftfont size facearialyoull have your choice of two reds two whites or one of each one month you may have the pleasure of experiencing a wonderfully fullbodied cabernet sauvignon from california and a delicious chardonnay from australia another month you may get an exquisite chianti from italy and a fabulous sauvignon blanc from france youll savor a broad range of some of the worlds most fascinating wine  right in your own homefontp
+              p stylemarginleft  marginright  alignleftfont facearialbyour satisfaction is  guaranteedb if you are not completely satisfied with the classic selections program you can cancel at any time
+              b there is no minimum to buy and no obligation for further purchases or deliveries
+              b so uncork your own wine adventure and explore the worlds finest vineyards with classic selections font
+              p stylemargintop  alignlefta hrefhttptheadmanagercomservercaspadkeytamosxhjcwjqextimg border srchttpwwwbeertripscommerchantimagesordernowgif width heightatd
+            tr
+            center
+          center
+          tr
+            td bgcolor colspan heightfont size fonttd
+          tr
+          tr
+            td width colspan
+              blockquote
+                p alignleftfont facearial sizebr
+                fontfont facearial size colorplus shipping and tax from    depending on destination statebr
+                br
+                we accept orders from adults at least  or older only all shipments are delivered by ups or private courier and the signature of an adult is required at the time of delivery offer cannot be combined with any other offer and is void where prohibited this offer is only valid in the following states az ca co ct fl ia id il in mi mo nc ne nj nm ny oh or tx va wa wi list of legal states subject to changebr
+                due to legal restrictions in some states alcohol can not be given away for free  therefore the promotion is  off of the two bottles which equates to the same as one free bottlefontp
+              blockquote
+            td
+          tr
+          table
+        div
+        p aligncenter stylemargintop  marginbottom  centertd
+    tr
+  table
+div
+
+img srchttpadmanmailcomservertaspadkeytamosxhjcwjq width height hspace vspace border altt
+hr size noshade
+font facearial size color
+you are receiving this mailing because you are a
+member of sendgreatofferscom and subscribed asjmnetnoteinccom
+to unsubscribe a hrefhttpadmanmailcomsubscriptionaspemjmnetnoteinccomlsgo
+font facearial size colorclick herea
+httpadmanmailcomsubscriptionaspemjmnetnoteinccomlsgo
+or reply to this email with remove in the subject line  you must
+also include the body of this message to be unsubscribed any correspondence about
+the productsservices should be directed to
+the company in the ad
+emjmnetnoteinccomem
+brfont body html
+
+

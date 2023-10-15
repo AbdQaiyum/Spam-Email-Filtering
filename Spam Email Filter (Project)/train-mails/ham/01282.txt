@@ -1,0 +1,21 @@
+ive put up a new red hat linux  build of nessus here 
+httpftpfreshrpmsnetpubfreshrpmstestingnessus
+
+its  untested although the build should be ok the new menu was
+added but some configuration files may be better with new or different
+defaults
+
+feedback is very welcome
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel acpi
+load    
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

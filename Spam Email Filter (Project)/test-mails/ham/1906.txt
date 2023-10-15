@@ -1,0 +1,67 @@
+use perl daily newsletter
+
+in this issue
+     this week on perlporters  september 
+     the great perl monger cull of 
+
+
+ this week on perlporters  september                   
+   posted by rafael on monday september   summaries      
+   httpuseperlorgarticleplsid               
+
+
+thats on a week like this that you realize that lots of porters are
+european and managed to free themselves for yapceurope or were they
+on the contrary too busy in the big blue room  on the other hand the
+number of bug reports stayed at its habitual average level
+
+this story continues at
+    httpuseperlorgarticleplsid
+
+discuss this story at
+    httpuseperlorgcommentsplsid
+
+
+
+ the great perl monger cull of                                  
+   posted by ziggy on monday september   news            
+   httpuseperlorgarticleplsid              
+
+
+davorg writes if you take a look at list of local groups on the
+perl mongers web site youll see that its just got a good deal
+shorter over the last month or so ive been making strenuous efforts to
+contact all of the groups we had listed to see which ones were still
+active what you see is the result of this exercise almost half of the
+groups have been removed because they havent responded to my emails
+
+if your local group still exists but is no longer listed then that means
+that i dont have an update to date contact for your group please let
+me know if thats the case
+
+discuss this story at
+    httpuseperlorgcommentsplsid
+
+links
+     mailtodavedaveorguk
+     httpwwwpmorggroups
+     httpwwwpmorg
+     mailtousergroupspmorg
+
+
+
+copyright  pudge  all rights reserved
+
+
+
+
+you have received this message because you subscribed to it
+on use perl  to stop receiving this and other
+messages from use perl or to add more messages
+or change your preferences please go to your user page
+
+	httpuseperlorgmymessages
+
+you can log in and change your preferences from there
+
+

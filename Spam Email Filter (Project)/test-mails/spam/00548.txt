@@ -1,0 +1,18 @@
+ saved from urlhttpinternetemail 
+
+html
+body bgcolorfedf
+	table border cellpadding cellspacing aligncenter
+		tr
+			td rowspan valigntopa hrefhttpwwwbusinessoppcommoneyestateimg srchttpwwwbusinessoppcomimagesretbleftgif alt width height vspace borderatd
+			td heighta hrefhttpwwwbusinessoppcommoneyestateimg srchttpwwwbusinessoppcomimagesretbtopgif alt width height hspace borderatd
+		tr
+		trtd heighta hrefhttpwwwbusinessoppcommoneyestateimg srchttpwwwbusinessoppcomimagesretbheaderjpg width height alt borderatdtr
+		trtd heighta hrefhttpwwwbusinessoppcommoneyestateimg srchttpwwwbusinessoppcomimagesretbtextgif width height alt borderatdtr
+		trtd heighta hrefhttpwwwbusinessoppcommoneyestateimg srchttpwwwbusinessoppcomimagesretbbottomgif width height alt borderatdtr
+	table
+bodydiv aligncenterfont sizeto optout of our database  a hrefhttpwwwbusinessoppcomremovehtm stylecolor oliveclick herefontadiv
+br
+html
+
+

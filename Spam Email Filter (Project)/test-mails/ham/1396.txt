@@ -1,0 +1,21 @@
+once upon a time thomas wrote 
+
+ should i expect problems if my apt server is running rh apt  and
+ some clients are coming on line and will be running rh apt  do
+ the two different version interoperate
+
+no problems whatsoever currently aptfreshrpmsnet is running  with apt
+ and many  clients with  are using it
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel 
+load     ac online battery charging  
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

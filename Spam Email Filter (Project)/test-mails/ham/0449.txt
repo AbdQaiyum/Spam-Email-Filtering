@@ -1,0 +1,24 @@
+    date        fri  aug   
+    from        chris garrigues cwgdatedabcdeepeddycom
+    messageid  tmdadeepeddyvirciocom
+
+   interestingi dont think this was my bug
+   it appears that msgchange was asked to change to message 
+
+something like that is quite possible but perviously typing nonsense
+in didnt cause tracebacks and now it does and the traceback came
+from the sequence code
+
+perviously this would have just caused red messages in the status
+line complaining about my lousy typing   thats probably what it
+should keep on doing the red part isnt important obviously
+
+kre
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

@@ -1,0 +1,55 @@
+ how easy would it be to code a menu item that marks as read all messages 
+ before the current message  i often have problems reading heavytraffic 
+ mailing lists in exmh because i want to read only a subset of a lists 
+ messages but i lose track of where i was in the particular folder  
+ 
+ this could also be coded more generally in the new sequences code as a way to 
+ remove all messages before current from a particular sequence
+
+easy
+
+first youll have to excuse me as im still using   so this
+may not play well with recent changes  i did look at  too
+and i just did this off the top of my head i wanted to see if it
+ still worked so this is somewhat untested
+
+adding a menu entry is trivial add this to your exmhexmhdefaults
+
+fopsmoremuentrylist	ketchup
+fopsmoremlketchup		catchup all b cur
+fopsmoremcketchup	 	mymarkcurseen
+
+then you just need to provide the source for mymarkcurseen and 
+arrange for exmh to include it put it in your tkexmh directory
+in your usertcl or in pickpatch if you enable the source hook
+under prefshacking support
+
+its going to look something like this
+
+proc mymarkcurseen  
+    global exmh pick msg
+    exmhstatus clearing unseen up to cur red
+    mhsetcur exmhfolder msgid
+    set pickids get message ids for pick cur
+    busy pickmarkseen
+    exmhstatus ok blue
+
+
+thats based upon the guts of pickmarkseen
+
+you need to fill in the code for the get section i ran out of
+time
+
+john
+
+ it just works tm
+ it  my head
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

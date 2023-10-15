@@ -1,0 +1,48 @@
+
+html
+head
+title instant credittitle
+head
+
+body linkdf  vlinkdf  alinkdf
+table width aligncenter bgcolordftrtd
+bfont facebaskerville size 
+p aligncenterpriority messagetrtdtable
+table width aligncenter cellpaddingtrtd
+bfont facebaskerville size colordfp
+receive  free airline tickets andbr
+the credit you deservepfont
+bfont facearial size colorp
+get an unsecuredbr
+visa  mastercardp
+
+yes even with bad credit  no creditp
+
+we can show you how to getp
+
+instant online credit approvalbr
+with credit limits up to  br
+interest rates as low as p 
+
+
+do you have good creditp
+
+you can transfer your high interest credit cards to a low  p
+
+dear future card holderpfont
+
+bfont facebaskerville sizep
+a hrefhttpcreditclick herea
+and visit our sitebr
+start enjoying the credit you deservep
+trtdtable
+font facearial size colorffffffppfont
+form actionhttpcgibinyformcgi methodpost
+input typehidden namemailrecipient valueflyfreeyahoocom
+input typetext nameremove sizeinput typesubmit valueremove me
+form
+
+body
+html
+
+

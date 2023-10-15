@@ -1,0 +1,141 @@
+html
+headtitleonline marketing strategiestitlemeta httpequivdcontent
+type contentdtexthtml 
+charsetdwindowsmeta contentdmshtml  namedgene
+ratormeta contentdfrontpageeditordocument namedprogid
+    headbody vlinkdccc linkdccc bgcolordffffff leftmarg
+ind
+     div aligndcentercentertable heightd cellspacingd cellpad
+dingd widthd borderd
+	tbodytrtd widthd heightdp aligndcenter
+	font facedgeorgia times new roman sized
+	bfont colordbneed more clientsfontbfontpp align
+dcenter
+	font facedtimes new roman sizedbfont colordff
+	increase your sales  every monthfontb
+hr
+font colordffbfont facedtimes new roman colordb s
+ized
+targeted email marketing is a proven method for return salesbr
+fontb
+font colord sized
+  with a database of over  million targeted addresses we can reach y
+our potential clients
+  anywhere in the world  our staff creates interactive ad campaigns spec
+ifically targeted to 
+  your client base and designed to produce staggering responses for your 
+business  a steady 
+  lead source can make sure your sales team will consistently close deals
+font
+p
+   font facedtimes new roman sizedbfont colordbthe g
+reatest 
+      return on your marketing dollarfontb
+font colordbrfont sizedtargeted email marketing is the 
+most effective way to reach
+global and local markets with a small expense compared to that of conventi
+onal marketing  
+quality work and a dedicated professional staff will ensure your ad campai
+gn to be successful  
+put our educated team of marketers to work for youbrbrbfontp
+trtdtbody
+p
+table widthd borderd
+  tbody
+  tr
+    td aligndmiddlefont colordb sizedfill out the form be
+low to speak
+with one brof our marketing specialistsfonttdtrtbodytable
+
+pfont colordb sizedrequired input fieldfont colordff
+
+sizedfontfont 
+p
+table cellspacingd bordercolordarkd cellpaddingd widthd
+ 
+bordercolorlightdffffcc
+  tbody
+  tr
+    td aligndmiddle
+      form actiondmailtoinbocksfiremaildesubjectdemarketing
+inquiry 
+      methoddpost enctypedtextplain
+      table widthd
+        tbody
+        tr
+          td aligndright widthdfont 
+            facedtimes new roman colordb
+          sizednamefontfont 
+            facedarial helvetica sansserif colordff
+            sizedfonttd
+          tdinput namednametdtr
+        tr
+          td aligndright widthdfont 
+            facedtimes new roman colordb sizedweb 
+            addressfonttd
+          tdinput valuedhttp namedurltdtr
+        tr
+          td aligndright widthdfont 
+            facedtimes new roman colordb sizedcompany 
+            namefontfont 
+            facedtimes new roman colordff
+            sizedfonttd
+          tdinput namedcompanynametdtr
+        tr
+          td aligndright widthdfont 
+            facedtimes new roman colordb sized
+            statefontfont 
+            facedarial helvetica sansserif colordff 
+            sizedfonttd
+          tdinput sized namedstatetdtr
+        tr
+          td aligndright widthdfont 
+            facedtimes new roman colordb sizedbusiness 
+            phonefontfont 
+            facedarial helvetica sansserif colordff 
+            sizedfonttd
+          tdinput namedbusphonetdtr
+        tr
+          td aligndright widthdfont 
+            facedtimes new roman colordb sizedhome 
+            phonefonttd
+          tdinput namedhomephonetdtr
+        tr
+          td aligndright widthdfont 
+            facedtimes new roman colordb sizedemail 
+            addressfontfont 
+            facedarial helvetica sansserif colordff 
+            sizedfonttd
+          tdinput namedemailtdtr
+        tr
+          td aligndright widthdfont 
+            facedtimes new roman colordb sizedtype of 
+            businessfonttd
+          tdinput namedtypeofbusinesstdtrtbodytable
+      pinput typedsubmit valuedsubmit information namedsubmit 
+    formptdtrtbodytable
+brbr
+table widthd
+  tbody
+  tr
+    td aligndmiddlefont facedtimes new roman colordb
+      sizedto be removed please  
+      a hrefdmailtodletelycoscouksubjectdremoveemarketin
+gclick 
+      herefont colordafontfonttdtrtbodyta
+blepcenterbodyhtml
+
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

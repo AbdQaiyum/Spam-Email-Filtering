@@ -1,0 +1,15 @@
+matthias haase wrote
+ the bytecodeinterpreter is disabled on rh defined at line  in
+ the specfile of the srpm
+
+right you are  the srpm includes a patch to enable it but then the
+specfile defaults to not applying that patch  i saw the former but
+missed the later  egad what a convoluted maze
+
+sorry for the misinformation
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

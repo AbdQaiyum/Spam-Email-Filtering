@@ -1,0 +1,79 @@
+html
+head
+meta httpequivcontenttype contenttexthtml charsetwindows
+head
+
+body
+
+table cellspacing cellpadding width border bgcolor
+  tbody
+    tr
+      td valigntop width
+        p alignleftbr
+        ifont colorffffff facearial sizework from home resourcesnbspfontip
+      td
+      td valigntop width height
+        p aligncenterimg border srchttpgifnationaladvcomcornercjpeg alignright hspace vspace width height
+      td
+    tr
+    tr
+      td valigntop width bgcolor rowspannbsp
+        pbwe are desperately need responsible dependable people through the
+        united states to fill full and part time positions working from their
+        home ufont sizemaking  a weekfontubp
+        pbbenefitsbp
+        ul
+          libset your own schedulebli
+          libspend more time with your bbfamilybli
+          libno more long commutebli
+          libmake more moneybli
+        ul
+        pbif you have computer and internet access and can work
+        unsupervised this is the opportunity for youbp
+        pbclick here to feel out our free application and we will get you
+        started todaybp
+        pbwe will even give you a font colorff size free vacationfont to enjoy just for visiting
+        filling out our free application todaybp
+        pbdont wait positions have already closed in  statesbp
+        p aligncenterbfont sizea hrefhttpoptinnationaladvcommoymapply today for free and get your
+        free vacationafontbp
+        p aligncenter img srchttpgifnationaladvcomhotelgif width borderp
+        p aligncenternbspp
+        pnbspp
+        pbsincerelybp
+        pbtex sryderbrwork from home bbspecialistbp
+        pnbspp
+        pnbspp
+        pa hrefhttpoptinnationaladvcomunsubscribeclick here to unsubscribe from our mailing listap
+   
+      td
+      td valigntop width bgcolor height
+        p aligncenternbspp
+        p aligncenternbspp
+        p aligncenterimg srchttpgifnationaladvcommomkidjpg border width heightbfont sizebrfontfont sizeearn
+        what your worth work from homefontbp
+        p aligncenternbspp
+      td
+    tr
+    tr
+      td valigntop width bgcolor height
+        nbsp
+      td
+    tr
+    tr
+      td valigntop width bgcolornbsptd
+    tr
+  tbody
+table
+table cellspacing cellpadding width bgcoloreee border
+  tbody
+    tr
+    tr
+  tbody
+table
+
+body
+
+
+qdaakgljhtml
+

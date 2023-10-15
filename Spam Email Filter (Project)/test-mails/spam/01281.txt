@@ -1,0 +1,239 @@
+this is a multipart message in mime format
+
+nextpartbbbcbcafdf
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ the magical solution that triples index annuity sales
+  
+
+as a unique promotional opportunity there is currently no charge for
+our bighitter sales tool combination for the first  respondents
+only
+
+this magic solution is already responsible for countless millions of
+dollars in index annuity premium and agent sales commissions you
+honestly will not believe how simple and easy this makes selling index
+annuities it is literally like falling off a log as one rep stated
+you dont even have to do anything different than you already are
+doingit just kind of happenskicksin and starts generating new
+clients and uncovering assets just like magic
+
+to claim your free report and bonus audiotape simply call our hour
+automated response line simple and painless call anytime but be one
+of the first  the response line is fully automated and works 
+or you can quickly fill out the form below
+
+    
+
+call today to receive this free report and audiotape
+  ext 
+ or can complete the form below 
+
+name	  	
+address	  	
+city	  	state	  	zip	  	
+email	  	
+phone	  	fax 	  	 	
+ 	  	 	   	
+ 
+
+usa financial  wwwusafinancialcom httpwwwusafinancialcom  
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet 
+
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartbbbcbcafdf
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titletriple your index annuity salestitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+font facedarial helvetica sansserif
+table widthd cellpaddingd cellspacingd 
+aligndcenter bgcolordffffff
+  tr
+    td
+      img srcdhttpiiqusimagesusafgif 
+widthd heightd altdthe magical solution that triples 
+index annuity salesbr
+      img srcdhttpiiqusimagesusafjpg 
+widthd heightdimg 
+srcdhttpiiqusimagesusafgif widthd 
+heightdbr
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          td
+            font facedgeorgia times new roman times serif 
+sized colord
+            pas a unique promotional opportunity bthere is 
+currently no chargeb
+              for our quotbighitter sales tool combinationquot for 
+the first
+               respondents onlyp
+            pthis quotmagic solutionquot is already responsible 
+for countless
+              bmillions of dollars in index annuity premium and agent 
+sales
+              commissionsb you honestly will not believe how simple 
+and easy
+              this makes selling index annuities it is literally like 
+falling
+              off a log as one rep stated quotyou dont even have to 
+do anything
+              different than you already are doingit just kind of 
+happenskicksin
+              and starts generating new clients and uncovering assets 
+just like
+              magicquotp
+            pbto claim your free report and bonus audiotape simply 
+call our
+              hour automated response lineb simple and painless 
+call anytime
+              but be one of the first  the response line is fully 
+automated
+              and works  or you can quickly fill out the form 
+belowp
+            font
+          td
+        tr
+        tr
+          td aligndcenter
+            hr widthd sized colord
+            font sizedbcall today to receive this free report 
+and audiotapebr
+            img srcdhttpiiqusimagesusafgif 
+widthd heightd altd ext 
+            br
+             or can complete the form below bfontbr
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr
+                        td widthd aligndrightfont 
+sizedbnamebfonttd
+                        td colspand font sizedb
+                          input typedtext namedcontactname 
+sized
+                          bfonttd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbaddressbfonttd
+                        td colspand font sizedb
+                          input typedtext namedaddress 
+sized
+                          bfonttd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbcitybfonttd
+                        td widthd font sizedb
+                          input typedtext namedcity 
+sized
+                          bfonttd
+                        td widthd aligndrightfont 
+sizedbstatebfonttd
+                        td widthd font sizedb
+                          input typedtext namedstate 
+sized
+                          bfonttd
+                        td widthd aligndrightfont 
+sizedbzipbfonttd
+                        td widthd font sizedb
+                          input typedtext namedzip sized
+                          bfonttd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbemailbfonttd
+                        td colspand font sizedb
+                          input typedtext namedemail 
+sized
+                          bfonttd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbphonebfonttd
+                        td font sizedb
+                          input typedtext namedphone 
+sized
+                          bfonttd
+                        td aligndrightbfont 
+sizedfaxnbspfontbtd
+                        td colspandfont sizedb
+                          input typedtext namedfax sized
+                          bfonttd
+                        td rowspandfont sizedbimg 
+srcdhttpiiqusimagesqgif widthd 
+heightdbfonttd
+                      tr
+                      tr
+                        td widthdnbsptd
+                        td widthd font sizedb
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          bfonttd
+                        td widthd aligndrightnbsptd
+                        td colspand
+                          input typedhidden 
+namedhdnrecipienttxt valuedusausafinancialcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedusa financial ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            a hrefdhttpwwwusafinancialcombr
+            img srcdhttpiiqusimagesusafgif 
+widthd heightd borderd altdusa financial  
+wwwusafinancialcoma
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+font
+body
+html
+
+nextpartbbbcbcafdf
+
+

@@ -1,0 +1,99 @@
+this is a multipart message in mime format
+
+nextpartcfcff
+contenttype textplain
+	charsetiso
+contenttransferencoding quotedprintable
+
+hi all
+
+i am wondering if anybody has successfully install a sitewide 
+spamassassinrazor installation i am having so much trouble and the 
+following is the extract of my procmaillog
+
+razor check skipped bad file descriptor insecure dependency in open 
+while runn
+ing setuid at 
+usrlocallibperlsiteperlrazorclientconfigpm line
+ gen line 
+from infoznioncom  thu sep    
+ subject spam computer maintenance
+  folder homeeugenecaughtspam                                        
+  
+
+
+in razoragentlog i simply get the bootup message and thats it
+
+sep   check   bootup logging initiated 
+logdebugleve
+ld to filevarlograzoragentlog
+
+please help thanks
+
+eugene
+
+nextpartcfcff
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+doctype html public wcdtd html  transitionalen
+htmlhead
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+meta contentdmshtml  namedgenerator
+stylestyle
+head
+body bgcolordffffff
+divfont facedarial sizedhi allfontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizedi am wondering if anybody has 
+successfully install
+a sitewide spamassassinrazor installation i am having so much 
+trouble and
+the following is the extract of my procmaillogfontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizedrazor check skipped bad file 
+descriptor insecure
+dependency in open while runnbring setuid at
+usrlocallibperlsiteperlrazorclientconfigpm 
+linebr
+ltgengt line brfrom a
+hrefdmailtoinfoznioncominfoznioncomanbsp thu sepnbsp  
+
+brnbspsubject spam computer maintenancebrnbsp 
+folder
+homeeugenecaughtspamnbspnbspnbspnbspnbspnbspnbspnbspn
+bspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnb
+spnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbs
+pnbspnbspnbspnbspnbspnbspnbspnbsp
+fontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizedin razoragentlog i simply get the 
+bootup message
+and thats itfontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizedsep   check  
+ bootup
+logging initiated logdebuglevebrld to
+filevarlograzoragentlogfontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizedplease help thanksfontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizedeugenefontdivbodyhtml
+
+nextpartcfcff
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

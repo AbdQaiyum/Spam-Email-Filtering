@@ -1,0 +1,293 @@
+this is a multipart message in mime format
+
+nextpartdceabde
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ any way you slice itge lifetime protector is a cut above 
+ underwritten by general electric capital assurance company and first
+colony life insurance company
+ ge lifetime protector universal life insurance cooks the competition
+with competitive premiums	
+  
+male age  best  face amount annual premiums	 
+ge lifetime protectorsm	 lifetime
+premium
+ 	csv
+ age 
+	 csvface amt
+ age 
+ 	
+product j	 	 	 	 
+product i	 	 	 	 
+product l	 	 	 	 
+product s	 	 	 	 
+product u	 	 	 	 
+product t	 	 	 	 
+product m	 	 	 	 
+product g	 	 	 	 
+source industry market research conducted and compiled by ge financial
+august  
+ 
+ge lifetime protectorsm is subject to the terms issue limitations and
+conditions of policy form nos ul ge et al for ge capital assurance
+and ulfcl et al for first colony life which include exclusion periods
+for death by suicide ge lifetime protectorsm is not available in all
+states 
+
+premium that guarantees coverage for the life of the insured according
+to the companies provisions
+companies refer to premium by different names and the conditions for the
+guarantee will vary from company to company for ge lifetime
+protectorsm this refers to the designated premium requirement subject
+to the policy provisions policy remains in force as long as the sum of
+the premiums paid less the reduction in policy value for all partial
+withdrawals equals or exceeds the cumulative total of the designated
+monthly premiums from the policy date to the end of the current policy
+month
+
+premiums calculated assuming each companys current crediting rate and
+charges each column represents the premium required annually to age 
+to achieve target cash surrender value stated in the column heading
+
+ 	
+ 	underwritten by
+general electric capital assurance company
+first colony life insurance company
+
+lynchburg va
+members of the ge financial family of companies
+
+ click here for ge lifetime protectorsm information and quotes from a
+bramco agency httpwwwinsiqcomresdirspecialge 	 
+we dont want anyone to receive our mailings who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsuranceiqcomoptout
+httpwwwinsuranceiqcomoptout 
+
+legal notice httpwwwinsiqcomlegalhtm 
+
+nextpartdceabde
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlethe best just got bettertitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+font facedarial helvetica sansserif
+table widthd borderd aligndcenter cellpaddingd 
+cellspacingd bordercolord bgcolord
+  tr
+    td aligndcenter
+			table widthd cellpaddingd cellspacingd 
+borderd
+        tr
+          tdimg srcdhttpiiqusimagesbramgegif 
+widthd heightd altdany way you slice itge lifetime 
+protector is a cut aboveimg 
+srcdhttpiiqusimagesbramgegif widthd 
+heightdbr
+            img srcdhttpiiqusimagesbramgegif 
+widthd heightd altdunderwritten by general electric 
+capital assurance company and first colony life insurance companybr
+            img srcdhttpiiqusimagesbramgegif 
+widthd heightd altdge lifetime protector universal life 
+insurance cooks the competition with competitive premiumstd
+        tr
+      table
+			nbsp
+			table widthd borderd cellpaddingd cellspacingd 
+bordercolord
+        tr
+          td
+						table widthd borderd cellpaddingd 
+cellspacingd bgcolordffffff
+              tr
+                td colspand bgcolord 
+aligndcenterfont colordffffffbi
+                  male age  best  face amount annual 
+premiumsibfonttd
+              tr
+              tr aligndcenter valigndbottom
+                td widthdfont colordff 
+sizedbige lifetime protectorsupsmsupibfonttd
+                td widthdbfont sized 
+colordlifetimebr
+                  premiumsupsupfontbr
+                  font colordff 
+sizediifontb
+                td
+                td widthdbfont sized 
+colordcsvdbr
+                   age supsupfontbr
+                  font colordff 
+sizediifontbtd
+                td widthdbfont colord 
+sizedcsvdface amtbr
+                   age supsupfontbr
+                  font colordff 
+sizediifontb
+                td
+              tr
+              tr aligndcenter
+                td bgcolordccccibfont sizedproduct 
+jfontbitd
+                td bgcolordccccibfont 
+sizedfontbitd
+                td bgcolordccccibfont 
+sizedfontbitd
+                td bgcolordccccibfont 
+sizedfontbitd
+              tr
+              tr aligndcenter bgcolordccffff
+                tdibfont sizedproduct ifontbitd
+                tdibfont sizedfontbitd
+                tdibfont sizedfontbitd
+                tdibfont sizedfontbitd
+              tr
+              tr aligndcenter bgcolordcccc
+                tdibfont sizedproduct lfontbitd
+                tdibfont sizedfontbitd
+                tdibfont sizedfontbitd
+                tdibfont sizedfontbitd
+              tr
+              tr aligndcenter bgcolordccffff
+                tdibfont sizedproduct sfontbitd
+                tdibfont sizedfontbitd
+                tdibfont sizedfontbitd
+                tdibfont sizedfontbitd
+              tr
+              tr aligndcenter bgcolordcccc
+                tdibfont sizedproduct ufontbitd
+                tdibfont sizedfontbitd
+                tdibfont sizedfontbitd
+                tdibfont sizedfontbitd
+              tr
+              tr aligndcenter bgcolordccffff
+                tdibfont sizedproduct tfontbitd
+                tdibfont sizedfontbitd
+                tdibfont sizedfontbitd
+                tdibfont sizedfontbitd
+              tr
+              tr aligndcenter bgcolordcccc
+                tdibfont sizedproduct mfontbitd
+                tdibfont sizedfontbitd
+                tdibfont sizedfontbitd
+                tdibfont sizedfontbitd
+              tr
+              tr aligndcenter bgcolordccffff
+                tdibfont sizedproduct gfontbitd
+                tdibfont sizedfontbitd
+                tdibfont sizedfontbitd
+                tdibfont sizedfontbitd
+              tr
+            table
+					td
+        tr
+      table
+			font colordffffff sizedbsource industry market 
+research conducted and compiled by ge financial august bfont 
+
+			table widthd borderd cellspacingd 
+cellpaddingd
+        tr
+          td colspand img 
+srcdhttpiiqusimagesbramgegif widthd 
+heightdbr
+            font colordffffff sizedge lifetime 
+protectorsupsmsup
+            is subject to the terms issue limitations and conditions of 
+policy
+            form nos ul ge et al for ge capital assurance and ulfcl 
+et al
+            for first colony life which include exclusion periods for 
+death by
+            suicide ge lifetime protectorsupsmsup is not available 
+in all
+            states
+            psupsuppremium that guarantees coverage for the life 
+of the insured according to the companies provisionsbr
+              companies refer to premium by different names and the 
+conditions
+              for the guarantee will vary from company to company for 
+ge lifetime
+              protectorsupsmsup this refers to the designated 
+premium requirement
+              subject to the policy provisions policy remains in force 
+as long
+              as the sum of the premiums paid less the reduction in 
+policy value
+              for all partial withdrawals equals or exceeds the 
+cumulative total
+              of the designated monthly premiums from the policy date to 
+the end
+              of the current policy monthp
+            psupsuppremiums calculated
+              assuming each companys current crediting rate and 
+charges each
+              column represents the premium required annually to age  
+to achieve
+              target cash surrender value stated in the column 
+headingpfont
+          td
+        tr
+        tr
+          td colspandimg 
+srcdhttpiiqusimagesbramgegif widthd 
+heightdtd
+        tr
+        tr
+          td widthdimg 
+srcdhttpiiqusimagesbramgegif widthd 
+heightdtd
+          td widthd
+            pbfont colordffffff sizedunderwritten bybr
+              general electric capital assurance companybr
+              first colony life insurance companyfontbp
+            pbfont colordffffff sizedilynchburg 
+vabr
+              members of the ge financial family of 
+companiesifontbp
+          td
+        tr
+        tr aligndcenter
+          td colspandimg 
+srcdhttpiiqusimagesbramgegif widthd 
+heightda hrefdhttpwwwinsiqcomresdirspecialgeimg 
+srcdhttpiiqusimagesbramgegif altdclick here 
+for ge lifetime protectorsm information and quotes from a bramco 
+agency widthd heightd borderdatd
+        tr
+      table
+		td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+			pfont facedarial helvetica sansserif sizedwe dont 
+want anyone to receive our mailings who does not
+			wish to receive them this is a professional communication
+			sent to insurance professionals to be removed from this mailing
+			list bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptout
+			httpwwwinsuranceiqcomoptoutafontp
+    td
+  tr
+table
+center
+  a hrefdhttpwwwinsiqcomlegalhtmfont sized 
+facedarial helvetica sansseriflegal notice fonta
+center
+font
+body
+html
+
+nextpartdceabde
+
+

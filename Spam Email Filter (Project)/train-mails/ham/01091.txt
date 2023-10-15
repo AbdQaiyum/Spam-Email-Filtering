@@ -1,0 +1,22 @@
+never mind there was some cron thing doing rpm qf   seems fine now
+
+on wednesday february     mark derricutt 
+marktalioscom wrote
+
+ fetched kb in ms bs
+ error cannot get exclusive lock on varlibrpmpackages
+ error cannot open packages index using db  operation not permitted 
+ e could not open rpm databasecannot open packages index using db 
+ operation not permitted 
+
+
+
+                                     m 
+  if i seem super human i have been misunderstood c dream theater
+         marktalioscom  icq  jid taliosmyjabbernet
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

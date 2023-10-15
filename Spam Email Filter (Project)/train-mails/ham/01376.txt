@@ -1,0 +1,20 @@
+now that i have spam assassin and mailscanner working how can i have smap
+deleted rather than forwarded
+
+i changed spamactionsconf to default	delete but it is still sending it
+to the recipient
+
+thanks
+ken
+
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

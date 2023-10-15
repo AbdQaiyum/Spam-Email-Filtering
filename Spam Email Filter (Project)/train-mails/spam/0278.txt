@@ -1,0 +1,110 @@
+html
+head
+titletitle
+head
+body bgcolorwhite
+table
+tr
+   td
+   centerbr
+   bnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp     centerb
+
+   td
+tr
+table
+p aligncenterfont  colorwhite size  strong
+table cellspacing cellpadding width border stylewidth px height px
+  tbody
+  
+  tr
+    tdimg alt 
+      srchttpwwwbilsagcomwebjpgtd
+    td bgcolorredfont size
+      
+      colorwhiteemstrongnternette kendnz daha y hssedeceksnz
+	  nglzce web sayfalarinin trkeye evr yazilimi
+	   strongem fonttdtr
+  tr
+  td bgcolorpalegoldenrodfont size 
+      colordarkblueemstrong kdvstrongem fonttdtr
+  tr
+    td  img alt 
+      srchttpwwwbilsagcomcevjpgtd
+    td bgcolorredfont size
+      
+      colorwhitestrongem nglzceden trkeye blgsayar destekl
+	    metn evr yazilimi  
+	 
+	 msword altinda kullanim tm windows versyonlari le uyumlu
+	  emstrong fonttdtr
+  tr
+  td bgcolorpalegoldenrodfont size 
+      colordarkbluestrongem kdvemstrong fonttdtr
+  tr
+    td bgcolordarkbluefont size colorwhitestrongemk yazilim nbsp brlktefontem    strongtd
+    td bgcolordarkbluefont size 
+      colorwhitestrongem 
+  kdvemstrong 
+fonttdtrtbodytablestrongfontp
+      p aligncenterstronga hrefhttpwwwbilsagcomindexhtmlfont colordarkcyan sizeayrntl bilgi 
+      innbsp fontstrongstrongfont 
+      colordarkcyan size  tklaynfontastrong 
+      nbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp p
+      p aligncenter
+     
+      nbspa hrefhttpwwwbilsagcomsiparishtmimg alt srchttpwwwbilsagcomsipbutongif border
+      a p
+      p aligncenterfont colorffstrongblsag ltdstrongfontp
+      p aligncenterfont sizefont colorffstrongahmet mthat 
+      efend sok  ankaya   ankara strongfontfontp
+      p aligncenterfont sizefont colorffstrongfont 
+      sizetlf    fax   font 
+      strongfontfontp
+      p aligncentera hrefmailtobilsagmsncomfont colorff 
+      sizestrongbilsagmsncomstrongfontap
+      
+  
+    td
+    
+      p aligncenternbspp
+      p aligncenternbspp
+      tdtrtable
+pp
+    
+form actionhttpwwwbilsagcomiptalasp methodpost
+center
+table width cellspacing cellpadding border bgcolordddddd
+tr
+td bgcoloreeeeee alignmiddlefont faceverdana arial size color
+strongeposta adres listemizdenstrong kmak iinstrongikarstrong tuuna basnz
+font
+tdtr
+tr
+td bgcoloreeeeee alignmiddle
+input namee valuewebmaketalklistssourceforgenet size 
+     font                   
+input typesubmit valuekar
+tdtr
+tr
+td bgcolorffffff alignright
+font facearial size colorbu elektronik posta webmaketalklistssourceforgenet e gnderilmitirfont
+      
+
+
+tdtrtable
+center
+form
+body
+html
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+webmaketalk mailing list
+webmaketalklistssourceforgenet
+httpslistssourceforgenetlistslistinfowebmaketalk
+
+

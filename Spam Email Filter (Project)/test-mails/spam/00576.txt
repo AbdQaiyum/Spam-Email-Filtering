@@ -1,0 +1,166 @@
+ saved from urlhttpinternetemail 
+doctype html public wcdtd html  transitionalen
+htmlhead
+meta httpequivcontenttype contenttexthtml charsetiso
+meta contentmicrosoft frontpage  namegenerator
+stylestyle
+head
+body bgcolorffffff
+divnbspdiv
+div aligncenter
+center
+table cellpadding width border cellspacing
+  tbody
+  tr
+    td width colspan
+      p aligncenterbfont facearial black colorff sizeincrease 
+      your sales up to fontbfont facearial color 
+      sizenbspfontp
+      p aligncenterfont facearial colorspan 
+      stylebackgroundcolor ffffb pay no setup or application fee 
+      brbspanfontbfont facearial color 
+      sizeispan 
+      stylebackgroundcolor ffffspanifontbbfont 
+      facearial color sizeispan 
+      stylebackgroundcolor fffflimited time 
+      offerspanifontbp
+      p aligncenterbfont facearial color 
+      sizecfontbbfont facearial color sizeall 
+      tollfree fontfont facearial color size    
+      fontfont facearial color size with coupon code 
+      fontfont facearial color size orbruse our reply form 
+      below for quickest resultsnbspfontbfont facearial 
+      colorbrfontptdtr
+  tr
+    td valigntop widthbfont facearial colorwe specialize 
+      in businesses that would most likely be declined by other 
+      processorsfontb 
+      ul
+        lifont facearial colorretailfont 
+        lifont facearial colorhomebased businessesfont 
+        lifont facearial colormlmsfont 
+        lifont facearial colornetwork marketingfont 
+        lifont facearial colorhigh volumefont 
+        lifont facearial colormembership sitesfont 
+        lifont facearial colornew businessesfont 
+        lifont facearial colorgood or bad creditfont 
+        lifont facearial coloradult web sitesfont liultd
+    td valigntop widthbfont facearial color 
+      sizeaccount features includefontb 
+      ul
+        lifont facearial color sizeez credit  u approval 
+        rateufont 
+        lifont facearial color sizesecure realtime transactions 
+        on your websitenbspfont 
+        lifont facearial color sizespan 
+        stylebackgroundcolor ffffapplication fee of  amp 
+        electronic check setup fee of  waivedspanfont 
+        lifont facearial color sizeterminal and printer or 
+        software availablenbspfont 
+        lifont facearial color sizeequipment purchase or  tax 
+        deductible ez pay lease option availablenbspfont 
+        lifont facearial color sizeudiscount rates as low as 
+        unbspfont 
+        lifont facearial color sizewe pay for every person you 
+        refer to us for processingfont liultdtr
+  tr
+    td alignmiddle width colspan
+      form 
+      onsubmitalertthank you for providing us with this information you will be contacted shortly by one of our representatives 
+      actionmailtojhancockstudentnownetccsignmeuprealspecialofferscomampsubjectcouponcode 
+      methodpost enctypetextplain
+      table cellpadding width bgcolorffffff border
+        tbody
+        tr
+          td alignright widthbfont facearial colorff 
+            sizecoupon codefontbtd
+          td widthfont facearial sizeinput size value 
+            namecouponcode selectedfonttdtr
+        tr
+          td alignright widthfont facearial sizefirst and last 
+            namefonttd
+          td widthfont facearial sizeinput size 
+            namenamefonttdtr
+        tr
+          td alignright widthfont facearial sizecompany 
+            namefonttd
+          td widthfont facearial sizeinput size 
+            namecompanynamefonttdtr
+        tr
+          td alignright widthfont facearial sizephone number 
+            where you can be reachedfonttd
+          td widthfont facearial sizeinput 
+            namephonenumberfonttdtr
+        tr
+          td alignright widthfont facearial sizethe best time to 
+            call youfonttd
+          td widthfont facearial sizeinput size 
+            namebesttimetocallfonttdtr
+        tr
+          td alignright widthfont facearial sizeemail 
+            addressfonttd
+          td widthfont facearial sizeinput size 
+            nameemailaddressfonttdtr
+        tr
+          td alignright widthfont facearial sizeus state or 
+            canadian provincefonttd
+          td widthfont facearial sizeinput size 
+            namestatenamefonttdtr
+        tr
+          td alignright widthfont facearial sizeselect your 
+            countryfonttd
+          td widthfont facearial sizeselect size namecountry 
+              optionunited statesoption option selectedchooseoption 
+              optioncanadaoptionselectfonttdtr
+        tr
+          td alignright widthfont facearial sizetype of business 
+            optionalfonttd
+          td widthfont facearial sizeselect size 
+              namebiztype option valuestandard retailstandard 
+              retailoption option valuestorefront establishmentsstore 
+              front establishmentsoption option 
+              valueoutbound telemarketingoutbound telemarketingoption 
+              option valuecatalogcatalogoption option 
+              valuemoto merchantsmoto merchantsoption option 
+              valuedating servicesdating servicesoption option 
+              valueairlines airlinesoption option 
+              valuesubscriptionssubscriptionsoption option 
+              valuediscount coupon booksdiscount coupon booksoption 
+              option valueaudiotextaudiotextoption option 
+              valuehouse party planshouse party plansoption option 
+              valueextended liabilityextended liabilityoption option 
+              valuehomebased businesses homebased businessesoption 
+              option valueforeign corporationsforeign corporationsoption 
+              option valuevitamin  nutritionvitamin  nutritionoption 
+              option valuemultilevel marketers multilevel 
+              marketersoption option valueelectronic cash electronic 
+              cashoption option valuefulfillment centers fulfillment 
+              centersoption option 
+              valuepersonals advertising internetpersonals advertising 
+              internetoption option valueadult internet sitesadult 
+              internet sitesoption option valueonline casinoonline 
+              casinooption option valueother otheroption option 
+              selectedchooseoptionselectfonttdtr
+        tr
+          td alignright widthfont facearial sizemonthly revenue 
+            in transactions optionalfonttd
+          td widthfont facearial sizeinput 
+            namemonthlytransactionamountfonttdtrtbodytable
+      p input typesubmit
+      formptdtr
+  tr
+    td alignmiddle width colspanfont facearialbthis offer only for us residents or canadians with a 
+      valid ss and us bank accountbfont 
+      pnbspp
+    center
+    p aligncenterfont sizebfont faceverdana colorto
+    be removed from this listfontbfontfont faceverdana color sizefont faceverdana color sizebbr
+    bfontunder bill s title iii section  per section 
+    paragraph a  c passed by the th us congress any email or mass
+    marketing email cannot be considered spam as long as the sender includes
+    contact information and a method of removal to be removed mailto a hrefmailtoremovedremovefactorycomremovedremovefactorycoma
+    and put quotremovequot in the subject linefontp
+center
+      pfont facearial colorffffffbfont sizeto be removed from future mailings please send a blank email tofontbfontptdtrtbodytablecenterdivbodyhtml
+
+qgncmtflpngnodveuomgyo

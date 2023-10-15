@@ -1,0 +1,89 @@
+of course weve had select since bsd  and poll since system v
+or so and they work reasonably well for asynchronous io up to a
+hundred or so channels but suck after that devpoll available in
+solaris and linux is one approach to solving this linux has a way to
+do essentially the same thing with realtime signals and has for
+years and freebsd has kqueue
+
+more details about these are at
+httpwwwcitiumicheduprojectslinuxscalability
+
+none of this helps with disk io most programs that need to overlap
+disk io with computation on either proprietary unixes or linux just
+use multiple threads or processes to handle the disk io
+
+posix specifies a mechanism for nonblocking disk io that most
+proprietary unixes implement  the linux kernel hackers are currently
+rewriting linuxs entire io subsystem essentially from scratch to
+work asynchronously because they can easily build efficient
+synchronous io primitives from asynchronous ones but not the other
+way around so now linux will support this mechanism too
+
+it probably doesnt need saying for anyone whos read beberg saying
+things like memory management is a nonissue for anyone that has any
+idea at all how the hardware functions but hes totally offbase
+people should know by now not to take anything he says seriously but
+apparently some dont so ill rebut
+
+not surprisingly the rebuttal requires many more words than the
+original stupid errors
+
+in detail he wrote
+ could it be after  years without this feature unix finally
+ catches up to windows and has io that doesnt sic totally suck for
+ nontrivial apps no way
+
+unix acquired nonblocking io in the form of select about  years
+ago and solaris has had the particular aio calls we are discussing
+for many years  very few applications need the aio calls 
+essentially only highperformance rdbms servers even benefit from them
+at all and most of those have been faking it fine for a while with
+multiple threads or processes  this just provides a modicum of extra
+performance
+
+ ok so they do it with signals or a flag which is completely
+ ghetto but at least they are trying keep trying guys you got the
+ idea but not the clue
+
+readers can judge who lacks the clue here
+
+ the windows io model does definately sic blow the doors off the
+ unix one but then they had select to point at in its sic
+ suckiness and anything would have been an improvement unix is just
+ now looking at its sic io model and adapting to a multiprocess
+ multithreaded world so its gonna be years yet before a posix api
+ comes out of it
+
+although i dont have a copy of the spec handy i think the aio apis
+come from the posix spec ieee std  section  which is
+ years old and which i think documented thencurrent practice
+they might be even older than that
+
+unix has been multiprocess since  and most unix implementations
+have supported multithreading for a decade or more
+
+ bottom line is the do stuff when something happens model turned
+ out to be right and the unix look for something to do and keep
+ looking till you find it no matter how many times you have to look
+ is not really working so great anymore
+
+linuxs aio routines can notify the process of their completion with
+a signal a feature missing in microsoft windows a signal causes
+the immediate execution of a signal handler in a process  by
+contrast the microsoft windows mechanisms to do similar things such
+as completion ports do not deliver a notification until the process
+polls them
+
+i dont think signals are a better way to do things in this case
+although i havent written any rdbmses myself but you got the
+technical descriptions of the two operating systems exactly backwards
+most programs that use linux realtime signals for asynchronous
+network io in fact block the signal in question and poll the signal
+queue in a very windowsish way using sigtimedwait or sigwaitinfo
+
+ 
+kragenpoboxcom       kragen sitaker     httpwwwpoboxcomkragen
+edsger wybe dijkstra died in august of   this is a terrible loss after 
+which the world will never be the same
+httpwwwxentcompipermailforkaugusthtml
+

@@ -1,0 +1,47 @@
+there is an update all scan caches menu entry that rescans your
+folders similar to the short scripts folks have shared around  it
+runs in the background
+
+rick baartman said
+    on mon  sep  rick baartman wrote
+   thanks tom and jacob the above works but without the double quotes 
+ie
+      
+   
+   sh c for f in folders recurse fast  do sortm f  done
+   
+  but there is a problem with making changes outside of exmh the 
+xmhcache fi
+     les 
+  dont get updated this is dangerous i have to remember to rescan each 
+fol
+     der 
+  i enter is there a safeguard for this
+  
+  
+  rick
+  
+  
+  
+  
+  
+  exmhusers mailing list
+  exmhusersredhatcom
+  httpslistmanredhatcommailmanlistinfoexmhusers
+
+
+brent welch
+software architect panasas inc
+pioneering the worlds most scalable and agile storage network
+wwwpanasascom
+welchpanasascom
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

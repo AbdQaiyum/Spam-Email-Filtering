@@ -1,0 +1,56 @@
+this is possible however using sa as a block criteria is not recommended 
+sa does have a very realistic chance of mismarking mail so using it as an 
+autodelete function is at best extraordinarily foolish
+
+
+however heres what the procmail rule will look like dug up from an old 
+post to this list by steve thomas
+
+in your procmailrc file
+
+
+ xspamstatus yes
+devnull
+
+
+do not do this youll throw out a lot of legitimate messages over time
+
+instead do what the docs suggest and put them into a separate mail folder
+
+
+ xspamstatus yes
+maildirspam
+
+
+
+at  pm   erik jakobsen wrote
+hi
+
+how can i block emails comming to me by aid of sa 
+
+med venlig hilsen  best regards
+erik jakobsen  erikurbakkendk
+suse linux 
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+
+
+
+this sfnet email is sponsored by get the new palm tungsten t 
+handheld power  color in a compact size 
+httpadssourceforgenetcgibinredirectplpalmen
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

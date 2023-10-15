@@ -1,0 +1,171 @@
+this is a multipart message in mime format
+
+nextpartcdccbfa
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ we dare you
+ try to find a better annuity
+
+    guaranteed for  yearsa
+  year surrender chargea
+  agent
+commission up to age 
+call today for more information
+  ext 
+ or 
+
+please fill out the form below for more information	
+name	 	  
+email	 	
+phone	 	
+city	 	 state	 	
+ 	    
+
+ pmg financial services
+ for deposits of  and up  interest for deposits
+totalling 	
+we dont want anyone to receive our mailings who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsuranceiqcomoptout
+httpwwwinsuranceiqcomoptout
+
+legal notice httpwwwinsiqcomlegalhtm
+
+nextpartcdccbfa
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlewe dare you to find a better annuitytitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolord textd
+font facedarial helvetica sansserif
+table widthd borderd aligndcenter cellpaddingd 
+cellspacingd bordercolord bgcolordffffff
+  tr
+    td
+      img srcdhttpiiqusimagespmggif altdwe 
+dare you widthd heightdbr
+      img srcdhttpiiqusimagespmgjpg altdtry 
+to find a better annuity widthd heightdbr
+      img srcdhttpiiqusimagespmgjpg 
+widthd heightd
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          tdimg srcdhttpiiqusimagespmggif 
+widthd heightdimg 
+srcdhttpiiqusimagespmggif altd  
+guaranteed for  years  year surrender charge  agent 
+commission up to age  widthd heightdtd
+        tr
+        tr
+          td aligndcenter
+            bfont sizedcall today for more informationbr
+            img srcdhttpiiqusimagespmggif 
+altd ext  widthd heightdbr
+             or fontbbr
+            table widthd borderd cellpaddingd 
+cellspacingd bordercolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd aligndcenter 
+cellpaddingd cellspacingd 
+backgrounddhttpiiqusimagespmggif 
+bgcolordffffff
+                      tr
+                        td colspand aligndcenterbfont 
+sizedplease fill out the form below for more 
+informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspandinput typedtext 
+namedcontactname sizedtd
+                        td rowspand valigndmiddle 
+aligndcenterimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspandinput typedtext 
+namedemail sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspandinput typedtext 
+namedphone sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthdinput typedtext 
+namedcity sizedtd
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthdinput typedtext 
+namedstate sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd colspand
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          input typedhidden 
+namedhdnrecipienttxt valuedrhockpmgsecuritiescom
+                          input typedhidden namedhdnsubjecttxt 
+valuedpmg dare ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            bfont sizedimg 
+srcdhttpiiqusimagespmggif altdpmg financial 
+services widthd heightd
+            fontbtd
+        tr
+        tr
+          tdfont sized for deposits of  and up 
+ interest for deposits totalling fonttd
+        tr
+      table
+		td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+			pfont facedarial helvetica sansserif sizedwe
+			dont want anyone to receive our mailings who does not
+			wish to receive them this is a professional communication
+			sent to insurance professionals to be removed from this mailing
+			list bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptout
+			httpwwwinsuranceiqcomoptoutafontp
+    td
+  tr
+table
+center
+  a hrefdhttpwwwinsiqcomlegalhtmfont sized 
+facedarial helvetica sansseriflegal notice fonta
+center
+font
+body
+html
+
+nextpartcdccbfa
+

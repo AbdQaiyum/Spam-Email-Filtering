@@ -1,0 +1,124 @@
+
+html
+
+head
+meta httpequivdcontenttype contentdtexthtml charsetdiso
+
+titlelowest life insurance quotestitle
+styletd fontfamily arialstyle
+head
+
+body bgcolordffffff
+div styledfontfamilytimesbfont facedarial colordblue si
+zed
+
+p aligndcenterthe lowest life insurance quotesfontb br
+bifont facedarial colordred sizedwithout the hasslef
+ontib p
+
+p aligndcenterfont facedarial colordblack sizedcompar
+e rates from the
+nations top insurance companiesfont br
+a hrefdhttpindexhtmbfont facedarial col
+ordblue sizedshop
+compare and savefontba p
+
+p aligndcenterbfont facedarial colordblack sizedfil
+l out the simple form
+and youll have the br
+ best custom quotes infontfont facedarial colordred sized
+  minutefontb
+p
+
+p aligndcentera hrefdhttpindexhtmfont f
+acedarial
+colordblue sizedbcompare your current coveragebfonta 
+br
+font facedarial colordblue sizedto these sample year lev
+el term monthly
+premiums br
+ year  year and smoker rates also availablefont p
+div aligndcentercenter
+
+table borderd widthd
+  tr
+    td aligndcenter bgcolordfffffftd
+    td aligndcenter colspand bgcolordeeeftd
+    td aligndcenter colspand bgcolordffatd
+    td aligndcenter colspand bgcolorddfetd
+  tr
+  tr
+    td bgcolordbfont colordffffffagefonttd
+    td bgcolordbfont colordffffffmalefonttd
+    td bgcolordbfont colordfffffffemalefonttd
+    td bgcolordbfont colordffffffmalefonttd
+    td bgcolordbfont colordfffffffemalefonttd
+    td bgcolordbfont colordffffffmalefonttd
+    td bgcolordbfont colordfffffffemalefonttd
+  tr
+  tr
+    td bgcolordbfont colordfffffffonttd
+    td bgcolordeeeftd
+    td bgcolordeeeftd
+    td bgcolordffatd
+    td bgcolordffatd
+    td bgcolorddfetd
+    td bgcolorddfetd
+  tr
+  tr
+    td bgcolordbfont colordfffffffonttd
+    td bgcolordeeeftd
+    td bgcolordeeeftd
+    td bgcolordffatd
+    td bgcolordffatd
+    td bgcolorddfetd
+    td bgcolorddfetd
+  tr
+  tr
+    td bgcolordbfont colordfffffffonttd
+    td bgcolordeeeftd
+    td bgcolordeeeftd
+    td bgcolordffatd
+    td bgcolordffatd
+    td bgcolorddfetd
+    td bgcolorddfetd
+  tr
+  tr
+    td bgcolordbfont colordfffffffonttd
+    td bgcolordeeeftd
+    td bgcolordeeeftd
+    td bgcolordffatd
+    td bgcolordffatd
+    td bgcolorddfetd
+    td bgcolorddfetd
+  tr
+table
+centerdiv
+
+p aligndcenterfont sized facedarialhelveticaa
+hrefdhttpindexhtmbclick here to compareb
+a br
+bifont facedarial colordred sizedits fast easy and fr
+eefontib p
+
+hr
+font sized
+
+p aligndcenterall quotes shown are from insurance companies rated a
+ a a or a by
+am best company a registered rating service and include all fees and c
+ommissions br
+actual premiums and coverage availability will vary depending upon age se
+x state
+availability health history and recent tobacco usagefont p
+divfont
+
+p aligndcenterto unsubscribe reply with unsubscribe in subjectp
+body
+html
+
+
+
+
+
+

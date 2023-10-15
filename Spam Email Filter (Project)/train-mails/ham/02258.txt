@@ -1,0 +1,24 @@
+url httpboingboingnet
+date not supplied
+
+rob pringles can flickenger and others cliff skolnik at the oreilly os x con 
+has tracked down the cause of the annoying flakiness in the wireless network 
+here  every  or  seconds you start getting connection refused messages 
+from your browser and other netutilities rob pringles can flickenger wrote 
+it up 
+
+it turns out that running the great networkspy app etherpeg or other 
+promiscuous network sniffers and the builtin firewall in os x at the same 
+time causes your computer to begin intercepting every packet sent out on your 
+segment of the wireless network and respond to it with a rejected message 
+
+so today rob and everyone else who knows about this is going to run around 
+and tell people running etherpeg to turn off the firewall and viceversa 
+ah fickle networking you are such a stern mistress link discuss 
+thanks rob
+
+ httpwwworeillynetcompubwlg
+ httpwwworeillynetcompubwlg
+ httpwwwquicktopiccomboinghbfyibhetqsa
+
+

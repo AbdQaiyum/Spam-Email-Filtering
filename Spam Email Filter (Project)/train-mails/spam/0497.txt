@@ -1,0 +1,461 @@
+this is a multipart message in mime format
+
+nextpartabcefbc
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ what does it mean to be made in the usa
+ cna is hitting the road to tell you about ingenuity innovative
+products and gutsy spirit	
+we encourage you to attend the cna american road
+show youll get an insiders glimpse of cnas new products
+a revolutionary longterm care an innovative annuity and a
+groundbreaking new cna term thatll dominate the market
+cna management will also share profitable ideas discuss
+service and distribution strategies and unveil exciting
+incentive programs
+
+ am  coffee and rolls
+ am pm  road show presentations
+
+
+oct  new orleans la
+hilton new orleans airport 
+ airline drive  kenner la
+
+oct  houston tx
+marriott houston bush iah
+ john f kennedy blvd
+
+oct  dallas tx
+marriott suites dallas market center 
+ n stemmons fwy
+
+oct  pittsburgh pa
+pittsburgh marriott city center
+ washington place
+
+oct  baltimore md
+bwi airport marriott 
+ west nursery rd
+
+oct  chicago il
+marriott chicago ohare
+ west higgins rd
+
+oct  seattle wa
+doubletree hotel seattle airport
+ pacific hwy south
+
+oct  salt lake city ut
+hilton salt lake city airport
+ wiley post way 
+
+oct  phoenix az
+embassy suites phoenix 
+airport
+ n th street
+
+oct  nashville tn
+sheraton music city 
+ mcgavock pike
+
+oct  kansas city mo
+embassy suites kci 
+ nw tiffany springs pkwy
+
+oct  st louis mo
+marriott st louis airport
+i at lambert airport
+
+oct  minneapolis mn
+marriott minneapolis airport
+ east th street
+
+nov  charlotte nc
+renaissance charlotte 
+suites hotel
+ coliseum centre drive
+
+nov  hartford ct
+hartfordwindsor marriott 
+airport 
+ day hill road  windsor ct 
+
+nov  los angeles ca
+marriott warner center 
+ oxnard st
+woodland hills
+
+nov  orange county ca
+marriott irvine john wayne airport
+ west higgins rd
+ vonkarman ave
+
+nov  san diego ca
+marriott san diego mission valley 
+ san diego drive
+
+nov  san francisco ca
+santa clara marriott 
+ mission college blvd
+santa clara
+
+nov  sacramento ca
+marriott sacramento 
+ point east drive 
+rancho cordova ca
+
+nov  atlanta ga
+marriott atlanta northwest 
+ interstate north parkway
+
+nov  tampa fl
+hilton garden inn tampa north 
+ tampa oaks blvd 
+
+	the cna american road show is the mustattend meeting of the
+year
+	visit httpagentscnalifecom for more information
+
+ or  	
+ 	 please fill out the form below for more information	 
+name	 	 
+email	 	 
+phone	 	 
+city	 	 state	 	  	
+ 	    	
+ 
+ 	cna cna life and cna ltc are registered service marks trade
+names and domain names of cna financial corporation cna life insurance
+and annuity products are underwritten by valley forge life insurance
+company and in new york continental assurance company cna longterm
+care products are underwritten by continental casualty company and
+valley forge life insurance company all products and their features may
+not be available in all states
+mx  httpagentscnalifecom for producer use only
+we dont want anybody to receive our mailing who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsuranceiqcomoptout
+legal notice httpwwwinsuranceiqcomlegalhtm  	
+
+
+nextpartabcefbc
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlehit the road with cnatitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+
+body bgcolordffffff textd
+p aligndcenter
+  table widthd borderd cellspacingd cellpaddingd 
+bordercolordcc
+    tr
+      td
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            tdimg srcdhttpiiqusimagescnatopjpg 
+widthd heightd altdwhat does it mean to be made in the 
+usabr
+            img srcdhttpiiqusimagescnabotjpg widthd 
+heightd altdcna is hitting the road to tell you about 
+ingenuity innovative products and gutsy spirittd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenter
+                table widthd borderd cellspacingd 
+cellpaddingd heightd
+                  tr
+                    td
+                      pfont sized facedgeneva arial 
+helvetica sanserif colordcc
+                        we encourage you to attend the bfont 
+colordcna american roadbr
+                        showfontb youll get an insiders glimpse 
+of cnas new productsbr
+                        a bfont colordrevolutionary 
+longterm care an innovative annuityfontb and abr
+                        groundbreaking font colordbnew 
+cna termbfont thatll dominate the marketbr
+                        cna management will also share profitable ideas 
+discussbr
+                        service and distribution strategies and unveil 
+excitingbr
+                        incentive programsfontp
+                      pfont facedarial helvetica sansserif 
+sized colordb
+                         am  coffee and rollsbr
+                         am pm  road show 
+presentationsbfontp
+                    td
+                  tr
+                tablebr
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr valigndtop
+            td widthd
+              font sized facedgeneva arial helvetica 
+sanserif
+              poct  font colordccnew orleans 
+lafontbr
+                hilton new orleans airport br
+                 airline drive  kenner lap
+              poct  font colordcchouston txfontbr
+                marriott houston bush iahbr
+                 john f kennedy blvdp
+              poct  font colordccdallas txfontbr
+                marriott suites dallas market center br
+                 n stemmons fwyp
+              poct  font colordccpittsburgh 
+pafontbr
+                pittsburgh marriott city centerbr
+                 washington placep
+              poct  font colordcc baltimore 
+mdfontbr
+                bwi airport marriott br
+                 west nursery rdp
+              poct  font colordccchicago ilfontbr
+                marriott chicago oharebr
+                 west higgins rdp
+              poct  font colordccseattle wafontbr
+                doubletree hotel seattle airportbr
+                 pacific hwy southp
+              poct  font colordccsalt lake city 
+utfontbr
+                hilton salt lake city airportbr
+                 wiley post way p
+              font
+            td
+            td widthd
+              font sized facedgeneva arial helvetica 
+sanserif
+              poct font colordcc phoenix azfontbr
+                embassy suites phoenix br
+                airportbr
+                 n th streetp
+              poct  font colordccnashville 
+tnfontbr
+                sheraton music city br
+                 mcgavock pikep
+              poct  font colordcckansas city 
+mofontbr
+                embassy suites kci br
+                 nw tiffany springs pkwyp
+              poct  font colordccst louis 
+mofontbr
+                marriott st louis airportbr
+                i at lambert airportp
+              poct  font colordccminneapolis 
+mnfontbr
+                marriott minneapolis airportbr
+                 east th streetp
+              pnov  font colordcccharlotte ncfontbr
+                renaissance charlotte br
+                suites hotelbr
+                 coliseum centre drivep
+              pnov  font colordcchartford ctfontbr
+                hartfordwindsor marriott br
+                airport br
+                 day hill road  windsor ct p
+              font
+            td
+            td widthd
+              font sized facedgeneva arial helvetica 
+sanserif
+              pnov  font colordcclos angeles 
+cafontbr
+                marriott warner center br
+                 oxnard stbr
+                woodland hillsp
+              pnov  font colordccorange county 
+cafontbr
+                marriott irvine john wayne airportbr
+                 west higgins rdbr
+                 vonkarman avep
+              pnov  font colordccsan diego 
+cafontbr
+                marriott san diego mission valley br
+                 san diego drivep
+              pnov  font colordccsan francisco 
+cafontbr
+                santa clara marriott br
+                 mission college blvdbr
+                santa clarap
+              pnov font colordcc sacramento 
+cafontbr
+                marriott sacramento br
+                 point east drive br
+                rancho cordova cap
+              pnov  font colordccatlanta gafontbr
+                marriott atlanta northwest br
+                 interstate north parkwayp
+              pnov  font colordcctampa flfontbr
+                hilton garden inn tampa north br
+                 tampa oaks blvd p
+              font
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td
+              blockquote
+                pfont facedgeneva arial helvetica sanserif 
+sized colordccb
+                  the cna american road show is the mustattend meeting 
+of the yearbr
+                  visit a 
+hrefdhttpagentscnalifecomhttpagentscnalifecoma
+                  for more informationbfontp
+              blockquote
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenter
+              font facedgeneva arial helvetica sanserif 
+sized colordccb or bfont
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td
+              table widthd bgcolordffffff
+                tr
+                  form methoddpost 
+actiondhttpresponseresponseasp
+                    td
+                      table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordffffff
+                        tr
+                          td widthd aligndrightnbsptd
+                          td colspandfont facedarial 
+helvetica sansserif sized colordccbplease fill out 
+the form below for more informationbfonttd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif sized 
+colordccnamefonttd
+                          td colspandinput typedtext 
+namedcontactname sizedtd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif sized 
+colordccemailfonttd
+                          td colspandinput typedtext 
+namedemail sizedtd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif sized 
+colordccphonefonttd
+                          td colspandinput typedtext 
+namedphone sizedtd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif sized 
+colordcccityfonttd
+                          td widthdinput typedtext 
+namedcity sizedtd
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif sized 
+colordccstatefonttd
+                          td widthdinput typedtext 
+namedstate sizedtd
+                          td rowspand aligndcenter 
+valigndmiddlefont colordccimg 
+srcdhttpiiqusimagesqgif widthd 
+heightdfonttd
+                        tr
+                        tr
+                          td widthd aligndrightnbsptd
+                          td widthd colspand
+                            input typedsubmit namedsubmit 
+valuedsubmit
+                            input typedhidden 
+namedhdnrecipienttxt valuedroadshowcnalifecom
+                            input typedhidden 
+namedhdnsubjecttxt valuedcna ad inquiry
+                          td
+                        tr
+                      table
+                    td
+                  input typedhidden namedsentto 
+valued
+form
+                tr
+              table
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthdimg 
+srcdhttpiiqusimagescnalogogif widthd 
+heightdtd
+            td widthdfont facedgeneva arial helvetica 
+sanserif sizedcna
+              cna life and cna ltc are registered service marks trade 
+names and
+              domain names of cna financial corporation cna life 
+insurance and
+              annuity products are underwritten by valley forge life 
+insurance
+              company and in new york continental assurance company 
+cna longterm
+              care products are underwritten by continental casualty 
+company and
+              valley forge life insurance company all products and 
+their features
+              may not be available in all statesbr
+              mx  httpagentscnalifecom for producer use 
+onlybr
+              we dont want anybody to receive our mailing who does not 
+wish to
+              receive them this is a professional communication sent to 
+insurance
+              professionals to be removed from this mailing list do 
+not reply
+              to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptouthttpwwwinsuranceiqcomopt
+outabr
+              a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafont
+            td
+          tr
+        table
+      td
+    tr
+  table
+p
+body
+html
+
+nextpartabcefbc
+
+

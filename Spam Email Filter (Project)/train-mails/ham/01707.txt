@@ -1,0 +1,48 @@
+heres clarification of why i did
+
+first test results using tokenizertokenizertokenizeheaders
+unmodified 
+
+training on  hams   spams
+        
+         
+         
+training on  hams   spams
+         
+         
+         
+training on  hams   spams
+         
+         
+         
+training on  hams   spams
+         
+         
+         
+total false pos  
+total false neg  
+
+second test results using mboxtestmytokenizertokenizeheaders
+this uses all headers except received data and xfrom
+
+training on  hams   spams
+         
+         
+         
+training on  hams   spams
+         
+         
+         
+training on  hams   spams
+         
+         
+         
+training on  hams   spams
+         
+         
+         
+total false pos  
+total false neg  
+
+jeremy
+

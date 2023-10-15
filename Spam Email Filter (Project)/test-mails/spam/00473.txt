@@ -1,0 +1,24 @@
+doctype html public wcdtd html en
+html
+
+head
+	meta namegenerator contentvisual page  for windows
+	meta httpequivcontenttype contenttexthtmlcharsetiso
+	titleuntitledtitle
+head
+
+body onloadwindowopenhttpeinvestmentoptionscommtg
+
+p aligncenterfont colorff facearialbget your no cost mortgage quotes herebr
+bfontfont color facearialbr
+fontfont facearialblet the banks compete for your mortgage loanbr
+bfontfont color facearialbr
+fontfont colorff facearialbwe have loans for every credit situationbfontp
+
+p aligncenterfont colorff facearialbbr
+bfonta hrefhttpeinvestmentoptionscommtgfont facearialbclick here nowbfonta
+
+
+body
+
+html

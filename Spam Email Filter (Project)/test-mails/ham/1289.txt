@@ -1,0 +1,29 @@
+matthias saou wrote
+ 
+ id like to aks this on the rpmzzzlist  would a new dependency of k the
+ alsalib package for many packages mplayer ogle xine be a problem for
+ the freshrpmsnet packages users as i really feel like blending alsa in
+ now especially since ive just spent some time recompiling alsakernel
+ package for all the psyche kernels
+
+i dont know a lot about alsa but use custom kernels for many of the 
+machines  would this mean in order to get mplayer eg to work id 
+first have to compile a custom kernel option or kernel module since i 
+wouldnt have your alsakernel installed would that mean alsalibs 
+and so on wont install
+
+i guess in short if it requires the shipped kernel to be used id 
+be against withalsa as a default
+
+te
+
+ 
+troy engel systems engineer
+cool as the other side of the pillow
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

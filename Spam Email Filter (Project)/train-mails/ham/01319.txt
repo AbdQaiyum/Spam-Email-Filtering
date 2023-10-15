@@ -1,0 +1,44 @@
+hi folks
+
+i have just installed spamassassin  in my postfix mta server
+
+at first i would like to test it just in my email account before 
+applying it to the wole site
+
+i configured just as in the install file
+
+	 create a forward
+	ifs   exec usrbinprocmail f  exit  user
+	 create a procmailrc
+	fw
+	 usrbinspamassassin c 
+			etcmailspamassassinrules
+
+but the spams get trought it untouched when i run it by the hand
+
+cat samplespamtxt  usrbinspamassassin c 
+				etcmailspamassassinrules
+
+it does tag it as spam and send me the email
+
+what should i look at
+
+thank you
+
+
+ 
+luiz felipe ceglia 	  staff terenet
+lcegliaterenetcombr	  
+
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

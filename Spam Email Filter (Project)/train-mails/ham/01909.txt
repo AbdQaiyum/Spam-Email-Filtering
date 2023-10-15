@@ -1,0 +1,24 @@
+url httpscriptingnewsuserlandcombackissuesaproductivethread
+date thu  sep   gmt
+
+rssflowersalignrighta productive thread on rssdev confronts the 
+negativeness about rss  headon this will go someplace interesting  
+
+i left a big hint there in the way the blogchannel module is designed 
+patterned after the syndication module designed by the rdf folk in other 
+words the place where theyre expressing discomfort with rss  is where they 
+can make it their own lead instead of feeling disempowered be powerful  
+
+at one point i saw clearly where the compromise between rss x and  was 
+we could have gotten there in early  so instead we get there in late  
+so what not a big deal think about how much better it will be when were all 
+advocating the same format visualize peace thats basically what i did when 
+i did the  spec i know its hard to swallow but swallow anyway if i did 
+it you can too
+
+ httpgroupsyahoocomgrouprssdevmessage
+ httpbackenduserlandcomrss
+ httpbackenduserlandcomblogchannelmodule
+ httpwebresourceorgrssmodulessyndication
+
+

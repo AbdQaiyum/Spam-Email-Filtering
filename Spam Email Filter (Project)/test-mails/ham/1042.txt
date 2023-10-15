@@ -1,0 +1,49 @@
+    date        wed  aug   
+    from        chris garrigues cwgdatedadbdeepeddycom
+    messageid  tmdadeepeddyvirciocom
+
+
+   so ill probably poke around at the sequences performance issues
+
+well theres this wonderful piece of code in mhseqexpand 
+
+     hack to weed out sequence numbers for messages that dont exist
+    foreach m rseq 
+        if file exists mhprofilepathfolderm 
+            exmhdebug mhprofilepathfolderm not found
+            set ix lsearch seq m
+            set seq lreplace seq ix ix
+         else 
+             real hack
+            break
+        
+    
+
+which is going to run slow if a sequence happens to start with a bunch
+of messages that dont exist   im not sure why it is important that the
+first message in the sequence returned exists but not necessarily any
+of the others but im sure glad it is as mhseqexpand gets called lots
+and i dont know if i could cope if it were checking every file in the
+sequences it is looking at all the time
+
+it may help to keep a list of the valid message numbers for the current
+folder though that would then need to be verified against changes to the
+directory   does tcl have a directory read function   i assume so
+
+mhsequence also goes and rereads the files mhsequences and the
+context file but im not sure how frequently that one is called
+
+   ill email anything i figure out since im leaving town in less 
+   than  hours
+
+have a good vacation
+
+kre
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

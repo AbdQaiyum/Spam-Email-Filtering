@@ -1,0 +1,62 @@
+
+ on fri  sep  wendy  wendy p roberts wrote
+
+  wendy ive been trying to set a button called which
+  wendy automatically forwards mail using a form mycomps
+  wendy without going through the editor but so far havent got
+  wendy the right recipe
+
+i have one that uses dist to send stuff from my work mail to my 
+home mail  the binding looks like this
+
+set bindingskeyhddistsilently form distcompstome metadollar
+
+the hddistsilently is a hacked up version of the proc that 
+does dist in exmh and is pasted in below  its getting old and 
+probably should be resynced with the current code  but it 
+still works on a relatively recent cvs copy of exmh
+
+its also possible that theres an easier way but i hacked this 
+together quickly a year or more ago and when it worked i moved 
+on to other tasks
+
+hal
+
+proc hddistsilently  args  
+
+    global exmh msg
+    set exmhctype dist
+    if string length args   
+	set args mhdistsetup
+    
+
+    if msgok msgid m 
+	if string compare info command args args   
+	     old interface with hook procedure
+	    if catch args exmhfolder m err     setup draft msg
+		exmhstatus args err purple
+		return
+	    
+	  else 
+	    if catch 
+		exmhstatus dist exmhfolder m
+		eval mhexec dist exmhfolder m nowhatnowproc args
+		mhannosetup exmhfolder m dist
+	     err 
+		exmhstatus dist err purple
+		return
+	    
+	
+        editdone send				 just send it
+    
+
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

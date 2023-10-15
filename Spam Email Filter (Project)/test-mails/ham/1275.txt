@@ -1,0 +1,34 @@
+hello
+
+im new to the list
+i wanted to find out who tried recompiling a working apt rpm for null or 
+psyche  i would like to get good gstreamer packages done by monday when 
+its released
+
+btw in the archive i saw some posts regarding the gstreamer repository  
+im not sure why they were posted on this list  in any case im the rpm 
+maintainer so if you have any questions feel free to ask
+
+i was trying to get an updated apt rpm from httpdavecridlandnet but 
+the http port is closed  dave if youre reading this please let me know 
+where i can get the updated rpm
+
+thanks
+thomas
+
+ 
+
+the davedina project  future tv today   httpdavedinaapestaartorg
+                      
+just like you said
+you leave my life
+im better off dead
+ thomasapestaartorg 
+urgent the best radio on the internet     httpurgentrugacbe
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

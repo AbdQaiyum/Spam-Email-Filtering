@@ -1,0 +1,11 @@
+url httpscriptingnewsuserlandcombackissueswhenam
+date mon  sep   gmt
+
+shelley powers raises some interesting questions re whether rdf has a place 
+in syndication she says that rdf is trying to build a persistent database aka 
+the semantic web and rss is trying to flow news that has a short lifespan i 
+had not heard this point before its worth thinking about 
+
+ httpweblogburningbirdnetarchivesphp
+
+

@@ -1,0 +1,22 @@
+
+after my latest cvs up timtest fails with
+
+    traceback most recent call last
+      file homeskipsrcspambayestimtestpy line  in 
+        drivensets
+      file homeskipsrcspambayestimtestpy line  in drive
+        d  driver
+      file homeskipsrcspambayestimtestpy line  in init
+        selfglobalhamhist  histoptionsnbuckets
+    attributeerror optionsclass object has no attribute nbuckets
+
+im running it as
+
+    timtest n  datatimtestout
+
+from my mail directory not from my srcspambayes directory  if i
+create a symlink to srcspambayesbayesini it works once again but
+shouldnt there be an nbuckets attribute with a default value already
+
+skip
+

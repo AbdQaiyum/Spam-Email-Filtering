@@ -1,0 +1,28 @@
+so then tim peters timonecomcastnet is all like
+
+ im not sure what youre doing but suspect youre storing individual
+ wordinfo pickles  if so most of the administrative pickle bloat is
+ due to that and doesnt happen if you pickle an entire classifier
+ instance directly
+
+yeah thats exactly what i was doingi didnt realize i was incurring
+administrative pickle bloat this way  im specifically trying to make
+things faster and smaller so im storing individual wordinfo pickles
+into an anydbm dict keyed by token  the result is that its almost 
+times faster to score messages one per run our of procmail s vs
+s
+
+however it does say all over the place that the goal of this project
+isnt to make the fastest or the smallest implementation so i guess
+ill hold off doing any further performance tuning until the goal starts
+to point more in that direction   seconds is probably fast enough for
+people to use it in their procmailrc which is what i was after
+
+ if youre desparate to save memory write a subclass
+
+thats probably what ill do if i get too antsy 
+
+trying to think of ways to sneak administrative pickle boat into
+casual conversation
+
+neale

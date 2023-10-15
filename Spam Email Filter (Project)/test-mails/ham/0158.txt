@@ -1,0 +1,38 @@
+
+using razor via spamassasin
+
+system is solaris  with qmail spamassassin run via users procmail
+all users who use sa have run razorregister
+
+razor is failing and i cant find anything in the limited docs or on 
+google on it
+and im hoping someone can help
+
+the error which doesnt prevent sa from working is
+
+oct    sancho qmail  delivery  success 
+razorcheckskippedbadfilenumbercantlocateobjectm
+ethodnewviapackagerazorclientagentperhapsyouforgottoloadrazorclientagentatusrlocallibperlsitep
+erlmailspamassassindnspmlinedid
+
+looking at dnspm doesnt really help me and razorclientagent appears 
+to be in the right place
+in usrlocallibperlsiteperlrazorclient
+
+ideas
+
+chris
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

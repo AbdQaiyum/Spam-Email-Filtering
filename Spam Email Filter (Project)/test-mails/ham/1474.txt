@@ -1,0 +1,31 @@
+ its this section of spamassassinraw
+
+  spamassassinraw
+snip       
+ ddddddd
+ snip 
+  
+snip
+
+this is what cvs puts in when you modify the copy of the file on your disk
+and someone checks in a change and then you pull an update and cvs cant
+figure out how to merge your changes and the checked in changes the lines
+between the  and the  are in your file and the ones in the next
+section are what have been checked in you must have not noticed the warning
+messages about conflicts that cvs gave you when you did the update and the
+c flag next to that file when cvs listed the files being pulled
+
+  sidney
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+

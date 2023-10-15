@@ -1,0 +1,38 @@
+url httpdiveintomarkorgarchiveshtmlthesemanticwebmakesmesick
+date t
+
+no really my sinus infection which appeared to be gone flared up again over 
+the weekend in the nastiest way and i am now coughing up dark mucus and doing 
+other things that probably dont bear repeating in a public forum i have the 
+ doctors appointment that i should have made last round had i not 
+convinced myself that its not that bad and trudged through it 
+all without prescription drugs im not making the same mistake this time ill 
+be back this afternoon 
+
+my email problems of yesterday have been resolved you can once again reach me 
+at my normal address fdydiveintomarkorg 
+
+kevin burton emailed me with another way to link to a foaf file from my rss 
+feed it looks easier than previous suggestions and it has the advantage of 
+being able to use it from an rss  or  feed but i worry about all these 
+variations just as in real life where people can use different words that 
+mean essentially the same thing in the semantic web programs can use different 
+vocabularies to express the same statements thats great for producers not so 
+great for consumers who have to make sense of it all 
+
+for each domain rss feeds foaf files whatever somebody or some group 
+needs to come along and document best practices we need better goaloriented 
+documentation we have a lot of reference documentation taskoriented 
+documentation but very little that documents that larger picture and answers 
+questions written in english how do i include personal information in 
+my rss feed is a goaloriented question create a foaf file 
+using this tool and then insert this line at this location in your rss 
+feed with as many examples as necessary is a goaloriented answer 
+anything less is like trying to master a foreign language by reading a 
+dictionary
+
+
+
+ httpwwwpeerfearorg
+
+

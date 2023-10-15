@@ -1,0 +1,35 @@
+on thursday  august   cet mike burger wrote
+ 
+  recheck i find it immediately
+  fw
+    
+   spamassassin p
+ 
+  works perfectly now sorry for being such a pest 
+ 
+
+ im using sa via spamcspamd and a global etcprocmail file  im
+ wondering if this would also work in that fashion
+
+spamc will skip every file bigger than k on its own its got the 
+command line switch s to change this value but it doesnt hurt of course 
+to use the procmail limit
+
+malte
+
+ 
+ coding is art
+ 
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

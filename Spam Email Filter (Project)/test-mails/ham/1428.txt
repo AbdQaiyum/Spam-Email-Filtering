@@ -1,0 +1,43 @@
+
+wlamoapnjfuftg
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on wed aug   at am  justin mason wrote
+ actually i think procmail supports this directly use dropprivsdyes
+ at the top of the etcprocmailrc
+
+hey look at that
+
+       dropprivs   if  set  to	yes  procmail  will drop all privileges
+		   it might have had suid or sgid  this is only
+		   useful if you want to guarantee that the bottom half
+		   of  the etcprocmailrc file is executed on behalf
+		   of the recipient
+
+of course removing setuidgid bits on programs that dont need it is
+always a good idea  a general rule of system administration dont give
+out permissions unless you absolutely need to   
+
+
+randomly generated tagline
+the cardinal rule at our school is simple no shooting at teachers if
+ you have to shoot a gun shoot it at a student or an administrator
+                  word smart ii from princeton review pub
+
+wlamoapnjfuftg
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqebckwauoquewasmrariajcvlxvwsckfdlyvtfazmxacgzupc
+frrvrcilvpcieiss
+bscm
+end pgp signature
+
+wlamoapnjfuftg
+

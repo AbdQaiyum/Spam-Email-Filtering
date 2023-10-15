@@ -1,0 +1,23 @@
+once upon a time jesse wrote 
+
+ when i worked as a pc repair tech for a computer store chain i did
+ run across quite a few dvd drives that would lock up if dma was
+ enabled  its more of a chipsetdrive problem than a drive by itself
+
+chipset let me guess  via or sis 
+ok so ill follow red hats choice of leaving the dma setting alone and
+orienting the users to some page explaining how to enable it at your own
+risk 
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel acpi
+load    
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

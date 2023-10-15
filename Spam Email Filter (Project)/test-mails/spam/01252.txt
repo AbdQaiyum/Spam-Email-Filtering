@@ -1,0 +1,131 @@
+html
+           divnbspdivfont size ptsize
+      table 
+      styleborderright  px double paddingright px bordertop  px double paddingleft px paddingbottom px borderleft  px double paddingtop px borderbottom  px double bordercollapse collapse 
+      bordercolor height cellspacing bordercolordarkffffff 
+      cellpadding width bordercolorlightffffff border
+        tbody
+        tr
+          td width heightnbsptd
+          td 
+          styleborderright px solid bordertop px solid borderleft px solid borderbottom px solid 
+          valigntop alignleft width height
+            table stylebordercollapse collapse bordercolor 
+            cellspacing cellpadding width bgcolorffffff border
+              tbody
+              tr
+                td valigntop alignright height
+                  table cellspacing cellpadding width border
+                    
+                    tr
+                      td
+                        div alignleftfont 
+                        faceverdana arial helvetica sansserif 
+                        sizebfont 
+                        faceverdana arial helvetica sansserif 
+                        color sizebrfontbfontfont 
+                        colorbfont 
+                        faceverdana arial helvetica sansserif sizedear 
+                        homeownerfontbfontdiv
+                        div alignleftnbspdiv
+                        div aligncenterbfont 
+                        faceverdana arial helvetica sansseriffontfont 
+                        faceverdana arial helvetica sansserif 
+                        colorff  yr fixed rate 
+                        mortgagefontbdivtdtr
+                    tr
+                      td
+                        div alignleftfont 
+                        faceverdanaarialhelveticasansserif sizeinterest 
+                        rates are at their lowest point in  years we help you 
+                        find the best rate for your situation by matching your 
+                        needs with hundreds of lenders bhome improvementb 
+                        brefinanceb bsecond mortgageb bhome equity 
+                        loans and more beven with less than perfect credit 
+                        fontdivtdtrtable
+                  table styleposition relative bordercollapse collapse 
+                  bordercolor height cellspacing cellpadding 
+                  width border
+                    
+                    tr
+                      td valigntop width height
+                        div aligncenterfont 
+                        faceverdana arial helvetica sansserif 
+                        sizebbraa 
+                        hrefhttpwwwcscommortgageindexhtmlaffiliatebt 
+                        targetnewwinclick here for a free 
+                        quoteabfonta 
+                       
+                        hrefhttpwwwcscommortgageindexhtmlaffiliatebt 
+                        targetnewwin adiv
+                        pbfont faceverdanaarialhelveticasansserif 
+                        sizelock in your low fixed rate todayfontbp
+                        dl
+                          ddbfont facewebdings colorff size 
+                          ptsizeafontfont 
+                          faceverdanaarialhelveticasansserif sizeno cost 
+                          out of pocketfontb 
+                          ddbfont facewebdings colorff size 
+                          ptsizeafontbfont 
+                          faceverdanaarialhelveticasansserif sizebno 
+                          obligationbfont 
+                          ddbfont facewebdings colorff size 
+                          ptsizeafontbfont 
+                          faceverdanaarialhelveticasansserif sizebfree 
+                          consultationbfont 
+                          ddbfont facewebdings colorff size 
+                          ptsizeafontbfont 
+                          faceverdanaarialhelveticasansserif sizeball 
+                          credit grades acceptedbfont dddl
+                        div aligncenterfont 
+                        faceverdanaarialhelveticasansserif colorred 
+                        sizeba 
+                        hrefhttpwwwcscommortgageindexhtmlaffiliatebtrates as 
+                        low as  wont stay this low forever click 
+                        hereabfontdiv
+                        div aligncenternbspdiv
+                        div aligncenterfont size ptsizebfont 
+                        stylefontsize pt 
+                        faceverdanaarialhelveticasansserif based on 
+                        mortgage rate as of  as low as  see lender 
+                        for detailsfontbfontdivtd
+                      td valigntop width height
+                        div alignrightnbspdivtd
+                      td bordercolor width bgcolorffffff 
+height
+                        hspan styleverticalalign middlefont 
+                        stylefontsize px facewebdings colora 
+                        hrefhttpwwwcscommortgageindexhtmlaffiliatebtfont 
+                        colorhfontafontspanhtdtrtable
+                  table cellspacing cellpadding width border
+                    tbody
+                    tr
+                      td colspan heightfont 
+                        faceverdana arial helvetica sansserif sizeb
+                        table height cellspacing cellpadding width 
+                        border
+                          tbody
+                          tr
+                            td 
+                            styleborderright px solid bordertop px solid borderleft px solid borderbottom px solid 
+                            width heightfont 
+                              faceverdanaarialhelveticasansserif 
+                              sizeapply now and one of our lending partners 
+                              will get back to you within  
+                              hoursfontfontfont stylefontsize pt 
+                              faceverdanaarialhelveticasansseriffonttdfontfont 
+                            faceverdana arial helvetica sansserif size
+                            td styleborderleft px solid width 
+                            bgcolorff height
+                              p aligncenterbfont colorffffff sizea 
+                              styletextdecoration none 
+                              hrefhttpwwwcscommortgageindexhtmlaffiliatebtfont 
+                              colorffffffclick 
+                            herefontafontbptd
+              tr
+            tablefontbtdtrtbodytabletdtrtbodytabletdtrtbodytable
+      premove httpwwwcscommortgageremovehtml
+p
+html
+
+

@@ -1,0 +1,55 @@
+while i was playing with the past issues it annoyed me that there was
+no easy way to make the log stop growing i dont mean to truncate it
+i mean to just freeze it for a while
+
+the following patch adds a new button to the log window which allows
+the log to be switched onoff the button says disable when the
+log is enabled and the button disables it and enable when the log
+is frozen and the button enables it again
+
+kre
+
+ maintcl	wed aug   
+ usrlocallibexmhmaintcl	wed aug   
+   
+ 	exmhlogcreate
+ 	wm withdraw exmhlogtop
+     
+    if  exmhlogwrite 
+	return
+    
+     if info exists exmhlog 
+ 	catch 
+ 	    exmhlog insert end  bwdelta 
+   
+     set exmhlogwindow 
+     exwintoplevel log exmh log log
+     set exmhlogtop log
+    set exmhlogdisablebut 
+	widgetaddbut exmhlogtopbut swap disable exmhlogtoggle
+    set exmhlogwrite 
+     widgetaddbut exmhlogtopbut trunc truncate exmhlogtrunc
+     widgetaddbut exmhlogtopbut save save to file exmhlogsave
+     set exmhlogyview 
+   
+      msg 
+ 	exmhstatus cannot save log msg error
+     
+
+proc exmhlogtoggle  
+    global exmh
+
+    set exmhlogwrite expr  exmhlogwrite
+    exmhlogdisablebut configure text lindex enable  disable exmhlogwrite
+ 
+  misc
+ 
+
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

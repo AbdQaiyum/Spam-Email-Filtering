@@ -1,0 +1,46 @@
+on mon  at  matthias saou wrote
+ once upon a time alvie wrote 
+ 
+  this is only the last part of iti used rpmbuild rebuild without
+  avifile transcodefrsrcrpm
+ 
+  afdecorecpp waveformatex
+  is used as a type but is not defined as a
+     type
+  afdecorecpp parse error before if
+ 
+ 
+ all of these af are related to avifile support 
+ normally my fr build of transcode defaults to not use avifile
+ but you can use with avifile to force recompiling against it
+ 
+ do you have an old avifile installed maybe
+ can you check the configure  line run at the beginning of the
+ rebuild process to see if it does include the withoutavifile option
+ 
+yes it was there
+you guessed the problem correctly in an earlier email there was still
+remnants remaining from an old failed avifile installation
+the transcode srcrpm now builds perfectly
+thank you very much
+you are good
+alvie 
+  
+ matthias
+ 
+  
+ clean custom red hat linux rpm packages  httpfreshrpmsnet
+ red hat linux release  valhalla running linux kernel acpi
+ load    
+ 
+ 
+ rpmlist mailing list rpmlistfreshrpmsnet
+ httplistsfreshrpmsnetmailmanlistinforpmlist
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

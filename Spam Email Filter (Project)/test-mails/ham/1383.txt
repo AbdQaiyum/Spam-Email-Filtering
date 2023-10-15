@@ -1,0 +1,21 @@
+on tue  at  matthias saou wrote
+
+ its  untested although the build should be ok the new menu was
+ added but some configuration files may be better with new or different
+ defaults
+ 
+ feedback is very welcome
+
+looks good to me just installed it and ran a local scan everything
+worked smoothly  thanks a bunch
+
+ 
+ille skytt
+villeskytta at ikifi
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

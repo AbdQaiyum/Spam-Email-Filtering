@@ -1,0 +1,39 @@
+httpwwwhughesfamilyorgbugzillashowbugcgiid
+
+jmjmasonorg changed
+
+           what    removed                     added
+
+             statusassigned                    resolved
+         resolution                            fixed
+
+
+
+ additional comments from jmjmasonorg    
+ok this should now be considered fixed i should think
+
+   domain name spamassassinorg
+   name server nsperegrinehwcom
+   name server nsrtscomau
+   name server nsrtscomau
+   name server nsrtscomau
+   name server familyzawodnycom
+
+etc
+
+
+
+ you are receiving this mail because 
+you are the assignee for the bug or are watching the assignee
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+
+

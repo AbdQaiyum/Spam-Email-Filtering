@@ -1,0 +1,77 @@
+
+zatkrhvyvssbbd
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on fri sep   at pm  carloalinoecom wrote
+ so it seems to me that they do clean up
+ their lists but only when a spam fails to
+ deliver  or cant they detect that
+
+ what do spammers do with email addresses in
+ their database that are undeliverable for a
+ few years  do they still continue to spam
+ them
+
+well heres my semicoherent rant for the moment  
+
+i have  spamtraps on my machine you can multiply that by each domain
+if you really want to  the vast majority all but say  have never
+ever existed  yet spammers would semicontinuously connect try to
+deliver mail to  of them disconnect connect again try delivering
+to  more  over and over they kept getting user unknown until i
+got around to making them spamtraps
+
+so my evidence would suggest that it depends who youre dealing with 
+if your business is to sell address lists to people who would then spam
+its in your best interest to never clean your list  therefore you can
+say  million email addresses and not technically be lying even if
+the majority of them dont work
+
+if youre a spammer youd want to know who doesnt actually exist but
+then again you dont really care you probably want to relay through
+someone so its harder to trace you if you could youd send to every
+email address available you dont want to setup a valid bounce address
+because again its easy to trace you
+
+so i would say this if you technically spam people but actually think
+youre running a legit service you probably really do have a way of
+opting out even though the user didnt opt in and you probably dont
+relay and you probably pay attention to bounces
+
+everyone else doesnt really care
+
+
+thats my view anyway 
+
+
+randomly generated tagline
+now you can do that thing with your hands its ok  prof farr
+
+zatkrhvyvssbbd
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqegfanauoquewasmravnfajoyvmxrnhskuuylimzchycgfacekx
+noipnucgvsuzstxmiyvs
+by
+end pgp signature
+
+zatkrhvyvssbbd
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

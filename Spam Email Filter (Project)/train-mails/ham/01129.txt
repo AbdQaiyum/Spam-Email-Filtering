@@ -1,0 +1,99 @@
+exmhp
+contenttype textplain charsetusascii
+
+ from  chris garrigues cwgbccdeepeddycom
+ date  mon  sep   
+
+  from  scott lipcon slipconmerceanet
+  date  sun  sep   
+ 
+  i just updated to the latest cvs  i had been running a build from june 
+  
+  hitting the flist button gives the following traceback
+  
+  syntax error in expression int
+      while executing
+  expr intminlinemsgidminmsgmaxlineminlinemaxmsgminms
+  g
+      procedure ftocfindmsg line 
+      invoked from within
+  ftocfindmsg i
+      procedure ftocshowsequences line 
+      invoked from within
+  ftocshowsequences f
+      procedure scanfolder line 
+      invoked from within
+  scanfolder inbox 
+      invoked from within
+  time list scanfolder f adjustdisplay
+      procedure scanfolder line 
+      invoked from within
+  scanfolder exmhfolder ftocshownew
+      procedure incpresortfinish line 
+      invoked from within
+  incpresortfinish
+      invoked from within
+  fopsflist invoke
+      uplevel body line 
+      invoked from within
+  uplevel  list w invoke
+      procedure tkbuttonup line 
+      invoked from within
+  tkbuttonup fopsflist
+  
+      command bound to event
+  
+  
+  it seems to only happen in a folder with no unseen messages
+  
+  chris is this related to your recent changes
+ 
+ curious  i changed the arguments to ftocshowsequences to drop the folder 
+ argument and instead have an optional msgids argument  somehow your version 
+ of scanfolder is still trying to pass f  you seem to have the latest 
+ ftoctcl  but not the latest scantcl 
+ 
+ i dont know how that happened but try getting your source tree completely 
+ up to date
+
+actually i take that back  youre not running the latest ftoctcl either
+
+it probably is my bug but its in code thats been changed since you last 
+updated from cvs saturday so please update and lets see if the problem is 
+still there
+
+chris
+
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqejywkkbhriuiraooiajychfqobdtwnbbsscoxpwcdgye
+cvdyzojdnanwprhqusbjo
+azsa
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

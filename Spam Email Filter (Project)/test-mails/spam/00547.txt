@@ -1,0 +1,75 @@
+chtmlecheade
+cbody bgcolordffccffe
+ctable borderd cellpaddingd cellspacingd widthde
+  ctbodye
+  ctre
+    ctd aligndmiddle valigndtopecftdecftrecftbodyecftableecbre
+ctablee
+  ctbodye
+  ctre
+    ctd widthdecftde
+    ctd bgcolordbecff bordercolordff widthdecfont colordff 
+      facedarial black 
+      sizedenbspbnbspbnbspbnbspbnbspbnbspbnbspbnbspbnbspbnbspb want 
+      to harvest a lot of cfont colordffetarget cffonteemailnbspbnbspb 
+      addresses in a very short timefcffonte 
+      cpecbecfont facedarial sizedecffontecfont colordffff facedarial 
+      sizedecfont colordffetarget email extractor cffonteisnbspb anbspb 
+      powerfulnbspb emailnbspb software thatnbspb harvests target email 
+      addresses from search enginesc any specified starting urls c including cgi 
+      c asp pages etcecffontecfbecfpe
+      cpecfont colord facedcbcecce sizedenbspb it quickly and automatically 
+      search and spider from search enginec any specified starting urls to find 
+      and extract email addressescbrecfpe
+      cliepowerful targeting abilitye only extract the specific email addresses 
+      that directly related to your businessecbre
+      clieintegrated with  top popular search enginesa yahooc googlec msnc 
+      aolcbre
+      cliefast search abilitye nearly can find thousands of email addresses in 
+      an hourc allowing up to  simultaneous search threadscbre
+      cliehelpful for anyone for internet email marketing purposesecbre
+      cliefree version updatesecbrecbrecffontecfont colordff facedarial 
+      sizedeciecstrongeclick the following link to download this 
+      programacfstrongecfiecffontecflie
+      cpecbecfont colordff facedarial sizedeca 
+      hrefdhttpaffwwwewldinfoecomfdownloadfemailfeseezipedownload site 
+      cfaecffontecfbecfpe
+      cpecbecfont colordff facedarial sizedeca 
+      hrefdhttpaffbestsofteeorgfonlinedownfeseezipedownload site 
+      cfaenbspbnbspbnbspbnbspbnbspbnbspbnbspbnbspbnbspbnbspbnbspb 
+      cffontecfbeaacfont sizedecfont colorda facedarial 
+      sizedecstrongeifnbspb you can not download this program cnbspb please 
+      copy the following link into your url c and then click  enter on your 
+      computer keyboardecfstrongecffontecffontecfpe
+      cpecfont sizedecfont colorda facedarial sizedecstrongehere is the 
+      download linksacfstrongecffontecfpe
+      cdive
+      cpehttpaffwwwewldinfoecomfdownloadfemailfeseezipcfpe
+      cpehttpaffbestsofteeorgfonlinedownfeseezipcfpecffontecfdive
+      cpecfpecftde
+    ctd widthdecftdecftre
+  ctre
+    ctd widthdecftde
+    ctd bgcolordfde widthdecfont colordffffff 
+      facedverdanac tahomac helveticac sansserif 
+      sizedecbedisclaimeracfbecbrewe are strongly against continuously sending 
+      unsolicited emails to those who do not wish to receive our special 
+      mailingse we have attained the services of an independent rd party to 
+      overlook list management and removal servicese this is not unsolicited 
+      emaile if you do not wish to receive further mailingsc please click this 
+      link ca hrefd httpaffwwweautoemailremovalecomfcgibinfremoveepl  
+      targetdfblankecfont 
+      colordfddaecbehttpaffwwweautoemailremovalecomfcgibinfremoveepl 
+      cfbecffontecfaee auto email removal companye ref 
+      cffontecbecfont classddisclaimer colord 
+      facedarialecbrethis message is a commercial advertisemente it is compliant 
+      with all federal and state laws regarding email messages including the 
+      california business and professions codee we have provided the subject 
+      line adv to provide you notification that this is a commercial 
+      advertisement for persons over yrs oldecffontecfbecftde
+    ctd widthdecftdecftrecftbodyecftablee
+cstyleecfstylee
+cbrecbrecbrecbreca hrefdecfaecbrecbrecbrecbrecbreca 
+hrefdecfaecbrecfbodyecfhtmle
+
+

@@ -1,0 +1,33 @@
+
+bart schaefer said
+
+ this is off the topic of the rest of this discussion but amavisd in all
+ its incarnations and mimedefang and several other mta plugins all reject
+ at smtp time messages that scores higher than some threshold often   
+
+argh they do not do they   the fps must be just gigantic 
+
+ if some new release were to start scoring all spam no higher than 
+ thered better be zero fps because all those filters would drop their
+ thresholds to 
+
+well my point is more that we should aim our rescoring algorithm so that
+a spam hits     any higher does us no good as it means an fp is
+a lot harder to recover from using compensation rules
+
+spams will hit higher than that  thats just the way the scoring works
+but for our code to be effective and spread the range of scores
+correctly we just have to optimise to hit  threshold
+
+j
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

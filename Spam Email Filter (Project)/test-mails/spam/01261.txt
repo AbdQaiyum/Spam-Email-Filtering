@@ -1,0 +1,96 @@
+this is a multipart message in mime format
+nsmailboundary
+contenttype texthtml
+
+
+htmlheadtitlebonfire anonymous bulk emailing softwaretitlehead
+body bgcolorwhite textnavy linkgreen vlinkblue alinkred
+font size facexerox sans serif narrow colorred
+introducing the brand new bonfire mailerfontbr
+font size facexerox sans serif wide colorblackanonymous worry
+free bulk email softwarefontp
+font size facexerox sans serif wide colorgreen
+send bulk email using your dsl or cable connectionbr
+and never lose your connection isp againpfont
+font size facexerox sans serif wide colornavy
+what is bonfirebr
+bonfire software uses unique technology to provide complete anonymous
+deliverybr
+your ip will never be shown in the headers of any mail sent using
+bonfirebr
+bbonfire is cost effectiveb and is very easy software to usebr
+simply load your list message subject and press sendbr
+its as easy as thatpfont
+font size facexerox sans serif wide colornavy
+ true anonymity using proxy routing  the new wave in bulk email stealth
+technologybr
+ no more hunting for relays or paying hundreds of dollars for open
+serversbr
+ you can run multiple copies simultaneously on different computersbr  
+ port  isp not required not affected by port  blockingbr 
+ speeds of over  emails per hour confirmedbr
+ simply purchase one of the mailing packagesbr 
+ client side software controlbr  
+ easy to use interfacebr  
+ free upgradespfont
+font size facexerox sans serif wide colornavy
+bpricingbbr
+bonfire is freebr
+bbut you must purchase email credits in blocksbbr
+bonfire is subscription based bulk email software systembr
+our email credits are the lowest priced in the industrybr
+bfor examplebbr
+a purchase of  million credits will enable bonfire to send  million
+emailsbr
+but additional credits must be purchased when the credits run outbr
+bonfire comes with  bfreeb creditsbr
+so you can test it for yourselfpfont
+font size facexerox sans serif wide colornavy
+bcredit pricesbbr
+ million email creditsbr
+ million email creditsbr
+ million email creditsbr
+ million email creditsbr 
+ million email creditsbr
+ million email creditsbr
+ million email creditsbr
+ billion email creditsbr
+ billion email creditsbrfont
+font size facexerox sans serif narrow colorred
+free bulletproof mailbox with purchasepfont
+font size facexerox sans serif wide colornavy 
+bperformancebbr
+the main premise behind bonfire is anonymity to hide your ip
+connectionbr
+this has been achieved without any sacrifice in email delivery speedbr
+best results are on cable adsl dsl t or a t connectionbr  
+but a dialup connection will work just finep
+font size facexerox sans serif wide colornavy
+the type of email lists you use may also affect the softwares
+performancebr
+single domain lists will mail faster than a mixed domain email listbr 
+a smaller message puts less strain on the mail serversbr
+therefore smaller messages mean faster deliverybr
+a small text or html message is all you needbr
+to get your customers attentionpfont
+font size facexerox sans serif wide colornavy
+ban eye catching subject line is also very importantbbr
+bonfire will send either html or text messagesbr
+you can also control the bcc countpfont
+font size facexerox sans serif wide colornavy
+just check a few boxes and send yourself some messages as a testbr
+youll see for yourself the great value of the bonfire mailerfontp
+font size facexerox sans serif narrow colorred
+click a hrefmailtobonfirebtamailnetcnsubjecti am interested in
+bonfireherea to receive bonfirefontp
+center
+br
+save the planet save the trees save the ozonebr
+advertise via email no wasted paperbr
+delete with one simple keystrokebr
+font colorredclick a
+hrefmailtoremovepleasebtamailnetcnsubjectremoveherea to be removedfont
+centerbodyhtml
+nsmailboundary
+
+

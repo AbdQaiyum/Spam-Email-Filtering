@@ -1,0 +1,24 @@
+hi all
+
+apologies for the possible silly question i dont think it is but 
+but is eircoms adsl service nated
+
+and what implications would that have for voip i know there are 
+difficulties with voip or connecting to clients connected to a nated 
+network from the internet wild ie machines with static real ips
+
+any help pointers would be helpful
+
+cheers
+ 
+rgrds
+bernard
+ 
+bernard tyers  national centre for sensor research  p 
+e bernardtyersdcuie  w wwwphysicsdcuiebty  ln
+
+
+iiu mailing list
+iiuiiutaintorg
+httpiiutaintorgmailmanlistinfoiiu
+

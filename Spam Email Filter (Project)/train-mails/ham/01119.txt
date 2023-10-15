@@ -1,0 +1,37 @@
+once upon a time axel wrote 
+
+ has anyone an answer for me the mplayer documentation still suggests to
+ use them for x architectures
+
+well i think my avifile build still needs the win codecs to be able to
+run manually copied into usrlibwin but personally ive been very
+happy with mplayers default which is ffmpegs ffdivx decoder for nearly
+all the divx files i used the only ones that still require from my own
+experience the use of the win codecs are the ones encoded with a strange
+divx  sound format and ive really not seen any quality or speed
+improvements when using them
+
+matthias
+
+ on sat jun   at pm  axel thimm wrote
+  are there perhaps licensing issues which forbid such a practice or
+  any other reasons
+  
+  the reason i ask is that i have seen performance and also some feature
+  differences fullscreen wo keeping aspect ratio visual artifacts on
+  nvidia comparing with or without the win codecs the mplayer authors
+  seem to recommend using them for x architectures
+  
+  beware i am no mplayercodecswhatever expert i may be totally lost
+  
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel 
+load     ac online battery charging  
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

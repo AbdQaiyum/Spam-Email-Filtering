@@ -1,0 +1,53 @@
+nzuzlskbnzaj
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+
+
+ simple approxmation to this make usr a separate partion and mount it
+
+ readonly
+
+     the good news attackers that want to trojan your software have to
+      reboot at least
+     the bad news administrators that want to update your software
+      have to reboot at least
+
+no reboot is required you just need to remount it
+
+	 mount o remountrw usr
+
+this requires root access but presumably usr is safe from nonroot
+users anyway
+
+only way to disable this is to have the kernel compiled with something
+that compartmentalizes capabilities lidsetc on linux for example or to
+remove capsysadmin with lcap which would definately require a reboot
+and possibly break some other functionatily to boot  pun intended  my
+apologies
+
+
+brian hatch                  are you expected
+   systems and               no  dreaded
+   security engineer
+wwwhackinglinuxexposedcom
+
+every message pgp signed
+
+nzuzlskbnzaj
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+ieyearecaayfajoeacgkqpdahxzhxdmkacfrmebxlfizufrdjlbwumh
+zkanrvbliampvtmohrakqml
+kca
+end pgp signature
+
+nzuzlskbnzaj
+
+

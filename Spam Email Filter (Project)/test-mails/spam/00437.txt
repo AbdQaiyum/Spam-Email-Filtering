@@ -1,0 +1,56 @@
+html
+body bgcolorffffff text linkcc vlink alink
+table border cellpadding cellspacing width
+  tr 
+    td height valigntop font facearial arial helvetica 
+      pfont color facearial helvetica sansseriffont color sizebfont colorpromote 
+        your product or service to millions todayfontbfontfontp
+      fonttd
+ table
+table dirltr border cellpadding cellspacing width height
+  tr
+    td valigntop width height 
+      pimg srchttposjpg width heightp
+      td
+    td valigntop width heighttd
+    msnavigation
+    td valigntop width height font facearial arial helvetica 
+      p stylemargintop  marginbottom nbspp
+      fontfont color facearial helvetica sansserifbbfont 
+      pfont facearial helvetica sansseriffont colorff sizeufont coloremail 
+        marketing systemfontufontfontbfont facearial helvetica sansseriffont sizebr
+        fontfontbfont facearial helvetica sansseriffont sizefont color 
+        bulk email will make you money so fast your head will spinbr
+         customers say quotwe would no longer be in business without itquotbr
+         new package deal includes everything you needbr
+        font sizesee this products web pagefontfontfont colorff 
+        fontfont colora hrefhttpemailmarketinghtmfont sizeclick 
+        herefontafontbr
+        fontfontp
+      pfont color sizefont facearial helvetica sansserif colorff sizeufont color 
+        million business leads on cdfontufontfontfont sizebfont facearial helvetica sansserifbr
+        fontbfont facearial helvetica sansseriffont color 
+        for telemarketing mailing or faxing this list is a gold minebr
+         contains company name address phone fax sic amp sizebr
+         list allows for unlimited usebr
+        font sizesee this products web pagefont fontfont colora hrefhttpbusinesscdhtmfont sizeclick 
+        herefontafontfontbfont facearial helvetica sansserifbr
+        fontbfontp
+      pfont size colorfffont facearial helvetica sansserifufont colorfax 
+        marketing systemfontufontfontfont sizebfont facearial helvetica sansserifbr
+        fontbfont facearial helvetica sansseriffont color 
+        fax broadcasting is the hot new way to market your businessbr
+         people are  times more likely to read faxes than direct mailbr
+         software amp  million leads turns your computer into a fax blasterbr
+        font sizesee this products web pagefont fontfont colora hrefhttpfaxmarketinghtmfont sizeclick 
+        herefontafontfontfontbfont facearial helvetica sansserifbr
+        fontbp
+      pfont facearial helvetica sansserif color sizevisit 
+        our web site or call fontp
+      pnbspp
+      pfont facearial helvetica sansserif sizeto be taken off of 
+        our list a hrefmailtollabtamailnetcnclick hereafontp    td
+ table
+body
+
+html

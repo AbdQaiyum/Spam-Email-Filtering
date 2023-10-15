@@ -1,0 +1,48 @@
+this is a multipart message in mime format
+it has been signed conforming to rfc
+youll need gpg or pgp to check the signature
+
+
+contenttype textplain charsetusascii
+
+
+on wed  oct   edt kevin kenny writes
+   you can learn to use procmail
+
+can this be done via forward
+
+make your forward contain only the following line
+usrbinprocmail
+ incl the quotes your procmail binary may be in another path
+
+cheers
+rw
+ 
+ for a list of points detailing how technology
+ has failed to improve our lives please press                          
+
+
+
+
+contenttype applicationpgpsignature namesignatureng
+contentdisposition inline filenamesignatureng
+contenttransferencoding bit
+
+begin pgp signature
+version gnupg v gnulinux
+
+iddbqepikcenzsjroirarvajdnwzsexxcafguhbhfcqwceiinr
+kuozslnmfgwgugmrsprbgk
+urd
+end pgp signature
+
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

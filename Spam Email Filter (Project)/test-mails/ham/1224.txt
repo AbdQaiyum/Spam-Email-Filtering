@@ -1,0 +1,56 @@
+begin pgp signed message
+hash sha
+
+contenttype textplain charsetusascii
+
+after a bit of peeking through the exmh tcl and playing with tcl a bit i got 
+the catchup unseen messages before cur procedure working  heres the code 
+for everybody and the list archives in case anyone wants it in the future  
+thanks to john r loverso for putting me on the right track  
+
+proc mymarkcurseen  
+    global exmh pick msg
+    set results 
+    exmhstatus clearing unseen up to cur red
+    mhsetcur exmhfolder msgid
+    set unseen mhunseen exmhfolder
+    foreach elem unseen 
+         if  elem  msgid  
+            lappend results elem
+         
+    
+    set pickids results
+    busy pickmarkseen
+    exmhstatus ok blue
+
+
+if you want to use this stick it in your tkexmh directory run automkindex 
+on it and add the following lines to your exmhexmhdefaults
+fopsmoremuentrylist        ketchup
+fopsmoremlketchup         catchup all before current
+fopsmoremcketchup         mymarkcurseen
+
+  
+ted cabeen           httpwwwpoboxcomsecabeen            tedimpulsenet 
+check website or keyserver for pgpgpg key bad         secabeenpoboxcom
+i have taken all knowledge to be my province f bacon  secabeencabeenorg
+human kind cannot bear very much realitytseliot        cabeennetcomcom
+
+
+begin pgp signature
+version gnupg v freebsd
+comment exmh version  
+
+iddbqemjxoayjflodsdirakaqajnlmuubjrbxmgradqhczwcfrkd
+pxatansxthjnpmzvc
+sjtk
+end pgp signature
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

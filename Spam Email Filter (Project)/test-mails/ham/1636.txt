@@ -1,0 +1,35 @@
+httpwwwhughesfamilyorgbugzillashowbugcgiid
+
+spamassassincontribmsquadratde changed
+
+           what    removed                     added
+
+                 cc                            spamassassin
+                                               devellistssourceforgenet
+         assignedtospamassassin               spamassassin
+                   devellistssourceforgenet contribmsquadratde
+
+
+
+ additional comments from spamassassincontribmsquadratde    
+im gonna fix this one i think the best solution will be to copy the modified 
+rules to blib and install them from there then the rules files will be 
+changed on build time and not install time too 
+
+
+
+ you are receiving this mail because 
+you are the assignee for the bug or are watching the assignee
+you are on the cc list for the bug or are watching someone who is
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+
+

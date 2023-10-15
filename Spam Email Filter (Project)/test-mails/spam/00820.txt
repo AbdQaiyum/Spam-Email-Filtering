@@ -1,0 +1,177 @@
+cbody bgcolordffffffe
+cdivecfont facedbb sizede
+cdivecstrongecfont colordff facedarial sizededirect email 
+blastercffontecfstronge cfdivecfont sizede
+cpecfont facedarialecbecfont colordeciethe program will send mail at the 
+rate of over c  emails per minuteenbspbcfiecffontecbrelegal and fast 
+sending bulk emailsnbspbcbrecfont colordeciebuilt in smtp 
+servernbspbcfiecffontecbrehave return pathnbspbcbrecan check mail 
+addressnbspbcbrecfont colordeciemake error send address list remove or 
+send againnbspbcfiecffontecbresupport multithreadsenbspbcbresupport 
+multismtp serversenbspbcbremanages your optin email listsnbspbcbreoffers an 
+easytouse interfacenbspbcbreeasy to configure and usenbspbcfbecffontecfpe
+cpecfont facedarialeca 
+hrefdhttpaffwwwewldinfoecomfbjfdownloadfedebfsetezipecstrongedownload 
+nowcfstrongecfaecffontecfpe
+cpecstrongecfont colordff facedarial sizedemaillist 
+verifycffontecfstrongecfpe
+cpecfont facedarialemaillist verify is intended for email addresses and mail 
+lists verifyinge the main task is to determine which of addresses in the mail 
+list are deade the program is orientedc basicallyc on programmers which have 
+their own mail lists to inform their users about new versions of their 
+programsecffontecfpe
+cpecfont facedarialethe program works on the same algorithm as isp mail systems 
+doe mail servers addresses for specified address are extracted from dnse the 
+program tries to connect with found smtpservers and simulates the sending of 
+messagee it does not come to the message cnobresending bfnobrgtb emv disconnect 
+as soon as mail server informs does this address exist or note emv can 
+findcfnobrecffontecfpe
+cpecfont facedarialecnobrenbspbabout  of dead addresses bfnobrgtb some mail 
+systems receive all messages and only then see theirnbspbcfnobrecffontecfpe
+cpecfont facedarialecnobreaddresses and if the address is dead send the message 
+back with remark about itecfnobrecffontecfpecnobre
+cpeca hrefdhttpaffwwwewldinfoecomfbjfdownloadfbemvfsetezipecstrongecfont 
+facedarial sizededownload nowcffontecfstrongecfaecfpe
+cpecstrongecfont colordff facedarial sizedeexpress email 
+blasternbspbcffontecfstrongecfpe
+cpecfont facedarialeexpress email blasternbspb is a very fastc powerful yet 
+simple to use email sendere utilizing multiple threadsfconnectionscffontecfpe
+cpecfont facedarialenbspband multiple smtp servers your emails will be sent out 
+fast and easilye there are user informationc attach filescnbspbcffontecfpe
+cpecfont facedarialeaddress and mail logs four tabbed area for the emails 
+details for sendinge about  smtp servers come with thenbspbcffontecfpe
+cpecfont facedarialedemo versionc and users may add and delete smtp serverse 
+about cfont colordecbeccfbecffonte emails will be sent out per 
+hourecffontecfpe
+cpecstrongeca hrefdhttpaffwwwewldinfoecomfbjfdownloadfbeebfsetezipecfont 
+facedarial sizededownload nowcffontecfaecfstrongecfpe
+cpecstrongecfont colordff facedarial sizedeexpress email address 
+extractorcffontecfstrongecfpecfont sizede
+cpecfont colord sizedethis program is the most efficientc easy to use 
+email address collector available on the cffontecfpe
+cpecfont facedarialecfont colord sizedenbspbinternet cffontecfont 
+colord sizedebeijing express email address extractor expresseae is 
+designed to extractcffontecffontecfpe
+cpecfont colord sizedenbspbemail addresses from webpages on the 
+internet using http protocols eexpresseaecffontecfpe
+cpecfont colord sizedenbspbsupports operation through many proxyserver 
+and works very fastc as it is able ofnbspbcffontecfpe
+cpecfont colord sizedeloading several pages simultaneouslyc and requires 
+very few resourcesecffontecfpe
+cpecfont colord facedarialecfont sizedewith itc you will be able 
+tocffontecfont sizede cffontecfont sizedeuse targeted searches to crawl the 
+world wide webc extractingnbspbcffontecffonte 
+cpecfont colord facedarial sizedethousands of cleanc fresh email 
+addressese ably email address extractor is unlike othernbspbcffonte 
+cpecfont colord facedarial sizedeaddress collecting programsc which 
+limit you to one or two search engines and are unablecffonte 
+cpecfont colord facedarial sizedenbspbto do auto searches huge addresse 
+most of them collect a high percentage of incompletecnbspbcffonte 
+cpecfont colord facedarial sizedeunusable addresses which will cause you 
+serious problems when using them in a mailingenbspbcffonte 
+cule
+  cliecfont colord facedarial sizedeeasier to learn and use than any 
+  other email address collector program availableecffonte 
+  cliecfont colord facedarial sizedeaccesses eight search 
+  enginesnbspbcffonte 
+  cliecfont colord facedarial sizedeadd your own urls to the list to be 
+  searchedcffonte 
+  cliecfont facedarial sizedecfont colordesupports operation through 
+  cffontecfont colordffffea lot ofcffontecfont colorde proxyserver 
+  and works very fast http proxycffontecffonte 
+  cliecfont colord facedarial sizedeable of loading several pages 
+  simultaneouslycffonte 
+  cliecfont colord facedarial sizederequires very few resourcescffonte 
+  cliecfont colord facedarial sizedetimeout feature allows user to limit 
+  the amount of time crawling in dead sites and trapsecffonte 
+  cliecfont facedarial sizedecfont colordeeasy to make cffontecfont 
+  colordffffehugecffontecfont colorde address listcffontecffonte 
+  cliecfont colord facedarial sizedepausefcontinue extraction at any 
+  timeecffonte 
+  cliecfont colord facedarial sizedeauto connection to the 
+  internetcffonte cfliecfule
+cdivecstrongeca hrefdhttpaffwwwewldinfoecomfbjfdownloadfeeaefsetezipecfont 
+colord facedarial sizededownload nowcffontecfaecfstronge cfdive
+cdivecstrongecfont colordff facedarialeexpress email address 
+downloadercffontecfstronge cfdive
+cule
+  cliecfont facedarialecstrongecfont colord sizedeexpresseadnbspb 
+  cffontecfont colord sizedeis a  bit windows program for email 
+  marketinge it is intended for easy and convenientcffontecfstrongecffonte 
+  cliecfont facedarialecstrongecfont colord sizedenbspbsearch large 
+  email address lists from mail serverse the program can be operated 
+  onnbspbcffontecfstrongecffonte 
+  cliecfont facedarialecstrongecfont colord sizedewindows ffmef 
+  and ntecffontecfstrongecffonte 
+  cliecfont facedarialecstrongecfont colord sizedeexpresseadnbspb 
+  cffontecfont colord sizedesupport multithreads up to  
+  connectionsecffontecfstrongecffonte 
+  cliecfont facedarialecstrongecfont colord sizedeexpresseadnbspb 
+  cffontecfont colord sizedehas the abilitynbspb to reconnect to the 
+  mail server if the server has disconnected andnbspbcffontecfstrongecffonte 
+  cliecfont facedarialecstrongecfont colord sizedecontinue the searching 
+  at the point where it has been interruptedecffontecfstrongecffonte 
+  cliecfont facedarialecstrongecfont colord sizedeexpresseadnbspb 
+  cffontecfont colord sizedehas an ergonomic interface that is easy to 
+  set up and simple to useecffontecfstrongecffonte cfliecfule
+cdivecfont facedarialenbspbcffonte cfdive
+cpecfont facedarialecstrongecfont colord facedarial 
+sizedefeaturesacffontecfstrongecffonte 
+cul typeddisce
+  cliecfont facedarialecstrongecfont facedarial sizedesupport 
+  multithreadsecffontecfstrongecffonte 
+  cliecfont facedarialecstrongecfont facedarial sizedeauto get smtp server 
+  addresscsupport multismtp serversecffontecfstrongecffonte 
+  cliecfont facedarialecstrongecfont facedarial sizedeauto savenbspb email 
+  listscffontecfstrongecffonte 
+  cliecfont facedarialecstrongecfont facedarial sizedeoffers an easytouse 
+  interfacecffontecfstrongecffonte cfliecfule
+cdivecstrongeca hrefdhttpaffwwwewldinfoecomfbjfdownloadfeeadfsetezipecfont 
+colord facedarial sizededownload nowcffontecfaecfstronge cfdive
+cdivecfont facedarialenbspbcffonte cfdive
+cdivecstrongecfont colordff facedarialeexpress maillist 
+managercffontecfstronge cfdive
+cdivecfont facedarialenbspbcffonte cfdive
+cdivecfont sizede
+cpecfont facedarialecfont colordblack sizedethis program was designed to be a 
+complement to the cffontecfont colord sizededirect email blasternbspb 
+cffontecfont colordblack sizedeand cffontecfont colord sizedeemail 
+blaster cffontecffontecfpe
+cpecfont facedarialecfont colordblack sizedesuite of bulk email software 
+programse its purpose is to organize your email lists in order to be 
+morenbspbcffontecffontecfpe
+cpecfont facedarialecfont colordblack sizedeeffective with your email marketing 
+campaigne some of its features includeacffontecffontecfpe
+cpecbecfont colord facedarialecfont sizedebcombine several lists into 
+one fileecffontecbrecfont sizedebsplit up larger lists to make them more 
+manageableecffontecbrecfont sizedebremove addresses from fileecffontecbrecfont 
+sizedebmanual editingc addingc and deleting of addressesecffontecbrecfont 
+sizedebability to auto clean listsc that isc remove any duplicate or unwanted 
+addressesecffontecbrecfont sizedebmaintain all your address lists within the 
+program so you nonbspb longer need to keep all yourcffontecffontecfbecfpe
+cpecbecfont colord facedarial sizedenbspblists saved as separate text 
+filesecffontecfbecfpe
+cpecstrongeca hrefdhttpaffwwwewldinfoecomfbjfdownloadfbemmfsetezipecfont 
+colord facedarial sizededownload nowcffontecfaecfstrongecfpe
+cpecfont facedarialenbspbcffontecfpe
+cpenbspbcfpe
+cdivecfont facedarialeif you want to remove your emailc please send email to ca 
+hrefdmailtoatargetemailremovalbtamailenetecnetargetemailremovalbtamailenetecncfaecffonte 
+cfdive
+cdivecfont facedarialenbspbcffonte cfdive
+cdivecfont facedarialenbspbcffonte cfdive
+cdivenbspbcfdivecffontecfdivecffontecfnobrecffontecffontecfdive
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+webmaketalk mailing list
+webmaketalklistssourceforgenet
+httpslistssourceforgenetlistslistinfowebmaketalk
+
+

@@ -1,0 +1,31 @@
+once upon a time thomas wrote 
+
+ i wanted to find out who tried recompiling a working apt rpm for null
+ or psyche  i would like to get good gstreamer packages done by monday
+ when its released
+
+i have a working apt cnc package for red hat linux  it will be
+available at the same second the distribution will and so will a complete
+apt repository already including quite a few of my packages updated for red
+hat linux 
+
+i didnt want to say all this before monday but as the new release already
+leaked from many places and official statements made about it it
+shouldnt be a big deal 
+
+ill keep you all posted on monday theyll even be a big aptrelated
+surprise 
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

@@ -1,0 +1,52 @@
+exmhp
+contenttype textplain charsetusascii
+
+ from  valdiskletnieksvtedu
+ date  mon  aug   
+
+ im perfectly willing to canopener that code and see where the cpu is
+ going but only if nobody is slapping their forehead and mumbling about
+ a brownpaperbag bug 
+
+as i mentioned in my email to anders its certainly in my code and i dont 
+have time to work on it right now so i would not be offended if you worked on 
+it
+
+i just this moment found out that my partner has promised a few things would be 
+done before my vacation that will require my efforts so its even more true 
+that it was when i sent the mail to anders
+
+chris
+
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqeanxzkbhriuiraqieajsefhfbypkhdmleqayypaccdzxl
+uacbpkjcdtzvdxc
+xru
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

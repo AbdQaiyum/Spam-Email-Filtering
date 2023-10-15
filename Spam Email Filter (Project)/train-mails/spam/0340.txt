@@ -1,0 +1,4 @@
+html
+body
+iframe aligncenter marginwidth marginheight srchttpwwwcallinnet frameborder width scrollingno height nametickeriframe
+bodyhtml

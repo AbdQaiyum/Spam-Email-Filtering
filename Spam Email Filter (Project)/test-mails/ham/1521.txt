@@ -1,0 +1,45 @@
+on mon  sep  richard kimber wrote
+
+ on mon  sep    pdt
+ bart schaefer schaeferzanshincom wrote
+ 
+  if youre using fetchmail mda spamassassin or the equivlent then
+  this change means your current setup will no longer work 
+ 
+ oh well i guess there are other antispam options out there
+
+well a you dont have to upgrade and b what you are doing has never
+been safe in the first place because spamassassin andbefore doesnt
+do any kind of file locking while it writes to the mailbox and doesnt
+promise to return the proper failure code on diskfull conditions etc
+
+if youre still willing to live with b all you need is a little shell
+script to run spamassassin
+
+
+binsh
+ call this file spamassassinwrapper and chmod x it
+
+echo from  date
+sed e from d  spamassassin
+echo 
+  mail
+
+
+and then use
+
+fetchmail mda spamassassinwrapper f
+
+and you should be all set
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

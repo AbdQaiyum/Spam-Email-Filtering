@@ -1,0 +1,428 @@
+dear me 
+
+ saved from urlhttpinternetemail 
+ saved from urlhttpinternetemail 
+html
+
+head
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titlenews lettertitle
+head
+
+body topmargin leftmargin
+
+pnbspp
+
+pbigjuly  bigp
+
+pbiggreeting fellow investors bigp
+
+pbigtake a look at this inexpensive stockbigp
+
+table border cellpadding cellspacing stylebordercollapse collapse
+bordercolor width bgcolor
+  tr
+    td width aligncentertable border cellpadding cellspacing
+    stylebordercollapse collapse bordercolor width bgcolor
+      tr
+        td alignleft widthtd
+        td widthp stylemargintop  marginbottom  alignleftbigbfont
+        colorffffff facearialcompany profile for
+        nbspnbspnbspnbspnbspnbspnbsp fontfont facearial colorffvirtual
+        gaming enterprises incfontbbigp
+        p alignleft stylemargintop  marginbottom font facearial colorffbigstrongnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp
+        otcvtgestrongbigfonttd
+      tr
+    table
+    td
+  tr
+table
+
+table border width cellspacing cellpadding bgcolor
+  tr
+    td widthnbsptable border width bgcolorffffff cellspacing
+    cellpadding height
+      tr
+        td width valigntop aligncenterdiv aligncentercentertable border
+        width cellspacing
+          tr
+            td widthdiv aligncentercentertable border width
+            cellspacing bgcolor stylebordercollapse collapse bordercolor
+              tr
+                td width bgcolorp stylemargintop px marginbottom px
+                aligncenterfont colorff facearial sizebspan
+                stylefontfamily arialfor your investment considerationspanbfontp
+                p stylemargintop px marginbottom px aligncenterfont facearial
+                colorff sizebspan stylefontfamily arialotcnbspvtgespanbfontp
+                p stylemargintop px marginbottom px aligncenternbspp
+                p stylemargintop px marginbottom px aligncenterspan
+                stylefontsizeptmsobidifontsizept
+fontfamilyarialbigstrongfont
+                colorff facearialwith its current price of fontfont facearial
+                colorfffontfont colorff facearial the company is currently
+                trading fontfont facearial colorffway below its book valuefontfont
+                colorff facearial fontfont facearial colorffof sharefontfont
+                colorff facearial a tremendous investment opportunity has presented itself
+                with vtgenbsp legislation has been unsuccessful at slowing thenbsp growth of online
+                gaming the company is fontfont facearial colorffwayfontfont
+                colorff facearial fontfont facearial colorffundervaluedfontfont
+                colorff facearialfontstrongbigspanp
+                p stylemargintop px marginbottom px aligncenternbsptd
+              tr
+            table
+            centerdivtd
+          tr
+        table
+        centerdivpfont colorffstronga minimal investment of  would buy
+        you  shares of vtge at the current pricestrongfontp
+        pfont colorffstrongif the stock moves up to even one fourth of what the
+        company says its current value is strongfontp
+        pfont colorffstrongyour investment could be quotvery very profitablestrongfontp
+        div aligncentercentertable border width cellspacing
+        bgcolor height stylebordercollapse collapse bordercolor
+          tr
+            td width bgcolorp aligncenterbigfont colorff
+            facearialstrongvirtual gaming enterprises owns operates and licenses offshore
+            casinos on the island of dominica strongfontbigtd
+          tr
+        table
+        centerdivpnbspp
+        p classmsonormal stylemargintop px marginbottom px textalign center
+        aligncenterfont facearial sizebspan stylecolor virtual gaming
+        enterprises incspanbfontp
+        p classmsonormal stylemargintop px marginbottom px textalign center
+        aligncenterspan stylefontfamily arialfont sizeotcfont color strongvtgestrongfontfontspanp
+        p classmsonormal stylemargintop px marginbottom px aligncenterfont
+        facearial sizespan stylemsobidifontsize ptnbspop 
+        opspanfontp
+        div aligncentercentertable stylebordercollapse collapse bordercolor
+        cellspacing cellpadding width bgcolor border
+tbody
+          tr
+            td widthp stylemargintop px marginbottom px aligncenterfont
+            colorffffffbspan stylefontsize pt fontfamily arialsymbolspanbfontp
+            p stylemargintop px marginbottom px aligncenterfont colorffffffbspan
+            stylefontsize pt fontfamily arialvtgespanbfonttd
+            td widthp stylemargintop px marginbottom px aligncenterfont
+            colorffffffbspan stylefontsize pt fontfamily arialdatespanbfontp
+            p stylemargintop px marginbottom px aligncenterfont colorffffffbspan
+            stylefontsize pt fontfamily arialspanbfonttd
+            td widthp stylemargintop px marginbottom px aligncenterfont
+            colorffffffbspan stylefontsize pt fontfamily arialprice onspanbfontp
+            p stylemargintop px marginbottom px aligncenterfont colorffffffbspan
+            stylefontsize pt fontfamily arial spanbfonttd
+            td widthp stylemargintop px marginbottom px aligncenterfont
+            colorffffffbspan stylefontsize pt fontfamily arial week rangespanbfontp
+            p stylemargintop px marginbottom px aligncenterfont colorffffffbspan
+            stylefontsize pt fontfamily arial   info obtained from
+            a hrefhttpwwwbigchartscombigchartsa spanbfonttd
+          tr
+tbody
+        table
+        centerdivp classmsonormal stylemargintop px marginbottom px
+        aligncenternbspp
+        div aligncentercentertable stylebordercollapse collapse bordercolor
+        cellspacing cellpadding width bgcolorffffff border
+tbody
+          tr
+            td width bgcolor colspanp aligncenterbfont facearial
+            colorffsharerelated itemsfontbtd
+          tr
+          tr
+            td width bgcoloredd colspanp aligncenternbsptd
+          tr
+          tr
+            td widthspan stylefontfamily arialrecent price julynbsp   spantd
+            td widthp alignrightfont facearialfonttd
+          tr
+          tr
+            td widthspan stylefontfamily arialmarket capitalization approximatespantd
+            td widthp alignrightspan stylefontfamily arialkspantd
+          tr
+          tr
+            td widthfont facearialshares outstanding approximatefonttd
+            td widthp alignrightmtd
+          tr
+          tr
+            td widthfont facearialapproximate floatfonttd
+            td widthp alignright mtd
+          tr
+          tr
+            td widthfont facearialdaily avg volume  dayfonttd
+            td widthp alignrightfont facearialkfonttd
+          tr
+          tr
+            td widthfont facearialnet tangible assets approximatefonttd
+            td widthp alignrightfont facearialmfonttd
+          tr
+          tr
+            td widthfont facearialnet asset value per outstanding share approximatefonttd
+            td widthp alignrightfont facearialfonttd
+          tr
+          tr
+            td width bgcolor colspanp aligncenterfont colorffffffspan
+            stylefontfamily arialbclick here to view the chartbspanfonttd
+          tr
+tbody
+        table
+        centerdivpnbspul stylemargintopin typedisc
+          li classmsonormal stylemsolistl level lfotabstopslist inp alignleftbigfont
+            facearialspan stylefontsizeptmsobidifontsizeptfontfamilyarialaudited
+            net assets slightly under mspanspan
+            stylefontsizept
+     msobidifontsizeptfontfamilyarialopspanfontbigp
+          li
+          lip alignleftbigfont facearialspan
+            stylefontsizeptmsobidifontsizeptfontfamilyarialnet asset value per
+            outstanding share of common stock is approximately sharespanspan
+            stylefontsizeptmsobidifontsizept
+     fontfamilyarialopopspanfontbigp
+          li
+        ul
+        ul stylemargintopin typedisc
+          li classmsonormal stylemsolistl level lfotabstopslist inp alignleftbigfont
+            facearialspan stylefontsizeptmsobidifontsizeptfontfamilyarialstrong
+            balance sheet with no debtspanspan
+            stylefontsizept
+     msobidifontsizeptfontfamilyarialopopspanfontbigp
+          li
+          li classmsonormal stylemsolistl level lfotabstopslist inp alignleftfont
+            facearial sizespan
+            stylefontsizeptmsobidifontsizeptfontfamilyarialnew site enhancements
+            and new marketing campaign beginning next quarteropopspanfontp
+          li
+        ul
+        p classmsonormalspan
+        stylefontsizeptmsobidifontsizept
+fontfamilyarialnbspopopspanp
+        div aligncentercentertable border cellpadding bgcolorgreen
+        stylemsocellspacingpt
+ backgroundgreenmsopaddingaltpt pt pt pt
+        width
+          tr
+            td width stylewidthbackgroundblackpaddingpt pt pt ptp
+            classmsonormal aligncenterbspan
+            stylefontsizeptmsobidifontsizept
+  fontfamilyarialfont
+            colorffvirtual gaming enterprises incnbsp the companyfontspanbtd
+          tr
+        table
+        centerdivp classmsonormalspan
+        stylefontsizeptmsobidifontsizept
+fontfamilyarialnbspopopspanp
+        p classmsobodytext alignleftspan stylemsobidifontsizeptfont
+        faceariala hrefhttpwwwvtgecomvirtual gaming enterprises inca
+        is in the business of gaming over the internet customers are able to play virtual casino
+        style games against other members or alone through an internet connection the company
+        awards prizes and bonuses to its premier players in the same fashion as traditional
+        casinos these awards programs and unparalleled customer service have made virtual gamings casinos the place to play on the netfont opspanp
+        p classmsobodytext alignleftfont facearialspan
+        stylemsobidifontsizeptcheck it outspanfontp
+        p classmsobodytext alignleftnbsp a hrefhttpwwwthecasinothemeparkcomwwwthecasinothemeparkcomanbsp
+        p
+        p classmsobodytext alignleftnbspp
+        ul stylemargintopin typedisc
+          li classmsonormal stylemsolistl level lfotabstopslist inp alignleftspan
+            stylefontsizeptmsobidifontsizeptfontfamilyarialthe company is
+            enhancing its already popular casino suite of sitesspanspan
+            stylefontsizeptmsobidifontsizeptfontfamilyarialopopspanp
+          li
+          li classmsonormal stylemsolistl level lfotabstopslist inp alignleftspan
+            stylefontsizeptmsobidifontsizeptfontfamilyarialthe company recently
+            signed a development agreement with regional site developer infoflashcomspanspan
+            stylefontsizeptmsobidifontsize
+     ptfontfamilyarialopopspanp
+          li
+          li classmsonormal stylemsolistl level lfotabstopslist inp alignleftspan
+            stylefontsizeptmsobidifontsizeptfontfamilyarialthe company has
+            retained nextleft tech to launch an aggressive marketing campaignspanspan
+            stylefontsizeptmsobidifontsizept
+     fontfamilyarialopopspanp
+          li
+        ul
+        p classmsonormalspan
+        stylefontsizeptmsobidifontsizept
+fontfamilyarialnbspopopspanp
+        p classmsonormal alignleftspan
+        stylefontsizeptmsobidifontsizept
+fontfamilyarialvirtual gaming
+        enterprises holds a master gaming license from the commonwealth of dominica vtge asserts
+        it is well positioned to capture substantial market share of the growing internet gaming
+        business a recent report from bear stearns nyse bsc experts expect online gaming to
+        grow to more than  billion in  vtge through joint ventures and an aggressive
+        acquisition campaign operates over  gaming related websites and a  interest in vegas
+        bookcom a traditional sports bookspanspan
+        stylefontsizeptmsobidifontsizeptfontfamilyarialopopspanp
+        p classmsonormal aligncenternbspp
+        p classmsonormal alignleftspan
+        stylefontsizeptmsobidifontsizept
+fontfamilyarialthe recent software
+        development agreement with infoflashcom gives the company a competitive technology
+        advantage casino players will be will gamble using flash and java games for desktops and
+        laptopsspan stylemsospacerun yesnbsp spanfurthermore virtual gaming
+        customers will have the ability to gamble using pda personal digital assistants and
+        pocket pcsspanspan
+        stylefontsizeptmsobidifontsizeptfontfamily
+arialopopspanp
+        p classmsonormalnbspp
+        div aligncentercentertable border cellpadding bgcolorgreen
+        stylemsocellspacingpt
+ backgroundgreenmsopaddingaltpt pt pt pt
+          tr
+            td width stylewidthbackgroundblackpaddingpt pt pt pt
+            alignleftp classmsonormal aligncenterbspan
+            stylefontsizeptmsobidifontsizept
+  fontfamilyarialfont
+            colorffthe marketfontspanbtd
+          tr
+        table
+        centerdivp classmsonormalspan
+        stylefontsizeptmsobidifontsizept
+fontfamilyarialnbspopnbspopopspanp
+        p classmsonormalspan
+        stylefontsizeptmsobidifontsizept
+fontfamilyarialvirtual gaming owns
+         casino style gaming sites for simulated gaming over the internet the company is
+        launching  new sites in  spanspan
+        stylefontsizeptmsobidifontsizept
+fontfamilyarialopopspanp
+        p classmsonormalspan
+        stylefontsizeptmsobidifontsizept
+fontfamilyarialnbspopopspanp
+        p classmsonormal alignleftspan
+        stylefontsizeptmsobidifontsizept
+fontfamilyarialaccording to a
+        hrefhttpwwwidccomspan stylecolorwindowtextinternational data corpspana
+        idc improved internet capabilities nextgeneration video game consoles and
+        nontraditional gaming platforms will draw  million households into online gaming by
+         up from  million in  building a diversified revenue base is perhaps the
+        biggest challenge facing online gaming companies virtual gaming intends to earn
+        additional revenues from licensing its technology and cobranding its gamesspanspan
+        stylefontsizeptmsobidifontsizept
+fontfamilyarialopopspanp
+        p classmsonormalnbspp
+        p classmsonormal stylemargintop  marginbottom  aligncenterfont
+        facearial sizespan
+        stylecolor red fontweight  textdecoration underlinethis company is trading
+        way under its current value spanfontp
+        p classmsonormal stylemargintop  marginbottom  aligncenterspan
+        stylecolor red fontweight  textdecoration underlinefont facearial
+        sizevirtual gaming enterprises inc fontfont facearialbigforcastsbigfont
+        size fontfontfont facearial sizecontinued acceleration fontspanp
+        p classmsonormal stylemargintop  marginbottom  aligncenterspan
+        stylecolor red fontweight  textdecoration underlinefont facearial
+        sizein revenues and in profitsfontspanp
+        p classmsonormalnbspp
+        p classmsonormal alignleftnbspp
+        p classmsonormalbigfont facearialbspan
+        stylefontsizeptmsobidifontsizept
+fontfamilyarialprojected vital
+        statistics of online casinos in spanbspan
+        stylefontsizeptmsobidifontsizeptfontfamilyarial spanspan
+        stylefontsizeptmsobidifontsizeptfontfamilyarialopopspanfontbigp
+        p classmsonormalnbspul stylemargintopin typedisc
+          li classmsonormal stylemsolistl level lfotabstopslist inp alignleftfont
+            facearialspan stylefontsizeptmsobidifontsizeptfontfamilyarialtotal
+            online wagers   billion per yearspanspan
+            stylefontsizept
+     msobidifontsizeptfontfamilyarial opopspanfontp
+          li
+          li classmsonormal stylemsolistl level lfotabstopslist inp alignleftfont
+            facearialspan stylefontsizeptmsobidifontsizeptfontfamilyarialtotal
+            wagers minus payouts   million spanspan
+            stylefontsizept
+     msobidifontsizeptfontfamilyarialopopspanfontp
+          li
+          li classmsonormal stylemsolistl level lfotabstopslist inp alignleftspan
+            stylefontsizeptmsobidifontsizeptfontfamilyarialfont facearialnumber
+            of online casinos  around fontspanp
+          li
+        ul
+        ul stylemargintopin typedisc
+          li classmsonormal stylemsolistl level lfotabstopslist inp alignleftfont
+            facearialspan stylefontsizeptmsobidifontsizeptfontfamilyarialaverage
+            annual online casino revenue   to  millionspanspan
+            stylefontsizeptmsobidifontsizeptfontfamilyarial opopspanfontp
+          li
+        ul
+        p alignleftnbspp
+        p alignleftnbspnbspnbspnbspnbspnbspnbspnbsp good luck investorsp
+        font sizepfontfont color sizestrongsave strongfontfont
+        facearial sizep
+        pfontstrongfont size facearial colorffsave up to  on your
+        internet access fontfont size facearial colorinstead of the
+        standard  to  now you can get fontfont size facearial
+        colorff unlimited accessfontfont size facearial color
+        with nationwide access numbers on a fontfont size facearial colorfffast
+        k v servicefontfont size facearial color faster connections
+        than atampt and aol and faster page loadsfontstrongfont sizep
+        pfontfont facearial size colorstrong quot internet
+        access  unlimited with nationwide access numbersquotstrongfontfont sizep
+        pstrongfont facearial size colorcall fontfontfont
+        facearial colorff sizefontfont sizefont
+        facearial size color fontstrongp
+        p alignleftsafe harbor for forwardlooking statements except for historical
+        information contained herein the statements on this website and newsletter are
+        forwardlookingfont font sizestatements that are made pursuant to the safe harbor
+        provisions of the private securities reformfont font sizeact of 
+        forwardlooking statements involve known and unknown risks and uncertainties whichfont
+        font sizemay cause a companys actual results in the future periods to differ
+        materially from forecastedfont font sizeresults these risks and uncertainties
+        include among other things product price volatilityfont font sizeproduct
+        demand market competition and risk inherent in the companies operations you canfont font
+        sizeidentify these statements by the fact that they do not relate strictly to
+        historical or currentfont font sizefacts they use words such as
+        quotanticipate quotestimate quotexpect quotproject quotintendfont
+        font sizequotplan quotbelieve and other words and terms of similar meaning
+        in connection with anyfont font sizediscussion of future operating or financial
+        performance as a suggestion quotnever ever makefont font sizean investment
+        based solely on what you read in an online newsletter or internet bulletinfont font
+        sizeboard especially if the investment involves a small thinlytraded company that
+        isnt wellfont font sizeknownquot said nancy m smith director of secs
+        office of investor education and assistancefont font sizequotassume that the
+        information about these companies is not trustworthy unless you can provefont font
+        sizeotherwise through your own independent researchquot quotinternet fraudquot
+        is available on thefont span
+        stylefontfamily times new roman msofareastfontfamily times new roman msoansilanguage enus msofareastlanguage enus msobidilanguage arsafont
+        sizesecs web site at a hrefhttpwwwsecgovconsumercyberfrhtmhttpwwwsecgovconsumercyberfrhtmafontspanp
+        p alignleft
+        span stylefontsize pt color  fontfamily arialwe 
+        strongly oppose the use of spam email and do not want to send our 
+        mailings to anyone who does not nbspwish to receive them br
+        if you do not wish to receive further mailings please span
+        font sizea hrefmailtouunsubvtgefiremaildeclick hereafontspan stylefontsize pt color  fontfamily arial 
+        and rest assured you will receive another message form usbr
+        br
+        if you would like to subscribe to future mailing of this type please
+        a hrefmailtossubvtgefiremaildeclick here to subscribeaspanp
+        p alignleftnbspp
+        p classmsonormal aligncenter stylemargintop  marginbottom nbspp
+        p classmsonormal stylemargintop  marginbottom  aligncenternbspp
+        hr
+        td
+      tr
+    table
+    td
+  tr
+table
+body
+html
+
+ bjkhtgbk
+
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

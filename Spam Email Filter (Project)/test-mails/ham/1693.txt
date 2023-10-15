@@ -1,0 +1,32 @@
+using lm  is yielding an extra  a day but it gets false positives
+where it shouldnt
+
+such as an email with a word doc and the signature below  after looking at
+the word doc directions to the senders cabin i am convinced it marked the
+body which contains no next except the incredimail advertisment
+signature as spam
+
+so i have to turn off lm   razor has been getting other strange emails it
+shouldnt with lm  on
+
+      see the incredimail ad signature i am talking about below
+
+      fox
+
+
+
+
+  incredimail  email has finally evolved  click here
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

@@ -1,0 +1,23 @@
+
+html
+head
+titleuntitled documenttitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+
+body bgcolorffffff text leftmargin topmargin marginwidth marginheight
+
+  table width border cellspacing cellpadding
+    tr
+      
+    td aligncenter a hrefhttptrackoffernetcgibintrimlifeeimg srchttpwwwfreezecomsnowstandalonesimagescreativegif width height bordera 
+      img srchttpwwwtrimlifecomtrackingrecordaspentrytypeoffercodeoft width height alt bordertd
+    tr
+  table
+pnbspp
+pnbspp
+pfont facearial sizeyou received this email because you signed up at one of offercoms websites or you signed up with a party that has contracted with offercom to unsubscribe from our newsletter please visit a hrefhttpoptoutoffernetejmnetnoteinccomhttpoptoutoffernetejmnetnoteinccoma
+ font
+body
+html
+	

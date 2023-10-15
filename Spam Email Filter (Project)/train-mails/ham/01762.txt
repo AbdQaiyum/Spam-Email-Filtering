@@ -1,0 +1,66 @@
+use perl daily newsletter
+
+in this issue
+     damian conway publishes exegesis 
+     nd open source cms conference
+
+
+ damian conway publishes exegesis                                  
+   posted by hfb on friday august   perl                
+   httpuseperlorgarticleplsid               
+
+
+an anonymous coward writes  has a link to damians
+exegesis 
+
+discuss this story at
+    httpuseperlorgcommentsplsid
+
+links
+     httpwwwslashdotorg
+     httpdevelopersslashdotorgdevelopersshtmltid
+     httpyetanotherorgdamian
+     httpwwwperlcomlptaexegesishtml
+
+
+
+ nd open source cms conference                                     
+   posted by ziggy on friday august   events             
+   httpuseperlorgarticleplsid              
+
+
+gregor j rothfuss writes there will be a second open source cms
+conference this fall in berkeley we will feature presentations and
+workshops from a wide range of cms and would definitely welcome some
+perlfu in there as well also of interest our efforts to build
+bridges across cms participate in our mailing list or better yet
+show up  the first open source cms conference was held in zurich
+this past march
+
+discuss this story at
+    httpuseperlorgcommentsplsid
+
+links
+     mailtogregorrothfussoscomorg
+     httpwwwoscomorgconferencesberkeleyindexhtml
+     httpwwwoscomorginterophtml
+     httpwwwoscomorgmailinglistshtml
+     httpwwwoscomorgconferencesberkeleyregistrationfeeshtml
+     httpwwwoscomorgconferenceszurichagendahtml
+
+
+
+copyright  pudge  all rights reserved
+
+
+
+
+you have received this message because you subscribed to it
+on use perl  to stop receiving this and other
+messages from use perl or to add more messages
+or change your preferences please go to your user page
+
+	httpuseperlorgmymessages
+
+you can log in and change your preferences from there
+

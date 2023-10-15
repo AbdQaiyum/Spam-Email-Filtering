@@ -1,0 +1,236 @@
+this is a multipart message in mime format
+
+nextpartdceafcd
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ maximizer select	
+ want to pay less for term insurance	
+find out how your clients can pay less by paying
+more   while you earn more commission 	
+ 	simplified underwriting	  	advanced commissions	 
+ 	return of premium	  	renewal commissions	 
+call today to find out how
+cnas maximizer select will work for you 	
+ 	
+please fill out the form below for more information	 
+name	 	 
+email	 	 
+phone	 	 
+city	 	 state	 	  	
+ 	    	
+ 
+    
+
+
+ 
+cna and cna life are registered service marks trade names and domain
+names and cna maximizer is a registered service mark of cna financial
+corporation cna life insurance products are underwritten by valley
+forge life insurance company one of the cna companies policy form
+numbers va va va va series
+these products and features are not available in all states for
+producer use only
+
+we dont want anybody to receive our mailing who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsuranceiqcomoptout
+httpwwwinsuranceiqcomoptout 
+legal notice httpwwwinsuranceiqcomlegalhtm  	
+
+nextpartdceafcd
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlesometimes less is moretitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+font facedverdana arial helvetica sansserif
+table widthd borderd cellspacingd cellpaddingd 
+bordercolord aligndcenter
+  tr
+    td
+			table widthd borderd cellspacingd 
+cellpaddingd
+        tr
+          tdimg srcdhttpiiqusimagesfbtopjpg widthd 
+heightd altdmaximizer selecttd
+        tr
+        tr
+          tdimg srcdhttpiiqusimagesfbtagjpg widthd 
+heightd altdwant to pay less for term insurancetd
+        tr
+      table
+      table widthd borderd cellspacingd 
+cellpaddingd
+        tr
+          td aligndcenter
+            font colordbfind out how your clients can pay 
+less by payingbrmore   while you earn more commissionbfont
+					td
+        tr
+      table
+      table widthd borderd cellspacingd 
+cellpaddingd
+        tr
+          td widthd aligndright img 
+srcdhttpiiqusimagesfbbulletgif widthd 
+heightdtd
+          td widthdfont sizedbsimplified 
+underwritingbfonttd
+          td widthd aligndright img 
+srcdhttpiiqusimagesfbbulletgif widthd 
+heightdtd
+          td widthdbadvanced commissionsbtd
+        tr
+        tr
+          td widthd aligndright img 
+srcdhttpiiqusimagesfbbulletgif widthd 
+heightdtd
+          td widthdfont sizedbreturn of 
+premiumbfonttd
+          td widthd aligndright img 
+srcdhttpiiqusimagesfbbulletgif widthd 
+heightdtd
+          td widthdfont sizedbrenewal 
+commissionsbfonttd
+        tr
+      table
+      table widthd borderd cellspacingd 
+cellpaddingd
+        tr
+          td aligndcenter
+						font sized colordbcall today to find out 
+howbrcnas maximizer select will work for youbfont
+					td
+        tr
+        tr
+          td aligndcenterimg 
+srcdhttpiiqusimagesfbphonegif widthd heightd 
+altdtd
+        tr
+      table
+      table widthd borderd cellspacingd 
+cellpaddingd
+        tr
+          td
+						table widthd borderd cellpaddingd 
+cellspacingd
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordffffff
+                      tr bgcolord
+                        td colspand aligndcenterfont 
+colordffffffbplease fill out the form below for more 
+informationbfonttd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbnamebfonttd
+                        td colspand input typedtext 
+namedcontactname sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbemailbfonttd
+                        td colspand input typedtext 
+namedemail sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand input typedtext 
+namedphone sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd input typedtext 
+namedcity sizedtd
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd input typedtext 
+namedstate sizedtd
+                        td rowspand aligndcenter 
+valigndmiddleimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthdnbsptd
+                        td widthd colspand
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          input typedhidden 
+namedhdnrecipienttxt valuedptarrencefbinccom
+                          input typedhidden namedhdnsubjecttxt 
+valuedfinancial brokerage inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+          td
+        tr
+      table
+      table widthd borderd cellspacingd 
+cellpaddingd
+        tr
+          td aligndcenter
+            hr widthdbr
+            img srcdhttpiiqusimagesfblogogif widthd 
+heightd
+          td
+        tr
+        tr
+          td aligndcenter font facedverdana arial helvetica 
+sansserif sizedcna
+            and cna life are registered service marks trade names and 
+domain
+            names and cna maximizer is a registered service mark of cna 
+financial
+            corporation cna life insurance products are underwritten by 
+valley
+            forge life insurance company one of the cna companies 
+policy form
+            numbers va va va va 
+series
+            these products and features are not available in all states 
+for producer
+            use onlybr
+            br
+            we dont want anybody to receive our mailing who does not 
+wish to
+            receive them this is a professional communication sent to 
+insurance
+            professionals to be removed from this mailing list do not 
+reply
+            to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptouthttpwwwinsuranceiqcomop
+toutabr
+            a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafont
+          td
+        tr
+      table
+    td
+  tr
+table
+font
+body
+html
+
+nextpartdceafcd
+

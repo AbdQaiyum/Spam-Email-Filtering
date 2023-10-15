@@ -1,0 +1,147 @@
+html
+
+head
+meta httpequivdcontentlanguage contentdenus
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+titlenorton adtitle
+head
+
+body
+
+table borderd widthd heightd bgcolordffffff
+  tr
+    td widthd heightd bgcolordffffff aligndcenter
+font facedimpact colordcc sizedtake
+      control of your computer with this topoftheline softwarefont
+td
+  tr
+table
+
+table borderd cellspacingd widthd cellpaddingd bgco
+lord  bordercolordffffff styledbordercollapse collaps
+e bordercolordarkd heightd bordercolorlightdffff
+
+  tr
+    td widthd heightd bordercolorlightdffffff borderco
+lordarkdffff
+      table borderd widthd heightd bgcolordffff
+ bordercolordffffff
+        tr
+          td widthd heightd aligndcenterbfont color
+dff facedtahoma sizednorton
+            systemworks  fontfont facedtahoma sized color
+d software suitefontfont colordff facedtimes n
+ew roman sizedbr
+            iprofessional editionifontbtd
+        tr
+      table
+      table borderd widthd heightd
+        tr
+          td widthd heightd aligndcenterbfont faced
+tahoma colordffffff sizedincludes
+            six  fontifont facedtahoma sized colordfff
+fyes fontifont facedtahoma colordffffff sized 
+             featurepacked utilitiesbrall for fontfont facedtah
+oma sized colordfffffontfont facedtahoma colord
+ffffff sized
+            special fontfont facedtahoma sized colordffff
+lowfontfont facedtahoma colordffffff sized
+            price of fontfont facedtahoma sized colordfff
+fonly
+            fontbtd
+        tr
+      table
+      table borderd widthd heightd bgcolord
+ bordercolordffffff
+        tr
+          td widthd heightd bgcolordffff bordercolo
+rdbfont facedtahoma sizedfont colord
+this
+            software willfontfont colordffffffbrnbspfont
+font colordff
+            protect your computer from unwanted and i hazardousi  vir
+usesbrnbsp
+            help secure your private amp valuable informationbrnbsp
+ allow
+            you to transfer files and send emails u safelyubrnbsp
+
+            backup your all your data quick and easilybrnbsp improve 
+your
+            pcs performance wisuperiori
+            integral diagnosticsbrnbsp iyoull never have to take 
+your
+            pc to the repair shop againifontfontbtd
+        tr
+      tablenbsp
+      table borderd widthd heightd bgcolordffffff 
+bordercolordffff
+        tr
+          td widthd heightd
+            p aligndcenterbfont sized facedtahomafont 
+colordfont colordfffont
+            featurepacked utilities
+            fontfont colord sizedbrfontufont 
+colordfffontfont colord
+            great pricefontufont colord sized br
+            a font colordfffont  
+            combined retail value
+            font
+            ifont colordffyoursfonti font colord
+ for
+            only font colordfffont
+            fontfontfont sizedbr
+            fontbfont facedtahoma sizedfont colord
+lt
+            price includes fontfont colordfffreefontfont
+ colord 
+            fontfont colordshipping gtbrfontfont
+font colordff sized facedimpactand
+            for a limited time buy any  of our products amp get  free
+fonttd
+        tr
+      table
+    p aligndcenterb font facedarial sized colordffff
+ffdont fall
+    prey to destructive viruses or hackersbrprotectnbsp your computer
+ and
+    your valuable information andfontbp
+      table borderd widthd heightd bordercolordfff
+f bgcolordffff
+        tr
+          td widthd heightd bgcolordffffff aligndce
+nterba hrefdhttpwwwanythinggoesherecom styledcolor ff
+ fontfamily verdana fontsize pt fontweight boldfont faced
+tahoma sized colordffgt
+            click here to order yours now ltfontabtd
+        tr
+      table
+      p aligndcenterfont facedverdana sized colordffff
+bor call
+      tollfree bfontp
+      p aligndcenterfont colordffffff sized facedtahom
+ayour email
+      address was obtained from an optin list optin uefas united email
+      federation against spam approved list  nbsppurchase code 
+      nbspnbspif you wish to be unsubscribed from this list p
+lease a styledcolor ffffcc hrefdhttpwwwanythinggoesherecom
+removeaspclick
+      herea  if you have previously unsubscribed and are still receivi
+ng
+      this message you may email our a styledcolor ffffcc hrefd
+httpwwwanythinggoesherecomabuseaspspam
+      abuse control centera we do not condone spam in any shape or for
+m
+      thank you kindly for your cooperationfonttd
+  tr
+table
+
+body
+
+html
+
+
+
+

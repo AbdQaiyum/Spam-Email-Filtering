@@ -1,0 +1,10 @@
+
+i actually like neales xspamdisposition header i just wonder if maybe we
+should choose something with a different prefix than xspam so that
+people dont confuse it with spamassassin all of whose headers begin with
+that prefix
+
+also some sort of version information would be useful  perhaps the cvs
+version number for the classifier module could be tacked on
+
+skip

@@ -1,0 +1,32 @@
+urban boquist wrote
+ if i run spamassassin on this message
+ 
+    httpwwwboquistnetstortsupbrev
+ 
+ it seems to hang memory usage goes up to mb and stays there i have
+ let it run for an hour before i killed it this was on a
+ pentiumii yes i know a bit slow but still
+ 
+ can anyone else confirm this hang maybe i should just upgrade
+
+dont run sa on mails this large most people tend to ignore mails 
+larger than about k in spamassassin processing because it just kills 
+performance there are some known issues with the parsing such as the 
+html parsing stuff which is much improved in  which were soon to 
+release but nothing thats too likely to be fixed by  perhaps in 
+ though
+
+matt
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

@@ -1,0 +1,43 @@
+div aligncenter
+  center
+  table border cellspacing width cellpadding bgcolor bordercolorccc
+  tr
+    td width 
+        p aligncenter
+        font faceverdana arial helvetica sansserif size colorffffbnorton 
+          systemworks  software suitebr
+          professional editionbfontp
+        p aligncenterb
+        font size colorffffff facearial helvetica sansseriffontfont sizefont facearial helvetica sansserif size colorffffff 
+          featurepacked utilities fontfont facearial helvetica sansserif size color 
+        font colorfffffffontfont facearial helvetica sansserif size colorffffff great pricebr
+          a font font colorfffffffontfont facearial helvetica sansserif size colorffffff combined retail value for only font 
+          font faceverdana arial helvetica sansserif colorfffffffontfont facearial helvetica sansserif size colorffffffbr
+          includes font font colorfffffffreefontfont facearial helvetica sansserif size colorffffff shippingfontfontfontbp
+        p aligncenterb
+        font facearial helvetica sansserif colorffffffdont 
+        allow yourself to fall prey to destructive virusesfontbp
+        p aligncenterb
+        font facearial helvetica sansserif colorffffffprotect 
+        your computer and your valuable informationfontbp
+      p aligncenterbfont facearial colorff size
+      a hrefhttpswwwbulkherbalcomordersystemworkshtml styletextdecoration none backgroundcolor ffff
+      font colorclick fontfont colorffherefontfont color 
+      for more info and to orderfontafontbp
+    p aligncenterfont facetahoma size colorffffff
+    fontp
+    p aligncenterfont facetahoma size colorffffffwe hope you enjoy 
+receiving bmarketing coopbs special offer emails you have received this 
+special offer because you have provided permission to receive third party email 
+communications regarding special online promotions or offers however if you 
+wish to unsubscribe from this email list please font
+font facetahoma size color
+a hrefmailtoremovemebtamailnetcnfont colorffffffclick herefontafontfont facetahoma size colorffffff 
+please allow  weeks for us to remove your email address you may receive 
+further emails frombr
+us during that time for which we apologize thank youfonttd
+  tr
+tablecenter
+div
+
+

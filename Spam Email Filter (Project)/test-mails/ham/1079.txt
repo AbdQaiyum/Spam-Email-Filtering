@@ -1,0 +1,53 @@
+this is a multipart message in mime format
+it has been signed conforming to rfc
+youll need pgp or gpg to check the signature
+
+
+contenttype textplain charsetusascii
+
+
+on tue  sep   pdt j c lawrence writes
+i run exmh on my desktops at home and at work with the resulting
+exmh windows being displayed on both my work and home desktops gratis
+ssh x forwarding  in fact your message was read and replied to
+this message while at work using an exmh instance running on my home
+machine
+
+so you have  copies  per desktop of exmh running
+
+thats what i usually do but what id really like would be some 
+ automagism to tell them flist rescan folder which i now do 
+ manually whenever im going to work at the other machine
+
+cheers
+rw
+ 
+ in the first place god made idiots
+ though this was for practice only
+ then he made users mark twain modified
+
+
+
+
+contenttype applicationpgpsignature namesignatureng
+contentdisposition inline filenamesignatureng
+contenttransferencoding bit
+
+begin pgp signature
+version gnupg v gnulinux
+
+iddbqefnoenzsjroiraketajwlbcohlxcnhgeqnmjmdqnowcelrko
+wfxchvhdtcqzbboyeuk
+qu
+end pgp signature
+
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

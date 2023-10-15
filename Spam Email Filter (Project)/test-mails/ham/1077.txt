@@ -1,0 +1,23 @@
+  youre probably running exmh on a local machine  im running it on a
+  very remote machine  in this scenario the mime handling is weak
+ 
+ nope  i run exmh on my desktops at home and at work with the resulting
+ exmh windows being displayed on both my work and home desktops gratis
+ ssh x forwarding
+
+i run exmh routinely from home broadband using an xwindows client tunneled through ssh under ahem winxp  it works very well in this fashion
+
+fwiw i use eudora under winder because its less of a virus magnet  
+
+theres more to the story why i run winder but thats really offtopic and im already guilty
+
+d
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

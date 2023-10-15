@@ -1,0 +1,32 @@
+hal devore said
+      brent said in his book
+      this paste function can be convenient but it turns out that
+      users still need to keep track of the difference between the
+      two selections  if a user only understands the clipboard
+      then the user of primary is only surprising  i learned that
+      it is best to have a separate paste user action for the two
+      selections  the convention is that buttonrelease sets
+      the insert point and inserts the primary selection  the
+      paste event eg the paste key simply inserts the
+      clipboard selection at the current insert point 
+
+yeah i learned by hearing exmh users scream in agony  sorry about
+all that  we should be able to clean this up  if you grep for
+bind in seditbind you quickly find the textselection proc
+i described in the previous email
+
+
+brent welch
+software architect panasas inc
+pioneering the worlds most scalable and agile storage network
+wwwpanasascom
+welchpanasascom
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

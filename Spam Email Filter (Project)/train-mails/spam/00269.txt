@@ -1,0 +1,250 @@
+this is a multipart message in mime format
+
+nextpart
+contenttype textplain charsetiso
+contenttransferencoding quotedprintable
+
+
+      connecting your business to the world wide web
+
+
+how many shoppers are 
+you losing
+the figure would amaze you 
+
+how are you losing them
+they cannot find your web site
+a simple equation
+not being found d losing new customers
+
+ we can change that
+
+
+for only  
+
+we will submit your website to over  major search engines around the world 
+see full list on our web site 
+
+but more than that 
+we will research the best and most effective meta tags and keywords to use 
+on your web site so that you will rise in the search engine listings 
+so new customers can find you
+
+dont lose any more customers
+
+
+let us professionally manage the submission of your web site 
+and get it found and seen on the worlds search engines
+click on this link 
+click here
+to discover the power of 
+
+ connecting your business to the world wide web
+
+
+
+
+
+
+  
+
+
+nextpart
+contenttype texthtml charsetiso
+contenttransferencoding quotedprintable
+
+meta httpequivdcontenttype contentdtexthtmlcharsetdiso
+meta httpequivdcontenttype contentdtexthtmlcharsetdiso
+meta httpequivdcontenttype contentdtexthtmlcharsetdiso
+html
+
+head
+meta httpequivdcontentlanguage contentdengb
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+titleworld web connectthe best web solutionstitle
+base targetdcontents
+head
+
+body leftmargind topmargind
+table iddautonumber styledbordercollapse collapse bordercolord 
+heightd cellspacingd cellpaddingd widthd borderd
+  tbody
+  tr
+    td widthd backgrounddhttpwwwworldwebconnectcomimagesfongif 
+    heightd
+      p styledmargintop px marginbottom pximg heightd 
+      srcdhttpwwwworldwebconnectcomimageslogogif widthd 
+      borderdptdtrtbodytable
+table iddautonumber styledbordercollapse collapse bordercolord 
+cellspacingd cellpaddingd widthd borderd
+  tbody
+  tr
+    td widthd 
+      backgrounddhttpwwwworldwebconnectcomimagesfongifp 
+      classdmsonormal 
+      styledmargintop px marginbottom px textalign left 
+      aligndcenterispan langdengb 
+      styledfontsize pt color ffcc fontfamily arialnbspnbspnbspnbspnbsp 
+      connecting your business to the world wide webspaniptd
+    td widthd backgrounddhttpwwwworldwebconnectcomimagesbackgif
+      p 
+styledmargintop px marginbottom pxnbspptdtrtbodytable
+p styledmargintop px marginbottom px aligndcenterimg heightd 
+srcdhttpwwwworldwebconnectcomimagestnpicgif widthd borderdimg 
+heightd srcdhttpwwwworldwebconnectcomimagestnpicgif widthd 
+borderdp
+div aligndcenter
+center
+table iddautonumber styledbordercollapse collapse bordercolord 
+heightd cellspacingd widthd borderd
+  tbody
+  tr
+    td widthd heightd
+      p styledmargintop px marginbottom px aligndcenterfont 
+      facedarial black colordffspan langdenusstrongfont sizedhow 
+      many shoppers arefontstrongfont sized fontspanfontp
+      p styledmargintop px marginbottom px aligndcenterfont 
+      facedarial blackspan langdenusfont colordff sizedyou 
+      losingfontspanfontopopp
+      p classdmsotitle styledmargin px cm aligndcenterfont 
+      colordffbspan langdenusfont facedarial black sizedthe 
+      figure wouldnbspfontspanfont facedarial blackspan 
+      langdenusfont sizediamaze you 
+      ifontspanfontbfontp
+      p classdmsotitle styledmargin px cm aligndcenternbspp
+      p classdmsotitle styledmargin px cm aligndcenterfont 
+      facedarialstrongfont sizedspan langdenusfont 
+      colordffhowfont font colordffare younbspfontfont 
+      colordfflosingfont font 
+      colordffthemfontspanfontopopstrongfontp
+      p classdmsobodytext styledmargin px cm aligndcenterfont 
+      facedarial black sizedfont colordffstrongthey 
+      strongfontfont colordffstrongcannot 
+      findstrongfontfont colordffnbspstrongyour web 
+      sitestrongfontfontp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterspan styledfontsize ptfont 
+      facedarialopopfontspanp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterfont facedarial black colord sizeda simple 
+      equationfontopopp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterfont facedarial black colord 
+      sizedstrongnotnbspbeing foundstrong strongdstrong em 
+      styledfontstyle normalblosing new customersbemfontp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenternbspp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterifont colordfffont facedarial black 
+      sizednbspfontstrongfont facedarial black sizedwe can change 
+      thatfontstrongfontip
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenternbspp
+      h styledmargin px cm aligndcenterimg heightd 
+      srcdhttpwwwworldwebconnectcomimagesworldwebconnectgif widthd 
+      borderdh
+      h styledmargin px cm aligndcenterfont facedarial black 
+      colordfffor only span langdenusspan fonth
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenternbspp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterfont facedarial colordff sizedwe will submit your 
+      website to over  major search engines around the world fontp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterfont facedarial colordff sizedstrongsee full list 
+      on our web sitestrong fontp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenternbspp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterfont facedarial black colordff sizedstrongbut 
+      more than thatstrong fontp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterfont facedarial colordff sizedwe will research the 
+      best and most effective meta tags and keywords to use fontp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterfont facedarial colordff sizedon your web site so 
+      that you will rise in the search enginenbsplistings fontp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterbfont facedarial sizedfont colordffso new 
+      customers can fontfontfont sizedifont facedarial black 
+      colordfffind youfontifontbp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenternbspp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterfont facedarial black colordff 
+      sizedstrongemdont lose any more customersemstrongfontp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenternbspp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterimg heightd 
+      srcdhttpwwwworldwebconnectcomimagesworldwebconnectgif widthd 
+      borderdp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterbemspan langdenusfont facedarial sizedlet 
+      usfontspanembfont facedarialembfont sized 
+      fontbspan styledfontsize ptfont 
+      sizedbprofessionallyb fontspanemfontfont facedarial 
+      sizedspan styledfontstyle italicstrongmanage the submission of 
+      your web site strongspanfontp
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterifont facedarial sizedstrongand get 
+      itnbspstrongfontfont facedarialstrongspan 
+      styledfontsize ptfont colordff 
+      sizedfoundfontspanfont sized andfont colordff 
+      fontfontspan styledfontsize ptfont colordff 
+      sizedseenfontfont sized on thefont colordff 
+      fontfontspanstrongfontfont facedarial 
+      sizedstrongworlds search enginesstrongfontip
+      p classdmsonormal styledmargin px cm textalign center 
+      aligndcenterspan styledfontsize ptfont 
+      facedarialopopfontspanp
+      p classdmsobodytext styledmargin px cm aligndcenterstrongfont 
+      facedarial black sizedclick onnbspthis link pfontfont 
+      facedarial black colordff sized
+      p classdmsonormal styledmargin px in textalign center 
+      aligndcenterfontbfont facedarial black colordff sizedspan 
+      styledcolor reda hrefdhttpwwwworldwebconnectcomclick 
+      hereaspanfontopopbpfont facedarial black sized
+      p classdmsobodytext styledmargin px cm aligndcenterto discover 
+      thenbspfont colordffempoweremfont of pfontfont 
+      facedarial sized
+      p classdmsobodytext styledmargin px cm aligndcenterimg heightd 
+      srcdhttpwwwworldwebconnectcomimagesworldwebconnectgif widthd 
+      borderdpfontfont facedarial sized
+      p classdmsobodytext styledmargin px cm aligndcenterispan 
+      langdengb styledcolor ffcc fontfamily arialnbspconnecting 
+      your business to the world wide webspanipfontfont facedarial 
+      sized
+      p classdmsobodytext styledmargin px cm aligndcenternbspp
+      p classdmsobodytext styledmargin px cm aligndcenternbspp
+      p classdmsobodytext styledmargin px cm aligndcenterimg heightd 
+      srcdhttpwwwworldwebconnectcomimagessslsecuregif widthd 
+      borderdimg heightd 
+      srcdhttpwwwworldwebconnectcomimagesvisaetcgif widthd 
+      borderdpfontstrongtd
+    td widthd heightd
+      p styledmargintop px marginbottom pximg heightd 
+      srcdhttpwwwworldwebconnectcomimagesrockwellleftsearchgif 
+      widthd borderdp
+      p styledmargintop px marginbottom pximg heightd 
+      srcdhttpwwwworldwebconnectcomimagesrockwellleftsearchgif 
+      widthd borderdp
+      p styledmargintop px marginbottom pximg heightd 
+      srcdhttpwwwworldwebconnectcomimagesrockwellleftsearchgif 
+      widthd borderdp
+      p styledmargintop px marginbottom pxnbspptdtr
+  tr
+    td widthd heightdnbsptd
+    td widthd 
+heightdnbsptdtrtbodytablecenterdiv
+
+body
+
+html
+
+
+nextpart
+
+

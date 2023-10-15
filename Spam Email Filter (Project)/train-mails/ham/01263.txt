@@ -1,0 +1,27 @@
+once upon a time roi wrote 
+
+ same as in mplayer src package
+ the with and without not working correctly
+ i do without arts and it still want to install with arts
+
+this time the problem seems to be that i overestimated xinelibs configure
+script as it seems that it doesnt support disabling arts so if you have
+artsdevel installed its support will be compiled in 
+
+also i had made another mistake and added the configure option to disable
+lirc ot xinelib when it should have been for xineui
+
+all this is fixed in the upcoming fr release
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel 
+load     ac online battery charging  
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

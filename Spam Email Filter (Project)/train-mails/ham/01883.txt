@@ -1,0 +1,14 @@
+url httpscriptingnewsuserlandcombackissueswhenam
+date tue  sep   gmt
+
+looks like google did a deal to index the ny times if you do this news search
+ and mouse over the link youll see theres a partner attribute on the 
+url like the ones in our links what are the implications of this heres 
+one martin nisenholtz may now have a chance of winning his bet with me 
+
+
+ httpnewsgooglecomnewshlenqnewyorktimesblog
+ httpwwwnytimescomtechnologygooghtmlexenfeddbeipartneruserland
+ httpwwwgooglecomsearchhlenlrieutfoeutfsafeoffqnisenholtzwinerbtnggooglesearch
+
+

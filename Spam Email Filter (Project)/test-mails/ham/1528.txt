@@ -1,0 +1,38 @@
+thank you lars for your reply to my query
+
+ sa doesnt do any of these it is probably a function of whatever scanning
+systemmda
+ youre using amavis procmail whatever what exactly are you using
+
+i am using spamassassin as part of the mailscanner package using sendmail
+as the mta it integrates nicely in there and shares a configuration file
+with sa all very neat
+
+ sa in itself does nothing really you need a frontend procmail amavis
+etc
+ at some point in the  mail delivery chain that can hand over the message
+ to sa and do whatever other processing you want
+
+i thought that sa rated a message with a certain score then did a certain
+action such as store  deliver  delete based on the configuration given
+i was hoping there were some other actions that i could customprogram in
+
+again many thanks
+
+
+adrian
+
+
+
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

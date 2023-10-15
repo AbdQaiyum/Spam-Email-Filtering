@@ -1,0 +1,27 @@
+on mon  oct  jesse keating wrote
+
+ on mon  oct   
+ matthias saou matthiasrpmforgenet wrote
+ 
+  ive never heard of any cdrom or dvdrom drive having problems with
+  dma although there probably is since red hat decided to default
+  disabling it a few releases back 
+ 
+ when i worked as a pc repair tech for a computer store chain i did
+ run across quite a few dvd drives that would lock up if dma was
+ enabled  its more of a chipsetdrive problem than a drive by itself
+
+and my ibm intellistation would lock up instantly  now this is actually 
+quite funny  if dma was enabled for the cdrom and you tried to access 
+a cd with joliet extensions otherwise it worked just fine with dma 
+enabled 
+
+ 
+	 panu 
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

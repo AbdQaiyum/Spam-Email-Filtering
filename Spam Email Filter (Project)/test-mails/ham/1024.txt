@@ -1,0 +1,58 @@
+exmhp
+contenttype textplain charsetusascii
+
+ from  robert elz kremunnariozau
+ date  mon  aug   
+
+     date        fri  aug   
+     from        chris garrigues cwgdatedabcdeepeddycom
+     messageid  tmdadeepeddyvirciocom
+ 
+    interestingi dont think this was my bug
+    it appears that msgchange was asked to change to message 
+ 
+ something like that is quite possible but perviously typing nonsense
+ in didnt cause tracebacks and now it does and the traceback came
+ from the sequence code
+ 
+ perviously this would have just caused red messages in the status
+ line complaining about my lousy typing   thats probably what it
+ should keep on doing the red part isnt important obviously
+
+tell me what keystroke made it happen so i can reproduce it and ill see what 
+i can do about it or if i cant ill hand it off to brent
+
+chris
+
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqeajrskbhriuiramdajwuwzfeyyyytpygcyjfpzuufwcfxcn
+kefxnzkkmtjcwgsfxkw
+enn
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

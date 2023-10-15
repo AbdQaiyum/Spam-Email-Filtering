@@ -1,0 +1,25 @@
+once upon a time matthias wrote 
+
+ im facing another problem right now it looks like libsigc is no
+ longer included in the distribution and gtkmm wont compile without it
+  i guess ill have to repackage it myself for  assuming its
+ possible
+
+well ive made an updated libsigc  package it rebuilds cleanly on
+ but the so libraries are missing when trying to rebuild on  the
+a and la files and everything else is though
+do you have an idea of what the problem may be julian  do you want the
+srcrpm to try to find the cause
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel acpi
+load    
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

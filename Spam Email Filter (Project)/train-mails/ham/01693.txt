@@ -1,0 +1,10 @@
+im listed as a developer on sf and have the spambayes cvs module checked
+out using my sf username but im unable to write to the repository  cvs
+complains
+
+     cvs add unheaderpy
+    cvs server aborted add requires write access to the repository
+
+any thoughts
+
+skip

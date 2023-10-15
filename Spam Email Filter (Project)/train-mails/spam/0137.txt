@@ -1,0 +1,54 @@
+ saved from urlhttpinternetemail 
+html
+body bgcolorffffff text
+div aligncenter
+  p alignleftfont size facetimes new roman times serifbfont colorff facecourier new courier monoyoure 
+    a winnerfontfont colorff facecourier new courier mono fontbfontbr
+    br
+    font facecourier new courier mono sizebdear travelerb fontp
+div
+p alignleftfont facecourier new courier mono sizebfont color sizecongratulationsfontfont color 
+  font sizeyou may be one of ourfont lucky winnersfontb fontp
+p alignleftfont facecourier new courier mono sizeyou may be spending 
+  your next vacation in beautiful bfont colorffccorlando floridafontbfontp
+ul
+  lifont facecourier new courier mono size colorffb days 
+    and  nightsbfontfont facecourier new courier mono size color 
+    of accommodations in sunny orlando florida fontli
+  lifont facecourier new courier mono size colorffround tripfontfont facecourier new courier mono size color 
+    b font colorairfare includedfontb font colorfffor 
+    twofontfontli
+  lifont facecourier new courier mono size colorrental 
+    car with bfont colorffunlimited mileagefontbfontli
+  lifont facecourier new courier mono size colorff day pass 
+    tofontfont facecourier new courier mono size color 
+    buniversal studiosbfontli
+  lifont facecourier new courier mono size colorbfont colorfffontb 
+    coupon book for meals and entertainmentfontli
+  lifont facecourier new courier mono size colorffb casino 
+    cruise ticketsbfontli
+ul
+p alignleftfont facecourier new courier mono sizeto claim your 
+  prize just visit our website a hrefhttpwwwclick hereabr
+fontp
+p alignleftfont facecourier new courier mono sizethanks for entering 
+  our contest and we look forward to seeing you soon fontp
+p alignleftfont facecourier new courier mono sizesincerely fontp
+p alignleftfont facecourier new courier mono sizejacqueline oconnorbr
+  director of promotoinsfontp
+p alignleftfont facecourier new courier mono sizeps youve 
+  got to hurry if you dont claim your vacation in the next  hoursbr
+  it may be gone availability is limited so dont wait
+a hrefhttpwwwclick 
+  herea today fontfont facecourier new courier monobr
+  br
+  br
+  fontp
+p alignleftnbspp
+p alignleftfont facecourier new courier monobr
+  br
+  to be excluded from future promotions a hrefhttpwwwremovehtmclick hereafontp
+body
+html
+
+

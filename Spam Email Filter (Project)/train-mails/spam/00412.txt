@@ -1,0 +1,63 @@
+html
+head
+meta httpequivcontenttype contenttexthtml charsetiso
+base hrefhttp
+head
+body bgcolorffffff leftmargin topmargin marginwidth marginheight
+center
+table width border cellpadding cellspacing aligncenter
+	tr
+		td colspana hrefmhgaidcideidamabmvbmzwluyyjb
+			img srcadsimagesmhgjpg width height alt borderatd
+	tr
+	tr
+		td rowspana hrefmhgaidcideidamabmvbmzwluyyjb
+			img srcadsimagesmhgjpg width height alt borderatd
+		
+    td width height valigntop 
+      p aligncenterfont facearial helvetica sansserif sizebthis 
+        is a special free offer that you will only get oncebfontfont facearial helvetica sansserif sizebr
+        fontp
+        
+      p alignleftfont facearial helvetica sansserif sizemy name 
+        is paige and i have made a new site for my friends this is not just a 
+        normal site but it is font colorffbfreebfont to you 
+        i am only making this offer once so hurry and claim your bfont colorfffreefontb 
+        password nowfontp
+      p alignleftfont facearial helvetica sansserif sizemake 
+        sure that you have at least a valid email to retrieve your password and 
+        that is all that you need fontp
+        
+      p aligncenterfont facearial helvetica sansserif size
+      a hrefmhgaidcideidamabmvbmzwluyyjbbclick 
+        here to br
+        retrieve your password nowbr
+        br
+        br
+        my site is  font colorfffreefont for lifebfontap
+    td
+		td rowspana hrefmhgaidcideidamabmvbmzwluyyjb
+			img srcadsimagesmhgjpg width height alt borderatd
+	tr
+	tr
+		tda hrefmhgaidcideidamabmvbmzwluyyjb
+			img srcadsimagesmhgjpg width height alt borderatd
+	tr
+table
+center
+p alignleftfont facearial helvetica sansserifthis 
+email was sent to you because your email address is part of a targeted optin 
+listyou have received this br email by either requesting more information on 
+one of our sites or someone may have used your email addressbr if you received 
+this email in error please accept our apologiesbr if you do not wish to receive 
+further offers please click below and enter your email to remove your email from 
+future offers fontpp alignleftfont facearial helvetica sansserifa hrefcideidamabmvbmzwluyyjbclick 
+here to removeafontpp alignleftfont facearial helvetica sansserifantispam 
+policy disclaimer under bill s title iii passed by the th u s congress 
+mail cannot be considered spam br as long as we include contact information 
+and a remove link for removal from this mailing list if this email is unsolicited 
+please br accept our apologies per the proposed hr  unsolicited commercial 
+electronic mail act of  further transmissions br to you by the sender may 
+be stopped at no cost to youfontbr p
+
+

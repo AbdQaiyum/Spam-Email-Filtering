@@ -1,0 +1,22 @@
+update of cvsrootspamassassinspamassassinmasses
+in directory uswprcvstmpcvsservmasses
+
+removed files
+      tag b
+	evolvecxx 
+log message
+removed old evolver
+
+ evolvecxx deleted 
+
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassincommits mailing list
+spamassassincommitslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassincommits
+

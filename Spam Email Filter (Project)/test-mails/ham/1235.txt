@@ -1,0 +1,24 @@
+
+
+ on wed  oct  chris  chris garrigues wrote
+
+  chris flistfindunseen has changed to flistfindseqs
+
+i guess i was sleepier than i thought  i managed to cut and
+paste the right stuff from the appdefaults file into the
+bindings definition dialog without ever noticing that it was
+different from what was in my exmhbindings file
+
+hal
+
+ps can i get a pointer to a freeware tcltk debugger
+
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

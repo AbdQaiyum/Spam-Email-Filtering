@@ -1,0 +1,160 @@
+hr
+html
+head
+  titlesecured investements
+  title
+head
+bodyfont facetimes new roman
+p
+center
+table width border
+  tbody
+  tr
+    td aligncenterbfont colorgreen
+sizewealth without risk
+fontcentertabletbodytrtd
+p
+center
+table width border
+  tbody
+  tr
+td aligncenterbfont colorblack
+sizediscover the best kept secret in america
+fontcentertabletbodytrtd
+table aligncenter border bordercolor
+cellpadding cellspacing width
+tbody
+tr bgcolorccffcc
+td
+pfont colorffbfont color
+faceverdana arial helvetica sansserif
+sizeturning  into 
+fontbfontp
+pfont color faceverdana arial
+helvetica sansserif sizein oklahoma craig
+talkington purchased a tax lien on a  acre parcel for
+ the owner failed to pay the taxes and forfeited
+the acre parcel to craig talkington a short time
+later craig sold that property to one of the neighbors
+for  thats the kind of money that buys new
+cars and sends young people to college craig didnt
+stop at one deal he later bought a tax lien for only
+ on a ten acre track the property owner failed to
+pay the taxes and craig ended up the property which
+he sold for  i dont know how much money you
+are making right now but these are the kinds of
+profits that change peoples lives and solve financial
+problems and make things a lot better
+fontptdtrtbodytable
+p
+center
+table width border
+  tbody
+tr
+    td aligncenterbfont color
+sizejanice knetzger turned a  investment into bfontbr
+  font colorgreen sizebbwayne robertson paid  for a home
+bfontbr  font colorff sizebbtodd beemer turned a  investment into 
+  fontcentertabletbodytrtd
+p
+center
+table width border
+  tbody
+  td alignmiddlefont color
+sizebfor serious investors and entrepreneurs onlybrbb
+fontbtbodytrtable
+p
+center
+table width border
+  tbody
+  tr
+    td alignmiddlefont color
+sizebfor a fontbfont colorff
+size
+  bfreebfontfont color sizeb
+consultantion bfont colorff sizeto see if you qualifyfontbr 
+fontbtbodytrtable
+br
+p aligncenter
+table width border
+  tbody
+  tr
+    td aligncenterfont colorbfill out
+the ino obligationi form below for more
+information
+    tabletbodytrtdfontbp
+p
+table width border
+  tbody
+  tr
+    td aligncenterfont color
+sizerequired input fieldfontfont colorff 
+    sizefontptdtrtbodytable
+p
+table cellspacing bordercolordark
+cellpadding width 
+bordercolorlightffffcc
+  tbody
+  tr
+    td alignmiddle
+      form
+actionmailtotaxsalebtamailnetcnsubjectinvestmentinquiry
+methodpost enctypetextplain
+      table width
+        tbody
+        tr
+          td alignright widthfont
+facetimes new roman 
+            color sizenamefont
+            font colorff sizefonttd
+          tdinput namenametdtr
+        tr
+  td alignright widthfont
+facetimes new roman 
+            color sizeaddressfont
+            font colorff sizefonttd
+          tdinput nameaddresstdtr
+tr
+td alignright widthfont
+facetimes new roman 
+            color sizecityfont
+            font colorff sizefonttd
+          tdinput namecitytdtr
+tr
+          td alignright widthfont
+facetimes new roman 
+            color sizestatefont
+            font colorff sizefonttd
+          tdinput size namestatetdtr
+        tr
+td alignright widthfont
+facetimes new roman 
+            color sizephonefont
+            font colorff sizefonttd
+          tdinput namephonetdtr
+tr
+td alignright widthfont
+facetimes new roman 
+            color sizeemail addressfont
+            font colorff sizefonttd
+          tdinput nameemail addresstdtr      
+selectfonttdtrtbodytable
+      pinput typesubmit valuesubmit information
+namesubmit
+    formptdtrtbodytable
+brbr
+p
+table width border
+  tbody
+  tr
+    td alignmiddlefont color sizeball
+tax liens and deeds directly support local
+      fire departments police departments schools
+roads and hospitals  thank you for your interest and
+supportbbr
+      to be removed please  
+      a hrefmailtoremovescentralmailercomsubjectremoveinvestmentclick hereafontfonttdtrtbodytablepcenter
+bodyhtml
+dfslrzehiyocfl
+
+

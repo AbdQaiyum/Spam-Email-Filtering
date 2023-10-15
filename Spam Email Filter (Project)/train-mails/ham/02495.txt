@@ -1,0 +1,10 @@
+ i had the same problem when installing win on it and eventually sorted it
+ out by disabling the infrared port 
+
+enter your bios and try disabling your infrared port in the bios
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

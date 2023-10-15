@@ -1,0 +1,34 @@
+hi
+
+in my build scripts i have problems with some of the kernel packages
+
+for kernelsources i get 
+
+package kernelsource is a virtual package provided by
+  kernelsource 
+  kernelsource 
+
+on running aptget install kernelsource
+
+now first of all this doesnt really tell me what the two options are 
+second is there some way i can tell aptget to install either  this is 
+done from automatic build scripts so id like it to proceed anyway
+
+thanks
+thomas
+
+ 
+
+the davedina project  future tv today   httpdavedinaapestaartorg
+                      
+im alive
+i can tell because of the pain
+ thomasapestaartorg 
+urgent the best radio on the internet     httpurgentrugacbe
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

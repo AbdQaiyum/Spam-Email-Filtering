@@ -1,0 +1,13 @@
+hdparm d devhdc says operation not permitted
+dvd playback is very jumpy
+does someone have any ideas on what i can do yo get dma transfers
+thanks alvie
+
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

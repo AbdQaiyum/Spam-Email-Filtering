@@ -1,0 +1,29 @@
+begin pgp signed message
+hash sha
+
+le  septembre   vous avez crit 
+ yannick
+ youll want to peruse fravias web site on reverse engineering and other
+ things httpwwwwoodmanncomfraviaprotechtm that specific page
+ covers just your concerns
+
+ josh
+
+thanks for the input  some of the tips are quite portable but are there any 
+special attentions to take when implementing such shemes on a unix system 
+
+thanks
+
+  
+yannick gingras
+coder for obb  ostentatiously breathless brotherinlaw
+httpopenbeatboxorg
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqedqguvgdnfoqrapsxakcjdfovvljetxextihruvtkacenayd
+wdzlxjxjdmlfhnrncdm
+clx
+end pgp signature
+

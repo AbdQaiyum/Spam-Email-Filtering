@@ -1,0 +1,30 @@
+on  sep  at  guido van rossum wrote
+
+   your mail and gives you only the nonspam  to train it youd only need
+   to send it the false negatives somehow it can assume that anything is
+   ham that you dont say is spam within  hours
+
+i have folks who leave their email programs running  hours a day constantly polling 
+for mail if they go away for a long weekend lots of friday night spam will become 
+ham on sunday night  friday night seems to be the most popular time
+
+
+  your idea here
+
+ultimately id like to see tight integration into the most popular email clients as a 
+stopgap to the autoham 
+
+how about adding an imap server with a spam and deletedham folder most email 
+clients can handle imap users should be able to quickly move spam into the spam 
+folder 
+
+instead of deleting messages or by reprogramming the delete function they can 
+quickly move ham into the ham folder
+
+in either case the message would be processed and then destroyed
+
+
+brad clements                bkcmurkworkscom   
+httpwwwmurkworkscom                           fax
+aolim bkclements
+

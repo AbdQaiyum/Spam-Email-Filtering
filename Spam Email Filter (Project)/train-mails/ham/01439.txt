@@ -1,0 +1,26 @@
+
+clark c  evans said
+
+ hello  im hosted on a freebsd box where i cant modify the
+ local perl installation  i downloaded and installed procmail
+ in my home directory and now im trying to get spamassassin to work
+ 
+ bash perl makefilepl prefixhomecce sysconfdifhomecceetc
+ warning prerequisite htmlparser  not found at eval  line 
+ warning prerequisite podusage  not found at eval  line 
+ sysconfdif is not a known makemaker parameter name
+
+sysconfdir
+
+j
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

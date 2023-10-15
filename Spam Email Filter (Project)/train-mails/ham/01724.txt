@@ -1,0 +1,34 @@
+guido
+ there seem to be two drivers for the classifier now neale picketts
+ hammiepy and the original gbayespy  according to the readmetxt
+ gbayespy hasnt been kept up to date
+
+it seemed that way to me when i ripped the classifier out of it  i dont
+think anyone has touched it after
+
+ is there anything in there that isnt covered by hammiepy
+
+someone else will have to answer that i dont use gbayes or hammie at
+least not yet
+
+ about the only useful feature of gbayespy that hammiepy doesnt yet
+ copy is u which calculates spamness for an entire mailbox  this
+ feature can easily be copied into hammiepy
+
+thats been done now right
+
+ gbayespy also has a large collection of tokenizers but timtokenpy
+ rules so im not sure how interesting that is now
+
+those tokenizers are truly trivial to rewrite from scratch if theyre
+interesting  the tiny spamham collections in gbayes are also worthless
+now  the self test feature didnt do anything except print its results
+testerpy since became doctested and verifies that some basic machinery
+actually delivers what its supposed to deliver
+
+ therefore i propose to nuke gbayespy after adding a u feature
+
+ here
+
+ anyone against
+

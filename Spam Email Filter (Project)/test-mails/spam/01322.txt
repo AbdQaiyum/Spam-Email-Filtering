@@ -1,0 +1,207 @@
+this is a multipart message in mime format
+
+nextpartdfcdbbdad
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ 	 when aig talks annuitiesyour clients listen
+ 	 year   guaranteeda
+year   guaranteed
+ 
+ commission 
+ 	
+call or email mailtojerryliversaigannuitycom  us today
+ 
+ or 
+please fill out the form below for more information	
+name	  
+email	  
+phone	  
+city	  	state	  	 
+ 	  	 	   
+
+
+ aig annuity
+for agent use only
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet
+
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+nextpartdfcdbbdad
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+title commission on myg annuitiestitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+font facedarialhelveticasansserif
+table widthd cellpaddingd cellspacingd 
+aligndcenter bgcolordffffff bordercolord 
+borderd
+  tr
+    td
+      table widthd cellspacingd cellpaddingd
+        tr
+          td
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                tdimg 
+srcdhttpiiqusimagesaigtalkajpg widthd 
+heightdtd
+                tdimg 
+srcdhttpiiqusimagesaigtalkagif widthd 
+heightd altdwhen aig talks annuitiesyour clients 
+listentd
+              tr
+              tr
+                td rowspandimg 
+srcdhttpiiqusimagesaigtalkagif widthd 
+heightdtd
+                tdimg 
+srcdhttpiiqusimagesaigtalkagif widthd 
+heightd altdyear   guaranteedyear   
+guaranteedtd
+              tr
+              tr
+                tdimg 
+srcdhttpiiqusimagesaigtalkagif widthd 
+heightdtd
+              tr
+            table
+          td
+        tr
+        tr
+          td aligndcenterimg 
+srcdhttpiiqusimagesaigtalkgif widthd 
+heightd altdcommission td
+        tr
+				tr
+					tdnbsptd
+				tr
+        tr
+          td aligndcenter
+            font sizedbcall or a 
+hrefdmailtojerryliversaigannuitycomemaila us todaybr
+            img srcdhttpiiqusimagesaigtalkgif 
+widthd heightd altdbr
+             or  bfont
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordffffff
+                      tr
+                        td colspand aligndcenter 
+bgcolordfont sizedbfont colordffffffplease 
+fill out the form below for more informationfontbfonttd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbnamebfonttd
+                        td colspand font sizedb
+                          input typedtext namedcontactname 
+sized
+                          bfonttd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbemailbfonttd
+                        td colspand font sizedb
+                          input typedtext namedemail 
+sized
+                          bfonttd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbphonebfonttd
+                        td colspand font sizedb
+                          input typedtext namedphone 
+sized
+                          bfonttd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbcitybfonttd
+                        td widthd font sizedb
+                          input typedtext namedcity 
+sized
+                          bfonttd
+                        td widthd aligndrightfont 
+sizedbstatebfonttd
+                        td widthd font sizedb
+                          input typedtext namedstate 
+sized
+                          bfonttd
+                        td rowspand aligndcenter 
+valigndmiddlefont sizedbimg 
+srcdhttpiiqusimagesqgif widthd 
+heightdbfonttd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd font sizedb
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          bfonttd
+                        td widthd aligndrightnbsptd
+                        td widthd font sizedb
+                          input typedhidden 
+namedhdnrecipienttxt valuedjerryliversaigannuitycom
+                          input typedhidden namedhdnsubjecttxt 
+valuedaig ad inquiry
+                          bfont
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            nbspbr
+            img 
+srcdhttpiiqusimagesaigultramyggif widthd 
+heightd altdaig annuitybr
+            font sizedbfor agent use onlybfont
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+font
+body
+html
+
+nextpartdfcdbbdad
+
+

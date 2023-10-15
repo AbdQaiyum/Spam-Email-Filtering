@@ -1,0 +1,16 @@
+jim whitehead ejwcseucscedu writes
+
+ the cd player we have combines play and pause in a single button but
+ doesnt provide instantaneous feedback that the button was pushed instead
+ requiring you to wait until the music starts  seconds this is a ui
+ disaster since tatum doesnt get feedback right away she presses the
+ button again thereby pausing the cd before it even plays shell only ever
+ get music if she presses the button an odd number of times this happens a
+ surprising amount of the time since she eventually hits the button again
+ when the music doesnt play
+
+nice to hear that somebody else does this too
+
+ 
+karl anderson      kramonkeyorg           httpwwwmonkeyorgkra
+

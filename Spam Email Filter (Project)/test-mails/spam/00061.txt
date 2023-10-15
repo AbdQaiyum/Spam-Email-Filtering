@@ -1,0 +1,68 @@
+
+html
+
+head
+
+body backgroundglabkgndjpg bgcolorffffff text link vlink alinkcccc
+
+
+font facearial arial helvetica
+
+
+pstrongthis powerful drink is not labeled romance in a bottle for nothingstrongp
+pits powerful blend of aphrodisiac herbs will put the sizzle back in your relationshipsee for yourselfp
+
+pniagara is the fizzy blue herbal tonic that is sweeping the nation by storm youve heard about it read about it talked about it and watched it on televisionnbsp p
+
+pthe fda does not regulate and approve herbal products however niagaras ingredients listing and labeling
+does meet with fda approval niagara is not suitable for children pregnant women or persons sensitive to caffeine
+or with high blood pressure p
+
+for more info a hrefmailtocowboyetangcomsubjectmore  infoclick hereanbsp
+font size facems sans serif colornavyor simply reply with  in the subject fieldfont
+
+
+
+
+pnbspp
+
+pbfont sizethe form below can be faxed to fontbp
+
+pstrongorder formstrongp
+
+form methodpost actionwebbotself
+  p alignleftnamenbspnbspnbspnbspnbspnbsp input typetext namet sizep
+  p alignleftaddressnbsp input typetext namet sizep
+  p alignleftcitynbspnbspnbspnbspnbspnbspnbspnbspnbsp input typetext namet sizep
+  p alignleftstatenbspnbspnbspnbspnbspnbspnbsp input typetext namet sizep
+  p alignleftzipnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp
+  input typetext namet sizep
+  p alignleftphonenbspnbspnbspnbspnbsp input typetext namet sizep
+	pstringbcredit card infobp
+  pcredit card typenbspnbspnbspnbsp input typetext namet sizep
+  pcard
+  numbernbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp input typetext namet sizep
+  pexpiration datenbspnbspnbspnbspnbspnbspnbsp input typetext namet sizep
+  porder quantitynbspnbspnbspnbspnbspnbspnbspnbspnbsp input typetext namet sizep
+form
+img border srcbigpicjpg width height
+p
+
+
+
+
+to remove your address from our mailing list a hrefmailtocowboyetangcomsubjectremove meclick hereanbsp
+font size facems sans serif colornavyfont
+
+font
+
+
+
+p
+
+
+
+body
+
+
+

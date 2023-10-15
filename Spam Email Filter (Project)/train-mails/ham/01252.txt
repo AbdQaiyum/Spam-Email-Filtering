@@ -1,0 +1,13 @@
+i cant seem to build this package it errors out because rpm found 
+files not included in any of the packages i tried getting them addes 
+its the documentation that is being loaded and was unsuccessful 
+anyone get this to work
+
+coy
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

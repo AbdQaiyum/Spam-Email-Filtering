@@ -1,0 +1,116 @@
+html
+
+head
+
+titlereduce your debt in  minutestitle
+
+meta httpequivcontenttype contenttexthtml charsetiso
+
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+head
+
+body bgcolorffffff
+
+img srchttptrackoptinllccomtevaspeid height width
+
+
+
+center
+
+table border cellpadding cellspacing
+
+	tr
+
+		td colspan
+
+			a 
+hrefhttptrackoptinllccomclicktrackaspeidurlhttpaffwwwdirectdebtconsolidationcomfappcfmfcoiddimg 
+srchttpindexgif width height 
+borderatd
+
+	tr
+
+	tr
+
+		td
+
+			a 
+hrefhttptrackoptinllccomclicktrackaspeidurlhttpaffwwwdirectdebtconsolidationcomfappcfmfcoiddimg 
+srchttpindexjpg width height 
+borderatd
+
+		td
+
+			a 
+hrefhttptrackoptinllccomclicktrackaspeidurlhttpaffwwwdirectdebtconsolidationcomfappcfmfcoiddimg 
+srchttpindexgif width height 
+borderatd
+
+	tr
+
+table
+
+
+
+
+
+brhr widthbr
+
+table width border cellspacing cellpadding
+
+   tr
+
+     td width
+
+       pfont size faceverdanayou are receiving this email
+
+       as a subscriber to the dealsuwant mailing list  to remove yourself
+
+       from this and related email lists click herebr
+
+       a hrefhttpremoveoptinllccomunsubscribe my 
+emailafontp
+
+
+
+       pfont size faceverdanabr
+
+       under bills  title iii by the  us congress per section
+
+        paragraphaof s  a letter cannot be consideyellow
+
+       spam if the brsender includes contact information and a method
+
+       of quotremovalquotfont
+
+       br
+
+       br
+
+     td
+
+   tr
+
+table
+
+center
+
+
+
+
+
+body
+
+html
+
+
+

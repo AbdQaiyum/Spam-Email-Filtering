@@ -1,0 +1,23 @@
+on thu  aug  the voices made justin mason write
+
+  the perlmodule mailcheckuser implements a smtpcallback and i hope
+  it might be integrated rather easily
+  has this extension been discussed before and perhaps rejected
+  or perhaps someone is already planning to implement it
+  or would you be interested to integrate a smtpcallbackpatch in
+  spamassassin if contributed by my department we would not be to happy
+  about such a patch which we had to manage and integrate with sa in the
+  future but i believe a onetime contribution would be no problem
+
+ howd this deal with you running sa on an account where all the mail from some
+domain on another server ends up
+
+
+	tony
+ 
+ per scientiam ad libertatem  through knowledge towards freedom 
+ genom kunskap mot frihet  c  tonysvanstromcom  
+
+     perl eprint for sortlynx dump svanstromcomt
+
+

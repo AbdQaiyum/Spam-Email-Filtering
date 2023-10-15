@@ -1,0 +1,323 @@
+this is a multipart message in mime format
+
+nextpartccbda
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ want  leads per month
+ coop dollars available for qualified producers	
+ 	 we have the turnkey package on seminar selling	
+	  affluent senior lead program 	
+	  freemultimedia annuity selling system cd 	
+	  freestepbystep seminar presentation 	
+	  exclusive prospectclient
+ marketing and remarketing
+ system 	
+ invest in your business with a guaranteed return on your investment	
+must be contracted through ppmg with our top annuity companies
+
+ 	
+plus a very special offer from ppmg 	
+ 	
+trip includes deluxe outside cabin for producer and guest and airfare
+from the nearest home city gateway
+ as determined by ppmg travel coordinator 	
+ports of call	 
+ 	
+  ext 	
+ or 
+
+please fill out the form below for more information	 
+name	  	
+email	  	
+phone	  	
+city	  	state	  	 	
+ 	  	 	   	
+ 
+ 	
+we dont want anyone to receive our mailings who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+httpwwwinsurancemailnet 
+
+legal notice httpwwwinsiqcomlegalhtm  
+
+nextpartccbda
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+titlefree stepbystep seminar presentationtitle
+head
+body bgcolordffffff
+table borderd widthd bordercolord 
+cellspacingd cellpaddingd aligndcenter
+  tr
+    td widthd
+      table borderd widthd
+        tr
+          td aligndcenterimg 
+srcdhttpiiqusimagesppmgajpg widthd 
+heightd altdwant  leads per monthbr
+            img 
+srcdhttpiiqusimagesppmgagif widthd 
+heightd altdcoop dollars available for qualified 
+producerstd
+        tr
+        tr
+          td
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                td widthd rowspandimg 
+srcdhttpiiqusimagesppmggif widthd 
+heightdtd
+                td widthd valigndtopimg 
+srcdhttpiiqusimagesppmgagif widthd 
+heightd altdwe have the turnkey package on seminar 
+sellingtd
+              tr
+              tr
+                td widthd
+                  table widthd borderd cellspacingd 
+cellpaddingd
+                    tr
+                      td widthd aligndcenter 
+valigndmiddle heightdfont sizedfonttd
+                      td widthd heightd
+                        bfont facedarial helvetica sansserif 
+sizednbspaffluent senior lead programfontb
+                      td
+                    tr
+                    tr
+                      td widthd aligndcenter 
+valigndmiddle heightdfont sizedfonttd
+                      td widthd heightd
+                        bfont facedarial helvetica sansserif 
+sizedimg srcdhttpiiqusimagesppmggif 
+widthd heightd aligndleft altdfreemultimedia 
+annuity selling system cdfontb
+                      td
+                    tr
+                    tr
+                      td widthd aligndcenter 
+valigndmiddle heightdfont sizedfonttd
+                      td widthd heightd
+                        bfont facedarial helvetica sansserif 
+sizedimg srcdhttpiiqusimagesppmggif 
+widthd heightd aligndleft altdfreestepbystep 
+seminar presentationfontb
+                      td
+                    tr
+                    tr
+                      td widthd aligndcenter 
+valigndbaselinefont sizedfonttd
+                      td widthd
+                        bfont facedarial helvetica sansserif 
+sizednbspexclusive prospectclientbr
+                        nbspmarketing and remarketingbr
+                        nbspsystem fontb
+                      td
+                    tr
+                  table
+                td
+              tr
+            table
+          td
+        tr
+        tr
+          td aligndcenterimg 
+srcdhttpiiqusimagesppmggif widthd 
+heightd altdinvest in your business with a guaranteed return 
+on your investmenttd
+        tr
+        tr
+          tdfont facedarial helvetica sansserif 
+sizedmust be contracted through ppmg with our top annuity 
+companiesfonttd
+        tr
+        tr
+          td widthd colspand
+            table borderd widthd cellspacingd 
+cellpaddingd
+              tr
+                td widthd bgcolordimg borderd 
+srcdhttpiiqusimagesppmgspacergif widthd 
+heightdtd
+              tr
+            table
+          td
+        tr
+        tr
+          td widthd colspand
+            table borderd widthd bordercolord 
+cellspacingd cellpaddingd
+              tr
+                td widthd
+                  table borderd widthd cellspacingd
+                    tr
+                      td widthd bgcolord 
+aligndcenter bfont colordffffff facedverdana 
+sizedplus a very special offer from ppmgfontb td
+                    tr
+                  table
+                td
+              tr
+            table
+          td
+        tr
+        tr
+          td widthd colspandimg borderd 
+srcdhttpiiqusimagesppmgcruisegif widthd 
+heightdtd
+        tr
+        tr
+          td widthd colspand
+            table
+              tr
+                td bgcolordffffff valigndtop widthd 
+aligndcenter
+                  bfont colord facedarial sized
+                  trip includes deluxe outside cabin for producer and 
+guest
+                  and airfare from the nearest home city gatewaybr
+                  fontbfont colord facedarial 
+sized
+                   as determined by ppmg travel coordinatorfont
+                td
+              tr
+            table
+          td
+        tr
+        tr
+          td widthd colspand font 
+colordports of callfonttd
+        tr
+        tr
+          td widthd colspandimg borderd 
+srcdhttpiiqusimagesppmgportsgif widthd 
+heightdtd
+        tr
+        tr
+          td widthd colspand aligndcenterimg 
+srcdhttpiiqusimagesppmggif widthd 
+heightd altd ext td
+        tr
+        tr
+          td colspand aligndcenter
+            font facedarial helvetica sansserif 
+sizedb or bbr
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordffffff
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont colordffffff sizedplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                        td rowspand aligndcenter 
+valigndmiddleimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedinfoppmgnet
+                          input typedhidden namedhdnsubjecttxt 
+valuedppmg ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            font
+          td
+        tr
+        tr
+          td widthd colspand aligndcenterimg 
+borderd srcdhttpiiqusimagesppmgppgif widthd 
+heightdtd
+        tr
+        tr
+          td widthd bgcolordcccccc aligndcenter
+            pfont facedarial helvetica sansserif sizedwe 
+dont want
+              anyone to receive our mailings who does not wish to 
+receive them
+              this is a professional communication sent to insurance 
+professionals
+              to be removed from this mailing list bdo not replyb 
+to this
+              message instead go here a 
+hrefdhttpwwwinsurancemailnet
+              httpwwwinsurancemailnetafontp
+          td
+        tr
+      table
+    td
+  tr
+table
+center
+  a hrefdhttpwwwinsiqcomlegalhtmfont sized 
+facedarial helvetica sansseriflegal noticefonta
+center
+body
+html
+
+nextpartccbda

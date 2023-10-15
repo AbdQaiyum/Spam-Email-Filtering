@@ -1,0 +1,55 @@
+update of cvsrootspamassassinspamassassinlibmail
+in directory uswprcvstmpcvsservlibmail
+
+modified files
+      tag b
+	spamassassinpm 
+log message
+fixed bug  r and w were not respecting autowhitelistpath
+
+index spamassassinpm
+
+rcs file cvsrootspamassassinspamassassinlibmailspamassassinpmv
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ spamassassinpm	 sep   	
+ spamassassinpm	 oct   	
+   
+ 
+ 
+ 
+ nonpublic methods
+
+item finit useuserprefs
+
+read and parse the current configuration cuseuserprefs can
+be c do not read user preferences or c do
+
+cut
+ 
+ sub init 
+   my self useuserpref  
+   
+ 
+    todo  open dns cache etc if necessary
+ 
+
+
+ nonpublic methods
+ 
+ sub readcf 
+   my self path desc  
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassincommits mailing list
+spamassassincommitslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassincommits
+
+

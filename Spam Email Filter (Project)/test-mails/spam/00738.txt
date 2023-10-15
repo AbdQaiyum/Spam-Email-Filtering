@@ -1,0 +1,213 @@
+this is a multipart message in mime format
+
+nextpart
+contenttype textplain
+	charsetusascii
+contenttransferencoding bit
+
+html
+body
+
+	table width aligncenter cellspacing cellpadding
+		tr aligncenter
+			td colspan bgcolorblack
+				img altstar wars srchttpwwwzepherscomswstarwarsgif
+			td
+		tr
+		tr
+			td colspan bgcolorblack
+				img width altempire strikes back logo srchttpwwwzepherscomswempstrikesbackgif
+			td
+		tr
+		tr
+			td colspan aligncenter
+				font sizestrongown a unique oneofakind piece of starwars historystrongfontbr
+			td
+		tr
+		tr  aligncenter
+			td
+				img width height altwillitts logo srchttpwwwzepherscomswwillittslogojpg
+			td
+
+			td aligncenter
+				font size colorfirebrickexclusively licensed frombrlucas film ltdfontbrbr
+			td
+			td
+				img width height altwillitts logo srchttpwwwzepherscomswwillittslogojpg
+			td
+		tr
+		tr  aligncenter
+			td colspan 
+				this innovative new collectible is the first to display an authentic one of kind mm film frame from
+				 the font colorfirebrickstar warsempire strikes back moviefontbr
+				 containing a one of a kind mm frame in a  x  diamond cut acrylic
+				 brmint collectors case
+				 brbr
+				 font sizestrongfact no two frames are alikestrongfontbr
+				 font sizeeach film frame is a unique original and will never be reproducedfont
+			td
+		tr
+		tr
+			td colspan
+				each fully licensed original film frame is sealed and individually serial numbered with identification codes
+				tamper proof holographic seals to prevent fraudulent duplication
+			td
+		tr
+		tr
+			td colspan
+				br
+				img altempire strikes back light saber duel srchttpwwwzepherscomswesblightsaberdueljpg
+				br
+				b lightsaber duel special editionbbr
+				features the fantastic lightsaber duel between luke skywalker and darth vader
+			td
+		tr
+		tr
+			td colspan
+				this special edition  lightsaber duel was only available with the willitts premium package  
+				which sold in retail shops for 
+			td
+		tr
+		tr
+			td colspan
+				br
+				centerfont sizespecial internet offerbr
+				order now and receive the above brrare special edition  lightsaber duelbr
+				strongfor this special internet price of only font colorfirebrickfontstrong
+				br
+				font colorfirebrickspecial bonusfont font colorgreenwith your order you will receive
+				   original  topps star warsempire strikes back collector cards fontfont colorfirebrick
+				  absultely freefont
+				fontbr
+				these are original  topps star warsempire strikes back collector cards
+				brfrom  years ago not reprints
+				br
+				brhurry please respond now before our limited supplies are exhausted
+				bryour film cell image may differ from the above sample
+				center
+				a hrefhttpwwwzepherscomswdefaultaspeforkxentcomclick herea
+			td
+		tr
+		tr
+			td colspan
+				brbrhrbr
+				you have received this email as an optedin subscriber if this is not the case please click on the following link
+				 to be permanently removed from our database
+				a hrefhttpwwwnospamcomremoveaspeforkxentcomplease take me off this lista
+				brbrbrnouce br nd avenue northbrsaint petersburg fl brfont
+			td
+		tr
+	table
+body
+html
+
+
+nextpart
+contenttype texthtml
+	charsetusascii
+contenttransferencoding bit
+
+html
+body
+
+	table width aligncenter cellspacing cellpadding
+		tr aligncenter
+			td colspan bgcolorblack
+				img altstar wars srchttpwwwzepherscomswstarwarsgif
+			td
+		tr
+		tr
+			td colspan bgcolorblack
+				img width altempire strikes back logo srchttpwwwzepherscomswempstrikesbackgif
+			td
+		tr
+		tr
+			td colspan aligncenter
+				font sizestrongown a unique oneofakind piece of starwars historystrongfontbr
+			td
+		tr
+		tr  aligncenter
+			td
+				img width height altwillitts logo srchttpwwwzepherscomswwillittslogojpg
+			td
+
+			td aligncenter
+				font size colorfirebrickexclusively licensed frombrlucas film ltdfontbrbr
+			td
+			td
+				img width height altwillitts logo srchttpwwwzepherscomswwillittslogojpg
+			td
+		tr
+		tr  aligncenter
+			td colspan 
+				this innovative new collectible is the first to display an authentic one of kind mm film frame from
+				 the font colorfirebrickstar warsempire strikes back moviefontbr
+				 containing a one of a kind mm frame in a  x  diamond cut acrylic
+				 brmint collectors case
+				 brbr
+				 font sizestrongfact no two frames are alikestrongfontbr
+				 font sizeeach film frame is a unique original and will never be reproducedfont
+			td
+		tr
+		tr
+			td colspan
+				each fully licensed original film frame is sealed and individually serial numbered with identification codes
+				tamper proof holographic seals to prevent fraudulent duplication
+			td
+		tr
+		tr
+			td colspan
+				br
+				img altempire strikes back light saber duel srchttpwwwzepherscomswesblightsaberdueljpg
+				br
+				b lightsaber duel special editionbbr
+				features the fantastic lightsaber duel between luke skywalker and darth vader
+			td
+		tr
+		tr
+			td colspan
+				this special edition  lightsaber duel was only available with the willitts premium package  
+				which sold in retail shops for 
+			td
+		tr
+		tr
+			td colspan
+				br
+				centerfont sizespecial internet offerbr
+				order now and receive the above brrare special edition  lightsaber duelbr
+				strongfor this special internet price of only font colorfirebrickfontstrong
+				br
+				font colorfirebrickspecial bonusfont font colorgreenwith your order you will receive
+				   original  topps star warsempire strikes back collector cards fontfont colorfirebrick
+				  absultely freefont
+				fontbr
+				these are original  topps star warsempire strikes back collector cards
+				brfrom  years ago not reprints
+				br
+				brhurry please respond now before our limited supplies are exhausted
+				bryour film cell image may differ from the above sample
+				center
+				a hrefhttpwwwzepherscomswdefaultaspeforkxentcomclick herea
+			td
+		tr
+		tr
+			td colspan
+				brbrhrbr
+				you have received this email as an optedin subscriber if this is not the case please click on the following link
+				 to be permanently removed from our database
+				a hrefhttpwwwnospamcomremoveaspeforkxentcomplease take me off this lista
+				brbrbrnouce br nd avenue northbrsaint petersburg fl brfont
+			td
+		tr
+	table
+body
+html
+
+
+nextpart
+
+
+
+httpxentcommailmanlistinfofork
+
+

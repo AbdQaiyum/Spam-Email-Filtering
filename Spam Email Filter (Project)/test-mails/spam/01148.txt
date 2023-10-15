@@ -1,0 +1,60 @@
+html
+head
+titlefantastic facialstitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+
+body bgcolor text
+div aligncenter
+  table width border cellpadding cellspacing
+    tr
+      td rowspan
+      a hrefhttpwwwjeweldivecomnsifacialindexhtml
+        img srchttpwwwjeweldivecomnsifacialxjpg width height borderatd
+      td
+      a hrefhttpwwwjeweldivecomnsifacialindexhtml
+        img srchttpwwwjeweldivecomnsifacialxjpg width height borderatd
+      td colspan rowspan
+      a hrefhttpwwwjeweldivecomnsifacialindexhtml
+        img srchttpwwwjeweldivecomnsifacialxjpg width height borderatd
+    tr
+    tr
+      td
+      a hrefhttpwwwjeweldivecomnsifacialindexhtml
+        img srchttpwwwjeweldivecomnsifacialxanimegif width height borderatd
+    tr
+    tr
+      td colspan
+      a hrefhttpwwwjeweldivecomnsifacialindexhtml
+        img srchttpwwwjeweldivecomnsifacialxjpg width height borderatd
+      td rowspan
+      a hrefhttpwwwjeweldivecomnsifacialindexhtml
+        img srchttpwwwjeweldivecomnsifacialxjpg width height borderatd
+      td
+      a hrefhttpwwwjeweldivecomnsifacialindexhtml
+        img srchttpwwwjeweldivecomnsifacialxjpg width height borderatd
+    tr
+    tr
+      td colspan
+      a hrefhttpwwwjeweldivecomnsifacialindexhtml
+        img srchttpwwwjeweldivecomnsifacialxjpg width height borderatd
+      td rowspan
+      a hrefhttpwwwjeweldivecomnsifacialindexhtml
+        img srchttpwwwjeweldivecomnsifacialxgif width height borderatd
+    tr
+    tr
+      td colspan
+      a hrefhttpwwwjeweldivecomnsifacialindexhtml
+        img srchttpwwwjeweldivecomnsifacialxanimegif width height borderatd
+    tr
+  table
+div
+br
+br
+center
+pa hrefhttpwwwwowthisiscoolnetremovalbocaclick here to be removeda
+center
+body
+html
+
+

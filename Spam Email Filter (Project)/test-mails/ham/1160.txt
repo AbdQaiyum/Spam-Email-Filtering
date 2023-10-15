@@ -1,0 +1,39 @@
+hello
+
+tried aptget clean with same results
+
+on sat  at  matthias saou wrote
+ once upon a time lance wrote 
+ 
+  i have failed dependencies in rpm database to i am unable to use
+  aptget  i requests to run aptget f install to fix these
+  dependencies however i get these errors when running aptget f
+  install 
+ 
+  error unpacking of archive failed on file
+  usrsharelibgcjzipcbe cpio md sum mismatch
+  e subprocess binrpm returned an error code 
+  rootlocalhost root 
+ 
+ id say that the file apt downloaded is corrupted maybe trying aptget
+ clean to remove all downloaded files first would solve the problem
+ 
+ matthias
+ 
+  
+ matthias saou                                world trade center
+                                 edificio norte  planta
+ system and network engineer                   barcelona spain
+ electronic group interactive                 phone      
+ 
+ 
+ rpmlist mailing list rpmlistfreshrpmsnet
+ httplistsfreshrpmsnetmailmanlistinforpmlist
+
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

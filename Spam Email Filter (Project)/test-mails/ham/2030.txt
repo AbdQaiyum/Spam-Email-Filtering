@@ -1,0 +1,16 @@
+url httpdiveintomarkorgarchiveshtmlfoafexplorer
+date t
+
+morten frederiksen has taken a first stab at a realtime social network 
+explorer based on foaf files you could start on my profile and explore from 
+there or enter the url of your own foaf file at the bottom of the page its 
+heavy on tech details but you can easily see the potential here its also a 
+great way to debug your foaf file if you added anything manually now we need 
+somebody to build a spider that follows foafknows links and draws pretty 
+social network diagrams so we can see the forest for the trees
+
+
+
+ httpxmlmfdconsultdkfoaffoafhttpaffdiveintomarkorgfpublicffoafrdf
+
+

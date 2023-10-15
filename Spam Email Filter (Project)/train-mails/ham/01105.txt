@@ -1,0 +1,26 @@
+hi all
+
+ill be leaving this evening until next monday with no access to
+whatsoever to a single computer until then woohoo real holidays 
+
+so dont be worried if theres a new release of insert your favorite
+freshrpms package here and that its not updated quickly despite your many
+requests to the list 
+
+before going i did repackage the latest hackedbox and lbreakout that both
+came out today
+
+have fun i will 
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

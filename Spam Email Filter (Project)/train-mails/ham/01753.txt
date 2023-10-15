@@ -1,0 +1,13 @@
+on  september  tim peters said
+ why would spam be likely to end up with two instances of returnpath
+ in the headers
+
+possibly another qmailism from bruce guenters spam collection  or
+maybe anthonys right about spammers being stupid and blindly copying
+headers  well of course hes right about spammers being stupid its
+just this particular aspect of stupidity thats open to question
+
+        greg
+ 
+greg ward gwardpythonnet                         httpwwwgergca
+think honk if youre a telepath

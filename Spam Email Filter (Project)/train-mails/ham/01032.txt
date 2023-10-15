@@ -1,0 +1,27 @@
+halloechen
+
+i have
+
+requires saxon  
+conflicts saxon  
+
+in my spec file  but apparently rpm ignores all version numbers so
+
+requires saxon  
+ conflicts saxon  
+
+would install even with saxon and
+
+ requires saxon  
+conflicts saxon  
+
+wouldnt install even with saxon  what could be the reason
+for this
+
+tschoe
+torsten
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

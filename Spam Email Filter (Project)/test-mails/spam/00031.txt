@@ -1,0 +1,36 @@
+
+html
+
+body
+
+p aligndcenter styledwordspacing  margintop  marginbottom
+ font sized colordffbyou have won the first round
+bfontp
+p aligndcenter styledwordspacing  margintop  marginbottom
+ bfont sized colordffclaim your entry nowfontb
+p
+p aligndcenter styledwordspacing  margintop  marginbottom
+ font sized colordffbcollect the prize of the week
+bfontp
+p aligndcenter styledwordspacing  margintop  marginbottom
+ font sized colordffba hrefdhttpvdfeweedwaac
+kercomclick here to collectabfontp
+
+p aligndcenter styledwordspacing  margintop  marginbottom
+ nbspp
+
+p aligndcenterfont sizedwe apologize for any email you may ha
+ve
+inadvertently receivedbr
+please a hrefdhttprmkidweedwaackercomclick herea to be remov
+ed from
+future mailingsfontp
+
+body
+
+html
+
+
+
+
+

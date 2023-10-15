@@ -1,0 +1,203 @@
+this is a multipart message in mime format
+
+nextpartcde
+contenttype textplain
+	charsetiso
+contenttransferencoding bit
+
+ 	
+ 
+
+home for sale 
+list with us httpwwwclreacomwhyussellercfm 
+
+buying a home is an important step in your life and quite possibly the
+largest purchase you will ever make a trustworthy and reliable agent is
+what youre looking for but often times it can be difficult to find a
+real estate agent deserving of your trust
+
+through recommendations and client evaluations weve assembled a
+national association of christian real estate agents
+httpwwwclreacomphilosophycfm  dedicated to fair business
+practices and the teachings of our savior
+
+christian agents  click here to join the association
+httpwwwclreacomassbenefitscfm 
+
+follow these easy steps httpwwwclreacomhowworkbuyerscfm  and
+well take care of the rest
+
+ describe the property you are looking using our buyers information
+form httpwwwclreacombuyersformcfm 
+
+ our christian living real estate associate agent contacts you at your
+convenience to get a better understanding of your specific real estate
+needs
+
+ our christian living real estate associate agent suggests properties
+that fit your criteria and arranges for you to view the properties that
+interest you
+
+ during the decision making process our associate christian agent
+provides reliable and honest guidance to get you the best possible deal
+
+ when youve decided on a property to purchase our agent makes all
+the necessary preparations to ensure a trouble free transaction
+
+ httpclreacom 
+
+to be removed from this list click here
+httpwwwpracticaltechnologynetepsformautooptoutcfmaddresscyphe
+rpunkseinsteinsszcomcampaign  
+
+nextpartcde
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlefor home buyerstitle
+meta httpequivdcontenttype contentdtexthtml
+ fireworks   dreamweaver  target  created thu may   
+gmt pacific daylight time 
+style typedtextcss
+
+
+style
+head
+body bgcolordffffff
+table widthd borderd cellspacingd aligndcenter 
+cellpaddingd
+  tr
+    td valigndmiddle
+      div aligndcenter
+        table borderd cellpaddingd cellspacingd 
+widthd aligndcenter
+           fwtable fwsrcdrebuyerspng fwbasedmailergif 
+fwstyleddreamweaver fwdocid d  fwnestedd 
+          tr
+            td colspandimg namedmailerrc 
+srcdhttpwwwclreacomemarketingrebuyersmailerrcgif 
+widthd heightd borderdtd
+          tr
+          tr
+            td valigndtop
+              p aligndleftimg namedmailerrc 
+srcdhttpwwwclreacomemarketingrebuyersmailerrcgif 
+widthd heightd borderd 
+usemapdmailerrcmapp
+              p aligndcenterfont facedarial helvetica 
+sansserif sizedba 
+hrefdhttpwwwclreacomwhyussellercfmfont sizedhome
+                for sale br
+                list with usfontabfontp
+              td
+            td widthd heightd valigndtop
+              pbfont sized facedarial helvetica 
+sansserifbuying
+                a home is an important step in your life and quite 
+possibly the
+                largest purchase you will ever make a trustworthy and 
+reliable
+                agent is what youre looking for but often times it can 
+be difficult
+                to find a real estate agent deserving of your 
+trustfontbp
+              pfont sized facedarial helvetica 
+sansserifthrough recommendations
+                and client evaluations weve assembled a national 
+association
+                of a hrefdhttpwwwclreacomphilosophycfm 
+onfocusdifthisblurthisblurchristian
+                real estate agentsa dedicated to fair business 
+practices and
+                the teachings of our saviorfontp
+              pfont facedarial helvetica sansserif 
+sizedbchristian
+                agentsb  a 
+hrefdhttpwwwclreacomassbenefitscfmclick
+                here to join the associationafontp
+              pfont sized facedarial helvetica 
+sansserifbfollow
+                these a hrefdhttpwwwclreacomhowworkbuyerscfm 
+onfocusdifthisblurthisblureasy
+                stepsa and well take care of the 
+restbfontp
+              pfont sized facedtimes new roman times 
+serifbfont facedarial helvetica sansserif 
+colordfffontfont facedarial helvetica sansserif 
+sizedfontbfont facedarial helvetica sansserif 
+sized
+                describe the property you are looking using our a 
+hrefdhttpwwwclreacombuyersformcfm 
+onfocusdifthisblurthisblurbbuyers
+                information formbafontfontp
+              pfont sized facedarial helvetica 
+sansserifbfont sized colordfffontb
+                our christian living real estate associate agent 
+contacts you
+                at your convenience to get a better understanding of 
+your specific
+                real estate needsfontp
+              pfont sized facedarial helvetica 
+sansserifbfont sized colordfffontb
+                our christian living real estate associate agent 
+suggests properties
+                that fit your criteria and arranges for you to view the 
+properties
+                that interest youfontp
+              pfont sized facedarial helvetica 
+sansserifbfont sized colordfffontb
+                during the decision making process our associate 
+christian agent
+                provides reliable and honest guidance to get you the 
+best possible
+                dealfontp
+              pfont sized facedarial helvetica 
+sansserifbfont sized colordfffontb
+                when youve decided on a property to purchase our agent 
+makes
+                all the necessary preparations to ensure a trouble free 
+transactionbr
+                fontfont sized facedtimes new roman times 
+serifbr
+                a hrefdhttpclreacom 
+onfocusdifthisblurthisblurimg 
+srcdhttpwwwclreacomemarketingrebuyersbuttongif 
+widthd heightd borderdafontp
+            td
+          tr
+        table
+       
+        font colordblack facedverdana
+            sizedto be removed from this list a
+            
+hrefdhttpwwwpracticaltechnologynetepsformautooptoutcfmaddress
+dcypherpunkseinsteinsszcomcampaigndclick
+          hereafont div    td
+  tr
+table
+map namedmailerrcmap
+  area shapedrect coordsd 
+hrefdhttpwwwclreacomfwhyusfinancecfmclassd 
+onfocusdifthisblurthisblur
+map
+body
+html
+
+nextpartcde
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

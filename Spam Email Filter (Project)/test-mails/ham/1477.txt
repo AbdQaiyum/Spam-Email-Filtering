@@ -1,0 +1,34 @@
+ i think ive worked on sa enough to understand that i can localize a
+ score  im just not comfortable with using spamassassin as a vehicle
+ for drumming up your business at the expense of our user base
+
+this is exactly what i think spamassassin has always been conservative
+about adding unproven rbls and such and this should be the same
+
+ i think it would make more sense to start habeas with a less aggressive
+ score one which will not give spammers a quick path into everyones
+ inbox and after weve seen evidence that the system works then we can
+ increase the magnitude of the score
+
+i say start it with a zero score and put it in cvsrulesundertest like
+any other unproven rule then score it based on actual results not
+promises my corpus does not yet contain a single nonspam or spam message
+with a habeas mark based on that it doesnt impress me and it wouldnt
+impress the ga either rules with exactly the same statistics are being
+dropped from sa right now and i dont see why this should be any different
+
+
+michael moncur  mgm at starlingtechcom  httpwwwstarlingtechcom
+furious activity is no substitute for understanding h h williams
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

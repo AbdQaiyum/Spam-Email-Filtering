@@ -1,0 +1,17 @@
+at  am   elias wrote
+
+im about to undertake a massive project to indexcatalog well over one 
+thousand cds that have been ripped to mp and set up a server to stream 
+them to different rooms in the house yes i own them all no im not 
+broadcasting them to the net can anyone give me some recommendations as 
+to what free opensource software is best suited for this task i know 
+there are a few forks out there who have tackled this problem before
+
+see if httpwwwjwzorggronk meets your needs
+
+udhay
+
+ 
+udhay shankar n udhay  poboxcom wwwdigeratuscom
+
+

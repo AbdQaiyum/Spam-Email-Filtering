@@ -1,0 +1,378 @@
+the following razor debugging sequence show my mail going from  bytes to
+ bytes after the preproc runs which gives me an exit code that is not 
+i included the message below
+
+fox
+
+razorlog no etcrazorrazoragentconf found skipping
+razorlog no razoragentconf found using defaults
+aug   check   bootup logging initiated
+logdebuglevel to stdout
+aug   check   computed razorhomeetcrazor
+conf identetcrazoridentity
+aug   check   razoragents v starting
+razorcheck d homeetcrazor
+aug   check   uname a linux qmailmckeecom
+mdk  mon nov   mst  i unknown
+aug   check   reading straight rfc mail from
+aug   check   read  mail
+aug   check   client supportedengines    
+aug   check   prepmail done mail  headers
+mime
+aug   check   skipping whitelist file empty
+etcrazorrazorwhitelist
+aug   check   readfile  items read from
+etcrazorserversdiscoverylst
+aug   check   readfile  items read from
+etcrazorserversnominationlst
+aug   check   readfile  items read from
+etcrazorserverscataloguelst
+aug   check   assigning defaults to
+honorcloudmarkcom
+aug   check   assigning defaults to
+truthcloudmarkcom
+aug   check   assigning defaults to
+firecloudmarkcom
+aug   check   assigning defaults to
+aptcloudmarkcom
+aug   check   readfile  items read from
+etcrazorservertruthcloudmarkcomconf
+aug   check   readfile  items read from
+etcrazorserverfirecloudmarkcomconf
+aug   check    seconds before closest
+server discovery
+aug   check   truthcloudmarkcom is a catalogue
+server srl  computed mincf server se b
+aug   check   computed supportedengines   
+aug   check   using next closest server
+truthcloudmarkcom cached info srl 
+aug   check   mail  subject new freeware
+download
+aug   check   preproc mail  went from 
+bytes to  erasing
+aug   check   connecting to truthcloudmarkcom
+
+aug   check   connection established
+aug   check   truthcloudmarkcom   server
+greeting sncsrlepal
+aug   check   truthcloudmarkcom is a catalogue
+server srl  computed mincf server se b
+aug   check   computed supportedengines   
+aug   check   mail  skipped in check
+aug   check   no queries no spam
+aug   check   disconnecting from server
+truthcloudmarkcom
+aug   check   truthcloudmarkcom  
+aug   check   aq
+aug   check   razorcheck finished successfully
+
+
+
+from bouncehtmlsaleslyrisexecsoftcom mon aug   
+returnpath bouncehtmlsaleslyrisexecsoftcom
+deliveredto logqmailmckeecom
+received qmail  invoked from network  aug   
+received from unknown helo portdsdevicesdatareturnnet
+
+  by  with smtp  aug   
+xmailer lyris web interface
+date sat  aug   
+subject new freeware download
+  jammed erickoesterccmailmckeecom
+to trollboxdustpuppymckeecom
+from diskeeper product manager executive software
+executiveexecutivecom
+listunsubscribe mailtoleavehtmlsalesalyrisexecsoftcom
+replyto executiveexecutivecom
+messageid
+lyriserickoesterccmailmckeecomlyr
+isexecsoftcom
+mimeversion 
+contenttype texthtml charsetusascii
+spamfile
+enveloperecipient erickoesterccmailmckeecom
+status ro
+
+
+
+
+
+is maximum system performance and reliablilty important to you
+
+find out what you are missing
+
+new diskeeper lite for windows
+
+its free
+
+
+ includes the same advanced defragmentation technology used in
+  diskeeper 
+ is much faster than the previous diskeeper lite and all
+  builtin defragmenters
+ now runs on windows ntxp
+
+millions of downloads attest to the popularity of diskeeper lite
+but it only ran on windows nt  now its been updated for all
+windows operating systems from windows  onward
+
+new diskeeper lite is still manualonly and cannot be scheduled
+or run across a network but it is far superior to any builtin
+defragmenter and much faster and it will show you why fullversion
+diskeeper is the most recommended automatic defragmenter ever
+built
+
+find out what you are really missing free
+
+
+httpwwwexecsoftcomdownloadssurveyasppidaddkldl
+
+
+
+
+notice we periodically send new product information electronically or
+survey those individuals who voluntarily give us their email address
+we hope you enjoy receiving this timely information however if you
+would like to remove yourself from this list please do not reply to
+this email to be removed
+
+to unsubscribe send your email address in the body of a message
+along with your name on a separate line to unsubscribeexecutivecom
+
+
+
+
+
+
+  executive software international inc all rights reserved
+diskeeper executive software and the executive software logo are either
+registered trademarks or trademarks of executive software international
+inc in the united states andor other countries windows and windows nt
+are registered trademarks of microsoft corporation in the united states
+andor other countries all other trademarks and brand names are the
+property of the respective owners
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+html
+
+head
+meta httpequivcontenttype contenttexthtml charsetwindows
+titlenew freeware downloadtitle
+
+head
+
+body
+
+        p aligncenter
+        img border srchttpwwwexecsoftcommaxperfspeedojpg
+width heightimg border
+srchttpwwwexecsoftcomndkljpg width
+heightp
+        table border cellpadding cellspacing
+stylebordercollapse collapse bordercolor width
+idautonumber
+          tr
+            td width
+            p aligncenterbfont faceverdana colorff
+sizeits
+        freefontbtd
+          tr
+        table
+table border cellpadding cellspacing stylebordercollapse
+collapse bordercolor width idautonumber
+tr
+    td width valigntopnbspnbspnbspnbspnbsp td
+    td width valigntop
+    pfont facetimes new roman size
+    span stylefontsize pt
+    img srchttpwwwexecsoftcomchkmarkgif border width
+heightspanfonttd
+    td width valigntopfont faceverdanaincludes the same
+advanced defragmentation technology
+used in diskeeper fonttd
+  tr
+  tr
+    td width valigntopnbsptd
+    td width valigntopfont facetimes new roman size
+    span stylefontsize pt
+    img srchttpwwwexecsoftcomchkmarkgif border width
+heightspanfonttd
+    td width valigntopfont faceverdanamuch faster than the
+previous
+    diskeeper lite and all builtin defragmentersfonttd
+  tr
+  tr
+    td width valigntopnbsptd
+    td width valigntopfont facetimes new roman size
+    span stylefontsize pt
+    img srchttpwwwexecsoftcomchkmarkgif border width
+heightspanfonttd
+    td width valigntopfont faceverdananow runs on windows
+ntsupsupxpfonttd
+  tr
+table
+pfont faceverdanamillions of downloads attest to the popularity of
+diskeeper lite but it only ran on windows nt  now its been updated
+for all
+windows operating systems from windows  onwardfontp
+pfont faceverdananew diskeeper lite is still manualonly and cannot
+be
+scheduled or run across a network but it is far superior to any builtin
+defragmenter and much faster and it will show you why fullversion
+diskeeper is
+the most recommended automatic defragmenter ever built fontp
+pbfont faceverdanafind out what you are ireallyi missing
+freefontbp
+p styletextalign center aligncenter
+span stylefontsize pt fontfamily arial
+
+font facearial size
+
+a hrefhttpwwwexecsoftcomdownloadssurveyasppidaddkldl
+img srchttpwwwexecsoftcomdlnowbutgif border width
+height altdownload diskeeper liteafontp
+
+
+        table border cellpadding cellspacing
+stylebordercollapse collapse bordercolor width
+idautonumber
+          tr
+            td widthspan stylefontfamily verdanafont
+size
+            full version diskeeper
+
+available for purchase fromfontspantd
+          tr
+        table
+
+
+        div aligncenter
+          center
+
+
+        table border cellpadding cellspacing
+stylebordercollapse collapse bordercolor width
+idautonumber
+          tr
+            td width
+            p aligncenter
+span stylefontsize pt fontfamily arial
+
+            map namefpmap
+            area
+hrefhttpwwwbuycomretailsearchresultsasporderbyquerytypequtyp
+equdiskeeperpagereqalphaalphadeptidmfgpartnomfgidsearch
+idlocsearchstore shaperect coords   
+            area
+hrefhttpwwwwarehousecomsearchpppsmainsearchasphomemicroqudisk
+eeperimenusoxsearchxsearchy shaperect coords  
+
+            area
+hrefhttpwwwpcconnectioncomscriptssearchresultsaspbasicsrchtextdi
+skeepersrertrstbsppsortvalpriceplattypeasearchxsear
+chy shaperect coords   
+            area
+hrefhttpwwwsoftchoicecomsoftwareproddescriptionaspxqjpibfsc
+vspldnxnpkickywjtwftjazvneateuejauddqskqdurgodiyzvdzkfjbl
+pfhmpinryfdqnbamrhiamtmlzzsjgvvrqwwngabuhlaprzhncfbqilcqpkqimn
+hcmhgobkoibobggkngyvpiimln shaperect coords   
+            area
+hrefhttpwwwsoftwareshelfcomproductsexecsoftprodaspp
+shaperect coords   
+            area
+hrefhttpwwwstaplescomcatalogbrowseskuasppagetypeskubc
+flagtruebccatidbccatnamesoftwarebookstrainingbcdeptidbcdep
+tnameutilitiesbcclassidbcclassnamesystemmaintenance
+shaperect coords   
+            area hrefhttpshopoutpostcomproduct
+shaperect coords   
+            area hrefhttpwwwasapcomexecsoftwareqhtm
+shaperect coords   
+            map
+            img border
+srchttpwwwexecsoftcomlogosresellgif usemapfpmap
+width heightspantd
+          tr
+        table
+          center
+        div
+
+hr noshade coloreee
+
+font size faceverdanab
+font colorffnoticefontb we periodically send new product
+information electronically or
+survey those individuals who voluntarily give us their email address we
+hope you enjoy receiving this timely information however if you would
+like to remove yourself from this list please do not reply to this email
+to be removedfontspanspan stylefontfamily verdanafont
+size
+fontspan
+span stylefontsize pt fontfamily arial
+
+pfont size faceverdanayou have received this message from
+esivpmarketing at the email
+address erickoesterccmailmckeecom
+br to unsubscribe send the above email address in the body of a message
+along with your name on a separate line to
+a hrefmailtounsubscribeexecutivecomsubjectunsubscribe
+erickoesterccmailmckeecom  unsubscribeexecutivecomafontp
+
+
+hr noshade coloreee
+
+
+pfont size faceverdana  executive software international
+inc
+all rights reserved diskeeper executive software and the executive
+software
+logo are either registered trademarks or trademarks of executive software
+international inc in the united states andor other countries windows
+and
+windows nt are registered trademarks of microsoft corporation in the
+united
+states andor other countries all other trademarks and brand names are
+the
+property of the respective ownersbr
+nbspfontp
+
+body
+
+html
+
+
+
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+

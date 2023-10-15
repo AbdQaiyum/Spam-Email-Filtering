@@ -1,0 +1,38 @@
+doctype html public wcdtd html en
+html
+
+head
+	meta namedgenerator contentdvisual page  for windows
+	meta httpequivdcontenttype contentdtexthtmlcharsetdiso
+
+	titleuntitledtitle
+head
+
+body onloaddwindowopenhttpsamhostcentrelcomnorton
+
+p aligndcenterfont colordff facedarialbattention t
+his is a must for all computer usersbr
+bfontfont colord facedarialbr
+fontfont facedarialbnewspecial package dealbr
+bfontfont colord facedarialbr
+fontfont colordff facedarialbnorton systemworks  s
+oftware suite professional edition
+
+includes six  yes   featurepacked utilities
+all for  special low price featurepacked utilities great price
+a  combined retail value
+
+free shippingbfontp
+
+p aligndcenterfont colordff facedarialbbr
+bfonta hrefdhttpsamhostcentrelcomnortonfont facedar
+ialbclick here nowbfonta
+
+
+body
+
+html
+
+
+
+

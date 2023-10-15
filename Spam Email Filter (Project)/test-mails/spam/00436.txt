@@ -1,0 +1,208 @@
+this is a multipart message in mime format
+
+nextpartccceec
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ what good is a great concept roth conversion without a turnkey system
+to sell it	
+ 	
+
+
+
+introducing the roth conversion turnkey selling system
+
+our top producing roth conversion agent sold  jumbo annuities k
+sales with  commissions has shared with us his secrets of selling
+the roth conversion concept per his input we have created the roth
+conversion turnkey sales process
+
+the system includes client postcards client brochures a client
+worksheet perfect for introducing the roth conversion program a full
+marketing presentation etc if he can do it so can you
+
+to join us for the brand new sales presentation teleconference call
+in monday wednesday or friday at  noon pacific pm eastern at
+ 
+
+
+to find out more about the content of the call complete the form below
+and you will be immediately directed to the conference call page 
+ 
+first name	  	 	
+last name	  	note that when you press the send information
+button the screen may not change but we will still receive your
+information and get back to you another way to order our sample
+presentation is to visit our website at wwwgsladvisorycomfroco
+httpwwwgsladvisorycomfroco 	 
+email	  	
+phone	  	
+ 
+  
+ gsl advisory
+
+
+
+these materials are for agent use only you should be a practicing
+licensed and appointed annuity agent to order this information
+
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet 
+
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartccceec
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titleroth conversions d jumbo annuity salestitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+
+
+from senior selling
+
+
+body bgcolordffffff textd
+table widthd cellpaddingd cellspacingd 
+bgcolordffffff aligndcenter
+  tr
+    tdimg srcdhttpiiqusimagesgslturnkeygif 
+widthd heightd altdwhat good is a great concept roth 
+conversion without a turnkey system to sell ittd
+  tr
+  tr
+    tdimg srcdhttpiiqusimagesgslturnkeygif 
+widthd heightdtd
+  tr
+  tr
+    td
+      font facedgeorgia times new roman times serif sized 
+colord
+      brp aligndcenter
+        font sized introducing the roth conversion turnkey 
+selling systemfontp
+      pour top producing roth conversion agent bsold  jumbo 
+annuities
+        k sales with  commissionsb has shared with us his 
+secrets of
+        selling the roth conversion concept per his input we have 
+created the
+        roth conversion quotturnkey sales processquotp
+      pthe system includes client postcards client brochures a 
+client worksheet
+        perfect for introducing the roth conversion program a full 
+marketing
+        presentation etc bif he can do it so can youbp
+      p aligndcenterbto join us for the brand new quotsales 
+presentationquot
+        teleconference call in monday wednesday or friday at  
+noon pacific
+        pm eastern atbbr
+        img srcdhttpiiqusimagesgslturnkeyjpg 
+widthd heightd altd
+      p
+      font
+    td
+  tr
+  tr
+    td aligndcenter
+      bfont facedarial helvetica sansserif sizedbr
+      to find out more about the content of the call complete the form 
+belowbr
+      and you will be immediately directed to the quotconference 
+callquot page
+      table borderd cellpaddingd widthd 
+bordercolord cellspacingd
+              form 
+actiondhttpwwwgsladvisorycomfrocodatagslpagecfm 
+methoddpost
+                input namedxsubject typedhidden 
+valuedinsuranceiq email request
+                tr bgcolordffcc
+                  td widthdbfont colord 
+sizedfirst namefontbtd
+                  td widthd
+                    input namedfirstname
+                  td
+                  td widthd
+                    input namedsubmit typedsubmit valuedsend 
+information
+                  td
+                tr
+                tr bgcolordffcc
+                  td widthdbfont colord 
+sizedlast namefontbtd
+                  td widthd
+                    input namedlastname
+                  td
+                  td rowspand widthdfont colord 
+sizednote that
+                    when you press the quotsend informationquot 
+button the
+                    screen may not change but we will still receive 
+your information
+                    and get back to you another way to order our sample 
+presentation
+                    is to visit our website at a 
+hrefdhttpwwwgsladvisorycomfrocowwwgsladvisorycomfrocoa
+fonttd
+                tr
+                tr bgcolordffcc
+                  td widthdbfont colord 
+sizedemailfontbtd
+                  td widthd
+                    input namedemail
+                  td
+                tr
+                tr bgcolordffcc
+                  td widthdbfont colord 
+sizedphonefontbtd
+                  td widthd
+                    input namedphone
+                  td
+                tr
+              input typedhidden namedsentto valued
+form
+            table
+            nbspfontb
+          td
+        tr
+  tr
+    td aligndcenter
+      img srcdhttpiiqusimagesgslgslbiggif widthd 
+heightd altdgsl advisorybrbr
+      p aligndleftfont sized facedarial helvetica 
+sansserifthese materials are for agent use only  you should be a 
+practicing licensed  and appointed annuity agent to order this 
+informationfontp
+    td
+  tr  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+body
+html
+
+nextpartccceec

@@ -1,0 +1,22 @@
+meta httpequivcontenttype contenttexthtmlcharsetkoir
+doctype html public wcdtd html  transitionalen
+htmlhead
+meta contenttexthtml charsetkoir httpequivcontenttype
+meta contentmshtml  namegenerator
+stylestyle
+head
+body bgcolorffffff
+divfont colorff facearial size  fontdiv
+divfont colorff facearial sizea 
+hrefhttpdengimcomgoldenstreamhtmhttpdengimcomgoldenstreamhtmabra 
+hrefhttpdengimcomnewhtmhttpdengimcomnewhtmafontdivbodyhtml
+
+
+
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

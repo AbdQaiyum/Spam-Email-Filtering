@@ -1,0 +1,69 @@
+html
+
+head
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titlemydiscountsoftwaretitle
+head
+
+body
+
+p stylemargin px px px wordspacing px textindent px lineheight  aligncenternbspp
+p stylemargin px px px wordspacing px textindent px lineheight  aligncenternbspp
+p stylemargin px px px wordspacing px textindent px lineheight  aligncenternbspp
+p stylemargin px px px wordspacing px textindent px lineheight  aligncenterbfont facearial helvetica sansserif colorff sizea hrefhttpsnowprohostingcomhomepagemydiscountsoftware
+incafontbp
+p stylemargin px px px wordspacing px textindent px lineheight  aligncenternbspp
+p stylemargin px px px wordspacing px textindent px lineheight  aligncenterba hrefhttpsnowprohostingcomhomepagefont facearial helvetica sansserif colorff sizethey
+have the lowest software prices you will ever seefontabp
+p stylemargin px px px wordspacing px textindent px lineheight  aligncenternbspp
+p stylemargin px px px wordspacing px textindent px lineheight  aligncenterinventory
+closeout salenbsp this week onlyp
+div aligncenter
+  table bgcolorffffcc border
+    tbody
+      tr
+        td alignmiddle
+          p alignlefta hrefhttpsnowprohostingcomhomepagefont facearial sizebfont colorffadobe
+          photoshop fontbnbsp bfont colorfffontbfontap
+        td
+      tr
+      tr
+        td alignmiddle
+          p alignlefta hrefhttpsnowprohostingcomhomepagefont sizebfont facearial helvetica sansserif colorffmicrosoft
+          office fontbnbsp bfont facearial colorfffontbfontap
+        td
+      tr
+      tr
+        td alignmiddle
+          p alignleftfont sizea hrefhttpsnowprohostingcomhomepagebfont facearial helvetica sansserif colorffquickbooks
+          profontbnbsp bfont facearial helvetica sansserif colorfffontbafontp
+        td
+      tr
+      tr
+        td alignmiddle
+          p alignlefta hrefhttpsnowprohostingcomhomepagefont sizebfont facearial helvetica sansserif colorffmicrosoft
+          windows mefontbnbsp font facearial helvetica sansserif colorffbbfontfontap
+        td
+      tr
+      center
+      tr
+        td alignmiddle
+          p aligncentera hrefhttpsnowprohostingcomhomepagebfont sizefont facearial helvetica san serifvalue
+          package  get all  titlesfontfont facearial colorffnbsp
+          fontfontbap
+        td
+      tr
+      tbody
+    table
+  center
+div
+
+body
+
+html
+
+xnchsuwjfbuyygweqq
+
+

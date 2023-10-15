@@ -1,0 +1,30 @@
+
+vipul ved prakash said
+
+ are there any suggestions for fixing this in razoragents razoragents
+ could write to syslog by default but i am not sure if that would be
+ desirable default behaviour
+
+hi vipul
+
+i reckon if the unwritable log file error condition could be caught by
+razor and handled gracefully logging to syslog or devnull itd be a
+great help
+
+as it stands if the log file is unwritable the razor check falls over
+entirely as the constructor returns undef unblessed reference  die
+error in perl
+
+j
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

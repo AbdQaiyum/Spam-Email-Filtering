@@ -1,0 +1,44 @@
+at    nick hilliard wrote
+  apologies for the possible silly question i dont think it is but
+  but is eircoms adsl service nated
+
+no  you get unfiltered access with a real but dynamic ip address
+
+  and what implications would that have for voip i know there are
+  difficulties with voip or connecting to clients connected to a nated
+  network from the internet wild ie machines with static real ips
+
+you will probably suffer from the high latency of dls lines  typically
+youre talking about ms rtt to the local bas which is pretty high
+if your voip application can handle this then youre ok
+
+nick
+
+whats the deal with all this latency its not like that in other places 
+where ive used dsl i read some story about it being done that way to 
+allow greater distances to be covered or something like that however my 
+knowledge of physics is really only newtonian and i dont understand how 
+worsening latency could possibly improve the reliability of a  foot 
+long piece of copper perhaps it has something to do with stretching the 
+timespace continuum can someone explain this in words of five syllables 
+or less
+
+a
+
+
+
+
+iiu mailing list
+iiuiiutaintorg
+httpiiutaintorgmailmanlistinfoiiu
+
+
+
+antoin o lachtnain
+  antoineirecom  httpwwweirecom  
+
+
+iiu mailing list
+iiuiiutaintorg
+httpiiutaintorgmailmanlistinfoiiu
+

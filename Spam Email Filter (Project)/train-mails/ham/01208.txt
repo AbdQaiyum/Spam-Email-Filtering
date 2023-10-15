@@ -1,0 +1,40 @@
+ is it possible to use new apt to do null to rh upgrade
+
+it might be dont think anyone tried it yet
+
+ even if its possible are there good reasons why maybe i should not do it and
+ just use the rh isos i dont think rh will upgrade from null maybe update
+ will
+
+yes 
+
+first off redhat does not support upgrading from betas to the released 
+version  that doesnt mean it cant work it means nobody tried it they 
+sure didnt test it or fix anything to make it work and youre on your 
+own
+
+second historically a new  numbers mostly means so much has been 
+changed that you might have problems upgrading from any previous release 
+anyway  so historically most users installing a  release do this 
+from scratch anyway doing upgrades throughout xxy
+
+if you want to avoid problems bite the bullet and reinstall 
+
+thomas
+
+  
+
+the davedina project  future tv today   httpdavedinaapestaartorg
+                      
+and every time she sneezes
+i think its love and oh lord
+im not ready for this sort of thing
+ thomasapestaartorg 
+urgent the best radio on the internet     httpurgentrugacbe
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

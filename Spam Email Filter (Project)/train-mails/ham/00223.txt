@@ -1,0 +1,73 @@
+hi all
+
+ive decided at last to test the alsa sound drivers as usual the result is
+that ive spent much more time repackaging the darn thing than actually
+testing the functionalities or trying to hear the great sound quality
+people seem to think it outputs but hey some of you will benefit from
+that right 
+
+ive got the whole thing working on a valhalla system but the packages
+should easily install or at least recompile on enigma limbonull and
+maybe others who knows 
+
+here are quick instructions for those of you that wish to try it out 
+ recompile the alsadriver source rpm for your running kernel
+  you can install the binary package if youre using the i 
+ install this alsadriver package
+ install the alsalibs package
+ install the alsautils package
+
+now go to this url and find out what you need to change in your
+etcmodulesconf file to replace the default oss driver loading 
+httpwwwalsaprojectorgalsadoc
+very complete and very good documentation
+hopefully youll see that your card is supported 
+
+reboot or remove by hand your current sound modules youll probably need
+to stop many applications to free the sound resource by hand and
+insert the new ones if all is well youve got alsa working dmesg to
+check is a good idea you now just need to adjust the volume levels with
+eg aumix and alsamixer because everything is muted by default
+
+with aplay you can already test files to see if you hear anything you
+can also install the xmms plugin seems to make my xmms segfault on exit
+hmmm but maybe its another plugin to listen to your good ol mp
+files thats it
+
+it really isnt complicated and has never been from what i see the only
+thing i disliked was to have to install from source but as i cant
+imagine myself doing that  ive repackaged everything cleanly even the
+dev entries are included in the rpm package and not created by an ugly
+post script i insist and seamlessly integrate into the etcmakedevd
+structure there are also a few other noticeable differences with the
+default provided alsa spec files for example ive split alsalibs
+development files into an alsalibdevel package and included static
+libraries there are others of course oh yes the kernel version against
+which the alsadriver package is compiled gets neatly integrated in the
+rpm release so does the architecture
+
+im open to any comments or suggestions about these packages
+
+download 
+httpftpfreshrpmsnetpubfreshrpmstestingalsa
+
+current spec files 
+httpfreshrpmsnetbuildsalsadriveralsadriverspec
+httpfreshrpmsnetbuildsalsalibalsalibspec
+httpfreshrpmsnetbuildsalsautilsalsautilsspec
+all others patches etc  httpfreshrpmsnetbuilds 
+
+matthias
+
+ps as an extra bonus ive also recompiled xine with alsa support simply
+run xine a alsa and off you go it may even support  and spdif 
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel 
+load     ac online battery charging  
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

@@ -1,0 +1,145 @@
+this is a multipart message in mime format
+
+nextpartecedfbec
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ 
+httpwwwceucominteractivecatalogueaspcategoryinsurancececode
+cedone 	 
+select your state then press go to view ce courses available
+aol users click here
+httpwwwceucominteractivecatalogueaspcategoryinsurancebceco
+decedone  	
+al ak az ar ca co ct de dc fl ga hi id il in ia ks ky la me md ma mi mn
+ms mo mt ne nv nh nj nm ny nc nd oh ok or pa ri sc sd tn tx ut vt va wa
+wv wi wy  	    	
+we dont want anyone to receive our mailings who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+httpwwwinsurancemailnet 
+
+legal notice httpwwwinsiqcomlegalhtm  
+
+nextpartecedfbec
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlethe future of continuing educationtitle
+meta contentdtexthtml charsetdiso 
+httpequivdcontenttype
+head
+body bgcolordcde
+table aligndcenter widthd
+  tr
+    td a 
+hrefdhttpwwwceucominteractivecatalogueaspcategorydinsurance
+ceampcodedcedone
+      img borderd heightd 
+srcdhttpiiqusimagesceuadjpg widthdatd
+  tr
+  tr
+    td aligndcenter heightd valigndbottom
+      bfont colordff facedverdana arial helvetica 
+sansserif sized
+      select your state then press go to view ce courses availablebr
+      aol users a 
+hrefdhttpwwwceucominteractivecatalogueaspcategorydinsurance
+bceampcodedcedone
+      click hereafontb
+    td
+  tr
+table
+form actiondhttpwwwceucominteractivecatalogueasp 
+methoddget namedcoursequery
+  table aligndcenter widthd
+    tr
+      td aligndright widthd
+        select namedstrstate sized
+          option selected valuedalaloption
+          option valuedakakoption
+          option valuedazazoption
+          option valuedararoption
+          option valuedcacaoption
+          option valuedcocooption
+          option valuedctctoption
+          option valueddedeoption
+          option valueddcdcoption
+          option valuedflfloption
+          option valuedgagaoption
+          option valuedhihioption
+          option valuedididoption
+          option valuedililoption
+          option valuedininoption
+          option valuediaiaoption
+          option valuedksksoption
+          option valuedkykyoption
+          option valuedlalaoption
+          option valuedmemeoption
+          option valuedmdmdoption
+          option valuedmamaoption
+          option valuedmimioption
+          option valuedmnmnoption
+          option valuedmsmsoption
+          option valuedmomooption
+          option valuedmtmtoption
+          option valuedneneoption
+          option valuednvnvoption
+          option valuednhnhoption
+          option valuednjnjoption
+          option valuednmnmoption
+          option valuednynyoption
+          option valuedncncoption
+          option valuedndndoption
+          option valuedohohoption
+          option valuedokokoption
+          option valuedororoption
+          option valuedpapaoption
+          option valuedririoption
+          option valuedscscoption
+          option valuedsdsdoption
+          option valuedtntnoption
+          option valuedtxtxoption
+          option valuedututoption
+          option valuedvtvtoption
+          option valuedvavaoption
+          option valuedwawaoption
+          option valuedwvwvoption
+          option valuedwiwioption
+          option valuedwywyoption
+        select
+      td
+      td widthdinput heightd namedgo 
+srcdhttpiiqusimagesceugojpg typedimage widthd 
+valigndabsmiddle
+        input namedcategory typedhidden valuedinsurance ce
+        input namedcode typedhidden valuedcedone
+        img heightd 
+srcdhttpwwwceucomhtmlemailimagespixelgif widthd
+      td
+    tr
+  table
+form
+table aligndcenter widthdtrtdpfont facedarial 
+helvetica sansserif sizedwe dont want anyone to receive our 
+mailings who does not
+            wish to receive them this is a professional communication
+            sent to insurance professionals to be removed from this 
+mailing
+            list bdo not replyb to this message instead go here 
+a hrefdhttpwwwinsurancemailnet
+            
+httpwwwinsurancemailnetafontptdtrtable
+center
+  font sized facedarial helvetica sansserifa 
+hrefdhttpwwwinsiqcomlegalhtmlegal noticeafont
+center
+body
+html
+
+nextpartecedfbec

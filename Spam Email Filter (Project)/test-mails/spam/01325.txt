@@ -1,0 +1,19 @@
+
+html
+head
+	titlekates knickerstitle
+head
+
+body
+p aligncentera hrefhttpwwwgeocitiescomkatesknickersmyknickershtmlfont size
+
+click here only if you are over  years oldfont a 
+
+p aligncentera hrefhttpwwwgeocitiescomkatesknickersremovehtmlfont size
+
+click here if you wish to be removed from future mailingsfont a 
+
+
+body
+html
+

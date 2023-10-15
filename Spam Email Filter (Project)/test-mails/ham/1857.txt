@@ -1,0 +1,137 @@
+anthony baxter
+  sets each of hamspam just ran the once it matched all  to
+ each other
+
+ ratespy sez
+
+ training on datahamset  dataspamset   hams   spams
+          
+          
+          
+          
+ training on datahamset  dataspamset   hams   spams
+          
+          
+          
+          
+ training on datahamset  dataspamset   hams   spams
+          
+          
+          
+          
+ training on datahamset  dataspamset   hams   spams
+          
+          
+          
+          
+ training on datahamset  dataspamset   hams   spams
+          
+          
+          
+          
+ total false pos  
+ total false neg  
+
+how were these msgs broken up into the  sets  set in particular is giving
+the other sets severe problems and set blows the fn rate on everything
+its predicting  when the rates across runs within a training set vary by
+as much as a factor of  it suggests there was systematic bias in the way
+the sets were chosen  for example perhaps they were broken into sets by
+arrival time  if thats what you did you should go back and break them
+into sets randomly instead  if you did partition them randomly the wild
+variance across runs is mondo mysterious
+
+
+ i expect hammie will do a much better job on this already than hand
+ grepping  be sure to stare at the false positives and get the
+ spam out of there
+
+ yah but theres a chickenandegg problem there  i want stuff thats
+ known to be right to test this stuff
+
+then you have to look at every message by eyeball  any scheme has nonzero
+error rates of both kinds
+
+ so using the spambayes code to tell me whether its spam is not
+ going to help
+
+trust me wink  it helps a lot  i expect everyone who has done any
+testing here has discovered spam in their ham and vice versa  results
+improve as you improve the categorization  once the gross mistakes are
+straightened out its much less tedious to scan the rest by eyeball
+
+on skip tokens
+ yep it shows up in a lot of spam but also in different forms in hams
+ but the hams each manage to pick a different variant of
+ 
+ or whatever  so they dont end up counteracting the various bits in the
+ spam
+
+ looking further a lot of the bad skip rubbish is coming from
+ uuencoded viruses c in the spamset
+
+for whatever reason there appear to be few of those in brucegs spam
+collection  i added code to strip uuencoded sections and pump out uuencode
+summary tokens instead  ill check it in  it didnt make a significant
+difference on my usual test run a single spam in my set is now judged as
+ham by the other  sets nothing else changed  it does shrink the database
+size here by a few percent  let us know whether it helps you
+
+before and after stripping uuencoded sections
+
+false positive percentages
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+
+won    times
+tied  times
+lost   times
+
+total unique fp went from  to  tied
+
+false negative percentages
+        tied
+        tied
+        lost   
+        tied
+        tied
+        tied
+        lost   
+        tied
+        tied
+        tied
+        lost   
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        tied
+        lost   
+
+won    times
+tied  times
+lost   times
+
+total unique fn went from  to  lost    
+

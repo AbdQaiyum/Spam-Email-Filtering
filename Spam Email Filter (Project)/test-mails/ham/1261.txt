@@ -1,0 +1,25 @@
+
+when i receive a message that has a line starting with from  its
+broken into two messages  i get my mail from varspoolmail  the
+program that incorporates mail thinks that the from  line starts a new
+message
+
+my sysadmins have told me that the sending mail client is supposed to 
+escape lines begining with from   exmh  doesnt do this  should 
+it  it appears that my mh is mh   does nmh fix this
+
+jason d m rennie
+mit ai lab
+jrennieaimitedu
+ 
+httpwwwaimitedujrennie
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

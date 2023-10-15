@@ -1,0 +1,28 @@
+i use exmh  with procmail for presorting incoming mail and move it to
+the relevant folder using rcvstore
+
+recently my incoming mail or spool location moved to another disk
+im not quite clear how to reconfigure procmailrcvstoreexmh to accept
+mail from the new location
+
+there seems to be a variable in exmhdefaults bgspool it says at the
+top of the file not to edit these lines so i went ahead and edited it 
+that does not make a difference
+
+it seems like procmail is the one that is actually reading the mail from
+my spoolincoming mail area and piping it to rcvstore so i need to
+configure that probably
+
+any idea how i would do this
+
+thanks
+siva
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

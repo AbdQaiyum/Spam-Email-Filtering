@@ -1,0 +1,26 @@
+htmlbody bgcolordffffff
+table widthd aligndcenter cellpaddingd borderdtrtd
+font facedarial sizedp
+the following advertisement is being sponsored by 
+a hrefdhttpwwwavirtualshoppercomavirtualshoppercoma
+the internets leading source for permission based optin marketingbr
+to optout from our mailing lista hrefdhttpwwwavirtualshoppercom
+removemeasp click hereapfont
+tdtrtablefont facedarial sized colordffffffp alignd
+centerpfont
+centertable borderd cellpaddingd cellspacingd widthd
+
+trtd valigndtopa hrefdhttpwwwhebalistcomiddimg src
+dhttpwwwhebalistcommailjpg widthd heightd bor
+derdatd
+td valigndtop
+img srcdhttpwwwhebalistcommailgif widthd heightd
+ borderdtd
+trtrtd colspand valigndtopa hrefdhttpwwwhebalistcom
+idd
+img srcdhttpwwwhebalistcommailgif widthd heightd
+ borderdatd
+trtablecenterbodyhtml
+
+
+

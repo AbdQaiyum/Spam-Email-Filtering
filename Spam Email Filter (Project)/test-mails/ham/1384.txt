@@ -1,0 +1,39 @@
+hi
+
+i try to rebuild xine from src package and i get these errors
+
+
+
+
+
+
+finding  provides usrlibrpmfindprovides
+finding  requires usrlibrpmfindrequires
+prereq rpmlibpayloadfileshaveprefix   
+rpmlibcompressedfilenames  
+requiresrpmlib rpmlibpayloadfileshaveprefix   
+rpmlibcompressedfilenames  
+requires xinelibs   binsh
+obsoletes xinedevel
+
+
+rpm build errors
+    user dude does not exist  using root
+    user dude does not exist  using root
+    user dude does not exist  using root
+    user dude does not exist  using root
+    user dude does not exist  using root
+    file not found vartmpxinerootusrbinaaxine
+
+
+thx
+roi
+
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

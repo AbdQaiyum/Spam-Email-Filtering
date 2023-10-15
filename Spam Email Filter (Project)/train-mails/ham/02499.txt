@@ -1,0 +1,31 @@
+neale pickett nealewoozleorg writes
+
+ skip montanaro skippoboxcom writes
+ 
+  yes  it also seems to me that web page content filtering proxies you
+  know keeping your kids or employees from visiting xxx websites would
+  be another good application of the technology
+ 
+ not to mention ids intrusion detection systems
+ 
+ ianas but i have a friend who is and hes suggested to me a few times
+ that it would be very interesting and possibly fruitful to apply
+ bayesian analysis to network security  but i think im going to have to
+ pull out the probabstats book from college before i embark on such a
+ thing 
+
+i have half a mind to see how it works as a replacement for gnus
+adaptive scoring  a harder problem than spam filtering i guess but
+it might be interesting
+
+cheers
+m
+
+
+
+
+spambayes mailing list
+spambayespythonorg
+httpmailpythonorgmailmanlistinfospambayes
+
+

@@ -1,0 +1,86 @@
+exmhp
+contenttype textplain charsetusascii
+
+on mon  aug    anders eriksson aerikssonfastmailfm  said
+
+ i checked on a number of small messages in a big folder  
+ msgs the delay of the next button has increased considerably
+ 
+ release  msec
+ latest cvs  msec
+
+im not seeing a hit on next a quick just pound on next and watch the
+wall clock test shows me able to go through  messages in under  seconds
+so its well under ms per switch but im seeing a really piggy cpu spike
+ for a few seconds in the flist code  of course it seems to be
+related to numberoffolders
+
+ wc mailfolders
+              mailfolders
+
+its particularly annoying because things just hoseandhang for  seconds so
+when it hits you have a long latency before what youre doing actually
+happens
+
+ backgrounddoperiodic flist
+ flistfindseqs reset
+ flistfindstart reset active
+ reading homevaldismailexmhmhsequences
+ exmh has  msgs in unseen
+  unseen message in  folder
+ in flaginner up iconup labelup
+ setting flag glyph to iconup
+ set flag state to up
+ reading homevaldismaillistspamsmhsequences
+ listspams has  msgs in unseen
+  unseen messages in  folders
+ in flaginner up iconup labelup
+ reading homevaldismailtrashmhsequences
+ trash has  msgs in pseq
+ homevaldismailxemacs not found
+ homevaldismailxemacs not found
+ homevaldismailxemacs not found
+ homevaldismailxemacs not found
+ pseq   
+ writing homevaldismailxemacsmhsequences
+ xemacs has  msgs in pseq
+ flistdone
+
+and it takes a hit even if theres no new mail
+
+ backgrounddoperiodic flist
+ flistfindseqs reset
+ flistfindstart reset active
+ flistdone
+ flistfindseqs end  microseconds per iteration
+
+im perfectly willing to canopener that code and see where the cpu is
+going but only if nobody is slapping their forehead and mumbling about
+a brownpaperbag bug 
+ 
+				valdis kletnieks
+				computer systems senior engineer
+				virginia tech
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqeanhcclwbttaravzuakdshpisuxprlitvwizuicxfjgcgvepy
+qnwkrjgimfvrojcihicte
+twr
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

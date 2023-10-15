@@ -1,0 +1,238 @@
+this is a multipart message in mime format
+
+nextpartddececebb
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ feel the power	
+ power  bonus annuity	
+year  	 	
+premium bonus immediately 	 	
+effective  year yield 	 	
+commission 	    nqq 	
+ 
+
+
+call or visit our web site httpwwwamericanfinancialmktgcom
+today 	
+please fill out the form below for more information	 
+name	  	
+email	  	
+phone	  	
+city	  	state	  	 	
+ 	  	 	   	
+ 
+ 	we dont want anybody to receive our mailing who does not wish
+to receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+legal notice httpwwwinsuranceiqcomlegalhtm  	
+
+nextpartddececebb
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlefeel the powertitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+
+body bgcolord textd linkdff 
+vlinkdff
+  table widthd borderd cellspacingd cellpaddingd 
+aligndcenter bordercolord bgcolordffffff 
+heightd
+    tr
+      td
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            tdimg srcdhttpimagesamfheadergif 
+widthd heightd altdfeel the powertd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            tdimg srcdhttpimagesamfimagejpg 
+widthd heightd altdpower  bonus annuitytd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd bordercolord aligndcenter
+          tr
+            td widthd
+              font sized facedverdana arial helvetica 
+sansserifbyear bfont
+            td
+            td widthd
+              font facedverdana arial helvetica sansserif 
+sizedbbfont
+            td
+          tr
+          tr
+            td widthd
+              font facedverdana arial helvetica sansserif 
+sizedbpremium bonus immediatelybfont
+            td
+            td widthd
+              font facedverdana arial helvetica sansserif 
+sizedbbfont
+            td
+          tr
+          tr
+            td widthd
+              font facedverdana arial helvetica sansserif 
+sizedbeffective  year yieldbfont
+            td
+            td widthd
+              font facedverdana arial helvetica sansserif 
+sizedbbfont
+            td
+          tr
+          tr
+            td widthd
+              font facedverdana arial helvetica sansserif 
+sizedbcommissionbfont
+            td
+            td widthd
+              font facedverdana arial helvetica sansserif 
+sizedb    nqqbfont
+            td
+          tr
+        table
+        img srcdhttpimagesamfphonejpg 
+widthd heightd altdbr
+        br
+        table widthd borderd cellspacingd 
+cellpaddingd bgcolord
+          tr
+            td aligndcenter
+              font facedverdana arial helvetica sansserif 
+colordffffffb
+              call or visit our a 
+hrefdhttpwwwamericanfinancialmktgcomweb sitea 
+todaybfont
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td
+              table widthd bgcolordffffff
+                tr
+                  form methoddpost 
+actiondhttpresponseresponseasp
+                    td
+                      table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordffffff
+                        tr
+                          td colspand aligndcenterfont 
+facedarial helvetica sansserif sizedbplease fill out the 
+form below for more informationbfonttd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif 
+sizedbnamebfonttd
+                          td colspand
+                            input typedtext namedcontactname 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif 
+sizedbemailbfonttd
+                          td colspand
+                            input typedtext namedemail 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif 
+sizedbphonebfonttd
+                          td colspand
+                            input typedtext namedphone 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif 
+sizedbcitybfonttd
+                          td widthd
+                            input typedtext namedcity 
+sized
+                          td
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif 
+sizedbstatebfonttd
+                          td widthd
+                            input typedtext namedstate 
+sized
+                          td
+                          td rowspand aligndcenter 
+valigndmiddleimg srcdhttpimagesqgif 
+widthd heightdtd
+                        tr
+                        tr
+                          td widthd aligndrightnbsptd
+                          td widthd
+                            input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          td
+                          td widthd aligndrightnbsptd
+                          td widthd
+                            input typedhidden 
+namedhdnrecipienttxt valuedbrianbamericanfinancialmktgcom
+                            input typedhidden 
+namedhdnsubjecttxt valuedinsuranceiq potential advertiser
+                          td
+                        tr
+                      table
+                    td
+                  input typedhidden namedsentto 
+valued
+form
+                tr
+              table
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenterimg 
+srcdhttpimagesamflogogif widthd 
+heightdtd
+            tdfont facedverdana arial helvetica sansserif 
+sizedwe
+              dont want anybody to receive our mailing who does not 
+wish to receive
+              them this is a professional communication sent to 
+insurance professionals
+              to be removed from this mailing list do not reply to this 
+message
+              instead go here a 
+hrefdhttpwwwinsurancemailnethttpwwwinsurancemailnetabr
+
+              a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafont
+            td
+          tr
+        table
+      td
+    tr
+  table
+body
+html
+
+nextpartddececebb

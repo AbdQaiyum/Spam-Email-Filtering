@@ -1,0 +1,15 @@
+hi
+
+are there any reasons not to use the new apt releases on rh x
+
+ 
+reiserfsck ist bekannt dafr da es leere dateisysteme zurcklt
+gut formaljuristisch hat er das dateisystem in einen wohldefinierten
+zustand versetzt aber  nunja  man erwartet schon irgendwie da
+noch ein paar daten drauf sind danach       felix v leitner dasr
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

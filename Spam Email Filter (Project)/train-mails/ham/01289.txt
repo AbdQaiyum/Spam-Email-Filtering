@@ -1,0 +1,47 @@
+on   aug  matthias saou matthiasegwnnet wrote
+ once upon a time axel wrote 
+  i am now relaxed again  and pass this info on probably matthias saou
+  himself is dude and some package has hardwired a path in his build
+  directory it would be nice to find out which and fix it but i am using
+  too many of the freshrpm suite to narrow it down
+ 
+ indeed my usual login is dude and has been since long before the big
+ lebowsky came out  and it seems the some programs wrongly hard code
+ my home directory when being compiled 
+ for instance 
+ 
+ dudepython dude strings usrbingentoo  grep dude
+ homedude
+ dudepython dude strings usrbinxine  grep dude
+ homeduderedhattmpxinerootusrsharelocale
+ 
+ these should probably be considered bugs in the programs build process
+ especially for xine look at that ill report them upstream ifwhen i
+ have some time
+
+this is a standard trap for people building things from source its
+generally wise to have a special build environment to avoid these
+hassles most likely you have some library loading path in your env an
+strace of the app will show it
+
+	theapp   grep dude
+
+personally i have a script called logbuild whose entire purpose is to
+start a shell with a minimal build environment logged with script the
+prevents this kind of error since configure yanks all sorts of ill
+documented values from ones environment for use in the build cc arch
+various ld variables this kind of thing is necessary
+
+often the easiest thing is to have a special nonroot account with no profile
+for building stuff
+
+cheers
+ 
+cameron simpson dod        cszipcomau    httpwwwzipcomaucs
+
+do not taunt happy fun coder
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

@@ -1,0 +1,123 @@
+
+head
+titletitle
+head
+
+body bgcolor textffff
+
+p aligncenterfont sizebfinancial investment centerbr
+insider newsnbspbr
+br
+b
+font
+ifont colorffsee bottom of page for removal instructionsfontifont sizeb
+br
+b
+br
+font
+stock market has you concerned join the flight to quality make over  annually paid monthly by factoring account receivablesnbspbr
+discover what banks have known for decades harness the power and liquidity of factoring  collateralized account receivablesnbspbr
+br
+br
+a safe haven to make strong returns while stock markets are volatilenbspbr
+please be over the age of  serious inquiries onlynbspbr
+br
+br
+br
+br
+for a free indepth information package please fill out the form belowbbr
+font size
+br
+br
+contact mebr
+p
+
+form actionhttpwwwaquinascomcgibinformmailpl methodpost
+input typehidden namesubject valueinvest lead
+input typehidden namerecipient valuecraigmanusyahoocom
+
+  div aligncenter
+center
+table border width cellspacing cellpadding
+  tr
+td width alignrightifirst
+  nametd
+td widthinput typetext namefirstname sizetd
+  tr
+  tr
+td width alignrightilast
+  nameitd
+td widthinput typetext namelastname sizetd
+  tr
+  tr
+td width alignrightiaddressitd
+td widthinput typetext nameaddress sizetd
+  tr
+  tr
+td width alignrighticityitd
+td widthinput typetext namecity sizetd
+  tr
+  tr
+td width alignrightistateitd
+td widthinput typetext namestate sizetd
+  tr
+  tr
+td width alignrightizip
+  numberitd
+td widthinput typetext namezipnumber sizetd
+  tr
+  tr
+td width alignrighticountryitd
+td widthinput typetext namecountry sizetd
+  tr
+  tr
+td width alignrightihome
+  numberitd
+td widthinput typetext namehomenumber sizetd
+  tr
+  tr
+td width alignrightibusiness
+  numberitd
+td widthinput typetext namebusinessnumber sizetd
+  tr
+  tr
+td width alignrightiemail
+  addressitd
+td widthinput typetext nameemailaddress sizetd
+  tr
+  tr
+td width alignrightibest
+  time to callitd
+td widthinput typetext namebesttocall sizetd
+  tr
+  tr
+td widthtd
+td widthinput typesubmit valuesubmit namebinput typereset valuereset namebtd
+  tr
+table
+center
+  div
+p aligncenternbspp
+
+form
+fontb
+form actionhttpwwwaquinascomcgibinformmailpl methodpost
+input typehidden namesubject valueremove
+input typehidden namerecipient valuecraigmanusyahoocom
+  b
+font size
+p aligncenterto be removedp
+
+table border width cellspacing cellpadding
+  tr
+td width alignrightiemail
+  addressitd
+td widthinput typetext nameemailaddress size b
+font size
+input typesubmit valuesubmit namebtd
+  tr
+table
+  form
+
+
+

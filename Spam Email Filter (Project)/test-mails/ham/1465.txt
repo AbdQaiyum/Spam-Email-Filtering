@@ -1,0 +1,21 @@
+
+ tdbbasedwhitelistuse of bare  to mean  is deprecated at
+ libmailspamassassinhtmlpm line  use of bare  to mean  is
+ deprecated at libmailspamassassinhtmlpm line  unquoted string
+
+hmm could you check your installation  those chars arent in my
+version at all
+
+j
+
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+

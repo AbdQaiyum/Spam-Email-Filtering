@@ -1,0 +1,13 @@
+joseph s barrera iii joebarreraorg writes
+
+ lets say youre behind a firewall and have a nat address
+ is there any way to telnet to a linux box out there in the world
+ and set your display in some way that you can create
+ xterms on your own screen
+
+assuming your local display is x ssh
+
+ 
+karl anderson      kramonkeyorg           httpwwwmonkeyorgkra
+
+

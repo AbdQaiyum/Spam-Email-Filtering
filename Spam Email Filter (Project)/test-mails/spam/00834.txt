@@ -1,0 +1,33 @@
+html
+
+head
+meta httpequivcontenttype contenttexthtml charsetgb
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titlenew page title
+head
+
+frameset rows
+  frame nameheader scrollingno targetmain noresize marginwidth marginheight
+  frame namemain srchttpwwwcomoverdercomdownloadsendinghtm scrollingauto
+  noframes
+  body
+  pthis page uses frames but your browser doesnt support themp
+  body
+  noframes
+frameset
+html
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

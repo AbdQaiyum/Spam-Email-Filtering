@@ -1,0 +1,257 @@
+this is a multipart message in mime format
+
+nextpartcffade
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ 	
+ 	 	 	
+ north star marketings commitment	
+as the exclusive marketers of john alden products north star marketing
+nsm is committed to helping you be successful every time you call
+your local nsm office youll speak with an experienced health insurance
+professional thousands of agents already rely on nsm for assistance
+with prospecting quoting issuing policies marketing ideas and
+followup support and since john alden is also a leader in the
+individual medical insurance market north star can further help you
+meet your clients needs
+ 	
+ lets talk today
+ linklink to the north star marketing directory
+httpwwwnstarmarketingcomfhnorthstarjaimepromohtm  to contact
+an office near you
+ or
+ complete all the information below and an nsm rep in your state will
+contact you directly 	
+name	  	
+company	  	
+email	  	
+phone	  	
+city	  	state	  	 	
+ 	  	 	   	
+ 
+ 	insurance products are underwritten and issued by john alden
+life insurance company and administered by fortis insurance company
+both fortis health member companies milwaukee wi short term medical
+is presented by north star marketing wwwnstarmarketingcom
+httpwwwnstarmarketingcom 
+
+we dont want anybody to receive our mailing who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+
+nextpartcffade
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+
+head
+titlean untapped market d an easy saletitle
+head
+
+body linkdff vlinkdff bgcolordffffff 
+alinkdff
+  table borderd cellpaddingd cellspacingd widthd 
+aligndcenter
+    tr
+      td colspandimg 
+srcdhttpimagesaldenrawcrowdjpg widthd 
+heightdtd
+    tr
+    tr
+      tdimg srcdhttpimagesaldenuntappedgif 
+widthd heightdtd
+      tdimg srcdhttpimagesaldensimplegif 
+widthd heightdtd
+      tdimg srcdhttpimagesaldenstmbulletsgif 
+widthd heightdtd
+    tr
+    tr
+      td colspand
+        table borderd cellspacingd widthd
+          tr
+            tdimg 
+srcdhttpimagesaldennsmheadgif widthd 
+heightd altdnorth star marketings commitmenttd
+          tr
+          tr
+            tdsmallas the exclusive marketers of john alden 
+products north
+              star marketing nsm is committed to helping you be 
+successful
+              every time you call your local nsm office youll speak 
+with an
+              experienced health insurance professional thousands of 
+agents already
+              rely on nsm for assistance with prospecting quoting 
+issuing policies
+              marketing ideas and followup support and since john 
+alden is
+              also a leader in the individual medical insurance market 
+north
+              star can further help you meet your clients 
+needssmallbr
+              img srcdhttpimagesaldenspacegif 
+widthd heightd
+            td
+          tr
+        table
+      td
+    tr
+  table
+  table widthd borderd cellspacingd cellpaddingd 
+aligndcenter
+    tr
+      td
+        table widthd bgcolord
+          tr
+            form methoddpost 
+actiondhttpresponseresponseasp
+              td
+                table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordffffff
+                  tr
+                    td colspand bgcolordccffff
+                        img 
+srcdhttpimagesaldenletstalkgif widthd 
+heightd altdlets talk todaybr
+                        small
+                        img 
+srcdhttpimagesaldenyellowbulletgif widthd 
+heightd altdlink borderd
+                        link to the a 
+hrefdhttpwwwnstarmarketingcomfhnorthstarjaimepromohtmnorth 
+
+                        star marketing directorya to contact an 
+office near youbr
+                        img 
+srcdhttpimagesaldenorgif widthd 
+heightd altdorbr
+                        img 
+srcdhttpimagesaldenyellowbulletgif widthd 
+heightd
+                        complete all the information below and an nsm 
+rep in your state
+                        will contact you directly small
+                    td
+                  tr
+                  tr
+                    td widthd aligndright 
+bgcolordccffffnametd
+                    td colspand bgcolordccffff
+                      input typedtext namedcontactname 
+sized
+                    td
+                  tr
+                  tr
+                    td widthd aligndright 
+bgcolordccffffcompanytd
+                    td colspand bgcolordccffff
+                      input typedtext namedcompany sized
+                    td
+                  tr
+                  tr
+                    td widthd aligndright 
+bgcolordccffffemailtd
+                    td colspand bgcolordccffff
+                      input typedtext namedemail sized
+                    td
+                  tr
+                  tr
+                    td widthd aligndright 
+bgcolordccffffphonetd
+                    td colspand bgcolordccffff
+                      input typedtext namedphone sized
+                    td
+                  tr
+                  tr
+                    td widthd aligndright 
+bgcolordccffffcitytd
+                    td widthd bgcolordccffff
+                      input typedtext namedcity sized
+                    td
+                    td widthd aligndright 
+bgcolordccffffstatetd
+                    td widthd bgcolordccffff
+                      input typedtext namedstate sized
+                    td
+                    td rowspand aligndcenter valigndmiddle 
+bgcolordccffffimg srcdhttpimagesqgif 
+widthd heightdtd
+                  tr
+                  tr
+                    td widthd aligndright 
+bgcolordccffffnbsptd
+                    td widthd bgcolordccffff
+                      input typedsubmit namedbtnsubmit 
+valuedsubmit
+                    td
+                    td widthd aligndright 
+bgcolordccffffnbsptd
+                    td widthd bgcolordccffff
+                      input typedhidden namedhdnrecipienttxt 
+valuedjaresponseusfortiscom
+                      input typedhidden namedhdnsubjecttxt 
+valuedshort term medical inquery
+                    td
+                  tr
+                table
+              td
+            input typedhidden namedsentto valued
+form
+          tr
+        table
+      td
+    tr
+  table
+  table widthd borderd cellspacingd cellpaddingd 
+aligndcenter
+    tr
+      td bgcolord widthd aligndcenterimg 
+srcdhttpimagesaldenfortisendgif widthd 
+heightdtd
+      td bgcolord widthdfont facedarial 
+colordffffff sizedpinsurance
+        products are underwritten and issued by john alden life 
+insurance company
+        and administered by fortis insurance company both fortis health 
+member
+        companies milwaukee wi short term medical is presented by 
+north star
+        marketing a 
+hrefdhttpwwwnstarmarketingcomwwwnstarmarketingcomapfo
+nt
+      td
+    tr
+  table
+  table widthd borderd cellspacingd cellpaddingd 
+aligndcenter
+    tr
+      td bgcolord
+        pfont facedverdana arial helvetica sansserif 
+sized colordffffffwe
+          dont want anybody to receive our mailing who does not wish to 
+receive
+          them this is a professional communication sent to insurance 
+professionals
+          to be removed from this mailing list do not reply to this 
+message
+          instead go here a 
+hrefdhttpwwwinsurancemailnethttpwwwinsurancemailnetabr
+
+          a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafont
+        p
+      td
+    tr
+  table
+body
+html
+
+nextpartcffade

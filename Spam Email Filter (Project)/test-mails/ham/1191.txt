@@ -1,0 +1,19 @@
+httpbeastgtkorg
+
+theres a realy nasty shortage on sequencers 
+
+actually id like this running on my main box which is irix but that
+ill probably try to tackle myself 
+
+ 
+rule  all software sucks
+rule  all hardware sucks
+rule  my vacuumcleaner is hardware it never obeys rule 
+		 tanuki the raccoondog scary devil monastery
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

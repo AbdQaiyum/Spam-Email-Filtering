@@ -1,0 +1,42 @@
+
+cwgdateddcdeepeddycom said
+ from  chris garrigues cwgexmhdeepeddycom
+ date  wed  aug    
+ heres a fix that i think will make a real difference
+ 
+ ftocshowsequences needs to be able to be called with an optional
+ list of msgids 
+ to update and if its called that way it only removes or adds tags
+ for those 
+ messages  then in places like msgchange we only update the
+ messages which have
+ changed
+ 
+ also a separate ftocshowsequence function which only updates the
+ display of 
+ one sequence should be written which also takes an optional list of
+ msgids
+   
+ in a place like msgchange it would only need to update the cur
+ sequence
+ 
+ if nobody else gets to it ill do this when i get back
+
+ i just checked this in  let me know if it helps
+
+ chris 
+
+congratulations chris you just made the hall of fame speed is much better now i havent done any tests but id say that latency dropped  times and were back in good shape again
+
+well done
+
+anders
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

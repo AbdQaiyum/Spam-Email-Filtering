@@ -1,0 +1,63 @@
+html
+
+
+headtitleprepaid legal specialtitle
+meta charsetdutfhead
+body backgrounddfont colord facedarial
+table borderd bordercolordarkdeee cellpaddingd cellspacingd
+ framedbox rulesdgroups styledbackgroundcolor eee fontsize
+ xsmall widthd
+tbody
+ 
+tr
+td bgcolordeee colord
+tr aligndleft bgcolordeee colord
+tr
+td
+style
+
+meta contentdmshtml  namedgenerator
+div aligndcenterbrbrbrbrbrbr
+table bgcolordff cellpaddingd cellspacingd widthd
+tbody
+tr
+td
+table bgcolordacc cellpaddingd cellspacingd widthd
+tbody
+tr
+td bgcolordacctdtr
+tr
+td aligndmiddle bgcolordaccfont colordwhite facedarialhelv
+eticabbr
+brbrbrfont sized
+how would you like a top rated law firm working for you br
+your family and your business for only pennies a day brbr
+ 
+
+get your a hrefdhttpwwwseveroffercomwhatiffree quoteabr
+font sizedtakes only  seconds
+ 
+brbfonttdtr
+tr
+td bgcolordaccbr
+ulfont colordwhite facedarialhelveticafont sizedcenter
+ whether its a simple speeding ticket or an extensive child br
+  custody case we cover all  areas of the legal system brbr
+ 
+     li bfreeb court appearances on your behalf br
+     libunlimited phoneb consultations br
+     li review of all your legal documents  contracts br
+     li take care of bcredit problems bbrbrbrbr
+ font sized
+and that is just the itipi of the iceberg brbr
+ 
+click a hrefdhttpwwwseveroffercomwhatifhere a
+to get yourbr bfreeb consultation today  brbrbrbrbrbr
+brbr
+
+div aligndcenterdivaliul
+div aligndcenterbrbrdivtdtr
+bodyhtml
+
+
+

@@ -1,0 +1,52 @@
+
+eauukmeftaqbbiip
+contenttype textplain
+contenttransferencoding quotedprintable
+
+i installed aptget yesterday and liked it for a couple hours anyway
+late last night i started to get errors like
+
+
+ roottheshadows  aptget update
+e method http has died unexpectedly
+e tried to dequeue a fetching object
+e tried to dequeue a fetching object
+e tried to dequeue a fetching object
+e tried to dequeue a fetching object
+e tried to dequeue a fetching object
+e tried to dequeue a fetching object
+e tried to dequeue a fetching object
+
+
+i get the same errors two like the first line instead of one with
+aptget update
+
+i was wondering why this would happen
+
+i would appreciate any help you all can give me
+
+thanks
+
+
+					govind salinas
+icq					aimdyerthscum
+
+eauukmeftaqbbiip
+contenttype applicationpgpsignature namesignatureasc
+contentdescription this is a digitally signed message part
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqayildhldpdkprahzsakcuaneaivrmtvfclpgzkhqcgrvl
+vpgflpzzctsjejihz
+dnc
+end pgp signature
+
+eauukmeftaqbbiip
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

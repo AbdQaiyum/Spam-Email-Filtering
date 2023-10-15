@@ -1,0 +1,50 @@
+
+jsckapgzdpzzf
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on fri feb   at pm  matthias saou wrote
+ once upon a time harri wrote 
+
+   during the past few days ive experienced connection problems with
+   that site from time to time but for me right now its working
+ 
+  maybe its temporary 
+
+ if you need another apt repository with red hat linux  files there are
+ a few others see  httpfreshrpmsnetapt
+
+i have a local one for the main and upgrades from somewhere plus my own
+at orkplace
+
+bladesremiel grep nixia etcaptsourceslist
+rpm httpaptnixiano redhati gnomehide
+rpmsrc  httpaptnixiano redhati gnomehide
+
+ah thats it they had newer gnome there
+
+
+when life hands you a lemon make batteries
+ethen go electrocute someone
+	 stevo scary devil monastery
+
+jsckapgzdpzzf
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqewrcrqfoixnckraurakddrrftikwuzviwxhpxycxcwcgyd
+pcylizsqrazpcgkwfgy
+ckwn
+end pgp signature
+
+jsckapgzdpzzf
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

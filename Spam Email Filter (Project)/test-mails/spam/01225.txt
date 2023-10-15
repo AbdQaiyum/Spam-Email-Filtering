@@ -1,0 +1,184 @@
+doctype html public wcdtd html  transitionalen
+ saved from urldhttpinternetemail htmlheadtitlen
+ew web technologytitle
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+meta contentdmshtml  namedgeneratorhead
+body vlinkdccc linkdccc bgcolordffffff leftmargindfon
+t facedarial
+p
+center
+table widthd borderd
+  tbody
+  tr
+    td aligndmiddlebfont colord sizedmortgage rates sl
+ashed for 
+      the last timefontb 
+      hr
+      font colord sizedblet us help you get a new mortgage
+ for up to 
+       of your home valueb 
+      p
+      table widthd borderd
+        tbody
+        tr
+          td aligndleftfont colord sized
+            lilower your monthly payment 
+            liconsolidate your debt 
+            lishorten the term of your loan 
+            lireduce your interest rate fontlitdtrtbody
+table
+      pfont colordff sizedbnational average mortgage 
+      ratesbfont brbr
+      table cellspacingd cellpaddingd borderd
+        tbody
+        tr bgcolordcccccc
+          tdbprogrambtd
+          tdbratesbtdtrb
+        tr bgcolordffffff
+          td yr fixedtd
+          tdtdtr
+        tr bgcolordffffff
+          td yr fixedtd
+          tdtdtr
+        tr bgcolordffffff
+          td yr armtd
+          tdtdtrtbodytable
+      p
+      table widthd borderd
+        tbody
+        tr
+          td aligndmiddlefont colord sizedchoose from hu
+ndreds of 
+            brloan programs like fonttdtrtbodytable
+      p
+      table widthd borderd
+        tbody
+        tr
+          td aligndleftfont colord sizedb
+            lipurchase loans 
+            lirefinance 
+            lidebt consolidation 
+            lihome improvement 
+            liinterest only jumbos 
+            lino income verification bfontlitdtrtbody
+table
+      p
+      table widthd borderd
+        tbody
+        tr
+          td aligndmiddlefont colord sizedfill out this 
+simple 
+            form and we will compete for your business 
+      fonttdtrtbodytable
+      pfont colord sizedbrequired input fieldfont color
+dff 
+      sizedfontb 
+      p
+      table cellspacingd bordercolordarkd cellpaddingd wid
+thd 
+      bordercolorlightdffffcc
+        tbody
+        tr
+          td aligndmiddle
+            form actiondmailtoglmortgagefiremaildesubjectdmor
+tgageinquiry 
+            methoddpost enctypedtextplain
+            table widthd
+              tbody
+              tr
+                td aligndright widthdfont 
+                  facedarial helvetica sansserif colord 
+                  sizedbnamebfontfont 
+                  facedarial helvetica sansserif colordff 
+                  sizedfonttd
+                tdinput namednametdtr
+              tr
+                td aligndright widthdfont 
+                  facedarial helvetica sansserif colord 
+                  sizedbaddressbfonttd
+                tdinput namedaddresstdtr
+              tr
+                td aligndright widthdfont 
+                  facedarial helvetica sansserif colord 
+                  sizedbcity bfonttd
+                tdinput namedcitytdtr
+              tr
+                td aligndright widthdfont 
+                  facedarial helvetica sansserif colord 
+                  sizedbstatebfontfont 
+                  facedarial helvetica sansserif colordff 
+                  sizedfonttd
+                tdinput sized namedstatetdtr
+              tr
+                td aligndright widthdfont 
+                  facedarial helvetica sansserif colord 
+                  sizedbzip code bfontfont 
+                  facedarial helvetica sansserif colordff 
+                  sizedfonttd
+                tdinput namedzipcodetdtr
+              tr
+                td aligndright widthdfont 
+                  facedarial helvetica sansserif colord 
+                  sizedbbuiness phonebfontfont 
+                  facedarial helvetica sansserif colordff 
+                  sizedfonttdfont
+                tdinput namedbusphonetdtr
+              tr
+                td aligndright widthdfont 
+                  facedarial helvetica sansserif colord 
+                  sizedbhome phone bfonttd
+                tdinput namedhomephonetdtr
+              tr
+                td aligndright widthdfont facedarial colord
+ 
+                  sizedbbest time to contactfontbtd
+                td widthdfont colordselect sized n
+amedbesttimetocontact 
+                   option selectedoption option 
+                    valuedmorningmorningoption option 
+                    valuedafternoonafternoonoption option 
+                    valuedeveningeveningoptionselectfonttd
+trb
+              tr
+                td aligndright widthdfont 
+                  facedarial helvetica sansserif colord 
+                  sizedbtotal loan request bfonttd
+                tdinput namedloan requesttdtr
+              tr
+                td aligndright widthdfont 
+                  facedarial helvetica sansserif colord 
+                  sizedbapprox home valuebfonttd
+                tdinput namedapproxhomevaluetdtrtbodyt
+able
+            pinput typedsubmit valuedsubmit information namedsu
+bmit 
+            formptdtrtbodytablebr
+      p
+      table widthd borderd
+        tbody
+        tr
+          td aligndmiddlefont colord sized
+            marqueea consultant will contact you soon 
+        fontfonttdtrtbodymarqueetable
+      table widthd
+        tbody
+        tr
+          td aligndmiddlefont colord sizedball informa
+tion given 
+            herein is strictly confidential and will not be redistributed
+ for 
+            any reason other than for the specific use 
+            intendedfontbbrfont facedarial colord siz
+edto be 
+            removed from our distribution lists please a 
+            hrefdmailtodletelycoscouksubjectdremovewebccl
+ick 
+            herefont colordafontfonttdtrtbod
+ytablep
+      centercenterfontfonttrtbodytablecenterfont
+bodyhtml
+
+
+
+

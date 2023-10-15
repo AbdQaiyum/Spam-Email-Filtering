@@ -1,0 +1,220 @@
+this is a multipart message in mime format
+
+nextpartbafcdeef
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ generate your own leads using groundbreaking roth conversion
+postcards	
+ 	
+    
+
+every senior wants to hear about the roth conversion if you can
+eliminate the up front tax cost you can with the new and improved roth
+conversion program from gsl advisory 
+
+the cheapest and most successful way to generate roth conversion program
+leads is to send postcards while also placing an ad in the small local
+paper repeat the ads and the postcard mailing at least  different
+times
+
+the one truth in advertising is that repetition works even the smallest
+and most unassuming ad works if it is seen several times see if you can
+find an area that has its own zip code and a local paper serving that
+area some retirement communities have both a newspaper and their own
+zip code
+
+this is your gold mine
+
+to see the postcard and ad and to learn how to work the system complete
+the form below which will direct you to the post card and how to make it
+work for you
+ 
+
+ 
+first name	  	 	
+last name	  	note that when you press the send information
+button the screen may not change but we will still receive your
+information and get back to you another way to order our sample
+presentation is to visit our website at wwwgsladvisorycomfroco
+httpwwwgsladvisorycomfroco 	 
+email	  	
+phone	  	
+ 
+ 
+
+these materials are for agent use only you should be a practicing
+licensed and appointed annuity agent	 
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet 
+
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartbafcdeef
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titleground breaking post card creates annuity leadstitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+ from gsl 
+body bgcolordffffff textd
+table widthd cellpaddingd cellspacingd 
+aligndcenter bgcolordffffff
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          tdimg 
+srcdhttpiiqusimagesgslpostcardgif widthd 
+heightd altdgenerate your own leads using groundbreaking roth 
+conversion postcardstd
+        tr
+        tr
+          tdimg 
+srcdhttpiiqusimagesgslpostcardgif widthd 
+heightdtd
+        tr
+        tr
+          td
+            hr widthd sized colord
+          td
+        tr
+        tr
+          td
+            font facedgeorgia times new roman times serif 
+sized colord
+            pbevery senior wants to hearb about the roth 
+conversion if
+              you can eliminate the up front tax cost byou can with 
+the new
+              and improved roth conversion program from gsl 
+advisoryb p
+            pthe cheapest and most successful way to generate roth 
+conversion
+              program leads is to send postcards while also placing an 
+ad in the
+              small local paper repeat the ads and the postcard mailing 
+at least
+               different timesp
+            pthe one truth in advertising is thatb repetition 
+worksb even
+              the smallest and most unassuming ad works if it is seen 
+several
+              times see if you can find an area that has its own zip 
+code and
+              a local paper serving that area some retirement 
+communities have
+              both a newspaper and their own zip codep
+            p aligndcenterfont sizedbthis is your gold 
+minebfontp
+            pto see the postcard and ad and to learn how to work the 
+system
+              complete the form below which will direct you to the post 
+card and
+              how to make it work for youbr
+              nbspp
+            font
+          td
+        tr
+        tr
+          tdbfont facedarial helvetica sansserif sized 
+
+            table borderd cellpaddingd widthd 
+bordercolord cellspacingd
+              form 
+actiondhttpwwwgsladvisorycomfrocodatagslpagecfm 
+methoddpost
+                input namedxsubject typedhidden 
+valuedinsuranceiq email request
+                tr bgcolordffcc
+                  td widthdbfont colord 
+sizedfirst namefontbtd
+                  td widthd
+                    input namedfirstname
+                  td
+                  td widthd
+                    input namedsubmit typedsubmit valuedsend 
+information
+                  td
+                tr
+                tr bgcolordffcc
+                  td widthdbfont colord 
+sizedlast namefontbtd
+                  td widthd
+                    input namedlastname
+                  td
+                  td rowspand widthdfont colord 
+sizednote that
+                    when you press the quotsend informationquot 
+button the
+                    screen may not change but we will still receive 
+your information
+                    and get back to you another way to order our sample 
+presentation
+                    is to visit our website at a 
+hrefdhttpwwwgsladvisorycomfrocowwwgsladvisorycomfrocoa
+fonttd
+                tr
+                tr bgcolordffcc
+                  td widthdbfont colord 
+sizedemailfontbtd
+                  td widthd
+                    input namedemail
+                  td
+                tr
+                tr bgcolordffcc
+                  td widthdbfont colord 
+sizedphonefontbtd
+                  td widthd
+                    input namedphone
+                  td
+                tr
+              input typedhidden namedsentto valued
+form
+            table
+            fontbtd
+        tr
+        tr
+          td aligndcenterimg 
+srcdhttpimagesgslgslbiggif widthd 
+heightdbr
+            font sized facedarial helvetica sansserifbr
+            these materials are for quotagent use onlyquot you 
+should be
+            a practicing licensed and appointed annuity 
+agentfonttd
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+body
+html
+
+nextpartbafcdeef

@@ -1,0 +1,20 @@
+matthias saou matthiasegwnnet wrote
+youre really better off backuping all placed where you know youve hand
+edited or installed some files for me thats only etc root and
+home then you reinstall cleanly formating  put your home files
+back into place and youre ready to go
+
+matthias i gotta believe you ive been using your rpms for some time now  thats
+the way ill do it a clean start but with the old configs at the ready for diff
+ing when needed ill find some old hd for those media files
+
+
+thats angle as in geometry
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

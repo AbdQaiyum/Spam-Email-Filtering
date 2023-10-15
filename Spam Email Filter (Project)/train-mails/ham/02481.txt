@@ -1,0 +1,18 @@
+
+    richie as i understand it postx versions of the core bsddb code
+    richie ship under the sleepycat license which demands that projects
+    richie using it must be publishedsource  
+
+dont use bsddb in a closedsource product  use dbm or dumdbm or use
+pickles or roll your own thang  i doubt the presence of bsddb would be the
+only barrier to creating a closedsource product based upon the spambayes
+code
+
+skip
+
+
+spambayes mailing list
+spambayespythonorg
+httpmailpythonorgmailmanlistinfospambayes
+
+

@@ -1,0 +1,80 @@
+dear cypherpunks c
+
+cbody bgcolordffccffe
+cblockquote 
+styledborderlefta  px solidb marginlefta pxb marginrighta pxb paddinglefta pxb paddingrighta pxe
+  aa
+  ctable widthde
+    ctbodye
+    ctre
+      ctd widthdecftde
+      ctd bgcolordbecff bordercolordff widthdecfont colordff 
+        facedarial black 
+        sizedenbspbnbspbnbspbnbspbnbspbnbspbnbspbnbspbnbspbnbspbnbspbcffonte 
+        cdiv aligndlefte
+          cfont facedbadacce sizedecfont colordff new romanenbspbcffontecfont colordffecdfaacffontecfont colordffebefcededdbbcffontecfont colordffeaacffontecfont colordff new romaneemailcffontecfont colordffebddbcafdbeddbfecffontecfont colordff new romaneccffontecfont colordffebfccdbcdbabacffontecfont colordffecfont new romanecffontedaacffontecffontecfont colordff sized facedcacaeecffonte
+        cfdive
+        cdiv aligndlefte
+          cfont colordff facedbadacce sizedenbspbnbspbnbspbnbspbnbspbcffontecfont facedbadacce sizedecfont colordffenbspbnbspbnbspbnbspbnbspbnbspbnbspbnbspbnbspb 
+          aabfccaccdbfecdabddbdbacdbecccbdaacffontecfont colordecbre 
+          cffontecffonte 
+          cbecfont facedcbcecce sized colordenbspbnbspb  
+          cffontecfbe  
+          cfont facedbfacccefgb sized colordecfacededebcdbcebbedebeebcbebebdcfont new romaneccffontecfacededebbadccfabcbfacbcbbccbdaabcaacdbddccbcfont new romanecffontecdfcfont new romaneemailcffontebddbcfont new romaneccffontecfabecddbddccbcfont new romanecffontecdfbccbddabfcdbbacbacfont new romaneecffontecfabfccffbebfbcbfcdbbadfbbabddbcbabcbabcbbeaaccffacadbddbcbabcccccbcfont new romaneccffontedbddbfacedcccaacdbcfcccdbbacfdfbbefbecfont new romaneccffontedbcbdccebdfcdfdbebcdaacfbbccfont new romaneccffontecccfabcbabcb
+ beaaccfabcbfacbaaccfabccbcbacdcecffddabbacaacdfccfbfeccbddbcfdaacccbccaccfcdfbcbfcdbbadebcfabdacabacfdfbdcfbaacffonte
+        cfdive
+        cdiv aligndlefte
+          aa
+        cfdive
+        cdiv aligndlefte
+          cfont facedbfacccefgb sized colordenbspbnbspb 
+          bbedbedadbbdcaccccdbbedddcabcfebfecefdbcefaacceaaccbbdebefbfbcdcbdbcafemailbddbbccacdaaccfdbdabbabcbbeemailbddbbfebabbfaabfcadbaaccedbfaadbbebedcabcfebbdeaadcdfaacfacbfdcabcfebacbcdbcdfdbdbcefaabfccebdcaddcaaccfadebafbbbfeeaacbaddbeddbacfdfbbdcabdbacfadadfaacbre
+          nbspbnbspbnbspbnbspbnbspb bbedbeemailbddbbfebefdcdadbccbdbcadbcafaadedaaacbabbbbcfbfcdcaacbada 
+          cedecabdddaaacffonte
+        cfdive
+        cule  
+  cdiv aligndleftecfont facedbadacceecfont colordff sizedeca hrefdhttpaffwwwewldbizecomfsoftfemailscanezipedcabcfebfebbcedbcfecfae 
+    cadbbcdbbdfceaacffontecfont colordff sizedeabacffontecffontecfont facedbadacce sized colordffffecbeccbcfbdcfbecffontecbecfont roman new facedbadacce colordffff sizedecffontecfbecfont facedbadacce sized colordffffecbedaaaaaacfbebbbdadcebdcbfcacaddcbebbecbeaacfbecffontecfdive
+  cdiv aligndleftecfont colord facedcbcecce sizedenbspbnbspbnbspbnbspbnbspb  
+    cffontecfont sized colord facedbfacccefgbebfcbdcdfdbeaaccdfdbddcadbcafemailbddbaacdbbfcddbfbeddbdbcfcbcaddabfbfcbdcbfdfdceddcadbcafbfbbacfdaacfbcdcabcfebddbaacbecfdfbccbadfaacffontecfont facedcbcecce sized colordecbrecffontecfdive
+  cdiv aligndleftecbecfont facedbfacccefgb sized colordffffecedbcfecfcddabacffontecfbeca hrefdhttpaffwwwewldbizecomfsoftfemailscanezipecfont colordff roman new sized facedarialehttpaffwwwewldbizecomfsoftfemailscanezipcffontecfaecfont facedbfacccefgb sized colordffffecfont 
+  colordff facedtimes sized roman newe  
+    cffontecbeaadfcfcddbcccbcafdbdcfbeaaccebbecbadcbcbbceabbbbfbacffontecfont roman new facedarial sized colordffffeemailcffontecfont facedbfacccefgb sized colordffffecebdcbfcaaacffontecfbecfont colord facedcbcecce sizedecbrecfdive
+        cffonte
+  cdiv aligndleftecfont facedbfacccefgb sized colordecbenbspbnbspb  
+    cfbebbacaacdfbcbadbceaacedccbccdbaccccefbbeebafbfcbccbbcabbfbcbbdbedebdadeaacdabfdcdfcedbddbfcdbbaddcaccccbcddaacffabbeebafddbdbbbbfccdbcbbbbddaabbbabcdfcebaceabaacdbddbfcdbbadbcebfbaacccdebaacebacebccdcddacebcbbecabbcbfdbcebdfdaaabacffbddbddddbcbabccbfbeabfcdbbacdabfbbeccdcedbcfedfbbacfccbbfcbfdebfbcbfacdacdeccccbdcadbaacbfcddcdaccabbdcafdbdbcdcbdcbfdfdceaaccccbcdfdbeaabbcdbbcbbaccccfbcbcbcbbdbbabdbcfcddbdfddbabcbbebcbccccecbdcbfaacdbbd
+ dddbbdbfdbbfcdbbabccfont facedtimes roman neweemailcffontebddbaadbddbbeccdcedbcfeaacbdabcbbddddbbbbbdbcbfcdbbaaaccbbdddfbbbbcbccfadeaacffontecfdive
+        cfont colord facedcbcecce sizede
+  cdiv aligndleftecbrecfdive
+        cffonte  
+        cfule  
+      cftde  
+      ctd widthdecftdecftre  
+    ctre  
+      ctd widthdecftde  
+      ctd bgcolordfde widthde
+  cdiv aligndleftecbecfont facedbfacccefgb sized colordffffffecaacfbbbdbacffontecfbecfdive
+  cdiv aligndleftecbecfont facedbfacccefgb sized colordffffffebebbbabacfont roman newenbspb cbrecffontecffontecfont roman new facedarial sized colordffffffeemaila 
+    cffonteca hrefdmailtoaqingqingsouthwesttravelersecomecfont roman new facedarial sized colordffffffeqingqingsouthwesttravelersecomcffontecfaecfbecfdive
+  cdiv aligndleftecbecfont facedbfacccefgb sized colordffffffecuecfont roman newecbrecffontecfuecffontecfbecbecfont colordffffff facedbfacccefgb sizedecbbdacccecfaacbrecffontecfbecfdive
+  cdiv aligndleftecfont colordffffffecbecfont facedbfacccefgb sizedecbccbfccaacbebcebccbdeaaceddbbbbeaaccdfcdfbbaabaadaacebbbcfebbadcaaccebbadcabacueremovesinaecomcfuecedccbcbbdabcebdcdbedddcbebfdaacffontecfbecfont facedcbcecce 
+  sizedecbrecffontecffontecfdive
+      cftde  
+      ctd widthdecftdecftrecftbodyecftablee  
+cfblockquoteecfbodye
+
+
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

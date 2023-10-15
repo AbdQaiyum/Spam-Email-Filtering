@@ -1,0 +1,62 @@
+httpwwwhughesfamilyorgbugzillashowbugcgiid
+
+           summary split up fromendsinnums
+           product spamassassin
+           version unspecified
+          platform other
+        osversion other
+            status new
+          severity enhancement
+          priority p
+         component rules
+        assignedto spamassassindevelexamplesourceforgenet
+        reportedby mattnightrealmscom
+
+
+the current fromendsinnums triggers on any from where the user name ends
+in two or more digits  i think this should be split up into different
+numbers of trailing digits so that rules with different so ratios can
+get different scores  so ive made test rules that look from from
+names that end with two three four or five digitis and one for six or
+more digitis i also put in a test rule that looks for froms that end in a
+single digit just the sake of completeness
+
+here is what i got
+
+overall   spam nonspam     so    rank   score  name
+                         all messages
+                    all messages as 
+                        tfromendsinnums
+                        tfromendsinnums
+                       tfromendsinnums
+                        tfromendsinnums
+                       tfromendsinnums
+                        tfromendsinnums
+
+i should note that i get rather bad sos for fromendsinnums probably
+because so much of my corpus is made up of yahoo groups traffic which
+seems to have a lot of users that like sticking numbers at the ends of their
+names  here is the normal stats for fromendsinnums
+
+                       fromendsinnums
+
+and my stats
+
+                     fromendsinnums
+
+
+
+ you are receiving this mail because 
+you are the assignee for the bug or are watching the assignee
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+
+

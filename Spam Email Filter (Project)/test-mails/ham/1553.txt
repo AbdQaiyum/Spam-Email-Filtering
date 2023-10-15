@@ -1,0 +1,33 @@
+on wed  sep  stephane lentz wrote
+
+  i faced a similar problem with the freebsd when trying to 
+ install spamassassin through the ports on my fresh freebsd  
+ i had to define perllib with some given order of directories
+ so that the latest filespec module get used 
+
+good to hear its not just me  mind telling me how you set perllib
+specificly ive tried a few things setenv in the shell as well as
+perllib  inside the makefilepl even on the perl command
+line with no success
+
+thanks
+
+david
+
+
+
+david raistrick
+draisatlastanet		httpwwwexpitacomnomimehtml
+
+
+
+
+
+in remembrance
+wwwosdncom
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

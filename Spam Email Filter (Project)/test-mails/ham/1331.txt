@@ -1,0 +1,28 @@
+once upon a time roi wrote 
+
+ the new spec didnt even want to build the package
+ something with configmak
+
+now that is weird 
+
+ also this new spec looks like the old one it got libdv and libdvdevel
+ in the buildrequires so i just used the normal spec and removed it
+ manully
+
+indeed my booboo  fixed now
+
+btw about the mplayer vo sdl black screen problem you reported i was
+unable to reproduce it on my hom  computer it worked as expected
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel 
+load     ac online battery charging  
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

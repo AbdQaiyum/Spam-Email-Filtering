@@ -1,0 +1,133 @@
+html
+
+body
+
+font size ptsize
+table height cellspacing cellpadding width border styleborderpx double  bordercollapsecollapse paddingleft paddingright paddingtop paddingbottom bordercolor bordercolorlightffffff bordercolordarkffffff
+  tr
+    td width heightnbsptd
+    td valigntop alignleft width height styleborderstyle solid borderwidth 
+    table cellspacing cellpadding width border bgcolorffffff stylebordercollapse collapse bordercolor
+      tr
+        td valigntop alignright height
+        table cellspacing cellpadding width border
+          tr
+            td
+            div alignleft
+              font faceverdana arial helvetica sansserif sizeb
+              font faceverdana arial helvetica sansserif color size
+              br
+              fontbfontfont colorb
+              font faceverdana arial helvetica sansserif sizedear 
+              homeownerfontbfontdiv
+            div alignleft
+nbspdiv
+            div aligncenter
+              b
+              font faceverdana arial helvetica sansserif
+              fontfont faceverdana arial helvetica sansserif colorff 
+               yr fixed rate mortgagefontbdiv
+            td
+          tr
+          tr
+            td
+            div alignleft
+              font faceverdanaarialhelveticasansserif sizeinterest 
+              rates are at their lowest point in  years we help you find the 
+              best rate for your situation by matching your needs with hundreds 
+              of lenders bhome improvementb brefinanceb bsecond 
+              mortgageb bhome equity loans and more beven with less 
+              than perfect credit font
+            div
+            td
+          tr
+        table
+        table cellspacing cellpadding width border styleposition relative bordercollapse collapse bordercolor height
+          tr
+            td valigntop width height
+            div aligncenter
+              font faceverdana arial helvetica sansserif sizeb
+   
+              br
+              a
+              a titlehttpindexhtmlidab targetnewwin hrefhttpindexhtmlidbclick here for a free quoteabfonta titlehttpindexhtmlidab targetnewwin hrefhttpindexhtmlida
+              a
+            div
+            pbfont faceverdanaarialhelveticasansserif sizelock 
+            in your low fixed rate todayfontbp
+            dl
+              ddbfont facewebdings size colorff ptsize
+              afontfont faceverdanaarialhelveticasansserif sizeno 
+              cost out of pocketfontbdd
+              ddbfont facewebdings size colorff ptsize
+              afontbfont faceverdanaarialhelveticasansserif sizebno 
+              obligationbfont dd
+              ddbfont facewebdings size colorff ptsize
+              afontbfont faceverdanaarialhelveticasansserif sizebfree 
+              consultationbfont dd
+              ddbfont facewebdings size colorff ptsize
+              afontbfont faceverdanaarialhelveticasansserif sizeball 
+              credit grades acceptedbfont dd
+            dl
+            div aligncenter
+              font faceverdanaarialhelveticasansserif colorred size
+              b
+              a hrefhttpindexhtmlidbrates as low as 
+               wont stay this low forever click hereabfontdiv
+            div aligncenter
+              nbspdiv
+            div aligncenter
+
+font size ptsize
+              b
+            font faceverdanaarialhelveticasansserif stylefontsize pt
+               based on mortgage rate as of  as low as  see lender 
+              for detailsfontbfontdiv
+            td
+            td valigntop width height
+            div alignright
+              nbspdiv
+            td
+            td width height bgcolorffffff bordercolor
+            hspan styleverticalalign middle
+            font facewebdings stylefontsize  color
+            a hrefhttpindexhtmlidb
+            font colorhfontafontspanh
+            td
+          tr
+        table
+        table cellspacing cellpadding width border
+          tr
+            td colspan height
+            font faceverdana arial helvetica sansserif sizeb
+            table cellspacing cellpadding width border height
+              tr
+                td width height styleborderstyle solid borderwidth 
+                font faceverdanaarialhelveticasansserif sizeapply 
+                now and one of our lending partners will get back to you within 
+                 hoursfontfontfont faceverdanaarialhelveticasansserif stylefontsize pttd
+                font
+            font faceverdana arial helvetica sansserif size
+                td width bgcolorff height styleborderleftstyle solid borderleftwidth 
+                p aligncenterbfont colorffffff size
+                a styletextdecoration none hrefhttpindexhtmlidb
+                font colorffffffclick herefontafontbtd
+              tr
+            table
+            font
+            btd
+          tr
+        table
+        td
+      tr
+    table
+    td
+  tr
+table
+pto be removed please quota hrefhttpfinalindexremoovhtmlidbclicking 
+hereaquot  p
+font
+
+body
+
+html

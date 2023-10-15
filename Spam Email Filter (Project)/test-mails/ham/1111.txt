@@ -1,0 +1,46 @@
+exmhp
+contenttype textplain charsetusascii
+
+ive been working on salary related things the past few days but im starting 
+to think about exmh again
+
+thanks to robert for finding that sllineno bug
+
+so has anybody else been looking at the performance issues that we were 
+talking about before i left or should i dig right in
+
+chris
+
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqeikbhriuiraiurajanuuwqnewnojlrvgjpuwvnqccckmt
+kgdyoaqpbedfonyxg
+lclg
+end pgp signature
+
+exmhp
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

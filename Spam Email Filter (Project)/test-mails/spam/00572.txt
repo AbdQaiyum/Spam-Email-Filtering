@@ -1,0 +1,129 @@
+htmlheadtitletitleheadbody bgcolorwhite textblack
+table widthtrtdfont size faceverdana
+
+there are more financial opportunities out there than ever
+before the majority of those that succeed dont follow the
+rules they bend them avoid them or go around thembrbr
+
+freedom  is for the suckers you dont have to work  to
+ hours a week for  years all to make someone else wealthy
+we have a better waybrbr
+
+ul
+liare you interested in creating immediate wealthbrbr
+lihave you considered improving the quality of your lifebrbr
+lido you currently have the home the car and the life style that you dream of
+ulbr
+
+our business develops  figure income earners quickly and
+easily let us show you how you can go from just getting by
+to earning over  in your first year of businessbrbr
+
+for more information about this incredible life changing
+opportunity please complete the form below the information
+is free confidential and you are under no risk or obligationsbrbrbr
+
+
+form namepagerform actionhttpwwpicqcomwhitepagespagemehtml methodpost
+input typehidden namefromemail valuebizbcom
+input typehidden namefrom valuebizbcom
+input typehidden namerecipient valuebilljenningsyahoocouk
+
+centertabletrtd width valigntop
+
+table cellspacing
+trtdfont facearial sizebnamebfont nbspnbsptdtdinput typehidden namebody valuenameinput typetext size namebody maxlengthtdtr
+trtdfont facearial sizebaddressbfont nbspnbsptdtdinput typehidden namebody valueaddressinput typetext size namebody maxlengthtdtr
+trtdfont facearial sizebcitybfont nbspnbsptdtdinput typehidden namebody valuecityinput namebody size maxlengthtdtr
+trtdfont facearial sizebstatebfont nbspnbsptdtdinput typehidden namebody valuestate
+select namebody
+option valueoption
+option valueal alabama
+option valueak alaska
+option valueaz arizona
+option valuear arkansas
+option valueca california
+option valueco colorado
+option valuect connecticut
+option valuede delaware
+option valuedc dist of columbia
+option valuefl florida
+option valuega georgia
+option valuehi hawaii
+option valueid idaho
+option valueil illinois
+option valuein indiana
+option valueia iowa
+option valueks kansas
+option valueky kentucky
+option valuela louisiana
+option valueme maine
+option valuemd maryland
+option valuema massachusetts
+option valuemi michigan
+option valuemn minnesota
+option valuems mississippi
+option valuemo missouri
+option valuemt montana
+option valuene nebraska
+option valuenv nevada
+option valuenh new hampshire
+option valuenj new jersey
+option valuenm new mexico
+option valueny new york
+option valuenc north carolina
+option valuend north dakota
+option valueoh ohio
+option valueok oklahoma
+option valueor oregon
+option valuepa pennsylvania
+option valueri rhode island
+option valuesc south carolina
+option valuesd south dakota
+option valuetn tennessee
+option valuetx texas option valueut utah
+option valuevt vermont
+option valueva virginia
+option valuewa washington
+option valuewv west virginia
+option valuewi wisconsin
+option valuewy wyoming
+select
+tdtr
+table
+
+tdtd width valigntop
+
+table cellspacing
+trtdfont facearial sizebzip codebfont nbspnbsptdtdinput typehidden namebody valuezipcodeinput namebody size maxlengthtdtr
+trtdfont facearial sizebhome phonebfont nbspnbsptdtdinput typehidden namebody valuephoneinput typetext size namebody maxlengthtdtr
+trtdfont facearial sizebtime to contactbfont nbspnbsptdtdinput typehidden namebody valuebesttimeinput typetext size namebody maxlengthinput typehidden nameto valuetdtr
+trtdfont facearial sizebemailbfont nbspnbsptdtdinput typehidden namebody valueemailinput typetext size namebody maxlengthtdtr
+table
+
+tdtr
+
+trtd aligncenter colspanfont facearial sizebdesired monthly incomebfont nbspnbspinput typehidden namebody valuedesiredincome
+select namebody
+option valueoption
+option value
+option value
+option value
+option value
+select
+tdtr
+
+trtd aligncenter colspanbrinput typesubmit value  submit  tdtr
+tablecenterbrbr
+
+form
+
+br
+to receive no further offers from our company regarding
+this subject or any other please reply to this
+email with the word remove in the subject linebrbr
+
+fonttdtrtable
+bodyhtml
+
+vagpu

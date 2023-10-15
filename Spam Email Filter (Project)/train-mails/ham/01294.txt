@@ -1,0 +1,92 @@
+this is a multipart message in mime format
+
+nextpartzmiomwtr
+contenttype textplain charsetiso
+contenttransferencoding bit
+contentdisposition inline
+
+if anyone here is running null beta then you may like these gnome theme packages
+they are enhanced and repackages from my previous theme packs this time to conform
+to the way prerelease rh handles themes for gtk and gtk
+
+redhat has a preferences  themes app but themes only show up there that have both
+gtk gnome themes and gtk gtk aka gnome themes available then rh will
+apply the theme to both gtk versions so the user does not really notice that
+different gtk toolkit versions are being used since they should look the same
+
+this gtkenginescompat rpm has gtk ported themes for those themes that are
+included in the rh package gtkengines themes pack for gtk
+
+the gtkthemez pack mostly repackages my previous theme rpms in a way that the
+null btea like and supposedly the next rh when released 
+
+forward  original mail
+  from  angles  puglisi anglesaminvestmentscom
+  date    am
+  subject some null eyecandy packages
+
+nextpartzmiomwtr
+contenttype messagerfc
+contentdisposition inline
+
+deliveredto limbolistlistmanspamassassintaintorg
+xoriginatingip 
+from  angles  puglisi anglesaminvestmentscom
+to limbolistspamassassintaintorg
+subject some null eyecandy packages
+messageid eakwwwdudexnet
+mimeversion 
+contenttype textplain
+	charsetiso
+contenttransferencoding bit
+contentdisposition inline
+xmailer anglemail for phpgroupware httpwwwphpgroupwareorg v 
+xloop limbolistspamassassintaintorg
+sender limbolistadminspamassassintaintorg
+errorsto limbolistadminspamassassintaintorg
+xbeenthere limbolistspamassassintaintorg
+xmailmanversion 
+precedence bulk
+replyto limbolistspamassassintaintorg
+listhelp mailtolimbolistrequestspamassassintaintorgsubjecthelp
+listpost mailtolimbolistspamassassintaintorg
+listsubscribe httpslistmanspamassassintaintorgmailmanlistinfolimbolist
+	mailtolimbolistrequestredhatcomsubjectsubscribe
+listid discussion of the red hat linux limbo beta limbolistspamassassintaintorg
+listunsubscribe httpslistmanspamassassintaintorgmailmanlistinfolimbolist
+	mailtolimbolistrequestredhatcomsubjectunsubscribe
+listarchive httpslistmanspamassassintaintorgpipermaillimbolist
+date sun  sep   
+
+i make these for myself you may find them of interest see the spec files for info
+
+httpwwwdudexnetrpmsgtkenginescompataapnoarchrpm
+httpwwwdudexnetrpmsgtkenginescompatspec
+
+httpwwwdudexnetrpmsgtkthemezaapnoarchrpm
+httpwwwdudexnetrpmsgtkthemezspec
+
+youll need gtkengines gtkengines and a thinice engine for gtk this one
+might be a old now but it works
+
+httpwwwdudexnetrpmsgtkthiniceengineirpm
+httpwwwdudexnetrpmsgtkthiniceenginesrcrpm
+httpwwwdudexnetrpmsgtkthiniceenginespec
+
+
+thats angle as in geometry
+
+
+
+
+
+limbolist mailing list
+limbolistredhatcom
+
+nextpartzmiomwtr
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

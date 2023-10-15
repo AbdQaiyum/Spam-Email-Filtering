@@ -1,0 +1,834 @@
+
+html
+
+head
+
+meta namedgenerator contentdarachnophilia 
+meta namedformatter contentdarachnophilia 
+
+titlelenders networktitle
+
+style fprolloverstyleahover color ff
+
+style
+
+head
+
+body bgcolordtan backgroundd
+
+bcenterfont sized colord facedtimes new romanu
+bcenterthe lenders networkcenterbufontcenterb
+
+th aligndcenter nowrap widthd heightd valigndtop
+p
+h aligndcenterfont colordfont facedtahoma where 
+mortgage lenders compete for
+
+fontbiufont facedtahoma yourfontuibfont faced
+tahoma
+
+ business
+centerhfont colordffcurrent information forhcenter
+script languagedjavascript
+
+
+ begin
+
+var monthsdnew array
+
+monthsdjanuary
+
+monthsdfebruary
+
+monthsdmarch
+
+monthsdapril
+
+monthsdmay
+
+monthsdjune
+
+monthsdjuly
+
+monthsdaugust
+
+monthsdseptember
+
+monthsdoctober
+
+monthsdnovember
+
+monthsddecember
+
+var timednew date
+
+var lmonthdmonthstimegetmonth  
+
+var datedtimegetdate
+
+var yeardtimegetyear
+
+
+
+ yk fix by isaac powell
+
+ httponyxidbsueduipowell
+
+
+
+if navigatorappname dd microsoft internet explorer  year  
+
+
+yeard  year
+
+if navigatorappname dd netscape
+
+yeard  year
+
+documentwritecenter  lmonth   
+
+documentwritedate     year  center
+
+ end
+
+ script
+font
+table borderd widthd
+
+  tr
+
+    td widthd heightd valigndtopbfont facedarial
+ colordbr
+
+      the lenders network is a  free to buyer service  fill in our 
+a hrefdform
+
+ ifont colordff minute quote request formfontia and w
+e will instantly submit your loan request to
+
+      our competing lendersfontbpfont facedarial colord
+theb
+
+      financial expertsb comprising the lenders network represent hu
+ndreds of loan programs br
+includingfontp
+
+      blockquote
+        blockquote
+          ul
+            lib font facedarial colord purchase loans
+fontbli
+            libfont facedarial colordrefinancefont
+bli
+            libfont facedarial colorddebt
+              consolidationfontbli
+            libfont facedarial colordhome improvement
+nbspfontbli
+            libfont facedarial colordsecond mortgages
+fontbli
+            libfont facedarial colordno income
+              verificationfontbli
+          ul
+        blockquote
+      blockquote
+
+		td
+			pfont facedarialour network of lenders are bulicensed and r
+egisteredub to do business in all  us states  you will often be
+ bucontacted with an offerub the very same day you fill out the 
+formp
+
+ubfont colordffnever settle for a single quotefontbu
+p
+
+
+pfont facedarial you can save ibuthousands of dollarsub
+i over the course of your loan with just a  of  drop in your rate
+  the information you provide to
+our extensive database of bfinancial expertsb will result in offers 
+meeting the exact criterion you requestedfontbrp
+
+font colordffbget multiple offers and get the loan you want
+and deservebfontbr
+		td
+
+
+      p
+
+table
+  center
+p aligndcentercenterfont facedarial sized colord
+bplease
+complete this formbr
+our loan specialist will be contacting you at your conveniencebr
+thank youcenter bfontscript languagedjavascript
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+function validateform 
+
+
+
+
+
+
+
+validity d true  assume valid
+
+
+
+
+
+
+
+if checkemptydocumentformnamevalue
+
+
+
+
+
+
+
+ validity d false alertname field is empty 
+
+
+
+
+
+
+
+if checkemptydocumentformhphonevalue
+
+
+
+
+
+
+
+ validity d false alerthome phone field is empty 
+
+
+
+
+
+
+
+if checkemptydocumentformpropertyvaluevalue
+
+
+
+
+
+
+
+ validity d false alertproperty value field is empty 
+
+
+
+
+
+
+
+if checkemptydocumentformpurchasepricevalue
+
+
+
+
+
+
+
+ validity d false alertpurchase price field is empty 
+
+
+
+
+
+
+
+if checkemptydocumentformyearacquiredvalue
+
+
+
+
+
+
+
+ validity d false alertyear acquired field is empty 
+
+
+
+
+
+
+
+if checkemptydocumentformmortgagevalue
+
+
+
+
+
+
+
+ validity d false alertfirst mortgage balance field is empty 
+
+
+
+
+
+
+
+if checkemptydocumentformcurrentintratevalue
+
+
+
+
+
+
+
+ validity d false alertfirst mortgage interest rate field is empty
+ 
+
+
+
+
+
+
+
+if checkemptydocumentformborrowrequestvalue
+
+
+
+
+
+
+
+ validity d false alertamount you wish to borrow field is empty 
+
+
+
+
+
+
+
+
+if checkemptydocumentformmonthlygrincomevalue
+
+
+
+
+
+
+
+ validity d false alertgross monthly income field is empty 
+
+
+
+
+
+
+
+validity
+
+
+
+
+
+
+
+alert thank you for your registration 
+
+
+
+
+
+
+
+ your form is now being passed to your browsers 
+
+
+
+
+
+
+
+ mail delivery subsystem for normal
+
+
+
+
+
+
+
+  nonencrypted email delivery
+
+
+
+
+
+
+
+  all email addresses are removed from our system
+
+
+
+
+
+
+
+  upon registration please click ok to proceed
+
+
+
+
+
+
+
+return validity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function checkemptytext 
+
+
+
+
+
+
+
+return textlength    returns false if empty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+script
+p
+form namedform onsubmitdreturn validateform 
+actiondmailtoreffonuolecomsubjectdmortgage contact  methodd
+post enctypedtextplain
+  center
+  table cellspacingd cellpaddingd widthd bgcolord
+ borderd
+    captionnbspcaption
+    tbody
+    tbody
+  center
+  tbody
+    tr
+      td nowrap aligndleft widthd bgcolord colspand
+centerbfont sized colordffffff facedarialcontact
+        information  required infofontbcentertd
+    tr
+    tr aligndmiddle
+      td aligndright widthd bgcolordfont sized
+ colordffffff facedarialnamefonttd
+      td aligndleft widthd bgcolordinput maxlengt
+hd sized namednamefont colordfffffffonttd
+    tr
+    tr aligndmiddle
+      td aligndright widthd bgcolordfont sized
+ colordffffff facedarialaddressfonttd
+      td aligndleft widthd bgcolordinput maxlengt
+hd sized namedaddressfont colordfffffffonttd
+
+    tr
+    tr aligndmiddle
+      td aligndright widthd bgcolordfont sized
+ colordffffff facedarialcityfonttd
+      td aligndleft widthd bgcolordinput iddci
+ty maxlengthd sized namedcityfont colordffffff
+fonttd
+    tr
+    tr aligndmiddle
+      td aligndright widthd bgcolordfont sized
+ colordffffff facedarialstate
+        usa onlyfonttd
+      td aligndleft widthd bgcolordselect idds
+tate sized namedstate
+          option valuedak selectedakoption
+          nbsp
+          option valuedararoption
+          nbsp
+          option valuedazazoption
+          nbsp
+          option valuedcacaoption
+          nbsp
+          option valuedcocooption
+          nbsp
+          option valuedctctoption
+          nbsp
+          option valueddcdcoption
+          nbsp
+          option valueddedeoption
+          nbsp
+          option valuedflfloption
+          nbsp
+          option valuedgagaoption
+          nbsp
+          option valuedhihioption
+          nbsp
+          option valuediaiaoption
+          nbsp
+          option valuedididoption
+          nbsp
+          option valuedililoption
+          nbsp
+          option valuedininoption
+          nbsp
+          option valuedksksoption
+          nbsp
+          option valuedkykyoption
+          nbsp
+          option valuedlalaoption
+          nbsp
+          option valuedmamaoption
+          nbsp
+          option valuedmdmdoption
+          nbsp
+          option valuedmemeoption
+          nbsp
+          option valuedmimioption
+          nbsp
+          option valuedmnmnoption
+          nbsp
+          option valuedmomooption
+          nbsp
+          option valuedmsmsoption
+          nbsp
+          option valuedmtmtoption
+          nbsp
+          option valuedncncoption
+          nbsp
+          option valuedndndoption
+          nbsp
+          option valuedneneoption
+          nbsp
+          option valuednhnhoption
+          nbsp
+          option valuednjnjoption
+          nbsp
+          option valuednmnmoption
+          nbsp
+          option valuednvnvoption
+          nbsp
+          option valuednynyoption
+          nbsp
+          option valuedohohoption
+          nbsp
+          option valuedokokoption
+          nbsp
+          option valuedororoption
+          nbsp
+          option valuedpapaoption
+          nbsp
+          option valuedririoption
+          nbsp
+          option valuedscscoption
+          nbsp
+          option valuedsdsdoption
+          nbsp
+          option valuedtntnoption
+          nbsp
+          option valuedtxtxoption
+          nbsp
+          option valuedututoption
+          nbsp
+          option valuedvavaoption
+          nbsp
+          option valuedvtvtoption
+          nbsp
+          option valuedwawaoption
+          nbsp
+          option valuedwiwioption
+          nbsp
+          option valuedwvwvoption
+          nbsp
+          option valuedwywynbspoption
+          nbsp
+        selectfont colordfffffffonttd
+    tr
+    tr aligndmiddle
+      td aligndright widthd bgcolordfont sized
+ colordffffff facedarialzippostal
+        codefonttd
+      td aligndleft widthd bgcolordinput maxlengt
+hd sized namedpostalcodefont colordfffffffont
+td
+    tr
+    tr aligndmiddle
+      td aligndright widthd bgcolordfont sized
+ colordffffff facedarialhome
+        phonenbspfonttd
+      td aligndleft widthd bgcolordinput maxlengt
+hd sized namedhphonefont colordfffffffonttd
+    tr
+    tr aligndmiddle
+      td aligndright widthd bgcolordfont sized
+ colordffffff facedarialwork
+        phonefonttd
+      td aligndleft widthd bgcolordinput maxlengt
+hd sized namedwphonefont colordfffffffonttd
+    tr
+    tr aligndmiddle
+      td aligndright widthd bgcolordfont sized
+ colordffffff facedarialemail
+        addressfonttd
+      td aligndleft widthd bgcolordinput maxlengt
+hd sized namedemailfont colordfffffffonttd
+    tr
+    tr aligndmiddle
+      td aligndright widthd bgcolordfont sized
+ colordffffff facedarialbest
+        time to callfonttd
+      td aligndleft widthd bgcolordselect sized
+ namedcalltime
+          option valuedmorning at home selectedmorning at homeopti
+on
+          nbsp
+          option valuedmorning at workmorning at workoption
+          nbsp
+          option valuedafternoon at homeafternoon at homeoption
+          nbsp
+          option valuedafternoon at workafternoon at workoption
+          nbsp
+          option valuedevening at homeevening at homeoption
+          nbsp
+          option valuedlate evening at worklate evening at homeopt
+ion
+          nbsp
+        selecttd
+    tr
+  tbody
+  table
+  div aligndcenter
+    center
+    table cellspacingd cellpaddingd widthd bgcolord
+ borderd
+      tbody
+        tr
+          td aligndright widthd bgcolordfont size
+d colordffffff facedarialdo
+            you own your homefonttd
+          td widthd bgcolordselect sized named
+homeowner
+              option valuedyes selectedyesoption
+              nbsp
+              option valuednonooption
+              nbsp
+            selectbfont sized colordffffff facedarial
+mobile
+            homes do not qualifyfontbtd
+        tr
+        tr
+          td aligndright widthd bgcolordfont size
+d colordffffff facedarialproperty
+            valuefonttd
+          td widthd bgcolordinput maxlengthd s
+ized namedpropertyvaluefont colordfffffffonttd
+        tr
+        tr
+          td aligndright widthd bgcolordfont size
+d colordffffff facedarialproperty
+            typefonttd
+          td widthd bgcolordselect sized named
+propertytype
+              option valuedsingle family residence selectedsingle fa
+mily
+              residenceoption
+              nbsp
+              option valuedcondocondooption
+              nbsp
+              option valuedtownhousetownhouseoption
+              nbsp
+              option valued plex plexoption
+              nbsp
+              option valuedotherotheroption
+              nbsp
+            selecttd
+        tr
+        tr
+          td aligndright widthd bgcolordfont size
+d colordffffff facedarialpurchase
+            pricefonttd
+          td widthd bgcolordinput maxlengthd s
+ized namedpurchasepricefont colordfffffffonttd
+        tr
+        tr
+          td aligndright widthd bgcolordfont size
+d colordffffff facedarialyear
+            acquiredfonttd
+          td widthd bgcolordinput maxlengthd s
+ized namedyearacquiredfont colordfffffffonttd
+        tr
+        tr
+          td aligndright widthd bgcolordfont size
+d colordffffff facedarialst
+            mortgage balance owedfonttd
+          td widthd bgcolordinput maxlengthd s
+ized namedmortgagefont colordfffffffonttd
+        tr
+        tr
+          td aligndright widthd bgcolordfont size
+d colordffffff facedarialst
+            mortgage interest ratefonttd
+          td widthd bgcolordinput maxlengthd s
+ized namedcurrentintratefont colordfffffffonttd
+        tr
+        tr
+          td aligndright widthd bgcolordfont size
+d colordffffff facedarialis
+            st adjustable or fixedfonttd
+          td widthd bgcolordselect sized named
+firsttype
+              option valuedfixed selectedfixedoption
+              nbsp
+              option valuedadjustableadjustableoption
+              nbsp
+            selectfont colordfffffffonttd
+        tr
+        tr
+          td aligndright widthd bgcolordfont size
+d colordffffff facedarialnd
+            mortgage balance owedfonttd
+          td widthd bgcolordinput maxlengthd s
+ized namedmortgagetd
+        tr
+        tr
+          td aligndright widthd bgcolordfont size
+d colordffffff facedarialamount
+            you wish to borrowfonttd
+          td widthd bgcolordinput maxlengthd s
+ized namedborrowrequestfont colordfffffffonttd
+        tr
+        tr
+          td aligndright widthd bgcolordfont size
+d colordffffff facedarialemployerfonttd
+          td widthd bgcolordinput maxlengthd s
+ized namedemployertd
+        tr
+        tr
+          td aligndright widthd bgcolordfont size
+d colordffffff facedarialmonthly
+            gross household incomefonttd
+          td widthd bgcolordinput maxlengthd s
+ized namedmonthlygrincomefont colordfffffffonttd
+        tr
+        tr
+          td bgcolord
+            div aligndright
+              font sized facedarialfont colordffffffmon
+thly debtfontfont colordfffontfontnbsp
+            div
+          td
+          td bgcolordinput maxlengthd sized nam
+edmonthlydebttd
+        tr
+        tr
+          td nowrap aligndright widthd bgcolordfo
+nt sized colordffffff facedarialcredit
+            ratingfonttd
+          td widthd bgcolordselect sized named
+creditrating
+              option valuedplease select selectedplease selectopti
+on
+              option valuedgoodgoodoption
+              nbspnbsp
+              option valuedfairfairoption
+              nbsp
+              option valuedpoorpooroption
+              option valuedexcellentexcellentoption
+              nbsp
+            selectfont colordfffffffonttd
+        tr
+        tr
+          td aligndright widthd bgcolordfont size
+d colordffffff facedarialloan
+            interested infonttd
+          td widthd bgcolordselect sized named
+loaninterested
+              option valuedconsolidation selecteddebt consolidation
+option
+              nbsp
+              option valuedsecondsecond mortgageoption
+              nbsp
+              option valuedimprovementhome improvementoption
+              nbsp
+              option valuedrefinancerefinanceoption
+              nbsp
+              option valuedrefinancepurchaseoption
+              nbsp
+            selectfont colordfffffffonttd
+        tr
+      tbody
+    table
+    center
+  div
+  centerinput typedsubmit valuedsubmit form namedsubmitin
+put typedreset valuedclear form
+  form
+center
+p aligndcenternbsp
+hr widthd sized colordff
+p aligndcenterfont facedarial sizedfont colord
+bremoval
+instructionsbr
+bclick on the below link to be excluded from further communicationfo
+nt
+brba hrefdmailtoreffonuolecomsubjectdremoveclick here
+abfont
+td
+tr
+table
+
+div
+
+body
+html
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+i need to setup a vpn between a few sites from what ive read the the
+choices come down on the linux side to ipsec using freeswan or cipe
+it seems that freeswan is better being an implementation of ipsec which
+is a standard however cipe does the job as well for linux clients and is
+somewhat simpler to setup 
+
+the problem is that its not a pure linux situation  a couple of the sites
+run osx im pretty sure that ill be able to find an implementation of
+ipsec for osx but i think cipe is linux only
+
+so the question is for those of you have have implemented both  is there a
+significant difference in setup time and hassle between cipe and freeswan 
+if cipe is going to be much easier than dealing with freeswan and whatever
+on the osx sites then ill simply get a linux box for each of the remote
+sites  with the low price of hardware it doesnt take much more complexity
+in software to make buying hardware to use simpler software economic
+
+
+
+niall
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

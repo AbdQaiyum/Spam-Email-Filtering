@@ -1,0 +1,28 @@
+doom  will be based on a peer to peer architecture says
+cmdrtaco quoting ant quoting carmack  
+
+greg
+
+httpslashdotorgarticleplsid
+
+doom  will use pp system
+
+           posted by cmdrtaco on sunday august
+            am
+           from the
+           illbelieveitwhenimfraggedonit
+           dept
+           ant writes from page  of firingsquads
+           quakecon  postmortem article john carmack said
+           something at the end of the qa about how the
+           multiplayer will be only four players tim after  hours of
+           talking up at the podium sometimes you leave a few details
+           out doom  multiplayer will be fully scalable it will be a
+           peer to peer system we havent started working on it yet
+           tell everyone not to panic  it will be fine john just forgot
+           to mention itll be scalable past four players its hard to
+           give a hard number because we havent started working on
+           it yet right now were focused on making doom  a
+           kickass over the top single player game
+httpxentcommailmanlistinfofork
+

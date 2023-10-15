@@ -1,0 +1,113 @@
+ tp  tim peters timonecomcastnet writes
+
+   the false positive rate is   finally  i had to scrub a
+   bunch of previously unnoticed spam from my inbox  both
+   collections have about  messages
+
+  tp does this mean you trained on about  of each
+
+the total collections are  messages  i trained with 
+messages 
+
+  tp cant guess  youre in a good position to start adding more
+  tp headers into the analysis though  for example an easy start
+  tp would be to uncomment the headercounting lines in tokenize
+  tp look for anthony  likely the most valuable thing its
+  tp missing then is some special parsing and tagging of received
+  tp headers
+
+i tried the anthony stuff but it didnt make any appreciable
+difference that i could see from staring at the false negative rate
+the numbers are big enough that a quick eyeball suffices
+
+then i tried a dirt simple tokenizer for the headers that tokenize the
+words in the header and emitted like this s s  hdr word
+that worked too well   the received and date headers helped the
+classifier discover that most of my spam is old and most of my ham is
+new
+
+so i tried a slightly more complex one that skipped received data
+and xfrom which all contained timestamps  i also skipped the xvm
+headers that my mail reader added
+
+class mytokenizertokenizer
+
+    skip  received 
+            date 
+            xfrom 
+            
+
+    def tokenizeheadersself msg
+        for k v in msgitems
+            k  klower
+            if k in selfskip or kstartswithxvm
+                continue
+            for w in subjectwordrefindallv
+                for t in tokenizewordw
+                    yield ss  k t
+
+this did moderately better  the false negative rate is  over the
+tests performed so far  this is versus  for the previous test
+run that used the timtest header tokenizer
+
+its interesting to see that the best descriminators are all ham
+discriminators  theres not a single spamindicator in the list
+most of the discriminators are header fields  one thing to note is
+that the presence of mailmangenerated headers is a strong nonspam
+indicator  that matches my intuition i got an awful lot of
+mailmangenerated mail and those lists are pretty good at surpressing
+spam  the other thing is that i get a lot of ham from people who use
+xemacs  thats probably barry guido fred and me 
+
+one final note  it looks like many of the false positives are from
+people ive never met with questions about shakespeare  they often
+start with stuff like
+
+ dear sirmadam
+ 
+ may i please take some of your precious time to ask you to help me to find a
+ solution to a problem that is worrying me greatly i am old science student
+
+i guess that reads a lot like spam 
+
+jeremy
+
+
+ hams   spams
+    false positive 
+    false negative 
+    new false positives 
+    new false negatives 
+
+    best discriminators
+        xmailscannerclean  
+        xspamstatusinrepto  
+        deliveredtoskips   
+        xmailerlucid  
+        xmailerxemacs  
+        xmailerpatch  
+        xmailerunder  
+        xmailscannerfound  
+        cczopecom  
+        ill  
+        referencesskip   
+        rossum  
+        xspamstatusskips   
+        van  
+        httpzope  
+        email addrzope  
+        frompythonorg  
+        tojeremy  
+        zope  
+        listarchiveskipm   
+        listsubscribeskipm   
+        listunsubscribeskipm   
+        fromzopecom  
+        returnpathzopecom  
+        wrote  
+        jeremy  
+        email addrpython  
+        xmailmanversion  
+        xmailmanversion  
+        python  
+

@@ -1,0 +1,57 @@
+just got this  i was just reading mail but in a very dark
+room where the keyboard is illuminated mostly by the light from
+the laptop screen   i think i put my fingers on the wrong keys
+i mostly use the keyboard exclusively while running exmh
+
+this is from todays cvs the fixes for the problems i mentioned
+yesterday are included  i eventually managed to contact the cvs
+server
+
+expected integer but got 
+    while executing
+incr m
+    procedure mhseqexpand line 
+    invoked from within
+mhseqexpand folder msgids
+    procedure mhseq line 
+    invoked from within
+mhseq folder seq how oldmsgids msgids
+    procedure mhsequenceupdate line 
+    invoked from within     
+mhsequenceupdate folder replace seq msgids
+    procedure seqset line 
+    invoked from within             
+seqset folder cur msgid
+    procedure mhsetcur line       
+    invoked from within                     
+mhsetcur exmhfolder msgid
+    procedure msgchange line               
+    invoked from within                             
+msgchange  noshow
+    invoked from within                                 
+time list msgchange msgid show
+    procedure msgchange line 
+    invoked from within                                     
+msgchange selectsel noshow
+    procedure selecttypein line                           
+    invoked from within
+selecttypein midrighttopmsg 
+    command bound to event
+
+kre
+
+ps i have the sequences window vertical instead of horizontal and the
+colours from the ftoc stuff all deleted and it is looking just about as
+good as the old unseen window used to look   i still have some work to
+do to make it a little nicer listboxes seem to have some strange habits
+and then i need to make it all optional and parameterized at the minute
+im just embedding stuff in the code much quicker for prototyping  once
+its done ill send a patch for someone to look over
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

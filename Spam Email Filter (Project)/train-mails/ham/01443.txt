@@ -1,0 +1,46 @@
+its possiblei performed the update via rpm uwhich of course 
+created all the new rulesets as xxrulenamecfrpmnew  crud  ill have 
+to start moving things around
+
+on thu  sep  malte s stretz wrote
+
+ on thursday  september   cet mike burger wrote
+  just loaded up sa  from theos rpmsspamassassin and
+  perlmailspamassassin on a rh  system with perl  running
+  on it
+ 
+  im getting messages that seem to indicate that sa cant find
+  permsgstatus like so
+ 
+  sep    burgers spamd failed to run ctypejusthtml
+  spamassassin test skipping icant locate object method
+  checkforcontenttypejusthtml via package
+  mailspamassassinpermsgstatus perhaps you forgot to load
+  mailspamassassinpermsgstatus at
+  usrlibperlsiteperlmailspamassassinpermsgstatuspm line
+   stdin line  
+ 
+ 
+ 
+  any ideas
+ 
+ perl doesnt complain that it cant find permsgstatuspm but the function 
+ checkforcontenttypejusthtml do you probably have some old rules 
+ files still lurking around this test existed in  but is gonewas 
+ renamed with 
+ 
+ malte
+ 
+ 
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

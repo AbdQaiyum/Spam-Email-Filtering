@@ -1,0 +1,76 @@
+on   thu sep   at  pm  eric nichols wrote
+ hello again i tried all the suggestions for the pctel driver and at
+ the end of it everything still goes smoothly until i type make
+ after i get the output from the configure 
+ 
+ however there were a couple of things i noticed along the way after typing 
+  cp configskernelconfig config
+  make oldconfig
+  make dep
+ the nd to last line i got back said that the modversionsh file was
+ not updated when i looked at this path to the modversionsh file it
+ was  lines and every line started with a  mark
+ is it the case
+ that nothing is read on a line after a  mark or am i just thinking
+ of another language and so should i delete the  at certain places
+no that is appropriate content for the file  im not a c programmer
+but i think that these sort of things include blahblah are
+instructions to the compiler processed by a preprocessor in the compile
+process and include all sorts of symbolsfunctions
+eg include mathh gives you maths type functions  since they
+start with  they are ignored in the final compilation
+
+regarding the rest of the compile process you need to tell the pctel
+software to look in the right place for the kernel headerssource 
+i recall from your previous mail that there was a flag
+    withkernelincludesusrsrclinux
+which could be passed to the configure script with the appropriate
+directory in place of usrsrclinux  this might allow you to
+persuade the code to compile against the correct headers  i think this
+is the right way to proceed
+
+alternatively maybe the steps above regarding make dep and so forth
+should have been performed in the directory where the make process is
+looking for modversionsh  co
+
+i dont think it is a good idea keep moving files into the directory as
+you describe below  first of all you will move modversionsh which you
+have done then you would have to move all those ver files after
+that there will almost certainly be a need for further header h
+files  this could be quickly done but is probably bad those files
+dont really belong there
+
+for what its worth i think you are very close to a successful
+compilation
+
+m
+
+ 
+ also when i was in the pctel directory and typed make i noticed
+ that a different subdirectory is taken to a different modversionsh
+ file inside this other file theres nothing at all and so i moved
+ the modversionsh file with  lines to the empty modversionsh file
+  and got a different reply after make the output after i moved the
+ file over mostly looked like this
+ usrsrclinuxlinuxmodversionsh
+ linuxmodulesadbver no such file or directory
+ usrsrclinuxlinuxmodversionsh
+ linuxmodulesafaxver no such file or directory
+ usrsrclinuxlinuxmodversionsh
+ linuxmodulesafipxver no such file or directory
+ 
+ the odd lines being the path and the first half of the other lines are
+ whats written after the  in the modversionsh file should there be
+ a file at each of these one at each of the  lines of the file
+ that id have to compilemake
+
+ 
+michael conry   ph web httpwwwacronymchilecom
+key fingerprint   b  c a  cb b  de c
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

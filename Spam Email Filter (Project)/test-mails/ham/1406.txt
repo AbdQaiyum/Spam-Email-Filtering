@@ -1,0 +1,63 @@
+
+lteadqevawqqql
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on thu aug   at pm  ken scott wrote
+ whitelistfrom yahoogroupscom
+
+ in his spamassassinuserprefs file does that line not in effect
+ tell the program to take no action at all against any mail coming in from
+ yahoogroupscom or is there still checking being done against it  and if
+
+it still gets checked but a negative score is added in  and it doesnt
+mean coming in from it means from address is yahoogroupscom
+theres a yahoo groups compensation rule in  though 
+
+ the latter what does he need to place in userprefs to cause such mail
+ to be ignored  im testing sa here with a few users who happen to be on
+
+ignored completely  you cant do that put in a procmail rule
+
+ yahoogroups lists before deploying it systemwide and although the above
+ line has been added to their userprefs files much of their list mail is
+ still going to the spam folder due to all the usual things you would
+ expect to trigger sa
+
+youd want to either add your own compensation rule or up negatively
+the whitelist score
+
+
+randomly generated tagline
+there are perfectly good answers to those questions but theyll have
+ to wait for another night
+
+ 		 homer simpson
+ 		   homers barbershop quartet
+
+lteadqevawqqql
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqezsjdauoquewasmrakzakdcqjeqxtflqglaogsqpogwcgfg
+xmadfmmoslludsqju
+qhhd
+end pgp signature
+
+lteadqevawqqql
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

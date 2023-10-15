@@ -1,0 +1,118 @@
+oh i was serious im awful with perletc i just think the html graph that
+was created was pretty neat and i wish i could do something like that 
+
+
+ i cant tell if you are serious or joking  i have a custom perl based
+spam
+ blocking framework that uses plugins to block spam  i test each message
+ with every plugin and keep the stats in a mysql database which are what
+ you see below
+
+ fox
+
+
+  original message 
+ from jonathan nichols jnicholspbpnet
+ to razorusersexamplesourceforgenet
+ sent tuesday september    pm
+ subject re razorusers razor v effectiveness stats  html table 
+take
+ 
+
+
+  how do you make up graphs like that anyway 
+ 
+   original message 
+  from daniel higgins dhigginsnetcnet
+  to fox ldscdcnet razorusersexamplesourceforgenet
+  sent tuesday september    am
+  subject re razorusers razor v effectiveness stats  html table 
+ take
+  
+ 
+ 
+  thats pretty impressive have you seen any false positives yet myself
+ im
+  still at the stage of creating the corpuses ill report back after i
+get
+  some testing of my own p
+     original message 
+    from fox
+    to razorusersexamplesourceforgenet
+    sent tuesday september    pm
+    subject re razorusers razor v effectiveness stats  html table 
+  take 
+ 
+ 
+    sorry about the html for those of you still using elm or other
+nongui
+    clients  i dont have time to post it as text
+ 
+    the spam count is the total of all spam detected by the various
+ filters
+ 
+    jammed is a custom phrase ranking system
+    razored is razor v
+    bayesian filter is based off of paul grahams work statistical
+    probability using a corpus of  nonspam and  spam messages
+ 
+          spam statistics
+          date spam count jammed razored blacklisted trollbox bayesian
+                          
+
+       
+                          
+
+       
+                          
+
+       
+                          
+
+       
+                           
+
+       
+                           
+       
+                           
+       
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  this sfnet email is sponsored by osdn  tired of that same old
+  cell phone  get a new here for free
+  httpswwwinphoniccomrasprsourceforgerefcodevs
+  
+  razorusers mailing list
+  razoruserslistssourceforgenet
+  httpslistssourceforgenetlistslistinforazorusers
+
+
+
+ 
+ this sfnet email is sponsored by osdn  tired of that same old
+ cell phone  get a new here for free
+ httpswwwinphoniccomrasprsourceforgerefcodevs
+ 
+ razorusers mailing list
+ razoruserslistssourceforgenet
+ httpslistssourceforgenetlistslistinforazorusers
+
+
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+

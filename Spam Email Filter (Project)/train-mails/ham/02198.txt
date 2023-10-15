@@ -1,0 +1,87 @@
+url httpdiveintomarkorgarchiveshtmlwhenanengineerflapshiswings
+date t
+
+remember that saying from chaos theory about how when a butterfly flap its 
+wings it can cause a hurricane a month later halfway around the world as 
+several people have already noted google has made some major changes in their 
+most recent update the weblogging community was hit hard for instance i used 
+to be the  mark i am now  the changes appear to be the result of an 
+attempt to stop two phenomena explicitly selling ads based on pagerank and 
+google bombing 
+
+specifically google is now apparently crosschecking link text with the linked 
+site and discounting or ignoring links whose text does not appear in the 
+linked site this all but kills off google bombing searching for go to hell
+ no longer takes you to microsoftcom searching for talentless hack 
+no longer finds ohmessylifecom although it finds a lot of people who were 
+previously participating in the google bombing no definitive word yet on 
+whether google is actively penalizing such sites 
+
+unfortunately the algorithm tweaks necessary to stop these two techniques have 
+caused a wide range of collateral damage apparently coming down hardest on 
+mediumtolarge sites that had previously been doing everything right as far 
+as page structure link structure accessibility and general honest hard work 
+putting together a usable and useful site the webmasterworld forums are alive 
+with complaints and speculation 
+
+ new update pagerank death 
+ september  google update discussion  part  
+ lets find out what happened  sept  update  pt  
+
+side note amongst the confusion it has been suggested that google is no 
+longer indexing alt text in images i can confirm that this is absolutely 
+false searching diveintomarkorg for gimli finds my entry of july 
+ where gimli is mentioned only in the alt text of an image 
+
+regardless googles search results in general appear to be significantly 
+degraded in many key areas the forums are full of people complaining that spam 
+sites doorway pages and obvious cloaking attempts which google used to be so 
+good at filtering out are now popping up in top spots with disturbing 
+frequency nobody in the forums wants to talk about which keywords theyre 
+tracking so i tried to find my own concrete example of crap search results it 
+didnt take long 
+
+ searching for reservation hotel brings up an empty subpage of a 
+hotel reservation company in italy as the first result this seems 
+unhelpful and unlikely to be relevant to the average usbased consumer and 
+google absolutely knows im in the us based on my ip address 
+ searching for news observer nc the news  observer is a raleigh nc 
+newspaper does find the news  observer but it also finds an internet 
+betting spam page at  and a nonexistent page at  
+ searching for eminem gives us two generic portal pages a nonexistent 
+site and a site that redirects to a site that continuously redirects to itself 
+i am not making this up and this is just on the first page good thing i 
+didnt care that much about eminem to begin with because google just isnt 
+that helpful 
+
+many people in the webmasterworld forums are now suggesting that allthewebcom
+ has better search results overall just as a single comparison their 
+results for eminem do appear to be much more relevant is this the 
+beginning of the end of googles reign
+
+
+
+  httpwwwgooglecomsearchqmark
+  httpwwwpradnetworkcomaffiliatehtm
+  httpubernu
+  httpwwwgooglecomsearchqgotohell
+  httpwwwmicrosoftcom
+  httpwwwgooglecomsearchqtalentlesshack
+  httpwwwohmessylifecom
+  httpwwwwebmasterworldcomforumhtm
+  httpwwwwebmasterworldcomforumhtm
+ httpwwwwebmasterworldcomforumhtm
+ httpwwwgooglecomsearchqgimlisiteadiveintomarkorg
+ httpdiveintomarkorgarchiveshtml
+ httpwwwgooglecomsearchqreservationhotel
+ httpwwwvenereithomeitalyhtml
+ httpwwwvenereit
+ httpwwwgooglecomsearchqnewsobservernc
+ httpwwwnewsobservercom
+ httpwwwlinkslsgolfworldcomkingarthurknightoftheroundtablehtm
+ httpwwwnandonetntnao
+ httpwwwgooglecomsearchqeminem
+ httpwwwallthewebcom
+ httpwwwallthewebcomsearchqueryeminem
+
+

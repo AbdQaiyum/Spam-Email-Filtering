@@ -1,0 +1,10 @@
+greg ward
+ case of headers is definitely helpful  spamassassin has a rule for it
+  if you have headers like date or subject you get a few more
+ points
+
+across my data allcaps date subject to etc indeed appear only in the
+spam collections  otoh they dont appear often  less than  of spam
+messages have at least one of these allcap header lines  but when im
+fighting what are now sub fn rates even rare clues can help
+

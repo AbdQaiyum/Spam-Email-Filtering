@@ -1,0 +1,65 @@
+url httpwwwmozillazineorgweblogshyatt
+date not supplied
+
+blake blogs about how mpt wants mozilla to look just like msie i have to 
+admit the evidence is pretty compelling i recall someone asking me do you 
+really agree with mpts top  list hes quoted you at the top of the list
+
+do i agree that those ten items mpt mentions are the top ten problems of 
+course not no two people will have the same top ten problems also keep in 
+mind that mpt and i can agree that something is a problem without necessarily 
+agreeing on the solution to the problem maybe we have different ideas 
+regarding how to solve a particular issue but we at least both believe it is 
+an issue that needs to be addressed thats something
+
+to cover the list specifically
+
+
+ navigator chrome structure  while i dont necessarily agree with mpts 
+proposed default configuration i do agree that the chrome structure is 
+painfully restrictive and that customizable toolbars need to be implemented in 
+order for us to acquire the flexibility to deal with this problem
+
+ speed  cant argue with this except to say that cutting out a lot of the 
+useless ui and features from the chrome helps substantially reduce bloat gain 
+speed
+
+ text editing  if you use chimera on the mac youll see that the textfield 
+widget is easily the most painful part of the entire application its buggy 
+slow misbehaves and doesnt edit the way youd expect this is imo chimeras 
+top usability problem
+
+ message display  yes no argument here
+
+ search  yeah its a mess dont know if it would be in my top ten but its 
+a mess
+
+ menu structure  this gets back to my blog about how the apps should be 
+separated the menu structure has been complicated in order to deal with 
+multiple applications a clean separation naturally simplifies the menus eg 
+you can eliminate the new submenu easily
+
+ migration  a problem but imo not one of the top ten facing mozilla
+
+ context menus  mpt complains about twoclick context menus and yet the os 
+default on win overwhelmingly is to bring up a context menu on a mouse up 
+if you dont like it complain about win but dont cite this as a mozilla 
+usability problem when were following the conventions of the operating system 
+we simply listen for the wmcontextmenu message that message fires when win 
+wants to fire it
+
+ validation  err no not a usability problem to the average bear this is 
+completely irrelevant
+
+ preferences  imo this should be much higher on the list preferences are a 
+tangled pathetic mess again separating prefs for individual apps into unique 
+dialogs would simplify things a great deal but we should also remove nearly 
+half the preferences that exist from the gui mozilla is ridiculously 
+overconfigurable
+
+
+
+ httpwwwblakerosscomarchivesindexhtml
+ httpmptphrasewisecom
+
+

@@ -1,0 +1,230 @@
+this is a multipart message in mime format
+
+nextpartfecfcc
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+  average annual yield
+ simplicity at its best
+ fidelity  guaranty life platinum plus
+  year guaranteea
+ year surrendera
+interest only paymentsa
+
+comission  
+ spectacular  conventiona
+hyatt regencya
+kauai hawaii
+
+ rates effective   rates subject to change
+ 
+call or email mailtoinfosignaturefincom  us today
+ 
+ or 
+
+please fill out the form below for more information	
+name	  
+email	  
+phone	  
+city	  	state	  	 
+ 	  	 	   
+
+or visit us online at wwwsignaturefinancialcom
+httpwwwsignaturefinancialcom 
+
+  signature financial services
+
+ commission ages  age nearest products issued by fidelity 
+guaranty life baltimore md
+in certain states products andor riders may not be available 
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet
+
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+
+nextpartfecfcc
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+title avg guaranteed for  yearstitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+table widthd cellpaddingd cellspacingd 
+bgcolord aligndcenter
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordccff
+        tr
+          tdimg 
+srcdhttpimagessigjpg 
+widthd heightd altd average annual yieldtd
+        tr
+        tr
+          tdimg 
+srcdhttpimagessiggif 
+widthd heightd altdsimplicity at its besttd
+        tr
+        tr
+          tdimg 
+srcdhttpimagessiggif 
+widthd heightd altdfidelity amp guaranty life platinum 
+plustd
+        tr
+          tdimg 
+srcdhttpimagessiggif 
+widthd heightd altd year guarantee year 
+surrenderinterest only payments comission img 
+srcdhttpimagessiggif 
+widthd heightdtd
+        tr
+        tr
+          td aligndright img 
+srcdhttpimagessigjpg 
+widthd heightd altdspectacular  
+conventionhyatt regencykauai hawaiiimg 
+srcdhttpimagessiggif 
+widthd heightdbr
+            font sized facedarial helvetica sansserif
+            div aligndcenterimg 
+srcdhttpimagessigspacergif widthd 
+heightdrates
+              effective   rates subject to changediv
+            font
+            nbsptd
+        tr
+        tr aligndcenter
+          td
+            font facedarial helvetica sansserif 
+sizedbcall or a 
+hrefdmailtoinfosignaturefincomemaila us todaybr
+            img 
+srcdhttpimagessiggif 
+widthd heightd altdbr
+             or bbr
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordffffff
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont colordffffff sizedplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                        td rowspand aligndcenter 
+valigndmiddleimg srcdhttpimagesqgif 
+widthd heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedinfosignaturefincom
+                          input typedhidden namedhdnsubjecttxt 
+valuedsignature ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                form
+              tr
+            table
+            br
+            bfont sizedor visit us online ata 
+hrefdhttpwwwsignaturefinancialcom
+            wwwsignaturefinancialcomafontbfonttd
+        tr
+        tr aligndcenter
+          tdbr
+            nbspimg 
+srcdhttpimagessiggif widthd 
+heightd altdsignature financial servicesbr
+            font sized facedarial helvetica sansserifbr
+             commission ages  age nearest products issued 
+by fidelity
+            amp guaranty life baltimore mdbr
+            in certain states products andor riders may not be 
+available fonttd
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+img heightd widthd borderd srcd
+body
+html
+
+nextpartfecfcc
+
+

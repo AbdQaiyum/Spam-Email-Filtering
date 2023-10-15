@@ -1,0 +1,60 @@
+html
+head
+meta httpequivcontenttype contenttexthtml
+script languagejavascript
+
+function mmfindobjn d  v
+  var pix  ifd ddocument ifpnindexofparentframeslength 
+    dparentframesnsubstringpdocument nnsubstringp
+  ifxdndall xdalln for ixidformslengthi xdformsin
+  forixdlayersidlayerslengthi xmmfindobjndlayersidocument return x
+
+function mmswapimage  v
+  var ijxammswapimagearguments documentmmsrnew array foriialengthi
+   if xmmfindobjainulldocumentmmsrjx ifxosrc xosrcxsrc xsrcai
+
+function mmswapimgrestore  v
+  var ixadocumentmmsr foriaialengthxaixosrci xsrcxosrc
+
+
+function mmpreloadimages  v
+ var ddocument ifdimages ifdmmp dmmpnew array
+   var ijdmmplengthammpreloadimagesarguments fori ialength i
+   if aiindexof dmmpjnew image dmmpjsrcai
+
+
+
+script
+head
+body bgcolorffffff onloadmmpreloadimageshttpwwwerespersonalgreatleadimagesadfootball guyrcfgif
+table border cellpadding cellspacing width
+ fwtable fwsrcanimatpng fwbasefootball guygif fwstyledreamweaver fwdocid   fwnested 
+  tr
+   tdimg srchttpwwwrespersonalgreatleadimagesadspacergif width height bordertd
+   tdimg srchttpwwwrespersonalgreatleadimagesadspacergif width height bordertd
+   tdimg srchttpwwwrespersonalgreatleadimagesadspacergif width height bordertd
+   tdimg srchttpwwwrespersonalgreatleadimagesadspacergif width height bordertd
+  tr
+
+  tr
+   td colspanimg namefootballguyrc srchttpwwwrespersonalgreatleadimagesadfootball guyrcgif width height bordertd
+   tdimg srchttpwwwrespersonalgreatleadimagesadspacergif width height bordertd
+  tr
+  tr
+   td rowspanimg namefootballguyrc srchttpwwwrespersonalgreatleadimagesadfootball guyrcgif width height bordertd
+    tda hrefhttpwwwrespersonalgreatleadindexhtm onmouseoutmmswapimgrestore  onmouseovermmswapimagefootballguyrchttpwwwrespersonalgreatleadimagesadfootball guyrcfgif img namefootballguyrc srchttpwwwrespersonalgreatleadimagesadfootball guyrcgif width height borderatd
+   td rowspanimg namefootballguyrc srchttpwwwrespersonalgreatleadimagesadfootball guyrcgif width height bordertd
+   tdimg srchttpwwwrespersonalgreatleadimagesadspacergif width height bordertd
+  tr
+  tr
+   tdimg namefootballguyrc srchttpwwwrespersonalgreatleadimagesadfootball guyrcgif width height bordertd
+   tdimg srchttpwwwrespersonalgreatleadimagesadspacergif width height bordertd
+  tr
+table
+pnbspp
+pnbspp
+pfont size faceverdana arial helvetica sansserifto font colorffunsubscribefont 
+  simply font colorffreplyfont to this email with font colorffremovefont 
+  in the font colorffsubjectfont font colorfflinefontfontp
+body
+html

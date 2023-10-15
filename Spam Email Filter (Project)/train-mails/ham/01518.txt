@@ -1,0 +1,33 @@
+
+malte s stretz said
+  is fixed but what about
+  add a notice about irix and m to the docs
+  cygwins exeext
+  a cosmetic but rather disturbing one 
+
+all now fixed
+
+  tomalformed borken
+
+wontfix 
+
+  packaging related
+
+eh will leave this for  
+
+ok if theres nothing moderately serious shown up tonight ill release
+it tomorrow am gmt
+
+j
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

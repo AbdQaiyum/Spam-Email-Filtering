@@ -1,0 +1,73 @@
+html
+head
+titledear homeownertitle
+meta httpequivdcontenttype contentdtexthtml charsetdiso
+
+head
+style typedtextcss
+main   fontfamily verdana arial helvetica sansserif fontsize 
+px color 
+footer   fontfamily verdana arial helvetica sansserif fontsize 
+px color 
+alink textdecoration none color edc
+avisited textdecoration none color edc
+aactive textdecoration none color fd
+ahover textdecoration none color 
+ayellowlink textdecoration none color ffffff
+ayellowvisited textdecoration none color ffffff
+ayellowactive textdecoration none color 
+ayellowhover textdecoration none color eee
+style
+body bgcolorddadada topmargind
+table widthd borderd cellspacingd cellpaddingd alig
+ndcenter bordercolord classdmain bgcolordfff
+  trtdtable widthd aligndcenter borderd cellspacingd
+ cellpaddingdtrtd
+    pbfont sizeddear fontfont sized colordcc
+homeownerfontbp
+  tdtrtabletdtrtrtd bgcolordtable widthd
+ borderd cellspacingd cellpaddingd classdmaintr
+td
+    p aligndcenterbfont colordffffff sizedinterest rat
+es are at their lowest point in  yearsfontbp
+  tdtrtabletdtr
+  trtdtable widthd borderd cellspacingd cellpaddingd
+ classdmaintr td widthd valigndtop
+    div aligndcenter bfont sizedlet us do the shopping for 
+you and its freefontbpimg srcdhttppixim
+agesadgif widthd heightdpdiv
+  tdtd widthd valigndtop
+    font sizedibrour nationwide network of lenders have hundred
+s of different loan programs to fit your current situationibul
+    lirefinancelilisecond mortgagelilidebt consolidationli
+lihome improvementlilipurchase liulbpp
+    pplease ba hrefdhttprdyahoocomdirhttpwww
+pixmortgageformhtmclick here
+ab to fill out a quick form your request will be transmitted to our 
+network of mortgage specialistspfont
+  tdtrtable
+  table widthd borderd cellspacingd cellpaddingdt
+rtd bgcolorddffpnbspptdtrtable
+  table widthd borderd cellspacingd cellpaddingd cl
+assdmaintrtd bgcolordcc 
+    div aligndcenterbfont sizedthis service is a hrefdh
+ttprdyahoocomdirhttpwww
+pixmortgageformhtm classdyellow freea to home owne
+rs and new home buyers without any obligationfontbdiv
+  tdtrtabletdtrtable
+  table aligndcenter widthd cellspacingd cellpaddingd
+ borderd classdfootertr td colspandbr
+    font colordedcdid you receive an email advertisement in error
+font our goal is to only target individuals who would like to take adv
+antage of our offers if youd like to be removed from our mailing list p
+lease click on the link below you will be removed immediately and automat
+ically from all of our future mailingsbr
+    brtdtrtr tdwe protect all email addresses from other third
+ parties thank you
+  tdtd aligndrighta hrefdhttprdyahoocomdirhttp
+removeremovehtmplease remove meatdtrtable
+body
+html
+
+
+

@@ -1,0 +1,43 @@
+matthias saou wrote
+ ok ill add this
+
+cool 
+
+ requiring a file that isnt part of an rpm is not possible no except
+ maybe by stopping the build process if it isnt found but thats errr
+ ugly
+ and i really think that for people who installed a kernel from sources the
+ easiest is to install the alsa kernel drivers from source too
+
+yes it is  but then alsadriver requires alsakernel and i dont quite 
+like nodeps
+
+ this would be a tricky one since to use the with name feature of
+ rpmbuild i think youd need to add individual handling of each and every
+ card 
+
+thats ok  i was only considering it for the sake of tweaking anyway not 
+for some realworld need 
+
+ thats what the alsadriver is there for create all the base files
+ excluding the kernel drivers what i would suggest for dependency reasons
+ it to install an alsakernel for the original kernel youve kept it
+ right  and install alsa modules from source for custom kernels built
+ from source
+
+um  i keep  for emergency sitations like i forget to include 
+keyboard support in kernel dumb me but alsakernel does not 
+require kernel so thats ok
+
+ matthias
+
+silent
+
+ 
+ and on the seventh day god was arrested for tresspassing
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

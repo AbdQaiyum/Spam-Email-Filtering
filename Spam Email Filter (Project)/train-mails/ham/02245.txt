@@ -1,0 +1,37 @@
+url httpdiveintomarkorgarchiveshtmlcssandmobiledevices
+date t
+
+so dya remember that whole css debate that flared up about six months ago 
+actually it flares up continuously in various circles in fact i think its 
+about time for it to flare up again in weblogging circles these things are 
+inexorably cyclical cssvstables is the hemorrhoid of the web design world 
+but i digress 
+
+if you were around back then you will no doubt recall that i was in the 
+procss camp 
+
+so anyway dya remember that argument that went something like you 
+should design with web standards and css because it will futureproof your site 
+for the pieinthesky future when people surf the web on mobile 
+devices well its crap 
+
+there are lots of good arguments for designing with web standards and css 
+automatically printfriendly pages dynamic style switchers reduced 
+bandwidth and aiding and abetting accessibility a topic which i claim 
+to know a lot about among others but because itll futureproof 
+your site for the next generation of mobile devices is not one of them 
+the theory is solid but apparently nobody told the makers of the mobile 
+devices now that we have them how it was all supposed to work in practice 
+oops
+
+
+
+ httpdiveintomarkorgarchivesroomscss
+ httpwwwdashescomanilindexphparchivesphp
+ httpdiveintomarkorgarchiveshtmlprintme
+ httpdiveintomarkorgarchiveshtmlcssfunandgames
+ httpdiveintomarkorgarchiveshtmlmoralargumentsaside
+ httpdiveintomarkorgarchiveshtmlcssanduniversaldesign
+ httpdiveintoaccessibilityorg
+
+

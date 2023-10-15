@@ -1,0 +1,21 @@
+hi folks i just uploaded rpms of the new netatalk  released 
+yesterday thought folks here might be interested  this release fixes a 
+nastygram in saving files via illustrator that i personally have been 
+waiting for
+
+   httpftpfalsehopecomhometengelnetatalk
+
+will be mirrored on rpmfindnet by tomorrow usually
+
+te
+
+ 
+troy engel systems engineer
+cool as the other side of the pillow
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

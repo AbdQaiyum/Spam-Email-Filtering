@@ -1,0 +1,135 @@
+on tue  sep  rose bobby wrote
+
+ use the samplespamtxt from spamassassin and do a razorcheck d 
+ samplespamtxt
+
+interesting  i just upgraded to razoragents  yesterday ran
+razoradmin register  i to am seeing that im not getting any positives
+from razor  including the samplespamtxts from spamassassin  
+and 
+
+any suggestions  thanks
+
+d output below
+
+
+
+maxwellvarqmailaliasgbusers razorcheck d 
+usrlocalsrcmailspamassassinsamplespamtxt
+ razorlog computed razorhome from env rootrazor
+ razorlog found razorhome rootrazor
+ razorlog no rootrazorrazoragentconf found skipping
+ razorlog no razoragentconf found using defaults 
+sep   check   bootup logging initiated
+logdebuglevel to stdout
+sep   check   computed razorhomerootrazor
+conf identrootrazoridentityruqvajbus
+sep   check    razoragents v starting
+razorcheck d
+sep   check   uname a freebsd
+maxwellgtacom releasep freebsd releasep  wed may 
+ edt      rootmaxwellgtacomusrsrcsyscompilemaxwell
+i
+sep   check   reading straight rfc mail
+from stdin
+sep   check   read  mail
+sep   check   client supportedengines   
+
+sep   check    prepmail done mail 
+headers mime
+sep   check   skipping whitelist file
+empty rootrazorrazorwhitelist
+sep   check   readfile  items read from
+rootrazorserversdiscoverylst
+sep   check   readfile  items read from
+rootrazorserversnominationlst
+sep   check   readfile  items read from
+rootrazorserverscataloguelst
+sep   check   assigning defaults to
+honorcloudmarkcom
+sep   check   assigning defaults to
+aptcloudmarkcom
+sep   check   assigning defaults to
+firecloudmarkcom
+sep   check   assigning defaults to
+truthcloudmarkcom
+sep   check   readfile  items read from
+rootrazorserveraptcloudmarkcomconf
+sep   check   readfile  items read from
+rootrazorserverhonorcloudmarkcomconf
+sep   check    seconds before closest
+server discovery
+sep   check   aptcloudmarkcom is a catalogue
+server srl  computed mincf server se a
+sep   check   computed supportedengines  
+sep   check   using next closest server
+aptcloudmarkcom cached info srl 
+sep   check   mail  subject home based
+business for grownups
+sep   check   preproc mail  went from 
+bytes to  
+sep   check   computing sigs for mail  len
+
+sep   check   connecting to aptcloudmarkcom
+
+sep   check   connection established
+sep   check   aptcloudmarkcom   server
+greeting sncsrlepal
+sep   check   aptcloudmarkcom is a catalogue
+server srl  computed mincf server se a
+sep   check   computed supportedengines  
+sep   check   mail  e
+sig pgffftepvecptdunwgibika
+sep   check   mail  e
+sig kogzsaavvolyvalwxaacdwba
+sep   check   preparing  queries
+sep   check   sending  batches
+sep   check   aptcloudmarkcom  
+sep   check  
+acespgffftepvecptdunwgibika
+aceepskogzsaavvolyvalwxaacdwba
+
+sep   check   aptcloudmarkcom  
+sep   check   response to sent
+p
+p
+
+sep   check   mail  e
+sigpgffftepvecptdunwgibika sig not found
+sep   check   mail  e
+sigkogzsaavvolyvalwxaacdwba sig not found
+sep   check   method  mail
+ nocontention part spam
+sep   check   method  mail  a
+noncontention part not spam mail not spam
+sep   check   mail  is not known spam
+sep   check   disconnecting from server
+aptcloudmarkcom
+sep   check   aptcloudmarkcom  
+sep   check   aq
+sep   check   razorcheck finished
+successfully
+
+
+
+
+
+
+
+
+david raistrick
+draisatlastanet		httpwwwexpitacomnomimehtml
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

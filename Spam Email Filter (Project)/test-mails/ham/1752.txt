@@ -1,0 +1,31 @@
+  whats an autoham
+ 
+ automatically marking something as ham after a given
+ timeout regardless of how long that timeout is someone is going
+ to forget to submit the message back as spam
+
+ok heres a refinement  assuming very little spam comes through we
+only need to pick a small percentage of ham received as new training
+ham to match the new training spam  the program could randomly select
+a sufficient number of saved nonspam msgs and ask the user to
+validate this selection  you could do this once a day or week config
+parameter
+
+ how many spamsashams can be accepted before the fn rate gets
+ unacceptable
+
+config parameter
+
+ i view imap as a stopgap measure until tighter integration with
+ various email clients can be achieved
+ 
+ i still feel its better to require classification feedback from the
+ recipient rather than make any assumptions after some period of
+ time passes but this is an enduser issue and were still at the
+ algorithm stage 
+
+im trying to think about the enduser issues because i have nothing
+to contribute to the algorithm at this point  for deployment we need
+both
+
+guido van rossum home page httpwwwpythonorgguido

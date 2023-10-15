@@ -1,0 +1,245 @@
+this is a multipart message in mime format
+
+nextpartacfbfb
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ offer your clients 	
+ 
+ rake not included	 while getting  comission and a bonus for
+yourself	
+
+ 	
+    
+
+   first year  first year rate plus  premium bonus
+  commission plus bonus call for details
+ full death benefit
+  free withdrawal after one year
+ great for s and transfers
+
+    
+
+ free a salute to america cd for the first  callers	
+ 	 
+call or email mailtostandardlifesmancorpcom  us today
+ 
+ or 
+
+please fill out the form below for more information	 
+name	  	
+email	  	
+phone	  	
+city	  	state	  	 	
+ 	  	 	   	
+ 
+  
+ 
+visit us online at wwwstandardagentscom
+httpwwwstandardagentscom  
+ 
+commission reduces at older ages for agent use only	 
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet 
+
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartacfbfb
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titleoffer your clients title
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolord textd
+table widthd cellpaddingd cellspacingd 
+bgcolord aligndcenter
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          tdimg 
+srcdhttpimagessliijpg widthd 
+heightd altdoffer your clients td
+        tr
+        tr
+          td
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                tdimg 
+srcdhttpimagessliijpg widthd 
+heightdbr
+                  img 
+srcdhttpimagessliigif altdrake 
+not included widthd heightdtd
+                tdimg 
+srcdhttpimagessliigif widthd 
+heightd altdwhile getting  comission and a bonus for 
+yourselftd
+              tr
+            table
+          td
+        tr
+        tr
+          td aligndcenterbr
+            img srcdhttpimagessliigif 
+widthd heightdtd
+        tr
+        tr
+          td
+            hr widthd sized colord
+            font facedgeorgia times new roman times serif 
+sizedimg srcdhttpimagessliispacergif 
+widthd heightd aligndleftnbspbb
+            first year  first year rate plus  premium bonusbr
+            nbspbb commission plus bonus call for 
+detailsbr
+            nbspbfull death benefitbbr
+            nbspbb free withdrawal after one yearbr
+            nbspgreat for s and transfersbr
+            font
+            hr widthd sized colord
+          td
+        tr
+        tr
+          td aligndcenterimg 
+srcdhttpimagessliigif widthd 
+heightd altdfree quota salute to americaquot cd for the 
+first  callerstd
+        tr
+        tr
+          td aligndcenternbsptd
+        tr
+        tr
+          td aligndcenterfont facedarial helvetica 
+sansserif sizedcall
+            or a hrefdmailtostandardlifesmancorpcomemaila 
+us todaybr
+            img srcdhttpimagessliigif 
+widthd heightd altdbr
+             or br
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordffffff
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont colordffffff sizedplease
+                          fill out the form below for more 
+informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                        td rowspand aligndcenter 
+valigndmiddleimg srcdhttpimagesqgif 
+widthd heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedstandardlifesmancorpcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedstandardlife ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            nbspfonttd
+        tr
+        tr
+          td aligndcenterimg 
+srcdhttpimagessliijpg widthd 
+heightdbr
+            font sized facedarial helvetica sansserifvisit 
+us online
+            at a 
+hrefdhttpwwwstandardagentscombwwwstandardagentscomba 
+
+            br
+            nbspbr
+            font sizedcommission reduces at older ages for 
+agent use onlyfontfonttd
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  a hrefdhttpwwwinsuranceiqcomlegalhtmfont facedarial 
+helvetica sansserif sized colordccfflegal
+  noticefonta
+center
+body
+html
+
+nextpartacfbfb

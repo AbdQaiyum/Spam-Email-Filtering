@@ -1,0 +1,193 @@
+doctype html public wcdtd html en
+
+html
+
+head
+titlequotepool insurancetitle
+
+style
+
+td 
+	fontfamily verdana tahoma sansserif
+	fontsize px
+	color black
+
+
+
+text 
+	fontfamily verdana tahoma sansserif
+	fontsize px
+	color black
+
+
+text 
+	fontfamily verdana tahoma sansserif
+	fontsize px
+	color black
+
+
+footer 
+	fontfamily verdana tahoma sansserif
+	fontsize px
+	color white
+	fontweight bold
+
+
+afooter color white textdecoration none
+afootervisited color white textdecoration none
+afooterhover color white textdecoration underline
+
+button 
+	fontsize px
+	borderwidth 
+	backgroundcolor ff
+	color white
+	fontfamily verdana tahoma sansserif
+	fontweight bold
+
+
+
+selected 
+	color fd
+	textdecoration none
+
+
+clicker cursor hand
+
+div position absolute zindex  width  top  left  overfl
+ow hidden
+
+span position absolute zindex  width  top  left 
+
+a color white textdecoration none
+
+style
+
+
+head
+
+body leftmargind topmargind marginwidthd marginheightd
+
+
+
+
+
+div
+
+span
+centera hrefdhttpuneedlifeinsurancecomimg srcdhttpu
+needlifeinsurancecomxgif widthd heightd borderda
+center
+span
+
+
+
+
+table widthd cellspacingd cellpaddingd borderdtrtd b
+gcolordaafa
+
+
+
+center
+br
+table widthd cellspacingd cellpaddingd borderd
+
+tr
+tdimg srcdhttpuneedlifeinsurancecomtopgif widthd heig
+htd altd borderdtd
+tr
+
+
+trtd bgcolordwhite aligndcenter
+table widthd cellspacingd cellpaddingd borderd
+tr
+td aligndleft classdtext
+
+brimg srcdhttpuneedlifeinsurancecomwhatwedogif widthd
+ heightd altdwhat we dobr
+
+pwe will attempt to provide you with the best quote you can possibly get
+ our team of companies and their agents will provide a nononsense approa
+ch to your insurance needs if all you want to do is ask a few questions 
+then they will be glad to help they can also ease your mind and provide t
+he insurance quickly and effortlessly either way you will be glad you fi
+lled out our quick noobligation quote form 
+
+pimg srcdhttpuneedlifeinsurancecomwhygif widthd heigh
+td altdwhat you need insurancebr
+
+plife insurance should be an essential part of any financial plan the p
+urpose is to protect your familys income in the case of your death life
+ insurance can also be used for financial strength while you are still ali
+ve its a foundation for a strong financial portfolio in either case th
+e proceeds could be used to
+
+brbr
+
+table cellspacingd cellpaddingd borderd
+trtd valigndtopimg srcdhttpuneedlifeinsurancecombulletg
+if widthd heightd borderd vspacedtdtd classdtextb
+meet your childrens college expensesbtdtr
+trtd valigndtopimg srcdhttpuneedlifeinsurancecombulletg
+if widthd heightd borderd vspacedtdtd classdtextb
+ensure comfortable retirement for your spousebtdtr
+trtd valigndtopimg srcdhttpuneedlifeinsurancecombulletg
+if widthd heightd borderd vspacedtdtd classdtextb
+assist in the payment of outstanding debtbtdtr
+trtd valigndtopimg srcdhttpuneedlifeinsurancecombulletg
+if widthd heightd borderd vspacedtdtd classdtextb
+tax benefit and estate protectionbtdtr
+table
+
+
+td
+tr
+table
+
+
+
+
+table widthd cellspacingd cellpaddingd borderd
+tr
+td valigndbottom aligndrightbra hrefdhttpuneedlifeinsura
+ncecombrimg srcdhttpuneedlifeinsurancecomproceedgif wi
+dthd heightd borderd altdclick here hspacedatd
+tr
+table
+
+
+td
+tr
+table
+
+
+
+table widthd cellspacingd cellpaddingd borderd
+tr
+td widthdimg srcdhttpuneedlifeinsurancecomrndgif widt
+hd heightd borderdtd
+td widthd aligndleft backgrounddhttpuneedlifeinsuranceco
+mbottombggif classdfootera hrefdhttpuneedlifeinsuranceco
+metcprivacyhtm classdfooterprivacya  a hrefdhttpuneedl
+ifeinsurancecometcunsubscribehtm classdfooterunsubscribeatd
+td widthdimg srcdhttpuneedlifeinsurancecomrndgif widt
+hd heightd borderdtd
+tr
+table
+
+
+center
+brbr
+
+
+tdtrtable
+
+
+div
+
+
+body
+html
+
+
+

@@ -1,0 +1,15 @@
+gianni ponzi wrote
+ i have a prob when trying to install linux tried redhat suse on my
+ laptop i can start the install but after about min the whole pc just
+ dies
+
+can you disable dma and see if this makes a difference
+
+nick
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

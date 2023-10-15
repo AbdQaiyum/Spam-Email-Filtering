@@ -1,0 +1,16 @@
+
+ tp  tim peters timonecomcastnet writes
+
+     any thought to wrapping up your spam and ham test sets for
+     inclusion w the spambayes project
+
+    tp i gave it all the thought it deserved wink  it would be
+    tp wonderful to get several people cranking on the same test
+    tp data and im all in favor of that  otoh my data subtree
+    tp currently has more than  files slobbering over 
+    tp million bytes  even if i had a place to put that much stuff
+    tp im not sure my isp would let me email it in one msg wink
+
+check it into the spambayes project  sfs disks are cheap wink
+
+barry

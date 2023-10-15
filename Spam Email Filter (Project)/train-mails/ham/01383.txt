@@ -1,0 +1,58 @@
+dan kohn dandankohncom writes
+
+ guys the habeas infringers list hil exists explicitly to deal with
+ spammers while were getting judgments against them and especially in
+ other countries where those judgments are harder to get
+
+my concern doesnt stem from failing to understand how your business is
+intended to work  my concern is the lack of empirical evidence that it
+will reduce the amount of uncaught spam
+
+ please note that nobody has ever had an incentive before to go after
+ regular spammers  yes some attorneys general have prosecuted blatant
+ pyramid schemes and isps have won some theft of service suits but
+ the vast majority of spammers go forward with out any legal hassles
+ so i cant understand how daniel can assert that you cant track
+ spammers down when its never really been tried
+
+please dont misquote me  i did not assert that you cant track
+spammers  here is what i said
+
+ it will be difficult to find prosecute and win money from someone in
+ various nonfriendly countries where spam originates china is a good
+ example even if they do officially respect copyright law
+
+i understand the incentive that you have to pursue spammers but that
+does not directly translate to less spam being sent to my inbox  it is
+an indirect effect and the magnitude of the effect may not be sufficient
+to counteract the ease with which a  score on the mark allows spam to
+avoid being tagged as spam
+
+ daniel its easy enough for you to change the habeas scores yourself
+ on your installation  if habeas fails to live up to its promise to
+ only license the warrant mark to nonspammers and to place all
+ violators on the hil then i have no doubt that justin and craig will
+ quickly remove us from the next release  but youre trying to kill
+ habeas before it has a chance to show any promise
+
+i think ive worked on sa enough to understand that i can localize a
+score  im just not comfortable with using spamassassin as a vehicle
+for drumming up your business at the expense of our user base
+
+i think it would make more sense to start habeas with a less aggressive
+score one which will not give spammers a quick path into everyones
+inbox and after weve seen evidence that the system works then we can
+increase the magnitude of the score
+
+dan
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

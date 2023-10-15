@@ -1,0 +1,42 @@
+
+hi folks
+
+ive been trying to set a button called which automatically
+forwards mail using a form mycomps without going through
+the editor but so far havent got the right recipe
+
+i currently have in my exmhdefaults
+
+mopsspamtext        spam
+mopsspamcommand     msgforward form spamcomps noedit nowhatnowproc  msg
+remove
+
+
+ive also tried with seditsend draft t  after the forward command
+it should forward to a spam address where filters get adjusted and then
+delete  it does so but not without producing the edit window
+
+any help appreciated
+
+wendy roberts
+
+
+
+
+wendy roberts          
+head system administrator                             
+high energy astrophsics division
+harvardsmithsonian center for astrophysics
+cambridge ma usa 
+wendycfaharvardedu  
+phone    
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

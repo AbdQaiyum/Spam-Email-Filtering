@@ -1,0 +1,39 @@
+on thu  at  troy engel wrote
+ today an aptget upgrade holds back php and submodules like phpimap 
+   running an aptget install php to see whats up i get
+ 
+  aptget install php
+ processing file dependencies done
+ reading package lists done
+ building dependency tree done
+ the following extra packages will be installed
+    curldevel imap imapdevel mysql mysqldevel phpimap phpldap postgresql
+    postgresqldevel postgresqllibs pspelldevel ucdsnmpdevel 
+ ucdsnmputils
+    unixodbc unixodbcdevel
+ the following new packages will be installed
+    curldevel imap imapdevel mysql mysqldevel postgresql postgresqldevel
+    postgresqllibs pspelldevel ucdsnmpdevel ucdsnmputils unixodbc
+    unixodbcdevel
+ the following packages will be upgraded
+    php phpimap phpldap
+  packages upgraded  newly installed  to removereplace and  not 
+ upgraded
+ 
+ anyone have an idea what the heck redhat did here and why were now 
+ trying to install a ton of crap i dont want  im hoping someone else 
+ has chased this down and could save me time  
+ 
+
+rh bugzilla 
+
+thats the answer
+
+sv
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

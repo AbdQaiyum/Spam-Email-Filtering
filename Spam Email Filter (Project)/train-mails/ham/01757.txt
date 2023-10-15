@@ -1,0 +1,19 @@
+tim
+ why would spam be likely to end up with two instances of returnpath
+ in the headers
+
+greg ward
+ possibly another qmailism from bruce guenters spam collection
+
+doesnt seem likely as it appeared in about  of about  spams
+it could be specific to one of his bait addresses though  dont know  a
+nice thing about a statistical inferencer is that you really dont have to
+know why a thing works just whether it works wink
+
+ or maybe anthonys right about spammers being stupid and blindly copying
+ headers well of course hes right about spammers being stupid its
+ just this particular aspect of stupidity thats open to question
+
+im going to blow it off  its just another instance of being pointlessly
+baffled by a mixed corpus half of which i dont know enough about
+

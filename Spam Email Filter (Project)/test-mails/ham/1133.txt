@@ -1,0 +1,15 @@
+hello
+
+i have just found a small issue with the downloader  x update the ftp search engines are missing something like
+
+datadirdxftpsearchxml 
+
+thanks in advance
+che
+
+ps i love the xmmsxosd plugin 
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

@@ -1,0 +1,31 @@
+anyone heard of this law before
+
+ q can i get a playlist
+ a we are unable to offer a playlist the digital performance right in 
+ sound recordings act of  passed by congress prevents us from 
+ disclosing such information the digital law states that if one is 
+ transmitting a digital signal song information cannot be 
+ preannounced it is a music choice policy not to release a playlist of 
+ upcoming or previously played songs
+
+recently musicchoice upgraded their website with a very important 
+service as far as im concerned realtime song info from their 
+website my directv receiver is up on a shelf and its display scrolls 
+intermittently and im surely not going to fire up my projector while 
+listening to the radio so im quite happy that i can retrieve rt 
+song info with urls like
+
+httpbackstagemusicchoicecomsongidchannelssoundsoftheseasonsasp
+httpbackstagemusicchoicecomsongidchannelsrapasp
+httpbackstagemusicchoicecomsongidchannelsoperaasp
+etc
+
+now if i were a more eager hacker id write up little wsdl stubs for 
+these event streams theyre clearly not worried about load since their 
+own web pages specify  sec metarefresh and then feed em through a 
+content router to alert me to cool songs heck crossreference the 
+service to cddb and 
+
+rk
+
+

@@ -1,0 +1,330 @@
+htmlhead
+meta httpequivcontenttype contenttexthtml charsetwindows
+stylebody 
+	fontfamily arial
+
+tt 
+	fontfamily courier new
+
+						
+						
+						
+						
+						
+						
+						
+blockquotecite 
+        paddingleft em margin px borderleft px solid
+
+spantabooheader 
+	display none
+
+style
+
+meta contentmshtml  namegeneratorhead
+body bgcolorspan classeudoraheaderbrspanspan classeudoraheader
+pnbspp
+table bordercolor cellspacing cellpadding width aligncenter 
+bgcolorffffff border
+  tbody
+  tr
+    td bgcolorccccff
+      div aligncenter
+      table cellspacing cellpadding width border
+        tbody
+        tr
+          td bgcolor
+            div aligncenterbfont facearial helvetica sansseriffont 
+            coloryellow sizebr email advertise to  people for free
+            brbfont coloryellow sizeact now before pm pst on monday may thbr
+            and receive a ubfree  bonusubbr
+            brbrfontfontbdivtdtrtbodytablebrdiv
+      p alignleftbfont facearial helvetica sansseriffont 
+      colorccffff sizefontfontbp
+      blockquote
+        pfont facearial helvetica sansserif color 
+        sizebr
+ lets say you sell a  product or servicebr
+ lets say you broadcast email free to  people dailybr
+ lets say you receive just  order for every  emailsbr
+br
+calculation of your earnings based on the above statisticsbr
+day    week    month  br
+br
+      br
+you now know why you receive so many email advertisementsbr
+ broadcast email advertising is extremely profitablebrbr
+ what if you sell a  product or servicebr
+ what if you broadcast email to  people monthlybr
+ what if you receive  order for every  emailsbrbr
+just imagine  day   week   month brbr
+ the profits that broadcast email can generate are amazingbrbr
+ according to forrester research a broadcast email ad is upbr
+ to  times more likely to result in a sale than a banner adbrbr
+      br
+comparison of internet advertising methodsbr
+br
+ a  page targeted web site banner ad to  million peoplebr
+   on the internet can cost you about brbr
+ a  page targeted direct mail advertisement to  million peoplebr
+   through the postal service can cost you about brbr
+ a  page targeted html broadcast email advertisement withbr
+   pictures to  people through the internet is freebrbr
+which advertising method sounds most appealing to youbrbr
+brbr
+targeted direct email advertising is the wave of the futurebr
+ by no other means can you effectively reach your market sobr
+ quickly and inexpensively  online profits newsletterbrbr
+many business people are finding out that they can now advertisebr
+ in ways that they never could have afforded in the past  thebr
+ cost of sending mass email is extremely low and the responsebr
+ rate is high and quick  usa todaybr
+br
+     br
+example of a personalizedtargeted broadcast emailbr
+         br
+from katecattiesinccombr
+to marycommtommcombr
+subject about your catbrbr
+hi marybrbr
+are you interested in receiving up to  savings on cat suppliesbr
+if so come visit our web site at httpwwwcattiesinccombrbr
+br
+ with broadcast email software a broadcast email advertisementbr
+ like this one can be automatically sent to up to br
+ people on a daily basis with less than  minutes of your timebrbr
+ imt strategies reports an average of a  click through ratebr
+  from users that have received a broadcast email advertisementbrbr
+      br
+a european  benchmark studybr
+conducted by forrester research saysbrbr
+  of consumers believe email is a good way to find out aboutbr
+   new productsbrbr
+  of consumers in  countries read most of the promotionalbr
+   email they receive and  forward the email to a friend becausebr
+   they think it is valuablebrbr
+     br
+be prepared  you may receive a huge amount of orders withinbr
+minutes of sending out your first broadcast email advertisementbrbr
+ according to digital impact  of broadcast email offers arebr
+  responded to within the first  hoursbrbr
+when you reach people with email theyre in a work mode evenbr
+ if theyre not at work  theyre sitting up theyre alert  youbr
+ catch them at a good moment and if you do it right you have abr
+ really good shot of having them respondbr
+  william thames revnet direct marketing vpbrbr
+     br
+ an arthur anderson online panel reveals that  of online usersbr
+  say that broadcast email advertisements have led to a purchasebrbr
+according to flonetwork us consumers discover new products andbr
+ services  times more often through an email advertisementbr
+ than through search engines magazines and television combinedbrbr
+only a handful of companies on the internet have discoveredbr
+broadcast email advertising  now you can be one of thembrbr
+     br
+ united messaging says there are  million email addressesbr
+ get ready  now with broadcast email you can reach them allbr
+ thanks to our broadcast email softwarebrbr
+our broadcast email software with dns technology automaticallybr
+creates  superfast mail servers on your computer which arebr
+then used to send out your broadcast emails to millions for freebrbr
+ with our new email sending technologybr
+ your internet providers mail servers are not usedbrbr
+there are no federal regulations or laws on email advertising br
+now with our software  you can avoid internet provider concernsbrbr
+br
+ if you send a broadcast email advertisement to br
+ people and just  of  people respond you can generatebr
+  extra orders  how much extra profit is this for youbr
+brbr
+       br
+as featured in the boston globe br
+the press democrat  anvil media br
+br
+nim corporation presents the broadcast email packagebr
+br
+requirements win mentxp or mac softwindowsvirtualpcbrbr
+ubroadcast email sender software  retailubr
+    our broadcast email sender software allows you the ability tobr
+    send out unlimited personalized and targeted broadcast emailbr
+    advertisements to over  people on the internet atbr
+    the rate of up to  daily automatically and for freebr
+    have a list of your customer email addresses  broadcast emailbr
+    advertise to them with our software for freebrbr
+utargeted email extractor software  retailubr
+    our targeted email extractor software will automaticallybr
+    navigate through the top  search engines  newsgroupsbr
+    millions of web sites deja news etc and collect millionsbr
+    of targeted email addresses by using the keywords of yourbr
+    choice  this is the ultimate extractor toolbrbr
+u email addresses  retailubr
+    millions of the newest  freshest general interest andbr
+    regionally targeted email addresses separated by area codebr
+    state province and country  from alabama to wyomingbr
+    argentina to zimbabwe   fresh emails are yoursbrbr
+ustep by step broadcast email package instructionsubr
+    you will be guided through the entire process of installingbr
+    and using our broadcast email software to send out broadcastbr
+    email advertisements like this one to millions of people forbr
+    free  even if you have never used a computer before thesebr
+    instructions make sending broadcast email as easy as brbr
+uthe broadcast email handbookubr
+    the broadcast email handbook will describe to you in detailbr
+    everything you ever wanted to know about broadcast emailbr
+    learn how to write a successful advertisement how to managebr
+    the hundreds of new orders you could start receiving whatbr
+    sells best via broadcast email etc  this handbook is abr
+    necessity for anyone involved in broadcast emailbrbr
+uunlimited customer  technical supportubr
+    if you ever have any questions problems or concerns withbr
+    anything related to broadcast email we include unlimitedbr
+    customer  technical support to assist you  our  goalbr
+    is customer satisfactionbrbr
+uadditional informationubr
+    our broadcast email software package contains so manybr
+    features that it would take five additional pages just tobr
+    list them all  duplicate removing automatic personalizationbr
+    and free upgrades are just a few of the additional bonusesbr
+    included with our broadcast email software packagebrbr
+       br
+all together our broadcast email package contains everythingbr
+you will ever need for your entire broadcast email campaignbrbr
+you will receive the entire broadcast email package withbr
+everything listed above  retail for only  usbr
+br
+but wait  if you order by monday may th you willbr
+receive the broadcast email package for only  usbr
+br
+order now and receive  bonus emails  valuebr
+for free for a total of  fresh email addressesbr
+brbr
+regardless if you send to  or  peoplebrbr
+you will never encounter any additional charges ever againbr
+our broadcast email software sends email for a lifetime for freebrbr
+      br
+since  we have been the broadcast email marketing authoritybr
+our  goal is to see you succeed with broadcast email advertisingbrbr
+we are so confident about our broadcast email package that we arebr
+giving you  days to use our entire package for freebrbr
+ you can send unlimited broadcast email advertisementsbr
+ you can extract unlimited targeted email addressesbr
+ you can receive unlimited ordersbrbr
+if you do not receive at least a  increase in sales or are notbr
+ completely satisfied with each and every single aspect of ourbr
+broadcast email package simply return it to us within  days forbr
+a  full refund no questions askedbrbr
+best of all if you decide to keep our broadcast email package itbr
+can be used as a  tax write off for your businessbrbr
+    br
+see what users of our broadcast email package have to saybr
+brbr
+since using your program i have made as much in two days as ibr
+ had in the previous two weeks  i have to say thank you forbr
+ this program  you have turned a hobby into a serious moneybr
+ making concernbr
+  w rogers  chicago ilbrbr
+we have used the software to send to all our members plus aboutbr
+  off the disk you sent with the software and the responsebr
+ we have had is just fantastic  our visits and sales are nearlybr
+ at an all time highbr
+  a freeman  england ukbrbr
+i have received over  visitors today and that was onlybr
+ sending out to  email addressesbr
+  k swift  gunnison cobrbr
+im a happy customer of a few years now  thanks a loti lovebr
+ this programbr
+  s gallagher  melville nybrbr
+thanks for your prompt filing of my order for your broadcast emailbr
+ software  it took only about a day  this is faster than anybodybr
+ i have ever ordered something from  thanks againbr
+  w ingersoll  scottsdale azbrbr
+i feel very good about referring the folks i have sent to youbr
+ thus far and will continue to do so  it is rare to find a companybr
+ that does business this way anymoreit is greatly appreciatedbr
+  t blake  phoenix azbrbr
+your software is a wonderful tool abr
+  s nova  los angeles cabrbr
+thank you for providing such a fantastic productbr
+  m lopez  tucson azbrbr
+your tech support is the best i have ever seenbr
+  g gonzalez  malibu cabrbr
+i am truly impressed with the level of service  i must admit ibr
+ was a bit skeptical when reading your ad but you certainly deliverbr
+  i beaudoin  toronto onbrbr
+my first go round gave me  to  in business in less thanbr
+ one week so i must thank your company for getting me startedbr
+  a roberts  san francisco cabrbr
+we are really happy with your email program  it has increasedbr
+ our business by about br
+  m jones  vancouver bcbrbr
+it really works  thank you thank you thank youbr
+  j beckley  cupertino cabrbr
+      br
+sound too good to be truebrbr
+ if you broadcast email to  internet users dailybr
+ do you think that maybe  of  may orderbrbr
+ if so that is  extra costfree orders every daybrbr
+remember you have  days to use our broadcast email packagebr
+for free and see if it works for youbrbr
+if you are not  completely satisfied simply return thebr
+broadcast email package to us within  days for a full refundbrbr
+    br
+broadcast email software package easy ordering instructionsbr
+br
+ once your order is received we will immediately rush out thebr
+ broadcast email package on cdrom to you via fedex prioritybr
+ overnight or day priority international the same day freebrbr
+        br
+to order by phonebr
+to order our broadcast email software package by phone withbr
+a credit card or if you have any additional questions pleasebr
+call our sales department in the usa atbrbr
+ brbr
+ you can order now  all major credit cards are acceptedbrbr
+order by pm pst mth today  have it by am tomorrow freebr
+european  foreign residents  have it within  weekdays freebrbr
+removal from our email list  call brbr
+        br
+to order by faxbr
+to order our broadcast email software package by fax with a creditbr
+card please print out the order form at the bottom of this emailbr
+and complete all necessary blanks  then fax the completed orderbr
+form to our order department in the usa atbrbr
+ brbr
+        br
+to order by postal mailbr
+to order our broadcast email software package with a cashiersbr
+check credit card us money order us personal check or us bankbr
+draft by postal mail please print out the order form at thebr
+bottom of this email and complete all necessary blanksbrbr
+send it along with payment of  us postmarked by mondaybr
+may th or  us after monday may th tobrbr
+nim corporationbr
+b center drive br
+medfordor br
+united states of americabrbr
+      br
+over  businesses come on the internet every single daybr
+if you dont send out broadcast email your competition willbrbr
+        br
+broadcast email software package order formbr
+c nim corporation  all rights reservedbr
+brbr
+company name brbr
+your name brbr
+billing address brbr
+city  stateprovince brbr
+zippostal code  country brbr
+non pobox shipping address brbr
+city  stateprovince brbr
+zippostal code  country brbr
+phone number  fax number brbr
+email address brbr
+ to purchase by credit card please complete the followingbrbr
+visa    mastercard    amex    discover    diners club  brbr
+name on credit card brbr
+cc number  exp date brbr
+amount to charge credit card  or   brbr
+signature brbr
+brbrbrbr
+bodyhtml

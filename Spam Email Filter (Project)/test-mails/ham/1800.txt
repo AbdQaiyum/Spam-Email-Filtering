@@ -1,0 +1,16 @@
+
+    tim about half the developers on the spambayes project were missing
+    tim some permission or other so i ran thru all of them and checked
+    tim every damned box and clicked on every damn dropdown list i could
+    tim find  as far as sf is concerned youre all sitting on gods right
+    tim hand now so if it still doesnt work i suggest you upgrade to
+    tim win wink
+
+time to upgrade i guess 
+
+     cvs add unheaderpy 
+    cvs server aborted add requires write access to the repository
+
+ill try a checkout into a new directory
+
+s

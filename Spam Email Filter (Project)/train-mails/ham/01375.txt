@@ -1,0 +1,81 @@
+
+on wednesday august   at   pm daniel quinlan wrote
+
+ just a few notes
+
+   it will be difficult to find prosecute and win money from someone
+    in various nonfriendly countries where spam originates china is a
+    good example even if they do officially respect copyright law
+
+
+a lot of spam which appears to originate from china and even 
+a lot which advertises websites hosted there is sent by and is 
+done for the benefit of companies based in the us  the spam 
+often appears to originate there because its coming from open 
+http or squid proxy servers  its hosted there because these 
+spammers are now personanongrata on all us isps  one hardly 
+needs to involve the chinese government in a case where a us 
+citizen is violating us law
+
+
+   law suits take time between now and conclusion of the first court
+    case we could have years of spam in our mail boxes
+
+the first court cases were actually concluded years ago these 
+include many legal precedents which are used to protect the 
+rights of isps to block mail and to terminate service to 
+spammers
+
+   contact information can change phone numbers po boxes stolen
+    cell phones temporary email addresses etc
+
+surprising then how much information you can find on the 
+current whereabouts of longtime spammers like alan ralksy of 
+detroit michigan  ralsky is a guy who even gives interviews to 
+the news media  if you can connect a specific corpus of spam to 
+him his street address is well known ralsky is a prime 
+candidate for lawsuits in any state with an antispam law 
+thomas cowles is another longtime spammer but last i heard 
+hed been jailed for stealing computer equipment from his 
+business partner eddy marin also a long time spammer youve 
+heard of poplaunch right
+
+   spammers do not always remember to include contact information  i
+    dont understand it either but nobody said they were bright  also
+    some spam is noncommercial or sent by a thirdparty for example
+    pump and dump stock scams so contact information is not strictly
+    required for the spammer to get their way
+
+back when i was working at maps there was a flap over a 
+pumpanddump spammer rodona garst  seems she had an open 
+fileshare on her laptop and when she forged the wrong domain 
+the real owner hacked in and posted all her private information 
+on a website oh look its still there including the nude 
+photos
+
+httpbelpsfreewebsitescom
+
+i recall this well because the sec was very interested in 
+confirming the validity of the information found online  there 
+were some interesting conversations this summer the sec 
+released the following
+
+httpwwwsecgovlitigationadminhtm
+
+yes the investigation took two years but the financial penalty 
+for operating a pumpanddump scam isnt small  the wheels of 
+government grind slow but the grind very fine indeed
+
+b
+
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

@@ -1,0 +1,34 @@
+with the increasing prevalence of web services not that they are always a
+good thing i doubt that parsing xml will be something that will remain at
+the java application layer for long recent threads here on fork
+indicating the move towards hardware parsing or this code even become part
+of the native implementation of java on various platforms
+
+reza bfar
+
+original message
+from forkadminxentcom mailtoforkadminxentcomon behalf of adam
+l beberg
+sent sunday september    pm
+to mr fork
+cc forkspamassassintaintorg
+subject re java is for kiddies
+
+
+on sun  sep  mr fork wrote
+
+    hardware is getting so fast that im not sure if the performance
+  difference between java and cc are relevant any more
+
+ when outofthebox parsing  transform of xml in java is x slower than
+ c on the same hardware then it does matter
+
+yea and that on top of the x of all the parsing engines over just
+bigendianing it and passing the data x in the raw then it really
+matters
+
+ adam l duncan beberg
+  httpwwwmithralcombeberg
+  bebergmithralcom
+
+

@@ -1,0 +1,515 @@
+this is a multipart message in mime format
+
+nextpart
+contenttype textplain charsetiso
+contenttransferencoding quotedprintable
+
+
+    
+looking for property in spain
+
+dont waste your time
+that is what most people do when they look for property using property web sites why
+
+ because many of the properties that are advertised on them have already been sold
+
+ you could waste precious time looking for and inquiring after properties that have already been sold
+
+ how frustrating
+
+the property market is moving very fast in spain and frankly many estate agents do not have the time to update their web sites
+
+what you need is a company that can find you property that is actually for sale and can present you with a selection of current properties that specifically fit your requirements
+
+just think of how much time and effort that would save you
+
+ property finders spain 
+can do just that
+
+we are here in spain and have a many ways of looking for property that has just arrived on the market even looking in the local papers 
+
+so while others are chasing properties or new projects that are no longer for sale you can be viewing property that has just arrived on the market
+
+simply fill in the form below and press the send button and we will do all of the hard work for you 
+
+once we receive your requirements we will immediately begin looking for current properties just right for you
+
+property finders form
+    
+property type villa apartment town house new building projects plot of land
+number of bedrooms      
+location
+do you want a sea view yes no dont care
+mountain view yes no dont care
+a property in the country
+a property in or near a city
+pool yes no yes no dont care
+price range
+are you planning to come 
+to spain in the next three months yes no yes no
+name
+e mail address
+telephone number
+country code
+
+
+
+
+
+let us find a property for you
+
+
+
+
+ 
+
+
+nextpart
+contenttype texthtml charsetiso
+contenttransferencoding quotedprintable
+
+html
+
+head
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+titlelooking for property in spaintitle
+style
+
+h
+	marginbottompt
+	textaligncenter
+	pagebreakafteravoid
+	fontsizept
+	fontfamilytimes new roman
+	marginleftcm marginrightcm margintopcm
+h
+	marginbottompt
+	textaligncenter
+	pagebreakafteravoid
+	fontsizept
+	fontfamilytimes new roman
+	fontweightnormal
+	fontstyleitalic marginleftcm marginrightcm margintopcm
+
+style
+head
+
+body
+table iddautonumber styledbordercollapse collapse bordercolord 
+cellspacingd cellpaddingd widthd borderd
+  tbody
+  tr
+    td widthdimg heightd 
+      srcdhttpwwwsecuresiteservercomflyerlogojpg widthd 
+    borderdtdtrtbodytable
+table iddautonumber styledbordercollapse collapse bordercolord 
+heightd cellspacingd cellpaddingd widthd borderd
+  tbody
+  tr
+    td widthd bgcolordcc heightdnbsptd
+    td widthd bgcolordcc heightdnbsptd
+    td widthd bgcolordcc heightdnbsptd
+    td widthd bgcolordcc heightdnbsptdtr
+  tr
+    td widthd bgcolordcc heightd
+      p styledmargintop px marginbottom pxnbspptd
+    td widthd heightd
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterbspan styledfontsize pt color bluelooking for 
+      property in spainspanbp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenternbspp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterspan 
+      styledfontsize pt color red fontfamily arialfont 
+      facedarial blackdont waste your timefontspanp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarialspan styledfontsize ptthat is what 
+      most people do when they look for property using property web sites 
+      bispan styledcolor redwhyspanibspanfontp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenternbspp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarialspan styledfontsize ptnbspbecause 
+      many of the properties that are advertised on them haveb ialready been 
+      soldibspanfontp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenternbspp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarialspan 
+      styledfontsize ptnbspspanfontfont styledfontsize pt 
+      facedarialyou could waste precious time looking for and inquiring after 
+      properties that bhave already been soldbfontp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenternbspp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarial colordffbspan 
+      styledfontsize ptnbspfont facedarial blackhow 
+      frustratingfontspanbfontp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenternbspp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarialspan styledfontsize ptthe property 
+      market is moving very fast in spain and frankly many estate agents do not 
+      have the time to update their web sitesspanfontp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarialspan 
+      styledfontsize ptspanfontnbspp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarialspan styledfontsize ptwhat you need 
+      is a company that can find you property that is actually for sale and can 
+      present you with a selection of current properties that specifically fit 
+      your requirementsspanfontp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarialspan 
+      styledfontsize ptspanfontnbspp
+      p classdmsobodytext styledmargintop px marginbottom px 
+      aligndcenterfont styledfontsize pt facedarialjust think of how 
+      much time and effort that would save youfontp
+      p classdmsobodytext styledmargintop px marginbottom pxfont 
+      styledfontsize pt facedarialfontnbspp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarialspan 
+      styledfontsize ptnbspspanbspan 
+      styledfontsize ptfont facedarial black colordffproperty 
+      finders spainfontspanbspan styledfontsize pt 
+      spanfontp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarial colordffspan 
+      styledfontsize ptcan do just thatspanfontp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarialspan 
+      styledfontsize ptspanfontnbspp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarialspan styledfontsize ptwe are here in 
+      spain and have a many ways of looking for property that has just arrived 
+      on the market ieven looking in the local papersi spanfontp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarialspan 
+      styledfontsize ptspanfontnbspp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarial colordffispan 
+      styledfontsize ptso while others are chasing properties or new 
+      projects that are no longer for sale you can be viewing property that has 
+      just arrived on the marketspanifontp
+      p classdmsonormal 
+      styledmargintop px marginbottom px textalign center 
+      aligndcenterfont facedarialspan 
+      styledfontsize ptspanfontnbspp
+      p classdmsobodytext styledmargintop px marginbottom px 
+      aligndcenterfont styledfontsize pt facedarialbsimply fill in 
+      the form below and press the send button and we will do all of the hard 
+      work for you bfontp
+      p classdmsobodytext styledmargintop px marginbottom px 
+      aligndcenterfont styledfontsize pt 
+      facedarialbbfontnbspp
+      p styledmargintop px marginbottom px aligndcenterspan 
+      langdengb styledfontsize pt fontfamily arialonce we receive 
+      your requirements we will immediately begin looking for current properties 
+      just right for youspanp
+      p styledmargintop px marginbottom pxnbsppwebbot botdgeneratedscript previewd  startspan 
+      script languagedjavascript typedtextjavascript
+function frontpageformvalidatortheform
+
+
+  var checkok d 
+  var checkstr d theformpricerangevalue
+  var allvalid d true
+  var validgroups d true
+  var decpoints d 
+  var allnum d 
+  for i d   i  checkstrlength  i
+  
+    ch d checkstrcharati
+    for j d   j  checkoklength  j
+      if ch dd checkokcharatj
+        break
+    if j dd checkoklength
+    
+      allvalid d false
+      break
+    
+    if ch dd 
+    
+      allnum d 
+      decpoints
+    
+    else if ch dd   decpoints d 
+    
+      validgroups d false
+      break
+    
+    else if ch d 
+      allnum d ch
+  
+  if allvalid
+  
+    alertplease enter only digit characters in the pricerange field
+    theformpricerangefocus
+    return false
+  
+
+  if decpoints    validgroups
+  
+    alertplease enter a valid number in the pricerange field
+    theformpricerangefocus
+    return false
+  
+
+  var checkok d 
+  var checkstr d theformcountrycodevalue
+  var allvalid d true
+  var validgroups d true
+  var decpoints d 
+  var allnum d 
+  for i d   i  checkstrlength  i
+  
+    ch d checkstrcharati
+    for j d   j  checkoklength  j
+      if ch dd checkokcharatj
+        break
+    if j dd checkoklength
+    
+      allvalid d false
+      break
+    
+    allnum d ch
+  
+  if allvalid
+  
+    alertplease enter only digit characters in the countrycode field
+    theformcountrycodefocus
+    return false
+  
+  return true
+
+script
+webbot botdgeneratedscript endspan 
+      form languagedjavascript namedfrontpageform 
+      onsubmitdreturn frontpageformvalidatorthis 
+      actiondhttpwwwsecuresiteservercomcgibinmailformpl methoddpost
+      table iddautonumber styledbordercollapse collapse 
+      bordercolord cellspacingd cellpaddingd widthd borderd
+        tbody
+        tr
+          td widthd
+            p styledmargintop px marginbottom px aligndcenterbspan 
+            styledfontsize ptproperty finders 
+        formspanbptdtrtbodytable
+      table iddautonumber styledbordercollapse collapse 
+      bordercolord cellspacingd cellpaddingd borderdinput 
+        typedhidden valued namedprintblankfields input typedhidden 
+        valuedremotehostremoteaddr namedenvreport input typedhidden 
+        valuedgrahammailcostasolpropertycom namedrecipient input 
+        typedhidden valuedhttpwwwsecuresiteservercomflyerthankyouhtm 
+        namedredirect 
+        tbody
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxnbspptd
+          td widthd
+            p styledmargintop px marginbottom pxnbspptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxfont 
+            facedarialspan styledfontsize ptproperty 
+            typespanfontptd
+          td widthd
+            p styledmargintop px marginbottom pxselect sized 
+            namedtypeofproperty option selectedvillaoption 
+              optionapartmentoption optiontown houseoption optionnew 
+              building projectsoption optionplot of 
+          landoptionselectptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxfont 
+            facedarialspan styledfontsize ptnumber of 
+            bedroomsspanfontptd
+          td widthd
+            p styledmargintop px marginbottom pxselect multiple 
+            sized namedhowmanybedrooms optionoption 
+              optionoption optionoption optionoption 
+              optionoption optionoptionselectptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxfont 
+            facedarialspan 
+          styledfontsize ptlocationspanfontptd
+          td widthd
+            p styledmargintop px marginbottom pxinput 
+            namedlocationptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxspan 
+            styledfontsize pt fontfamily arialdo you want a sea 
+            viewspanptd
+          td widthd
+            p styledmargintop px marginbottom pxselect sized 
+            namedseaview option selectedyesoption optionnooption 
+              optiondont careoptionselectptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxfont 
+            facedarialspan styledfontsize ptmountain 
+            viewspanfontptd
+          td widthd
+            p styledmargintop px marginbottom pxselect sized 
+            namedmountainview option selectedyesoption 
+              optionnooption optiondont careoptionselectptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxfont 
+            facedarialspan styledfontsize pta property in the 
+            countryspanfontptd
+          td widthd
+            p styledmargintop px marginbottom pxinput typedcheckbox 
+            valuedon namedcptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxspan 
+            styledfontsize pt fontfamily ariala property in or near a 
+            cityspanptd
+          td widthd
+            p styledmargintop px marginbottom pxinput typedcheckbox 
+            valuedon namedcptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxfont 
+            facedarialspan styledfontsize ptpool yes 
+            nospanfontptd
+          td widthd
+            p styledmargintop px marginbottom pxselect sized 
+            namedpool option selectedyesoption optionnooption 
+              optiondont careoptionselectptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxfont 
+            facedarialspan styledfontsize ptprice 
+            rangespanfontptd
+          td widthd
+            p styledmargintop px marginbottom pxwebbot botdvalidation sdatatypednumber snumberseparatorsd input 
+            namedpricerangeptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxfont 
+            facedarialspan styledfontsize ptare you planning to come 
+            spanfontp
+            p styledmargintop px marginbottom pxfont 
+            facedarialspan styledfontsize ptto spain in the next three 
+            months yes nospanfontptd
+          td widthd
+            p styledmargintop px marginbottom pxselect sized 
+            namedplaningtocomeover option selectedyesoption 
+              optionnooptionselectptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxfont 
+            facedarialspan styledfontsize ptnamespanfontptd
+          td widthd
+            p styledmargintop px marginbottom pxinput 
+          namednameptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxfont 
+            facedarialspan styledfontsize pte mail 
+            addressspanfontptd
+          td widthd
+            p styledmargintop px marginbottom pxinput 
+          namedemailptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxfont 
+            facedarialspan styledfontsize pttelephone 
+            numberspanfontptd
+          td widthd
+            p styledmargintop px marginbottom pxinput 
+            namedtelephoneptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxfont 
+            styledfontsize pt facedarialcountry codefontptd
+          td widthd
+            p styledmargintop px marginbottom pxwebbot botdvalidation sdatatypedinteger snumberseparatorsdx input 
+            sized namedcountrycodeptdtr
+        tr
+          td widthd
+            p styledmargintop px marginbottom pxnbspptd
+          td widthd
+            p 
+        styledmargintop px marginbottom pxnbspptdtrtbodytable
+      p styledmargintop px marginbottom pxnbspp
+      p styledmargintop px marginbottom px aligndcenterinput typedsubmit valuedplease click here to proceed  namedbinput typedreset valuedreset namedbpform
+      h styledmargintop px marginbottom pximg heightd 
+      srcdhttpwwwsecuresiteservercomflyerlogocopyjpg widthd 
+      borderdh
+      h styledmargintop px marginbottom pxfont facedarialspan 
+      styledfontsize ptlet us find a property for 
+    youspanfonthtd
+    td widthd heightd
+      table iddautonumber styledbordercollapse collapse 
+      bordercolord heightd cellspacingd cellpaddingd widthd 
+      borderd
+        tbody
+        tr
+          td bgcolordcc heightd
+            p aligndcenternbspptdtrtbodytable
+      p styledmargintop px marginbottom pximg heightd 
+      srcdhttpwwwsecuresiteservercomflyerverticalpicjpg widthd 
+      borderdp
+      p styledmargintop px marginbottom pximg heightd 
+      srcdhttpwwwsecuresiteservercomflyerverticalpicjpg widthd 
+      borderdp
+      p styledmargintop px marginbottom pximg heightd 
+      srcdhttpwwwsecuresiteservercomflyerverticalpicjpg widthd 
+      borderdp
+      table iddautonumber styledbordercollapse collapse 
+      bordercolord heightd cellspacingd cellpaddingd widthd 
+      borderd
+        tbody
+        tr
+          td widthd bgcolordcc 
+    heightdnbsptdtrtbodytabletd
+    td widthd bgcolordcc heightd
+      p styledmargintop px marginbottom pxnbspptdtr
+  tr
+    td widthd bgcolordcc heightd
+      p styledmargintop px marginbottom pxnbspptd
+    td widthd bgcolordcc heightd
+      p styledmargintop px marginbottom pxnbspptd
+    td widthd bgcolordcc heightd
+      p styledmargintop px marginbottom pxnbspptd
+    td widthd bgcolordcc heightd
+      p 
+styledmargintop px marginbottom pxnbspptdtrtbodytable
+
+body
+
+html
+
+
+nextpart
+
+

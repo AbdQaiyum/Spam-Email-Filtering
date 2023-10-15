@@ -1,0 +1,171 @@
+html
+head
+titleabout your commissionstitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+
+body bgcolorffffff text link vlink 
+alink
+img srchttptrackoptinonlycomtevaspeid height width
+
+
+
+center
+
+
+div aligncenter stylewidth  height 
+   div aligncenter
+     center
+   table width border cellspacing cellpadding
+     tr
+       td width height valignbottom
+         div alignlefta 
+hrefhttptrackoptinonlycomclicktrackaspeidurlhttpaffwwwemailcashecomfreferralwareephpfaffdaswimg 
+srchttpigtopjpg width height 
+borderadiv
+       td
+     tr
+     tr
+       td width valigntop
+         table width border cellspacing cellpadding
+           tr
+             td width backgroundigleftgifimg 
+srchttpigspacergif width 
+heighttd
+             td width
+               p classcontent alignleftfont facearial sizethats
+                 the first thing they said to menbspfontp
+                 p classcontent alignleftfont facearial 
+sizequotabout
+                 your commissions you might want to sit downquot and then
+                 they told me how big the check was and they were right i was
+                 glad i took a seat because i almost passed outfontp
+                 p classcontent alignleftfont facearial sizemy name is
+                   matt morrow and ive seen a lot of stuff over the 
+years but nothing
+                 like thisnbsp the marketing system ive been using for
+                 the past  months to create this virtual flood of cash is about
+                 to be released as the quotbfont colormultiple
+                 income stream generatorfontbquotnbsp let me assure
+                 you byouve never seen anything like itbnbsp this
+                 marketing system is the easiest way for anyone to make an
+                 additional income that can grow towell the skys 
+the limitnbspnbspfontp
+                 p classcontent alignleftfont facearial 
+sizebfont coloryour
+                 special arrangement are iuyouui sitting 
+downfontbfontp
+                 p classcontent alignleftfont facearial 
+sizethe founders
+                 of the company have decided to open this system up on 
+a font colorb limitedbfont
+                 beta tester level to prove that anyone can make money with this
+                 system i have
+                   made a special arrangement to allow byoub to be one of
+                 the beta testers nbspfontp
+                 p classcontent alignleftfont facearial sizewhat does
+                   this mean for youfontp
+                 p classcontent alignleftfont facearial 
+sizean opportunity
+                 use this system before it is out of beta testing 
+phase to make an additional    per yearfontp
+                 pfont facearial sizethis opportunity is  
+riskfree for a
+                   limited timefontp
+                 p classcontent alignleftfont facearial 
+sizeyou will have
+                   a real opportunity to make a neverending cash flow 
+stream from
+                   the comfort of your home no matter what level of 
+computer skills
+                   you now possessfontp
+                 p classcontent alignleftfont facearial 
+sizebfont facearial sizeimg 
+srchttpigpicjpg width height 
+alignrightfontfont colorno
+                   special skills no experience is 
+necessaryfontbfontp
+                 p classcontent alignleftfont facearial sizei 
+have determined
+                   this marketing system to be the easiest way for 
+anyone to make
+                   an additional incomenbspfontp
+                 p classcontent alignleftfont facearial 
+sizecurrent members
+                   are making thousands every weekfontp
+                 p classcontent alignleftfont facearial sizeif you are
+                   looking for a nobrainer solution to making an 
+additional 
+                     per year this is your ticket if you 
+qualifyfontp
+                 p classcontent alignleftfont facearial 
+sizeba 
+hrefhttptrackoptinonlycomclicktrackaspeidurlhttpaffwwwemailcashecomfreferralwareephpfaffdaswclick 
+
+                   hereabfontfont facearial size to see if
+                 you qualify as a beta testerfontp
+                 p classcontent alignleftnbspp
+               div
+             td
+             td width backgroundigrightgif
+               div alignrightimg 
+srchttpigrightgif width 
+heightdiv
+             td
+           tr
+         table
+       td
+     tr
+     tr
+       td width height valigntopimg 
+srchttpigbottomgif width 
+heighttd
+     tr
+   table
+     center
+   div
+   table cellspacing cellpadding width aligncenter border
+     tbody
+     tr
+       td classsmall valigntopfont facearial sizethe previous 
+was an advertisement
+         the views expressed in it are those of the referralware only 
+bas with
+         any business you could make more or less money than the 
+results described
+         byour results will be based on your individual monetary investments
+         business experience expertise and your level of desire there are no
+         guarantees concerning the level of success you may 
+experience other than
+         referralwares product performance amp return policy if 
+applicablefont
+       td
+     tr
+     tbody
+   table
+
+   br
+brhr widthbr
+table width border cellspacing cellpadding
+   tr
+     td width
+       pfont size faceverdanayou are receiving this email
+       as a subscriber to the dealsuwant mailing list to remove yourself
+       from this and related email lists click herebr
+       a hrefmailtoremoveoptinonlycomunsubscribe my 
+emailafontp
+
+       pfont size faceverdanabr
+       under bills  title iii by the  us congress per section
+        paragraphaof s  a letter cannot be considered
+       spam if the sender includes contact information and a method
+       of quotremovalquotfont
+     td
+   tr
+table
+center
+
+
+div
+body
+html

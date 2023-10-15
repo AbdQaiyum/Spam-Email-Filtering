@@ -1,0 +1,268 @@
+this is a multipart message in mime format
+
+nextpartbfcaaacb
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ the tba doctor walks the walk on diabetes
+ 
+ 
+
+
+case 	 case 	
+ male age 
+ nonsmoker
+  face
+ type  diabetic  treated with insulin pump
+ diagnosed at age 
+ hospitalized in   and  with
+  diabetic complications
+ issued standard 	 male age 
+ nonsmoker
+  face
+  lbs
+ takes micronase and glucophage
+ issued super standard 
+case 	 case 	
+ female age 
+ nonsmoker
+  face
+  lbs
+ insulin dependent
+ issued super standard 	 male age 
+ nonsmoker
+  face
+  lbs
+ diabetes controlled by diet
+ issued super standard 
+click here to provide the details on your tough case
+httpnettracipipelinecomaskdoctordoctoraspgaidd 	
+call the doctor with your case details
+weve cured s of agents tough cases
+  ext 
+ or 
+
+please fill out the form below for more information	
+name	 	  
+email	 	
+phone	 	
+city	 	 state	 	
+ 	    
+
+
+tennessee brokerage agency  wwwtbacom httpwwwtbacom 
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsuranceiqcomoptout
+
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+nextpartbfcaaacb
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlethe tba doctor walks the walk on diabetestitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolord textd
+font facedarial helvetica sansserif
+table widthd borderd aligndcenter cellpaddingd 
+cellspacingd bordercolord bgcolordffffff
+  tr
+    tdimg srcdhttpiiqusimagestbagif 
+altdthe tba doctor walks the walk on diabetes widthd 
+heightdbr
+      img srcdhttpiiqusimagestbagif 
+widthd heightdimg 
+srcdhttpiiqusimagestbagif widthd 
+heightdbr
+      img srcdhttpiiqusimagestbagif 
+widthd heightdimg 
+srcdhttpiiqusimagestbagif widthd 
+heightd
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          td
+            br
+            table widthd borderd cellpaddingd 
+cellspacingd bordercolord
+              tr bgcolord
+                td widthdbfont colordffffff 
+sizedcase fontbtd
+                td widthdbfont colordffffff 
+sizedcase fontbtd
+              tr
+              tr bgcolordffffcc
+                td widthdfont sizednbspmale age 
+br
+                  nbspnonsmoker br
+                  nbsp facebr
+                  nbsptype  diabetic  treated with insulin 
+pumpbr
+                  nbspdiagnosed at age br
+                  nbsphospitalized in   and  withbr
+                  nbspnbspquotdiabetic complicationsquotbr
+                  nbspbfont colordffissued 
+standardfontbfont
+                td
+                td widthd valigndtopfont 
+sizednbspmale age br
+                  nbspnonsmoker br
+                  nbsp facebr
+                  nbspquot lbs br
+                  nbsptakes micronase and glucophagebr
+                  nbspbfont colordffissued super 
+standardfontbfont
+                td
+              tr
+              tr bgcolord
+                tdbfont colordffffff sizedcase 
+fontbtd
+                tdbfont colordffffff sizedcase 
+fontbtd
+              tr
+              tr bgcolordffffcc
+                td widthdfont sizednbspfemale 
+age br
+                  nbspnonsmoker br
+                  nbsp facebr
+                  nbspquot lbs br
+                  nbspinsulin dependent br
+                  nbspbfont colordffissued super 
+standardfontbfont
+                td
+                td widthdfont sizednbspmale age 
+br
+                  nbspnonsmoker br
+                  nbsp facebr
+                  nbspquot lbsbr
+                  nbspdiabetes controlled by dietbr
+                  nbspbfont colordffissued super 
+standardfontbfont
+                td
+              tr
+            table
+          td
+        tr
+        tr
+          td aligndcentera 
+hrefdhttpnettracipipelinecomaskdoctordoctoraspgaiddi
+mg srcdhttpiiqusimagestbagif altdclick 
+here to provide the details on your quottough casequot 
+widthd heightd borderdatd
+        tr
+        tr
+          td aligndcenter
+            bfont colordcc sizedcall the doctor with 
+your case detailsbr
+            font colordffweve cured s of agents 
+quottough casesquotfontfontbbr
+            img srcdhttpiiqusimagestbagif 
+altd ext  widthd heightd
+          td
+        tr
+        tr
+          td aligndcenterfont sized or 
+fontbr
+						table widthd bgcolord
+							tr
+								form methoddpost 
+actiondhttpresponseresponseasp
+									td
+										table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr
+                        td colspand aligndcenter 
+bgcolordfont colordffffff sizedbplease fill 
+out the form below for more informationbfonttd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbnamebfonttd
+                        td colspand input typedtext 
+namedcontactname sizedtd
+                        td rowspand valigndmiddle 
+aligndcenterimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbemailbfonttd
+                        td colspand input typedtext 
+namedemail sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbphonebfonttd
+                        td colspand input typedtext 
+namedphone sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbcitybfonttd
+                        td widthd input typedtext 
+namedcity sizedtd
+                        td widthd aligndrightfont 
+sizedbstatebfonttd
+                        td widthd input typedtext 
+namedstate sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd colspand
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          input typedhidden 
+namedhdnrecipienttxt valuedimpairedrisktbacom
+                          input typedhidden namedhdnsubjecttxt 
+valuedtba diabetes ad inquiry
+                        td
+                      tr
+                    table
+									td
+								input typedhidden namedsentto valued
+form
+							tr
+						table
+					  br
+            a hrefdhttpwwwtbacomimg 
+srcdhttpimagestbagif altdtennessee 
+brokerage agency  wwwtbacom widthd heightd 
+borderda
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter pfont 
+facedarial helvetica sansserif sized
+        we dont want anyone to receive our mailings who does not wish 
+to this
+        is professional communication sent to insurance professionals 
+to be removed
+        from this mailing list bdo not replyb to this message 
+instead
+        go here a 
+hrefdhttpwwwinsuranceiqcomoptouthttpwwwinsuranceiqcomopt
+outafontptd
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+font
+body
+html
+
+nextpartbfcaaacb
+
+

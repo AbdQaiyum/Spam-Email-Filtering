@@ -1,0 +1,106 @@
+html
+head
+titledigital authoring tools  free software alerttitle
+meta httpequivdcontenttype contentdtexthtml charsetdiso
+
+head
+body bgcolordffffff textd
+center
+table widthd borderd cellspacingd cellpaddingd bor
+dercolordcc
+tr
+td colspandhxfpkkmdhunqjhmphbl
+a hrefdhttpdpageturningebookcom styledtextdecorationnone
+
+font colordcc facedverdana arial helvetica sansserif si
+zedbfree softwareb font
+font colord sized blimited time offerbfonta
+
+td
+tr
+tr
+td widthd aligndcenter bgcolordcc
+font facedverdana arial helvetica sansserif colordffffff si
+zedbfree downloadbfonttd
+td widthd aligndcenter bgcolord
+font facedverdana arial helvetica sansserif colordffffff si
+zedbmore infobfonttd
+td widthd aligndcenter bgcolordcc
+font facedverdana arial helvetica sansserif colordffffff si
+zedbsamplesbfonttd
+td widthd aligndcenter bgcolordff
+font facedverdana arial helvetica sansserif colordffffff si
+zedbunsubscribebfonttd
+tr
+tr
+td widthd aligndcenter valigndtop
+font sized facedverdana arial helvetica sansserif
+a hrefdhttpdpageturningebookcomdownload abr
+a hrefdhttpwwwdigitalpublishingtoolscomdownload abr
+font
+td
+td widthd aligndcenter valigndtop
+font sized facedverdana arial helvetica sansserif
+a hrefdhttpdpageturningebookcommirror site abr
+a hrefdhttpwwwdigitalpublishingtoolscommirror site abr
+font
+td
+td widthd aligndcenter valigndtop
+font facedverdana arial helvetica sansserif sized
+a hrefdhttpdpageturningebookcomsamples site abr
+a hrefdhttpwwwdigitalpublishingtoolscomsamples site abr
+font
+td
+td widthd aligndcenter valigndtop
+font facedverdana arial helvetica sansserif sized
+a hrefdhttpdpageturningebookcomunsubscribe abr
+a hrefdhttpwwwdigitalpublishingtoolscomunsubscribe abr
+font
+td
+tr
+trtd colspand
+p
+font facedverdana arial helvetica sansserif colord sized
+
+a hrefdhttpdpageturningebookcombdigital authoring toolsb
+a
+offers free software that can help you create professional bdb pag
+eturning and slideshow
+style digital brochures documents books catalogs invitations photo a
+lbums resumes newsletters
+menus email promotions magazines presentations and more
+brbr
+font sizedfor more info samples or a free download click the ap
+propriate link above nbsp
+server demand is extremely high for this limited time free software offer
+ bplease try these
+links periodically if a brsite seems slow or unreachablebfontf
+ontptdtr
+tr
+td colspand
+p aligndcenter
+font facedverdana arial helvetica sansserif colord size
+dcopyright a   affiliate id br
+free version is fully functional with no expiration and has a  page  
+page spread limitfont
+p
+td
+tr
+table
+center
+body
+html
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

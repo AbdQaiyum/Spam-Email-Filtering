@@ -1,0 +1,71 @@
+htmlbodydiv aligndcenter
+  center
+  table borderd cellspacingd widthd cellpaddingd bg
+colord bordercolordccc
+  tr
+    td widthd 
+        p aligndcenter
+        font facedverdana arial helvetica sansserif sized co
+lordffffbnorton 
+          systemworks  software suitebr
+          professional editionbfontp
+        p aligndcenterb
+        font sized colordffffff facedarial helvetica sans
+seriffontfont sizedfont facedarial helvetica sansserif
+ sized colordffffff 
+          featurepacked utilities fontfont facedarial helvetica
+ sansserif sized colord 
+        font colordfffffffontfont facedarial helvetica sa
+nsserif sized colordffffff great pricebr
+          a font font colordfffffffontfont faceda
+rial helvetica sansserif sized colordffffff combined retail
+ value for only font 
+          font facedverdana arial helvetica sansserif colordf
+ffffffontfont facedarial helvetica sansserif sized
+ colordffffffbr
+          includes font font colordfffffffreefontfont faced
+arial helvetica sansserif sized colordffffff shippingfo
+ntfontfontbp
+        p aligndcenterb
+        font facedarial helvetica sansserif colordffffffdon
+t 
+        allow yourself to fall prey to destructive virusesfontbp
+        p aligndcenterb
+        font facedarial helvetica sansserif colordffffffprot
+ect 
+        your computer and your valuable informationfontbp
+      p aligndcenterbfont facedarial colordff sized
+
+      a hrefdhttpwwwyouremaildealscomsystemworkshtm styledt
+extdecoration none backgroundcolor ffff
+      font colordclick fontfont colordffheref
+ontfont colord 
+      for more info and to orderfontafontbp
+    p aligndcenterfont facedtahoma sized colordffffff
+
+    
+fontp
+    p aligndcenterfont facedtahoma sized colordffffff
+we hope you enjoy 
+receiving bmarketing coopbs special offer emails you have received
+ this 
+special offer because you have provided permission to receive third party 
+email 
+communications regarding special online promotions or offers however if 
+you 
+wish to unsubscribe from this email list please font
+font facedtahoma sized colord
+a hrefdmailtoremovemebtamailnetcnfont colordffffffclick h
+erefontafontfont facedtahoma sized colordffffff 
+please allow  weeks for us to remove your email address you may receiv
+e 
+further emails frombr
+us during that time for which we apologize thank youfonttd
+  tr
+tablecenter
+div
+bodyhtml
+
+
+
+

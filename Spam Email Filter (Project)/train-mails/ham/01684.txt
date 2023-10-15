@@ -1,0 +1,25 @@
+
+  note that header names are case insensitive so this ones no
+  different than mimeversion  similarly other headers in your list
+ 
+ ignoring case here may or may not help thats for experiment to decide
+ its plausible that case is significant if eg a particular spam mailing
+ package generates unusual case or a particular clueless spammer
+ misconfigures his package
+
+i found it made no difference for my testing
+
+ the brilliance of anthonys just count them scheme is that it requires no
+ thought so cant be fooled wink  header lines that are evenly
+ distributed across spam and ham will turn out to be worthless indicators
+ prob near  so do no harm
+
+zactly i started off doing clever clever things and as always with
+this stuff found that stupid with a rock beats smart with scissors
+every time
+
+
+ 
+anthony baxter     anthonyinterlinkcomau   
+its never too late to have a happy childhood
+

@@ -1,0 +1,37 @@
+matthias saou matthiasrpmforgenet wrote
+
+you can also install the xmms plugin
+seems to make my xmms segfault on exit
+hmmm but maybe its another plugin to listen to your good ol mp
+files thats it
+
+ive an xmms alsa module ive been using for a while now at
+httpwwwdudexnetrpmsalsaxmmscvsaapirpm
+httpwwwdudexnetrpmsalsaxmmscvsaapsrcrpm
+httpwwwdudexnetrpmsalsaxmmscvsspec
+
+also there is alsaplayer rpms there too
+httpwwwdudexnetrpmsalsaplayeraapirpm
+httpwwwdudexnetrpmsalsaplayeraapirpm
+httpwwwdudexnetrpmsalsaplayeraapsrcrpm
+httpwwwdudexnetrpmsalsaplayerspec
+
+good luck both were build on an rh  box with errata current as of the date of
+the build im running null rh beta now and i recall that alsaxmms still works i
+can not remember if alsaplayer needs a rebuild
+
+as an aside alsaplayer is really maturing into a versitile app ive been packaging
+for many releases now
+
+ive scripted the alsaxmms cvs build so its easy to spin another one if these
+rpms do not work on null
+
+
+thats angle as in geometry
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

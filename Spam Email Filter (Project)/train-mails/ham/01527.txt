@@ -1,0 +1,44 @@
+httpwwwhughesfamilyorgbugzillashowbugcgiid
+
+           summary bondedsendercom is a scam
+           product spamassassin
+           version unspecified
+          platform other
+               url httpwwwbondedsendercom
+        osversion other
+            status new
+          severity normal
+          priority p
+         component rules
+        assignedto spamassassindevelexamplesourceforgenet
+        reportedby friedmanspamassassinsplodecom
+
+
+the default score for bondedsendercertified domains is  but i do not
+believe they should be trusted and encourage you to change the default
+
+ i have been spammed by their customers
+ there is no documentation on their website about how i can complain about
+  this and have their customers financially penalized for sending me unsolicited
+  mail
+ what proof do any of us have that they really even do anything about it
+  their contract is with their customers not with us
+
+this is a scam  dont trust them
+
+
+
+ you are receiving this mail because 
+you are the assignee for the bug or are watching the assignee
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+
+

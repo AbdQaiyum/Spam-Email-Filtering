@@ -1,0 +1,55 @@
+html
+head
+titlewhole adtitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+body bgcolorffffff
+table width border cellpadding cellspacing
+	tr
+		td colspan
+			img srchttpwwwpetcarerxcomcommonmaileremailgif width heighttd
+	tr
+	tr
+		td colspan
+			img srchttpwwwpetcarerxcomcommonmaileremailgif width heighttd
+	tr
+	tr
+		td
+			img srchttpwwwpetcarerxcomcommonmaileremailgif width heighttd
+		td
+			a hrefhttpclickmmcomsptplidimg srchttpwwwpetcarerxcomcommonmaileremailgif width height borderatd
+	tr
+table
+img srchttpclickmmcomsptplido border width height brpbr 
+skyemailaddress cypherpunkseinsteinsszcom 
+skydatabase onlythebest
+
+a nameunsub
+table aligncenter border cellpadding cellspacing bordercolorgray
+tdtable width aligncenter cellpadding cellspacing border tr
+td heightfont size facearialsansserif colorgrayremove yourself from this recurring list byfonttd
+trtr
+tdfont colorgray size facearialsansserifa hrefmailtounsubmmcomclicking herea to send a blank email to unsubmmcomfonttd
+trtr
+td aligncenterfont size facearialsansserifiorifonttd
+trtr
+tdfont facearialsansserif colorgray sizesending a postal mail to customerservice  amherst street suite  nashua nh fonttd
+trtr
+td aligncenterbrfont facearialsansserif size colorblackithis message was sent to address cypherpunkseinsteinsszcomifonttd
+trtabletdtable
+ body
+html
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

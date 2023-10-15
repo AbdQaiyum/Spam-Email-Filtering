@@ -1,0 +1,21 @@
+
+robert strickler said
+
+ looks like we need an identity stamp in the xspam headers so that sa only
+ accepts headers from authorized sources
+
+well spamassassin will just ignore any old xspamwhatever headers
+it finds so that cannot be used to get around the filter
+
+j
+
+
+
+in remembrance
+wwwosdncom
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

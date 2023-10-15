@@ -1,0 +1,85 @@
+use perl daily newsletter
+
+in this issue
+     perl cms systems
+      perl conference cd online
+     bricolage  escapes
+
+
+ perl cms systems                                                   
+   posted by ziggy on tuesday september   tools          
+   httpuseperlorgarticleplsid              
+
+
+klb writes krow one of the authors of slash has written up a
+review on linuxcom of two other perl cms systems the e and lj
+engines makes for interesting reading
+
+discuss this story at
+    httpuseperlorgcommentsplsid
+
+links
+     httpkrownet
+     httpslashcodecom
+     httpnewsforgecomarticleplsidmodethreadtid
+     httplinuxcom
+
+
+
+  perl conference cd online                                     
+   posted by gnat on tuesday september   news            
+   httpuseperlorgarticleplsid              
+
+
+gnat writes the  perl conference cd is online on perlorg
+enjoy the blast from the past was this damians first public
+appearance thanks to daniel berger for packratting the cd
+
+discuss this story at
+    httpuseperlorgcommentsplsid
+
+links
+     mailtognatoreillycom
+     httpwwwperlorgtpc
+     httpwwwperlorgtpcuserapplicationsdeclarativecommandlineinter
+
+
+
+ bricolage  escapes                                           
+   posted by chip on tuesday september   tools           
+   httpuseperlorgarticleplsid               
+
+
+theory writes bricolage  has finally escaped the shackles of its
+cvs repository  bricolage is a fullfeatured enterpriseclass
+content management and publishing system it offers a browserbased
+interface for easeof use a fullfledged templating system with complete
+programming language support for flexibility and many other features
+see below it operates in an apachemodperl environment and uses the
+postgresql rdbms for its repository
+
+this story continues at
+    httpuseperlorgarticleplsid
+
+discuss this story at
+    httpuseperlorgcommentsplsid
+
+links
+     httpbricolagecc
+
+
+
+copyright  pudge  all rights reserved
+
+
+
+
+you have received this message because you subscribed to it
+on use perl  to stop receiving this and other
+messages from use perl or to add more messages
+or change your preferences please go to your user page
+
+	httpuseperlorgmymessages
+
+you can log in and change your preferences from there
+

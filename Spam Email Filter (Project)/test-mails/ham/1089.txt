@@ -1,0 +1,35 @@
+exmh has a funky cutpaste model that is essentially all my fault
+the middle click sets the insert point  if you hate that go to the
+bindings simple edit preferences window and deselect
+paste sets insert  
+
+george michaelson said
+  
+  i am a tvtwm user when i snarf text into my mouse cut buffer and then
+  attempt to inject it into the exmh input windows for comprepl the 
+point
+  is often an apparently random place in the text pane not where i think i
+  have current flashing cursor 
+  
+  i usually wipe out any of tosubjectrandom body with the text its
+  often not even beginning of line denoted ie its an unexplicable number
+  of char spaces in to the text where it inserts 
+  
+  what am i doing wrong in either x wm shell exmh which is causing this
+
+
+brent welch
+software architect panasas inc
+pioneering the worlds most scalable and agile storage network
+wwwpanasascom
+welchpanasascom
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

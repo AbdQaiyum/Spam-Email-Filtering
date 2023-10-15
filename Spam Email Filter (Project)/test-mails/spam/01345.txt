@@ -1,0 +1,260 @@
+this is a multipart message in mime format
+
+nextpartcecda
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ vista elite  the equity indexed ul policy
+ 
+ with  participation for the life of the contract	
+ interest crediting strategies
+
+ 	 
+basic interest strategy	 
+fiveyear fixedterm interest strategy	 
+fiveyear equity indexed strategy	 
+interest crediting strategy linked to the sp 	 
+   year no lapse guarantee
+	
+high commissionable targets	 
+designed for cash accumulation	 
+ participation rate guaranteed for the life of the contract 	
+ 	 
+for more information call or email
+mailtosherrykancsindianapolislifecom  us today
+ 
+ or 
+
+please fill out the form below for more information	 
+name	 	 
+email	 	 
+phone	 	 
+city	 	 state	 	  	
+ 	    	
+ 
+
+ indianapolis life  an amerus company
+
+
+standard  poors sp sp  and standard and poors  are
+trademarks of the mcgrawhill companies inc and have been licensed for
+use by indianapolis life insurance company indianapolis lifes eil
+products are not sponsored endorsed sold or promoted by standard 
+poors and standard  poors makes no representation regarding the
+advisability of purchasing these products may not be available in all
+states for broker use only not for use with general public
+cnil 
+
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet 
+
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartcecda
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlethe elite equity indexed ul policytitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+font facedarial helvetica sansserif
+table widthd cellpaddingd cellspacingd 
+aligndcenter bgcolordffffff borderd 
+bordercolord
+  tr
+    tdimg srcdhttpiiqusimagesindyajpg 
+altdvista elite  the equity indexed ul policy widthd 
+heightdbr
+      img srcdhttpiiqusimagesindyajpg 
+widthd heightdbr
+      img srcdhttpiiqusimagesindyajpg 
+altdwith  participation for the life of the contract 
+widthd heightdtd
+  tr
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          td aligndcenter
+            img srcdhttpiiqusimagesindygif 
+widthd heightd altdinterest crediting strategiesbr
+            font facedarial helvetica sansserif sized
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                td rowspand aligndright widthdimg 
+srcdhttpiiqusimagesindygif widthd 
+heightdtd
+                td widthd valigndbottombfont 
+sizedimg srcdhttpiiqusimagesindyspacergif 
+widthd heightdbrbasic interest strategyfontbtd
+              tr
+              tr
+                td widthd valigndbottombfont 
+sizedfiveyear fixedterm interest strategyfontbtd
+              tr
+              tr
+                td widthd valigndbottombfont 
+sizedfiveyear equity indexed strategyfontbtd
+              tr
+              tr
+                td widthd valigndbottombfont 
+sizedinterest crediting strategy linked to the sampp 
+fontbtd
+              tr
+              tr
+                td widthd valigndbottombfont 
+sized amp  year no lapse guaranteebrfontbtd
+              tr
+              tr
+                td widthd valigndbottombfont 
+sizedhigh commissionable targetsfontbtd
+              tr
+              tr
+                td widthd valigndbottombfont 
+sizeddesigned for cash accumulationfontbtd
+              tr
+            table
+            font
+          td
+        tr
+        tr
+          td aligndcenter
+            bfont sized facedtimes new roman times 
+serif participation rate guaranteed for the life of the 
+contractfontb
+          td
+        tr
+        tr
+          td aligndcenternbsptd
+        tr
+        tr
+          td aligndcenter
+            font sizedbfor more information call or a 
+hrefdmailtosherrykancsindianapolislifecomemaila
+            us todaybr
+            img srcdhttpiiqusimagesindygif 
+widthd heightd altdbr
+             or br
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont sized colordffffffplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspandinput typedtext 
+namedcontactname sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspandinput typedtext 
+namedemail sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspandinput typedtext 
+namedphone sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthdinput typedtext 
+namedcity sizedtd
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthdinput typedtext 
+namedstate sizedtd
+                        td rowspand aligndcenter 
+valigndmiddleimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd colspand
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          input typedhidden 
+namedhdnrecipienttxt valuedsherrykancsindianapolislifecom
+                          input typedhidden namedhdnsubjecttxt 
+valuedindianapolis life ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            bfontbr
+            img srcdhttpiiqusimagesindygif 
+widthd heightd altdindianapolis life  an amerus 
+company
+            br
+            p aligndleftfont sizedquotstandard amp 
+poorsquot
+              quotsamppquot quotsampp quot and 
+quotstandard
+              and poors quot are trademarks of the mcgrawhill 
+companies
+              inc and have been licensed for use by indianapolis life 
+insurance
+              company indianapolis lifes eil products are not 
+sponsored endorsed
+              sold or promoted by standard amp poors and standard 
+amp poors
+              makes no representation regarding the advisability of 
+purchasing
+              these products may not be available in all states for 
+broker
+              use only not for use with general publicbr
+              cnil fontp
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+font
+body
+html
+
+nextpartcecda
+
+

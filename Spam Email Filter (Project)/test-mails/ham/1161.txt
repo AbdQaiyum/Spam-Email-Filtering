@@ -1,0 +1,25 @@
+hi im building an rpm for the resin webserver and i basically want to 
+install the entire tarball under a diretory but the tarball includes 
+subdirectorys in my spec i have
+
+
+install s m  nameversionrelease 
+  rpmbuildrootusrlocalresin
+
+and im getting
+
+install resinbin is a directory
+install resinconf is a directory
+
+is there a propernice way i should handle this
+
+
+                                     m 
+  if i seem super human i have been misunderstood c dream theater
+         marktalioscom  icq  jid taliosmyjabbernet
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

@@ -1,0 +1,30 @@
+httpwwwhughesfamilyorgbugzillashowbugcgiid
+
+
+
+
+
+ additional comments from alanrdropcom    
+i havent tried  yet because it requires filespec which barfs when
+spamassassin tries to use it  i havent filed a bug yet because i suspect its
+because im still running  perl because of reported compatibility issues
+with  and later but i probably will because i think theres too much legacy
+perl code to put up with major compatibility problems and spamassassin didnt
+at least in the quickest of looks say it needed a newer one  the perl  stuff
+was bad enough  but this is all a separate soapbox
+
+
+
+ you are receiving this mail because 
+you are the assignee for the bug or are watching the assignee
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+

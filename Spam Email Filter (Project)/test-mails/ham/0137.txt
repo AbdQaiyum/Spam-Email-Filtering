@@ -1,0 +1,34 @@
+on sat oct   at pm  padraig brady mentioned
+ ok im upgrading vorbis on my machine and im getting
+ the following
+ 
+  rpm u libvorbis vorbistoolsirpm
+ error failed dependencies
+ 	libvorbisfileso   is needed by sdlmixer
+ 	libvorbisfileso   is needed by xmms
+ 	libvorbisfileso   is needed by tuxracer
+ 
+ this is because the new libvorbisrpm only has libvorbisfileso
+ so is this a problem in the other packages depending on
+ a specific version libvorbisfileso rather than on the
+ generic libvorbisso 
+
+ this is a pain 
+
+ the only way you can resolve this to my knowledge is to download the
+original libvorbis rpm and the new one remove the old one then do
+
+ rpm uvh libvorbis
+
+ rpm then assumes that you want both versions installed at the same time
+and does so why you cant do this after you have one library already
+installed is beyond me
+
+kate
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

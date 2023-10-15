@@ -1,0 +1,44 @@
+use perl daily newsletter
+
+in this issue
+     dyndnsorg offers free dns to perl sites
+
+
+ dyndnsorg offers free dns to perl sites                           
+   posted by km on tuesday september   news              
+   httpuseperlorgarticleplsid              
+
+
+krellis writes dyndnsorg today announced that it will provide
+free premium dns services primary and secondary dns hosting to any
+domains involved in the perl community read the press release for full
+details create an account and request credit under the perl dns
+offer never lose traffic to your perl site due to failed dns again
+sweet thanks
+
+discuss this story at
+    httpuseperlorgcommentsplsid
+
+links
+     httpwwwdyndnsorg
+     httpwwwdyndnsorgnewsperldnsphp
+     httpsmembersdyndnsorgpolicyshtml
+     httpsmembersdyndnsorgnicperl
+
+
+
+copyright  pudge  all rights reserved
+
+
+
+
+you have received this message because you subscribed to it
+on use perl  to stop receiving this and other
+messages from use perl or to add more messages
+or change your preferences please go to your user page
+
+	httpuseperlorgmymessages
+
+you can log in and change your preferences from there
+
+

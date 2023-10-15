@@ -1,0 +1,56 @@
+html
+
+head
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+titlenew page title
+head
+
+body
+
+p aligndcenterbfont facedarial sized colordff
+a hrefdhttpwwwjustaclicksupersitecomclfont colordff
+free servicefontafontfont facedarial sizedbr
+nbspfontbp
+p aligndleftbfont facedarial sizedbr
+font colordmortgage rates have never been lowerbr
+br
+fontfont colordis your credit good get a loan beyond your
+ wildest 
+expectations fontfontbp
+pbfont facedarial sized colord
+a hrefdhttpwwwjustaclicksupersitecomclclick font colord
+ffherefontabr
+br
+fontfont facedarial sized colordyour credit stink
+s lenders 
+will still give you an absolutely amazing loan fontbp
+pbfont facedarial sizedfont colord
+a hrefdhttpwwwjustaclicksupersitecomclclick font colord
+ffherefontabr
+br
+fontfont colordjust click here and get startedfontfon
+t colordbr
+br
+absolutely free quotebr
+br
+br
+fontfont colorda hrefdhttpwwwjustaclicksupersite
+comclclick
+font colordffherefonta for quick detailsfontfont
+bfont colordbr
+br
+fontbr
+br
+br
+nbspp
+
+body
+
+html
+
+
+
+

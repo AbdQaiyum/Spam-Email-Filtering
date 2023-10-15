@@ -1,0 +1,50 @@
+ saved from urldhttpinternetemail 
+doctype html public wcdtd html  transitionalen
+htmlhead
+meta httpequivdcontenttype contentdtexthtml charsetdiso
+
+head
+body
+table heightd cellspacingd cellpaddingd widthd aligndce
+nter borderd
+  tbody
+  tr
+    td colspanda hrefdhttpmarketingfashioncomuserindex
+aspafftdqmimg heightd srcdhttpmortgageh
+gif widthd borderdatdtr
+  tr
+    td widthd heightda hrefdhttpmarketingfashioncomu
+serindexaspafftdqmimg heightd srcdhttp
+mortgagebulletsgif widthd borderdatd
+    td widthd heightda hrefdhttpmarketingfashioncomu
+serindexaspafftdqmimg heightd srcdhttp
+mortgagefamilyjpg widthd borderdatdtr
+  tr
+    td widthd colspand heightda hrefdhttpmarketingfa
+shioncomuserindexaspafftdqmimg heightd srcdhttp
+mortgagebbgif widthd borderdatdtr
+  tr
+    td widthd colspand heightda hrefdhttpmarketingf
+ashioncomuserindexaspafftdqmimg heightd srcdhttp
+mortgagetextgif widthd borderdatdtr
+  tr
+    td widthd colspand heightda hrefdhttpmarketingfa
+shioncomuserindexaspafftdqmimg heightd srcdhttp
+mortgageclickheregif widthd borderdatdtr
+tbodytablebrbr
+table widthd aligndcenter
+  tbody
+  tr
+    td aligndmiddlefont facedarialhelvetica colord sized
+ffffffa 
+      copyright   all rights reservedbrbrif you would no longer l
+ike us 
+      to contact you or feel that you havebrreceived this email in error
+ 
+      please a hrefdhttpmarketingfashioncomlightwatchaspclic
+k here to 
+      unsubscribeafonttdtrtbodytable
+divfont facedarial sizedfontnbspdivbodyhtml
+
+
+

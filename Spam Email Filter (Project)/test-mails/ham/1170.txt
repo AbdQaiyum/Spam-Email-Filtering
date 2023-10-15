@@ -1,0 +1,24 @@
+hiya i just myself an rpm and when i did uvh to upgrade the earlier 
+version i had installed also from my rpm i got
+
+rootspawn i rpm uvh mulberrybirpm
+preparing                 
+
+   mulberry                
+
+error db error from dbclose dbincomplete cache flush was 
+unable to complete
+
+whats the dbincomplete mean
+
+it all seems to have installed ok thou
+
+                                     m 
+  if i seem super human i have been misunderstood c dream theater
+         marktalioscom  icq  jid taliosmyjabbernet
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

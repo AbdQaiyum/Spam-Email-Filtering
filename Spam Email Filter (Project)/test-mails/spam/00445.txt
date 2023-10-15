@@ -1,0 +1,33 @@
+html
+head
+titleviaprotitle
+head
+body bgcolordffffff
+centertable borderd cellpaddingd cellspacingd widthd
+
+tr
+td valigndtop
+a hrefdhttpwwwbigpharmacynetvhtml
+img srcdhttpwwwbigpharmacynetmailjpg widthd heightd
+ borderdatd
+td valigndtop
+a hrefdhttpwwwbigpharmacynetvhtml
+img srcdhttpwwwbigpharmacynetmailgif widthd heightd
+ borderdatd
+tr
+tr
+td colspand valigndtop
+a hrefdhttpwwwbigpharmacynetvhtml
+img srcdhttpwwwbigpharmacynetmailgif widthd heigh
+td borderdatd
+trtablecenterbrbr
+font facedarialverdana sized colordabp aligndcent
+er
+a hrefdhttpwwwbigpharmacynetservicehtmlexit list instructions
+apfont
+
+body
+html
+ajrule
+
+

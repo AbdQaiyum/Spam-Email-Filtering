@@ -1,0 +1,34 @@
+
+ejnrukwclwjhkhz
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on mon sep   at pm  justin mason wrote
+    razor v now supported fully
+
+grrr  who changed my code    dnspm and reporterpm wrt razor
+have pointers to mailspamassassindebug whereas it should be
+mailspamassassindebugenabled
+
+ill be submitting a bugpatch for this shortly
+
+
+randomly generated tagline
+ma driving  everything is under construction
+
+ejnrukwclwjhkhz
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqecakauoquewasmrauaajiczgvlrmjfzmbrmwdiikvyjwgcccje
+dgipufjrlaijhngqnvf
+hpkl
+end pgp signature
+
+ejnrukwclwjhkhz
+

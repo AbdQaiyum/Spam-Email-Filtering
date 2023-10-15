@@ -1,0 +1,206 @@
+this is a multipart message in mime format
+
+nextpartfcdcabbb
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ show us your apps	
+receive a total of  in cash bonuses 
+for every  ltc apps you write  submit before 
+
+if all  are not received by  but received by 
+youll still get a total of  in cash bonuses 	
+ 	
+claim your cash call today
+ 
+ or 
+
+please fill out the form below for more information	 
+name	  	 	
+email	  	
+phone	  	
+city	  	state	  	
+ 	  	 	   	
+ 
+
+ 
+bonuses awarded from mo marketing on paid issued business for agent
+use only offer subject to change without notice offer starts 
+offer ends  offer good in all states except wi in de not
+available with all carriers	 
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet 
+
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartfcdcabbb
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlelet us show you the moneytitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+table widthd cellpaddingd cellspacingd 
+aligndcenter bgcolordffffff
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          tdimg 
+srcdhttpiiqusimagesmandobigbonusjpg 
+widthd heightd altdshow us your appstd
+        tr
+        tr
+          td aligndcenter
+            bfont facedgeorgia times new roman times serif 
+colordcc sized
+            receive a total of font colordfffont in 
+cash bonuses br
+            for every  ltc apps you write amp submit before 
+br
+            br
+            if all  are not received by  but received by 
+br
+            youll still get a total of font 
+colordfffont in cash bonusesfontb
+          td
+        tr
+        tr
+          td aligndcenterimg 
+srcdhttpiiqusimagesmandobigbonusjpg 
+widthd heightdtd
+        tr
+        tr
+          td aligndcenter
+            font facedarial helvetica sansserif 
+sizedbclaim your cash call todaybr
+            img 
+srcdhttpiiqusimagesmandobigbonusgif widthd 
+heightd altdbr
+             or br
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont sized colordffffffplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                        td rowspand valigndmiddle 
+aligndcenterimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedmarketingmandomarketingcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedmo big bonus ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            br
+            img 
+srcdhttpiiqusimagesmandobigbonusgif widthd 
+heightd bfont
+          td
+        tr
+        tr
+          tdfont facedarial helvetica sansserif 
+sizedbonuses awarded
+            from mampo marketing on paid issued business for agent 
+use only
+            offer subject to change without notice offer starts 
+ offer
+            ends  offer good in all states except wi in de 
+not available
+            with all carriersfonttd
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+body
+html
+
+nextpartfcdcabbb
+
+

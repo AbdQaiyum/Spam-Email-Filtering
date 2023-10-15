@@ -1,0 +1,383 @@
+nextpartcabafefc
+contenttype textplain charsetusascii
+
+
+
+
+
+nextpartcabafefc
+contenttype texthtml charsetusascii
+contenttransferencoding quotedprintable
+
+html
+head
+titleuntitled documenttitle
+meta httpequivdcontenttype contentdtexthtml charsetdiso
+
+head
+
+body bgcolordffffff textd topmargind marginheightd
+
+table widthd borderd cellspacingd cellpaddingd
+  tr
+    td
+      table widthd borderd cellspacingd cellpaddingd
+
+        tr
+          td widthdfont sized facedverdana arial helve
+tica sansserifbfont sizedimg srcdhttpwwweimpecom
+sondageexpresslogosondageexpressegif widthd heightdfo
+ntbfonttd
+          td
+            div aligndcenterfont sized facedverdana arial
+ helvetica sansserifben
+              partenariat avecbfontdiv
+          td
+          td widthd
+            div aligndrighta hrefdhttpwwweokmailecomi
+mg srcdhttpwwweokmailecomimageslogoegif borderda
+div
+          td
+        tr
+      table
+      font sized facedverdana arial helvetica sansserifb
+font sizedbr
+      font sizednbspnbspnbspnbsp fontfont sized 
+fontfontbfonttd
+  tr
+  tr
+    td font sized facedverdana arial helvetica sansserif
+biule
+      dernier sondage avant le second tour des eacutelections preacute
+sidentielles
+      br
+      br
+      u i b sondage express reacutealise le dernier sondage ava
+nt le
+      second tour des eacutelections preacutesidentiellese les reac
+utesultats
+      seront envoyeacutes par email agrave tous les participants avan
+t les
+       et  avril et le  mai  agrave minuit bpar emailbe
+br
+      br
+      ubpour quel candidat allez vous voter le dimanche  mai  b
+r
+      br
+      bub b font
+      form namedpresidentielle actiondhttpwwwelettredumarketing
+ecomcgibinsondageexpressecgi methoddpost
+  input typedhidden valuedcandidatchoixetourciviliteanneede
+naissancesituation email namedparamorder
+  input typedhidden valuedsondageexpressetxt namedparamdataba
+se
+        input typedhidden namedparamrequired
+        table widthd borderd cellspacingd cellpaddingd
+
+          tr
+            td heightd
+              table widthd borderd cellspacingd cellpad
+dingd
+                tr
+                  td widthd valigndtop heightd
+                    table widthd borderd cellspacingd c
+ellpaddingd
+                      tr valigndtop
+                        td widthd heightd font facedver
+dana arial helvetica sansserif sized
+                          input typedradio namedcandidat valued
+chirac
+                          fonttd
+                        td   widthd heightdfont facedve
+rdana arial helvetica sansserif sizedimg srcdhttpwwwei
+mpecomsondageexpresschiracejpgfonttd
+                        td heightd widthdfont facedver
+dana arial helvetica sansserif sizedbjacques
+                          chiracbr
+                          bfontfont facedverdana arial helveti
+ca sansserif sized
+                          parti politique  rassemblement pour la reacute
+publiquebr
+                          fontfont facedverdana arial helvetica 
+sansserif sized
+                          acircge   ansbr
+                          fontfont facedverdana arial helvetica 
+sansserif sized
+                          situation de famille  marieacute et pegrave
+re de
+                          deux fillesbr
+                          fontfont facedverdana arial helvetica 
+sansserif sized
+                          meacutetier dorigine  hautfonctionnairebr
+
+                          fontfont facedverdana arial helvetica 
+sansserif sized
+                          mandat en cours  preacutesident de la reacut
+epublique
+                          depuis fonttd
+                      tr
+                    table
+                  td
+                  td widthd valigndtop heightd
+                    table widthd borderd cellspacingd c
+ellpaddingd
+                      tr valigndtop
+                        td widthd heightd font facedverd
+ana arial helvetica sansserif sized
+                          input typedradio namedcandidat valued
+lepen
+                          fonttd
+                        td   widthd heightdfont facedver
+dana arial helvetica sansserif sizedimg srcdhttpwwweim
+pecomsondageexpresslepenejpgfonttd
+                        td heightd widthdfont facedverd
+ana arial helvetica sansserif sizedbjeanmarie
+                          le penbr
+                          bfontfont facedverdana arial helveti
+ca sansserif sized
+                          parti politique  front nationalbr
+                          fontfont facedverdana arial helvetica 
+sansserif sized
+                          acircge   ansbr
+                          fontfont facedverdana arial helvetica 
+sansserif sized
+                          situation de famille  pegravere de trois fill
+esbr
+                          fontfont facedverdana arial helvetica 
+sansserif sized
+                          meacutetier dorigine  chef dentre
+prisebr
+                          fontfont facedverdana arial helvetica 
+sansserif sized
+                          mandats en cours  deacuteputeacute europea
+cuteen
+                          depuis fonttd
+                      tr
+                    table
+                  td
+                tr
+              table
+              nbspnbspnbspnbspnbspnbspnbspbr
+              table widthd borderd cellspacingd cellpad
+dingd
+                tr
+                  td widthd
+                    input typedradio namedcandidat valuedabste
+ntion
+                  td
+                  tdfont facedverdana arial helvetica sansserif
+ sizedbje
+                    ne voterai pasbfonttd
+                tr
+              table
+              table widthd borderd cellspacingd cellpad
+dingd
+                tr
+                  td widthd
+                    input typedradio namedcandidat valuednsp
+
+                  td
+                  tdfont facedverdana arial helvetica sansserif
+ sizedbnspbfonttd
+                tr
+              table
+             
+            td
+          tr
+        table
+        br
+        table widthd borderd cellspacingd cellpaddingd
+
+          tr
+            td
+              table widthd borderd cellspacingd cellpad
+dingd
+                tr
+                  td widthd
+                    input typedradio namedchoix valuedcertain
+
+                  td
+                  tdfont facedverdana arial helvetica sansserif
+ sizedbje
+                    suis certain de mon choixbfonttd
+                tr
+                tr
+                  td widthd
+                    input typedradio namedchoix valuednondefi
+nitif
+                  td
+                  tdfont facedverdana arial helvetica sansserif
+ sizedbmon
+                    choix nest pas encore deacutefinitifbfonttd
+
+                tr
+              table
+            td
+          tr
+        table
+        br
+        table widthd borderd cellspacingd cellpaddingd
+
+          tr
+            td heightdbfont facedverdana arial helvetica s
+ansserif sizedpour
+              quel candidat avez vous voteacute au er tour fontb
+
+              select namedetour
+                option valuedchoisirchoisiroption
+                option valuedabstentionje nai pas voteacuteopti
+on
+                option valuedae laguillerae laguilleroption
+                option valuedae madelinae madelinoption
+                option valuedbe megretbe megretoption
+                option valuedce boutince boutinoption
+                option valuedce lepagece lepageoption
+                option valuedce taubirace taubiraoption
+                option valuedde glucksteinde glucksteinoption
+
+                option valuedfe bayroufe bayrouoption
+                option valuedje chiracje chiracoption
+                option valuedje saintjosseje saintjosseoptio
+n
+                option valuedjeme le penjeme le penoption
+
+                option valuedjepe chevenementjepe chevenemen
+toption
+                option valuedle jospinle jospinoption
+                option valuedne mamerene mamereoption
+                option valuedoe besancenotoe besancenotoption
+
+                option valuedre huere hueoption
+              select
+            td
+          tr
+        table
+        br
+        table widthd borderd cellspacingd cellpaddingd
+
+          tr
+            td
+              table widthd borderd cellspacingd cellpad
+dingd
+                tr
+                  td widthdfont facedverdana arial helvetic
+a sansserif sizedvotre
+                    civiliteacute fonttd
+                  td widthd font facedverdana arial helveti
+ca sansserif sized
+                    select namedcivilite
+                      option valuedmrmroption
+                      option valuedmmemmeoption
+                      option valuedmllemlleoption
+                    select
+                    fonttd
+                  td widthdfont facedverdana arial helvetic
+a sansserif sizedanneacutee
+                    de naissance fonttd
+                  td widthd font facedverdana arial helveti
+ca sansserif sized
+                    input typedtext namedanneedenaissance valued
+ sized maxlengthd
+                    fonttd
+                  td widthdfont facedverdana arial helvetic
+a sansserif sizedvotre
+                    situation  fonttd
+                  td widthd font facedverdana arial helveti
+ca sansserif sized
+                    select namedsituation
+                      option valuedagriculteur peacheuragriculteur
+ peacheuroption
+                      option valuedartisanartisanoption
+                      option valuedcadre ingenieurcadre ingeni
+euroption
+                      option valuedcommereantcommereantoption
+
+                      option valueddirigeante cadre superieurdi
+rigeante
+                      cadre superieuroption
+                      option valuedemployee ou equivalentemplo
+yee ou equivalentoption
+                      option valuedenseignante chercheurseensei
+gnante
+                      chercheurseoption
+                      option valuedetudianteetudianteoption
+                      option valuedfemme ou homme au foyerfemme ou h
+omme au
+                      foyeroption
+                      option valuedprofession liberaleprofession l
+iberaleoption
+                      option valuedprofe artistique ou sportivepro
+fe artistique
+                      ou sportiveoption
+                      option valuedouvriereouvriereoption
+                      option valuedretraiteeretraiteeoptio
+n
+                      option valuedsans professionsans professiono
+ption
+                      option valuedtechnicien agent de maeetrisete
+chnicien
+                      agent de maeetriseoption
+                    select
+                    fonttd
+                tr
+              table
+            td
+          tr
+        table
+        br
+        ifont facedverdana arial helvetica sansserif sized
+si vous
+        souhaitez recevoir le resultat du sondage par mail precisez votre
+ email
+         font i
+input typedtext namedemail
+        pbr
+          input typedsubmit namedsubmit valuedvalider le formu
+laire
+      form
+       
+      br
+        br
+      font sizedifont facedverdana arial helvetica sansse
+rifattention
+       ce sondage non nominatif est adresseacute agrave un panel de 
+ 
+      internautese il ne peut en aucun cas ecirctre consideacuterea
+cute
+      comme repreacutesentatif de la population franccedilaise et ne d
+oit
+      en aucun cas porter une influence quelconque sur les votes reacute
+els
+      des eacutelections preacutesidentielles du dimanche  mai e
+ aucun
+      fichier informatique nominatif nest constitueacute par sondage ex
+pressregebr
+      reacutesultat pris en compte jusquau vendredi  mai agrave h
+ebr
+      br
+      nbspnbspnbspnbspnbspnbspnbsp fontifonttd
+  tr
+  tr
+    td
+form actiondhttpwwweimpecomcgibinformmailepl methodd
+post targetdtop namedsend input namedrecipient typedhidde
+n valuedsondexpressimpecominput namedredirect typedhidden val
+uedhttpwwweimpecomsondageexpressmerciehtm input named
+subject typedhidden valueddesinscriptionsondageexpress
+        font sized facedverdana arial helvetica sansserifi
+pour ne
+        plus participer aux sondages express indiquez votre email dans le
+ champs
+        cidessous et validez br
+        email  ifont ifont facedverdana arial helvetica sa
+nsserif
+        input typedtext namedtextfield
+        input typedsubmit namedvalider valuedvalider
+      fonti formtd
+  tr
+table
+body
+html
+
+nextpartcabafefc
+

@@ -1,0 +1,19 @@
+
+thanks for the great work mathias but i would like to point out that this
+list is fastly become the aptrpmlist instead of the rpmlist the
+discussion concerning apt is overwhelming maybe another list is in order
+for those having trouble with aptrpm aptrpmhotlinefreshrpmsnet  
+
+though i think aptrpm is a great tool i dont use it and would like to
+get back to talk of new packages and rpm building techniques
+
+dtd
+daniel t drea
+dandaniellemindspringcom
+httpdandaniellehomemindspringcom
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

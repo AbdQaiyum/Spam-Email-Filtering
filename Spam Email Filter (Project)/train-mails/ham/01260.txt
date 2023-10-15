@@ -1,0 +1,32 @@
+matthias said
+
+could you post the list of files in question
+
+sure i used the following command to rebuild the package
+
+rpmbuild rebuild target i lamefrsrcrpm
+
+and here is the error output for the files
+
+rpm build errors
+    user dude does not exist  using root
+    user dude does not exist  using root
+    installed but unpackaged files found
+   usrsharedoclamehtmlbasichtml
+   usrsharedoclamehtmlcontributorshtml
+   usrsharedoclamehtmlexampleshtml
+   usrsharedoclamehtmlhistoryhtml
+   usrsharedoclamehtmlidhtml
+   usrsharedoclamehtmlindexhtml
+   usrsharedoclamehtmllamecss
+   usrsharedoclamehtmlmodeshtml
+   usrsharedoclamehtmlnodehtml
+   usrsharedoclamehtmlswitchshtml
+
+coy
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

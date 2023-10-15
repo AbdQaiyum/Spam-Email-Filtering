@@ -1,0 +1,74 @@
+html
+
+head
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titletitle
+head
+
+body stylebackgroundcolor ffff
+
+div stylewidth  height 
+  p aligncenterbfont sizenbsp fixed payment  yearsfontbp
+div
+font lang color familysansserifspan classfont colorff
+p aligncenterfont size facearialspan classnbspspannbspfont colorstrong
+lenders
+makestrongfontfontfontspanfont facearial sizestrong
+you waitthey demand to interview youbr
+they intimidate youthey humiliate youbr
+and all of that is while they decide if they even want tobr
+do business with youstrongfontfontfont lang color familysansserifbr
+br
+fontfont lang color size familysansserifbfont facearialwe
+turn the tables on thembr
+now youre in chargefontbfontfont lang color familysansserifbr
+br
+font size facearialjust fill out our simple form and they will have to
+compete for your businessbr
+fontfontfont lang color familysansserif size
+font facearial
+br
+fonta hrefhttpwwwstrefinancecomapplyhtmbhttpwwwstrefinancecomapplyhtmbafontp
+p aligncenterfont size facearial lang color familysansserifbwe
+have hundreds of loan programs includingbbr
+fontfont size facearial lang color familysansserifstrongempurchase
+loansbr
+refinancebr
+debt consolidationbr
+home improvementbr
+second mortgagesbr
+no income verificationemstrongspan classfont colorffnbspfontspanfontp
+p aligncentera hrefhttpwwwstrefinancecomapplyhtmbfont lang familysansserif size colorff
+httpwwwstrefinancecomapplyhtmfontbafont lang color size 
+familysansserifbr
+br
+br
+fontfont lang facearial color size familysansserififontfont lang facetahoma color
+ size familysansseriff
+you no longer wish to receive any of our mailings you may bebr
+permanently removed by a hrefmailtoinfolenderscompeteyoucommailtoinfolenderscompeteyoucoma
+if there has been any inconvenience we apologizebr
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+p
+font
+
+body
+
+html
+

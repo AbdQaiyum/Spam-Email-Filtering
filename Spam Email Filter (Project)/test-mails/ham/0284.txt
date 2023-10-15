@@ -1,0 +1,29 @@
+hi
+
+some time now the following messages were haunting me
+
+     automount attempting to mount entry homedude
+
+it just came to my attention that only freshrpm benefitting hosts showed this
+up i grepped through the binaries and found referrences to homedude
+
+ grep homedude usrbin
+binary file usrbinaaxine matches
+binary file usrbingentoo matches
+binary file usrbingphoto matches
+binary file usrbingtkam matches
+
+
+i am now relaxed again  and pass this info on probably matthias saou
+himself is dude and some package has hardwired a path in his build
+directory it would be nice to find out which and fix it but i am using too
+many of the freshrpm suite to narrow it down
+
+regards axel
+ 
+axelthimmphysikfuberlinde
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

@@ -1,0 +1,61 @@
+nextpartcabafefc
+contenttype textplain charsetiso
+
+
+
+
+
+
+nextpartcabafefc
+contenttype texthtml charsetiso
+contenttransferencoding quotedprintable
+
+htmlheadtitlemessagetitle
+meta contentdtexthtml charsetdwindows httpequivdcontentt
+ype
+meta contentdmshtml eee namedgeneratorhead
+body
+pfont facedarial helvetica sansserifbr
+  font
+blockquote dirdltr styledmarginright px
+  divfont facedarial helvetica sansserif sizedimg
+  srcdhttpadefredoubleclickenetadneemailsefranceec
+apmgbeszdxorddtimestampfontdiv
+  divfont facedarial helvetica sansserifnbspfontdiv
+  divfont facedarial helvetica sansseriffont sizedstrong
+quelquun
+    taime en secretstrongbr
+    et nous a charge de te prspan
+  classdespanvenirfontfontdiv
+  font colordee facedarial helvetica sansseriffont size
+dstrongemdevine
+  qui a flashe sur toibr
+  en appelant leemstrongfont
+  colordstrongemnbspspan classd sp
+anemstrongspan classdfont
+  sizedemstrong   strongemfontfont
+  sizedfontspanfontfontfont
+  pfont facedarial helvetica sansserifnbspfontp
+  pfont colordee facedarial helvetica sansseriffont c
+olord sizedspan
+  classdbr
+    font
+  sizede minbr
+    br
+    br
+    fontfont colordee facedarial helvetica sansserif
+font colord sizedspan
+  classdfont colordee facedarial helvet
+ica sansseriffont colord sizedspan
+  classdfont
+  sizedimg srcdhttpwwweimpecomhamediahamediafre
+gifpour
+    ne plus recevoir de message reacutepondez avec lobjet quotstopq
+uotefontspanfontfontfont
+  sized fontspanfontfontfont
+  sized fontspanfontfontp
+blockquote
+bodyhtml
+
+nextpartcabafefc
+

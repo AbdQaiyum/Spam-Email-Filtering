@@ -1,0 +1,18 @@
+on  september  tim peters said
+  note that header names are case insensitive so this ones no
+  different than mimeversion  similarly other headers in your list
+ 
+ ignoring case here may or may not help thats for experiment to decide
+ its plausible that case is significant if eg a particular spam mailing
+ package generates unusual case or a particular clueless spammer
+ misconfigures his package
+
+case of headers is definitely helpful  spamassassin has a rule for it
+ if you have headers like date or subject you get a few more
+points
+
+        greg
+ 
+greg ward gwardpythonnet                         httpwwwgergca
+god is omnipotent omniscient and omnibenevolent
+it says so right here on the label

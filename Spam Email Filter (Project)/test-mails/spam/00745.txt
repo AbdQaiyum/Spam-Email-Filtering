@@ -1,0 +1,82 @@
+html
+
+head
+meta httpequivcontentlanguage contentenus
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titleearn high commissions for booking onlinetitle
+head
+
+bodycenter
+
+table border width height
+  tr
+    td width heighta targetblank hrefhttpwwwntmllccomimg
+srchttpwwwmailpoundcomimagesntmanigif border width heightatd
+    td width heighttd
+    td width heighta targetblank hrefhttpwwwmailpoundcomimg
+height hspace srchttpwwwmailpoundcomimagesmparttmgif width
+alignright borderatd
+  tr
+  tr
+    td width colspan heightfont facetimes new romanispan stylecolor
+blackfont sizenorthstar
+      travel media llcspan stylemsospacerun yesnbsp spanand
+      mailpoundcom a division of smart travel technologies incfontspanfont
+sizespan stylecolor black
+      provide travel professionals with information services and marketing
+      solutionsspanfontifont sizenbspop
+      fontfontop
+      br
+      hr
+    td
+  tr
+  tr
+    td width colspan heightbfont facetimes new roman
+sizeiattention ibr
+      fontfont facetimes new roman size colortravel
+      agents outside agents independent agents corporate travel agentsfontb
+    td
+  tr
+  tr
+    td width colspan height
+      p aligncentera hrefhttpwwwmailpoundcompsssthtm targetblank
+      img border srchttpwwwmailpoundcomimagespssstgif width height
+aligncenter vspacebr
+      click for more
+      informationatd
+  tr
+  tr
+    td width colspan heightnbsp
+      pfont facearial sizemailpound is a trademark of smart travel
+      technologies incfonttd
+  tr
+table
+
+pbr
+p
+
+p aligncenterfont colorffffffimg srchttpeimagespawgif
+width height
+font color sizeif you do not want to receive these messages in
+the future pleasestrong strongfonta
+hrefhttpwwwmailpoundcomtimedefaultaspcidampsidampeforkxentcom
+targetblankfont color sizestrongclick
+herestrongfontafontp
+p aligncenter classmsoheader styletabstopsinfont sizeplease
+do not reply to this emailnbspnbspfor questions or comments on this offer
+please contact the suppliernbspnbspbr
+ for all other inquiries please email us at fonta hrefmailtosupportmailpoundcomfont
+color sizesupportmailpoundcomfontafont color sizebr
+br
+fontp
+
+body
+
+html
+
+
+httpxentcommailmanlistinfofork
+
+

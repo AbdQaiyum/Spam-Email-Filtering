@@ -1,0 +1,62 @@
+
+html
+head
+   titlethe softreg teamtitle
+head
+link relstylesheet typetextcss hrefcssmaincss
+style typetextcss
+black fontsize px color black fontfamily verdana  fontweight normal textdecoration none
+red fontsize  px fontfamily verdana arial helvetica sansseriffontweight  boldcolor  red
+style
+
+body bgcolorffffff
+center
+table border width cellpadding cellspacing
+	tr
+		td width
+			a hrefhttpwwwsoftregcom
+				img srchttpwwwsoftregcomimageslogogif border altwwwsoftreg a
+		td
+		td alignright width
+			hr size
+		td
+	tr
+table
+p
+table border width cellpadding cellspacing bgcolorcc
+	tr
+		td
+			font facearial size color
+				bsoftregcom  service updatebfont
+		td
+	tr
+table
+p
+table border width cellpadding cellspacing
+	tr
+		td classblack
+			hellobrbr
+
+			brwe apologize for the unsolicited email 
+				but we have noticed that you are using an online credit card processor on your web 
+				site that charges you much more than what you should be paying
+
+ 			brbr
+				we are softregcom and we bspecialize in low cost online credit 
+				card processing for developers of electronic productsb 
+				our rates are the lowest in the industry  span classred flat feespan for all online credit card transactions 
+				we provide you with a link for every one of your products that contains your logo and you put it on your web site for seamless credit card processing integration for that simple yet efficient service we charge only  of your online sales
+ 			
+			brbr
+			if you would like to see more information about us please visit a hrefhttpwwwsoftregcomhttpwwwsoftregcoma
+			brbr
+			hr noshade size
+			brthank you
+			brthe softreg team
+			br
+			bra hrefhttpwwwsoftregcomwwwsoftregcoma
+tdtrtable
+center
+body
+html
+

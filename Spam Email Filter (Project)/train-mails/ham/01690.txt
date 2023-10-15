@@ -1,0 +1,17 @@
+
+ skip montanaro wrote
+ 
+ i actually like neales xspamdisposition header i just wonder if maybe we
+ should choose something with a different prefix than xspam so that
+ people dont confuse it with spamassassin all of whose headers begin with
+ that prefix
+
+i think its fine in general just so long as noone checks in anything
+that puts it into my test corpus
+
+or alternately whatever is chosen should be ignored by the tokenizer 
+i know my mail host interlink runs sa but i also run it with my own
+set of rules and scores i dont want my spamfilter to be getting messed
+up by an upstream spam filter
+
+

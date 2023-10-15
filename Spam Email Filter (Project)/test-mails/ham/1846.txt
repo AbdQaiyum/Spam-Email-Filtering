@@ -1,0 +1,97 @@
+followups to spambayespythonorg please unless youre specifically
+ concerned about some particular bit of email policy for pythonorg
+
+ok after much fiddling with and tweaking of etceximeximconf and
+etceximlocalscanpy on mailpythonorg i am fairly confident that
+i can start harvesting all incoming email at a moments notice  for the
+record heres how it all works
+
+   eximconf works almost exactly the same as before if the file
+    etceximharvest does not exist  that is any junk mail
+    condition that can be detected by exim acls access control lists
+    is handled entirely in eximconf the message is rejected before it
+    ever gets to localscanpy  this covers such diverse cases as
+    message from known spammer reject after every rcpt to command
+    no messageid header and bit chars in subject both rejected
+    after the message headersbody are read
+
+    the main things i have changed in the absence of etceximharvest
+    are
+       dont check for bit chars in from header  the vast
+        majority of hits for this test were bounces from some
+        asian isp the remaining hits should be handled by spamassassin
+       do header sender verification ie ensure that theres a
+        verifiable email address in at least one of from replyto
+        and sender as late as possible because it requires dns
+        lookups which can be slow and can also make messages that
+        should have been rejected merely be deferred if those dns
+        lookups timeout
+
+   if etceximharvest exists then the behaviour of all of those
+    acls in eximconf suddenly changes instead of rejecting recipients
+    or messages they add an xreject header to the message  this
+    header is purely for internal use it records the name of the folder
+    to which the rejected message should be saved and also gives the
+    smtp error message which should ultimately be used to reject
+    the message
+
+    thus those messages will now be seen by localscanpy which now
+    looks for the xreject header  if found it uses the folder name
+    specified there to save the message and then rejects it with the
+    smtp error message also given in xreject  currently xreject is
+    retained in saved messages
+
+    if a message was not tagged with xreject then localscanpy
+    runs the usual virus and spam checks  namely my homebrew
+    scan for attachments with filenames that look like windows
+    executables and a run through spamassassin  the logic is
+    basically this
+      if virus
+          folder  virus
+      else
+          run through spamassassin
+          if score  
+              folder  rejectedspam
+          elif score  
+              folder  caughtspam
+
+    finally localscanpy writes the message to the designated folder
+    by far the biggest folder will be accepted  the server handles
+     incoming messages per day of which maybe  are junk
+    mail  oops just realized i havent written the code that actually
+    saves the message  dohh  also havent written anything to
+    discriminate personal email which i must do  sigh
+
+   finally the big catch waiting until after youve read the message
+    headers and body to actually reject the message is problematic
+    because certain broken mtas including those used by some spammers
+    dont consider a xx after data as a permanent error but keep
+    retrying  dohh  this is a minor annoyance currently where a fair
+    amount of stuff is rejected at rcpt to time  but in harvest mode
+    everything with the exception of people probing for open relays
+    will be rejected at data time  so i have cooked up something called
+    the asbl or automated sender blacklist  this is just a berkeley db
+    file that maps senderip senderaddress to an expiry time  when
+    localscan rejects a message from senderip senderaddress 
+    for whatever reason including finding an xreject header added by
+    an acl in eximconf  it adds a record to the asbl with an expiry
+    time  hours in the future  meanwhile theres an acl in eximconf
+    that checks for records in the asbl if theres a record for the
+    current senderip senderaddress that hasnt expired yet we
+    reject all recipients without ever looking at the message headers or
+    body
+
+    the downside of this from the pointofview of corpus collection is
+    that if some jerk is busily spamming pythonorg one smtp
+    connection per address we will most likely only get one copy  this
+    is a win if youre just thinking about reducing server load and
+    bandwidth but im not sure if its helpful for training spam
+    detectors  tim
+
+happy harvesting 
+
+        greg
+ 
+greg ward gwardpythonnet                         httpwwwgergca
+budgets in the red  lets tax religion
+     dead kennedys

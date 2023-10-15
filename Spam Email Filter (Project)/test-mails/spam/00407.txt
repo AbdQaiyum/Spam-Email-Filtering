@@ -1,0 +1,233 @@
+html
+
+body
+
+font size ptsize
+table height cellspacing cellpadding width border styleborderpx double  bordercollapsecollapse paddingleft paddingright paddingtop paddingbottom bordercolor bordercolorlightffffff bordercolordarkffffff
+  tr
+    td width height bgcolorccnbsptd
+    td valigntop alignleft width height styleborderstyle solid borderwidth  bgcolorcc
+    table cellspacing cellpadding width border bgcolorffffff stylebordercollapse collapse bordercolor
+      tr
+        td valigntop alignright height bgcolorcc
+        table cellspacing cellpadding width border
+          tr
+            td
+            div alignleft
+              font faceverdana arial helvetica sansserif sizeb
+              font faceverdana arial helvetica sansserif color size
+              br
+              fontbfontb
+
+font ptsize faceverdana stylefontsize pt
+you cant predict the future but you can always prepare for itfontbdiv
+            div alignleft
+nbspdiv
+            div aligncenter
+              b
+              font faceverdana arial helvetica sansserif colorff stylefontsize pt
+              double font
+              font faceverdana arial helvetica sansserif colorffffff stylefontsize pt
+              your life insurance policy forfontfont faceverdana arial helvetica sansserif colorff stylefontsize pt 
+              no extra costfontbdiv
+            div aligncenter
+              nbspdiv
+            td
+          tr
+          tr
+            td
+            div alignleft
+              font faceverdana size ptsizecompare rates from top insurance companies around the countrybr
+in our life and times its important to plan for your familys future while 
+being comfortable financially choose the right life insurance policy todayfontdiv
+            div alignleft
+              font faceverdana size ptsizenbspfontdiv
+            td
+          tr
+        table
+        table cellspacing cellpadding width border styleposition relative bordercollapse collapse bordercolor height
+          tr
+            td valigntop width height bgcolorffffff
+            div aligncenter
+              font faceverdana arial helvetica sansserif size colorb
+   
+              br
+              a
+              bfontbfont faceverdana sizefont ptsizeyoull be able to compare rates and get afontfont color ptsize
+              fontfont ptsize colorfffree applicationfontfont color ptsize
+              fontfont ptsizein less than a 
+minutefontfontbdiv
+            p aligncenterb
+
+font ptsize faceverdana colorff
+compare your coverage
+font
+
+            bp
+            dl
+              dd
+
+font size ptsize faceverdana
+              bbfontfont size ptsize faceverdana colorbr
+              as low as
+font
+
+              b
+
+font ptsize faceverdana
+              font size colorfffontfont color
+              fontper monthfontbdd
+              dtnbspdt
+              dd
+
+font size ptsize
+
+font size ptsize faceverdana
+              bbfontfont size ptsize faceverdana colorbr
+              as low as
+font
+
+font
+
+              b
+
+font ptsize faceverdana
+
+font size ptsize colorff
+              fontfont size ptsize color
+font
+
+font size ptsize
+              per monthfontfontbdd
+              dtnbspdt
+              dd
+
+font size ptsize
+
+font size ptsize faceverdana
+              bbfontfont size ptsize faceverdana colorbr
+              as low as
+font
+
+font
+
+              b
+
+font ptsize faceverdana
+
+font size ptsize colorff
+              fontfont size ptsize color
+font
+
+font size ptsize
+              per monthfontfontbdd
+              dtnbspdt
+              div alignleft
+                ul
+                  li
+                  dt
+
+font ptsize
+                  bfont faceverdana sizeget yourfontfont color faceverdana size
+                  fontfont faceverdana size colorfffreefontfont color faceverdana size
+                  fontfont faceverdana sizeinstant quotes font
+                  b
+font
+
+                  dt
+                  li
+                  li
+                  dt
+
+font ptsize
+                  bfont faceverdana sizecompare the lowest prices then
+                  fontb
+font
+
+                  dt
+                  li
+                  li
+                  dt
+
+font ptsize
+                  bfont faceverdana sizeselect a company and apply online
+                  fontb
+font
+
+                  dt
+                  li
+                ul
+              div
+            dl
+            div aligncenter
+              b
+              a titlehttpindexhtmlidab targetnewwin hrefhttpquoteindexhtmlidi
+              font colorff size ptsize faceverdanadont 
+              miss this get your free instant quote font
+              font colorff faceverdanaarialhelveticasansserif size
+              click for your free quote nowfontabdiv
+            div aligncenter
+              nbspdiv
+            div aligncenter
+
+font size ptsize
+              b
+
+font size ptsize faceverdana color
+smoker rates also availablefontbfontdiv
+            td
+            td valigntop width height
+            div alignright
+              nbspdiv
+            td
+            td width height bgcolorcc bordercolor aligncenter
+            dl
+              p alignleftb
+              font faceverdana stylefontsize pt colorffffffmakenbspnbspnbspnbsp 
+              insurance companies compete for your insurancefontbp
+              p alignleftnbspp
+            dl
+            p alignleftb
+            font faceverdana stylefontsize pt colorffffffwe have 
+            eliminated the long process of finding the best rate by giving you 
+            access to multiple insurance companies all at oncefontbtd
+          tr
+        table
+        table cellspacing cellpadding width border
+          tr
+            td colspan height bgcolor width
+            font faceverdana arial helvetica sansserif sizeb
+            table cellspacing cellpadding width border height
+              tr
+                td width height styleborderstyle solid borderwidth 
+                font faceverdanaarialhelveticasansserif size colorffffffapply 
+                now and one of our insurance brokers will get back to you within 
+                 hoursfonttd
+                td width bgcolorff height styleborderleftstyle solid borderleftwidth 
+                p aligncenterbfont colorffffff size
+                a styletextdecoration none hrefhttpquoteindexhtmlidi
+                font colorffffffclick herefontafontbtd
+              tr
+            table
+            bfonttd
+          tr
+        table
+        td
+      tr
+    table
+    td
+  tr
+table
+pif you wish to be removed from future mailings please quota hrefhttpfinalindexremoovhtmlidclicking 
+hereaquot  br
+br
+br
+br
+br
+br
+br
+nbspfontp
+
+body
+
+html

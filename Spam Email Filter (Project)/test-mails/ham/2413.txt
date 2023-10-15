@@ -1,0 +1,14 @@
+url httpdiveintomarkorgarchiveshtmlperlprogrammersaresocute
+date t
+
+ian hickson include weblogtxt i used some of perls niftier 
+features such as using method lookup instead of a switch statement for the 
+preprocessing instruction dispatching and exceptions instead of passing error 
+codes back and forth he he perl programmers are so cute when they 
+imitate python programmers
+
+
+
+ httplnhixiechstartcount
+
+

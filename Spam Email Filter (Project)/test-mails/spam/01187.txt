@@ -1,0 +1,69 @@
+
+html
+head
+titleuniversity degrees thru life experiencetitle
+meta httpequivdcontenttype contentdtexthtml charsetdiso
+
+head 
+
+body bgcolordffffff textdcc linkdcc vlinkd
+cc alinkdcc leftmargind topmargind marginwidthd m
+arginheightd
+table widthd heightd borderd 
+  tr 
+    tddiv aligndleftdivtd
+  tr
+  tr 
+    tdtable widthd borderd
+        tr 
+          td widthdnbsptd
+          td widthdp aligndleftcenterfont colord
+ facedarial helvetica sansserifu 
+              n i v e r s i t y d i p l o m a s fontp
+            pfont facedarial helvetica sansserifobtain a prospe
+rous future 
+              money earning power br
+              and the admiration of all fontp
+            pfont facedarial helvetica sansserifdiplomas from p
+restigious 
+              nonaccredited br
+              universities based on your present knowledge br
+              and life experience fontp
+            pfont facedarial helvetica sansserifno required tes
+ts classes 
+              books or interviews fontp
+            pfont facedarial helvetica sansserifbachelors mast
+ers mba 
+              and doctorate phd br
+              diplomas available in the field of your choice fontp
+            pfont facedarial helvetica sansserifno one is turne
+d down 
+              fontp
+            pfont facedarial helvetica sansserifconfidentiality
+ assured 
+              fontp
+            pfont facedarial helvetica sansserifstrongcall no
+wstrong 
+              to receive your diploma br
+              within days fontp
+            pfont facedarial helvetica sansserifstrong   
+           strongfontp
+            pfont facedarial helvetica sansserifcall  hours a
+ day 
+               days a week including br
+              sundays and holidays fontp
+            pfont sized facedarial helvetica sansseriffor 
+removal 
+              mailtoa hrefdmailtonodegreexyzexcitecomnodegree
+xyzexcitecomafontptd
+          td widthdnbsptd
+        tr
+      tabletd
+  tr
+table
+body
+html
+
+
+
+

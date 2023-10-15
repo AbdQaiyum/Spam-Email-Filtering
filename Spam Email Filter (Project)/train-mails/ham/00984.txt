@@ -1,0 +1,26 @@
+   sh c for f in folders recurse fast  do sortm f  done
+
+ thanks tom and jacob the above works but without the double quotes ie
+
+ sh c for f in folders recurse fast  do sortm f  done
+
+i may have a different version of sh than you do the double quotes
+around the backticks work for my sh
+
+in the morethanyoureallywantedtoknow category youre probably
+safe without the double quotes  the only reason i put them in is that
+i have some pathologicallynamed folders including folders whose
+names contain spaces  if all your folders have safe names you dont
+need special quoting
+
+
+ jacob
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

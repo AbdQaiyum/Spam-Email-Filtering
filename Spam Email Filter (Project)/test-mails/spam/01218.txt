@@ -1,0 +1,288 @@
+this is a multipart message in mime format
+
+nextpartedcbedfb
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ first year bonus   commissions
+ guaranteed return of premium
+ 	 convert tax deferred to tax free benefitsa
+access to death
+benefit for ltc benefitsa
+ hour approval in most casesa
+free eo
+coverage
+
+ an innovative plan designed for todays market
+   
+
+give your clients what they want and need guaranteed death benefits and
+long term care benefits without expensive and continuous long term care
+premiums
+
+  lifetime guarantees
+ return of premium guarantees for single pay plans
+ convert tax deferred to tax free benefits for your clients heirs
+
+simplified underwriting  nonmedical no blood no urine no ekg have
+your clients complete a  question application fax to underwriting and
+generally within  hours you will have status
+
+   
+
+call or email mailtomarketingnationalfinancialgroupcom  us today
+ 
+ or 
+
+please fill out the form below for more information	
+name	  
+email	  
+phone	  
+city	  	state	  	 
+ 	  	 	   
+
+
+national financial group httpwwwnationalfinancialgroupcom
+
+the future series convention march 
+join us in maui during prime season  an experience you will never
+forget
+
+up to  maximum  must remain in policy after this
+benefit is exercised  commission on single pay plan ages   
+single pay plans only product and certain features not available in
+all states the future protector series policy form iswl iswl
+iswl iswliswl iswl is underwritten by monumental life
+insurance company rider costs and features vary according to state for
+broker use only not approved for use with the general public as
+advertisement for purchase of annuity or insurance coverage anfg
+
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet
+
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+nextpartedcbedfb
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlean innovative plan for todays markettitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolord textd
+table widthd cellpaddingd cellspacingd 
+bgcolord aligndcenter
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          tdimg 
+srcdhttpiiqusimagesnfgfpsagif widthd 
+heightd altdfirst year bonus   commissionsbr
+            img srcdhttpiiqusimagesnfgfpsbgif 
+widthd heightd altdguaranteed return of premiumtd
+        tr
+        tr
+          td
+            table widthd cellpaddingd cellspacingd 
+borderd
+              tr
+                td widthdimg 
+srcdhttpiiqusimagesnfgfpsjpg widthd 
+heightdtd
+                td aligndrightimg 
+srcdhttpiiqusimagesnfgfpsgif widthd 
+heightd altdconvert tax deferred to tax free 
+benefitsaccess to death benefit for ltc benefits hour 
+approval in most casesfree eo coveragetd
+              tr
+            table
+          td
+        tr
+        tr
+          td aligndcenter
+            img srcdhttpiiqusimagesnfgfpsspacergif 
+widthd heightdbr
+            img srcdhttpiiqusimagesnfgfpsgif 
+widthd heightd altdan innovative plan designed for 
+todays market
+          td
+        tr
+        tr
+          td
+            hr widthd sized colord
+            font facedverdana arial helvetica sansserif 
+sized
+            bgive your clients what they want and need bguaranteed 
+death benefits
+            and long term care benefits without expensive and continuous 
+long
+            term care premiumsbr
+            nbspbr
+            img srcdhttpiiqusimagesnfgfpsspacergif 
+aligndleft heightd widthd
+            font colordbnbsplifetime 
+guaranteesbr
+            nbspreturn of premium guarantees for single pay 
+plansbr
+            nbspconvert tax deferred to tax free 
+benefitsbfont sized for your clients 
+heirsfontfontbr
+            br
+            bsimplified underwritingb  nonmedical no blood no 
+urine
+            no ekg have your clients complete a  question application 
+fax to
+            underwriting and generally within  hours you will have 
+statusbr
+            font
+            hr widthd sized colord
+          td
+        tr
+        tr
+          td aligndcenter
+            font facedarial helvetica sansserif sizedb
+            call or a 
+hrefdmailtomarketingnationalfinancialgroupcomemaila us 
+todaybr
+            img srcdhttpiiqusimagesnfgfpsgif 
+widthd heightd altdbr
+             or br
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont sized colordffffffplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                        td rowspand aligndcenter 
+valigndmiddleimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedmarketingnationalfinancialgroupcom
+                          input typedhidden namedhdnsubjecttxt 
+valuednfg ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            bfont
+            pa hrefdhttpwwwnationalfinancialgroupcomimg 
+srcdhttpiiqusimagesnfgfpsgif widthd 
+heightd altdnational financial group borderdap
+            pbfont sized colordffthe future series 
+convention march fontbbr
+              bfont sized facedarial helvetica sansserif 
+colordff
+              join us in maui during prime season  an experience you 
+will never forgetfontbp
+            p aligndleftfont sized facedarial helvetica 
+sansserifup to 
+              maximum  must remain in policy after this benefit 
+is exercised
+               commission on single pay plan ages    
+single pay
+              plans only product and certain features not available in 
+all states
+              the future protector series policy form iswl iswl 
+iswl
+              iswliswl iswl is underwritten by monumental 
+life insurance
+              company rider costs and features vary according to state 
+for broker
+              use only not approved for use with the general public as 
+advertisement
+              for purchase of annuity or insurance coverage anfg 
+fontp
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+body
+html
+
+nextpartedcbedfb
+
+

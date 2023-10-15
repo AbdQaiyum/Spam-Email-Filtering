@@ -1,0 +1,67 @@
+
+
+what is mime
+
+mime stands for multipurpose internet mail extensions  it is the
+standard for how to send multipart multimedia and binary data using the
+worldwide internet email system  typical uses of mime include sending
+images audio wordprocessing documents programs or even plain text
+files when it is important that the mail system does not modify any part
+of the file  mime also allows for labelling message parts so that a
+recipient or mail program may determine what to do with them 
+
+how can i read a mime message
+
+since mime is only a few years old there are still some mailers in use
+which do not understand mime messages  however there are a growing
+number of mail programs that have mime support builtin  one popular
+mimecapable mailer for unix vms and pcs is pine developed at the
+university of washington and available via anonymous ftp from the host
+ftpcacwashingtonedu in the file pinepinetarz
+
+in addition several proprietary email systems provide mime translation
+capability in their internet gateway products  however even if you do
+not have access to a mimecapable mailer or suitable gateway there is
+still hope 
+
+there are a number of standalone programs that can interpret a mime
+message  one of the more versatile is called munpack  it was developed
+at carnegie mellon university and is available via anonymous ftp from the
+host ftpandrewcmuedu in the directory pubmpack  there are versions
+available for unix pc mac and amiga systems  for compabibility with
+older forms of transferring binary files the munpack program can also
+decode messages in splituuencoded format 
+
+does mime replace uuencode
+
+yes  uuencode has been used for some time for encoding binary files so
+that they can be sent via internet mail but it has several technical
+limitations and interoperability problems  mime uses a more robust
+encoding called base which has been carefully designed to survive the
+message transformations made by certain email gateways 
+
+how can i learn more about mime
+
+the mime internet standard is described in rfc available via
+anonymous ftp from many different internet hosts including 
+                                                       
+     o  us east coast                            
+        address  dsinternicnet         
+                                                        
+     o  us west coast                            
+        address  ftpisiedu       
+                                                        
+     o  pacific rim                              
+        address  munnariozau   
+                                                        
+     o  europe                                   
+        address  nicnordunet  
+
+look for the file rfcrfctxt
+
+another source of information is the internet news group compmailmime
+which includes a periodic posting of a frequently asked questions list
+
+
+httpxentcommailmanlistinfofork
+

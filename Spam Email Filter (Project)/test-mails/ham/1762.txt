@@ -1,0 +1,47 @@
+anthony baxter
+ the other thing on my todo list probably tonights tram ride home is
+ to add all headers from nontext parts of multipart messages if nothing
+ else itll pick up most virus email real quick
+
+see the checkin comments for timtestpy last night  adding this code gave a
+major reduction in the false negative rate
+
+def crackcontentxyzmsg
+    x  msggettype
+    if x is not none
+        yield contenttype  xlower
+
+    x  msggetparamtype
+    if x is not none
+        yield contenttypetype  xlower
+
+    for x in msggetcharsetsnone
+        if x is not none
+            yield charset  xlower
+
+    x  msggetcontentdisposition
+    if x is not none
+        yield contentdisposition  xlower
+
+    fname  msggetfilename
+    if fname is not none
+        for x in fnamelowersplit
+            for y in xsplit
+                yield filename  y
+
+    x  msggetcontenttransferencoding
+    if x is not none
+        yield contenttransferencoding  xlower
+
+
+
+
+    t  
+    for x in msgwalk
+        for w in crackcontentxyzx
+            yield t  w
+        t  
+
+i suspect most of that stuff didnt make any difference but i put it all
+in as one blob so dont know which parts did and didnt help
+

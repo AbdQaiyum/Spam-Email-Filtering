@@ -1,0 +1,139 @@
+html
+
+head
+meta httpequivdcontentlanguage contentdenus
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+titlenorton adtitle
+head
+
+body
+
+table borderd cellspacingd widthd cellpaddingd bgco
+lord  bordercolordffffff styledbordercollapse collaps
+e bordercolordarkdffffff
+  tr
+    td widthdnbsp
+      table borderd widthd bgcolordffffff bordercolord
+
+        tr
+          td widthd aligndcenterfont facedimpact sized
+ colordccattention
+            this is a must for uallu computer usersfonttd
+        tr
+      table
+      p aligndcenterfont sized facedverdanabnbspfont
+ colordffffffnew
+       special package dealfontbfontp
+      table borderd widthd heightd bgcolordffffff
+ bordercolordffff
+        tr
+          td widthd heightd aligndcenterfont faced
+verdana arial helvetica sansserif colord sizedbnor
+ton
+            systemworks  software suitebr
+            iprofessional editionibfonttd
+        tr
+      table
+      table borderd widthd heightd
+        tr
+          td widthd heightd aligndcenterbfont faced
+tahoma colordffffff sizedincludes
+            six  fontifont facedtahoma sized colordfff
+fyes fontifont facedtahoma colordffffff sized 
+ featurepacked utilitiesbrall
+            for fontfont facedtahoma sized colordffff
+fontfont facedtahoma colordffffff sized
+            special fontfont facedtahoma sized colordffff
+lowfontfont facedtahoma colordffffff sized
+            pricefontbtd
+        tr
+      table
+      table borderd widthd heightd bgcolord
+ bordercolordffffff
+        tr
+          td widthd heightdbfont facedtahoma sized
+ colordffffthis software willfontfont facedtahoma size
+d colordffffffbr protect your
+            computer from unwanted and i hazardousi virusesbr help
+ secure your
+            private amp valuable informationbr allow you to transfer 
+files
+            and send emails u safelyubr backup your all your data
+ quick and
+            easilybr improve your pcs performance wisuperiori
+            integral diagnosticsbrfontbtd
+        tr
+      tablenbsp
+      table borderd widthd heightd bgcolordffffff 
+bordercolordffff
+        tr
+          td widthd heightd
+            p aligndcenterbfont facedverdana sizedfont
+ colordfont colordfffont
+            fontfont colordfeaturepacked utilitiesbrf
+ontfont colord
+            fontufont colordfffontuufont colord
+ 
+            fontfont colord great
+            pricefontufont colord br
+            fontfont colord
+            afontfont colord font colordff
+font  fontfont colord combined retail value
+            iyoursi for onlyfontfont colord font col
+ordfffontbr
+            fontfontfont facedverdana sizedfont colord
+ltincludes
+            fontfont colordfffreefontfont colord
+ shippinggtfontfontbtd
+        tr
+      table
+    p aligndcenterb font facedarial helvetica sansserif  c
+olordffffffdont fall prey to destructive viruses
+    or hackersbrprotectnbsp your computer and your valuable  informat
+ion
+    andfontbp
+      table borderd widthd heightd bordercolordfff
+fff
+        tr
+          td widthd heightd bgcolordff aligndce
+nterbfont facedverdana sized colordffffff
+          a styledcolor ffffff fontfamily verdana fontsize p
+t fontweight bold hrefdhttpwwwdealcomsystemworkshtm
+gt
+            click here to order yours now ltafontbtd
+        tr
+      table
+      p aligndcenterbfont facedarial sized
+      a styledtextdecoration none backgroundcolor rgb
+ color ff hrefdhttpwwwdealcomsystemworkshtmclick
+      here for more informationafontbp
+      p aligndcenterfont facedtahoma sized colordfffff
+fnbspnbspnbspnbspnbspnbspnbsp
+      fontp aligndcenterfont colordffffff sized faced
+tahomayour
+      email address was obtained from an optin list optin mrsa listbr
+      nbsppurchase code  nbspnbspif you wish to be unsubs
+cribed
+      from this list please a styledcolor ffffcc hrefdmailtore
+movemebtamailnetcnsubjectdunsubcribe immediatelyclick
+      herea and press send to be removed if you have previously unsubs
+cribed
+      and are still receiving this message you may email our a styled
+color ffffcc hrefdmailtosortofridiculousbigfootcomsubjectdabus
+e reportspam
+      abuse control centera we do not condone spam in any shape or for
+m
+      thank you kindly for your cooperationfonttd
+  tr
+table
+
+body
+
+html
+
+
+
+

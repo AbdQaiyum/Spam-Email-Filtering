@@ -1,0 +1,107 @@
+this is an html email message  if you see this your mail client does not support html messages
+
+nextpartmabvcximxo
+contenttype texthtmlcharsetiso
+contenttransferencoding bit
+
+html
+
+head
+meta httpequivcontentlanguage contentenus
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titlenew page title
+head
+
+body
+
+div aligncenter
+  center
+  table border cellpadding cellspacing width height
+    tr
+      td width valignbottom aligncenter colspan height
+        p stylewordspacing  margintop  marginbottom ubfont facebradley hand itc colorff sizequotmagicalquot
+        orlando  quotfabulousquot ft lauderdalefontbup
+        p stylewordspacing  margintop  marginbottom bfont facebradley hand itc sizeexperience
+        all the splendor and magic that is floridafontbtd
+    tr
+    tr
+      td width aligncenter height valigntop
+        p stylewordspacing  margintop  marginbottom img border srchttpwwwfamtriptravelcomimagesfrontjpg width heightp
+        p stylewordspacing  margintop  marginbottom img border srchttpwwwfamtriptravelcomimagesfrontjpg width heightp
+      td
+      td width aligncenter height
+        p stylewordspacing  margintop  marginbottom bfont facebradley hand itc colorff sizenbsp
+        days   nightsfontbp
+        p stylewordspacing  margintop  marginbottom ufont size facebradley hand itc colorffbfirst
+        class accommodationsbfontup
+        p stylewordspacing  margintop  marginbottom font size facebradley hand itcnights
+        in quotmagicalquot orlandofontp
+        p stylewordspacing  margintop  marginbottom font size facebradley hand itc
+        nights in quotfabulousquot ft lauderdalefontp
+        p stylewordspacing  margintop  marginbottom font size facebradley hand itc
+        passes to disney epcot or universalfontp
+        p stylewordspacing  margintop  marginbottom bfont size facebradley hand itc colorffonly
+        fontfont size facebradley hand itc colorff
+        fontfont size facebradley hand itc colorff per personfontbp stylewordspacing  margintop  marginbottom bfont facebradley hand itc sizeconfirmation
+        number fontfont size facearial black colorffstlvfontbtd
+    tr
+    tr
+      td width colspan valignmiddle aligncenter height
+        p stylewordspacing  margintop  marginbottom font facebradley hand itc sizebcall
+        our toll free number to reserve yourbfontp
+        p stylewordspacing  margintop  marginbottom font facebradley hand itc colorff sizebquotfabulousnbsp
+        familynbsp getawayquotbfontp
+        p stylewordspacing  margintop  marginbottom font size facebradley hand itc colorffbtoll
+        free bfontp
+        p stylewordspacing  margintop  marginbottom bifont facebradley hand itc colorff sizeplease
+        one call per email notificationfontibp
+        p stylewordspacing  margintop  marginbottom a hrefhttpwwwfamtriptravelcompromooffershtmlfont facearialif
+        you are too busy to call please leave us your information byfontap
+        p stylewordspacing  margintop  marginbottom a hrefhttpwwwfamtriptravelcompromooffershtmlfont facearialclicking
+        here and we will contact you at the time and number you specifyfontap
+        p stylewordspacing  margintop  marginbottom font facebradley hand itcbfont sizebonusfont
+        order within  hours and also receiveb fontp
+        p stylewordspacing  margintop  marginbottom font facebradley hand itcb
+        days and  nights first class accommodations inbfontp
+        p stylewordspacing  margintop  marginbottom font facebradley hand itclas
+        vegas nvnbsp puerto vallarta mexiconbsp williamsburg vafont
+        p stylewordspacing  margintop  marginbottom nbsp
+        p stylewordspacing  margintop  marginbottom nbsptd
+    tr
+  table
+  center
+div
+div aligncenter
+  center
+  table border cellpadding cellspacing width
+    tr
+      td width valignmiddle aligncenter
+        p stylewordspacing  margintop  marginbottom ua hrefhttpwwwrprpromoscomadvtermsandconhtm targetblankterms
+        and conditions of promotionaup
+        p stylewordspacing  margintop  marginbottom font sizeto
+        be removednbsp a hrefmailtoremovemefamtriptravelcom subjectremove meclick herea or email quota hrefmailtoremovemefamtriptravelcomremovemefamtriptravelcomaquot
+        with the subject quotremove mequotfontp
+      td
+    tr
+    tr
+      td width valignmiddle aligncenter
+        img border srchttpwwwfamtriptravelcomimagesimperialjpg width heightnbspnbsp
+        img border srchttpwwwfamtriptravelcomimagesuniversalstudioslogogif width heightnbspnbsp
+        img border srchttpwwwfamtriptravelcomimagescliagif width heightnbspnbsp
+        img border srchttpwwwfamtriptravelcomimagesamerihostgif width height
+      td
+    tr
+  table
+  center
+div
+
+body
+
+html
+
+
+nextpartmabvcximxo
+
+

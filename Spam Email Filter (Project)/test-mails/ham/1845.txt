@@ -1,0 +1,11 @@
+
+    greg otoh look into dcc distributed checksum clearinghouse
+    greg httpwwwrhyolitecomantispamdcc which uses fuzzy
+    greg checksums  its quite likely that dccs checksumming scheme is
+    greg better than something any of us would throw together for personal
+    greg use no offense skip
+
+none taken  i wrote my little script before i was aware dcc existed  even
+now it seems like overkill for my use
+
+skip

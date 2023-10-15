@@ -1,0 +1,29 @@
+carlos luna wrote
+
+hi all
+does anyone know how to set up dual keyboardsone is actually a standalone
+keypad
+both keyboards have ps connections and i want the keypad to be plugged in
+as the primary input device  then if the other keyboard is plugged in that
+should take over
+possible  any possible hacks
+  
+
+get a keyboard switch  i think even viking direct and maplin stock them
+
+  
+
+
+
+
+
+this email has been scanned for all viruses by the messagelabs skyscan
+service for more information on a proactive antivirus service working
+around the clock around the globe visit httpwwwmessagelabscom
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

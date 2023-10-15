@@ -1,0 +1,116 @@
+html
+
+head
+meta httpequivdcontentlanguage contentdenus
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+titledo you have an inkjet or laser printertitle
+head
+
+body
+div aligndleft
+  table borderd widthd heightd bordercolordffffff 
+bordercolorlightdffff bordercolordarkd bgcolord
+
+    tr
+      td widthd heightd aligndcenter bgcolord
+ bordercolordccc styledborderrightstyle solid borderright
+color cccnbsp
+        div aligndcenter
+          center
+          table borderd widthd heightd bordercolord
+
+            tr
+              td widthd heightd aligndcenter bgcolord
+ffff styledcolor ffffff fontsize pt fontweight boldb
+font facedverdana sized colorddo
+        you have an inkjet or laser printerfontb
+              td
+            tr
+          table
+          center
+        div
+        pbfont facedverdana sized colordffffffyes the
+n we can fontfont facedverdana sized colordffffsave
+fontfont facedverdana sized colordffffff
+        you fontfont facedverdana sized colordffff
+fontfont facedverdana sized colordffffff moneyfont
+bp
+        pbfont sized colordfffffffont facedverdanaou
+r high quality ink  toner cartridges come
+        with a moneyback guaranteefont font facedverdanaa yea
+r
+        warranty and get fontfontifont facedverdana sized
+ colordffffufree day shipping
+        ufontibp
+        pbfont facedverdana sized colordffffffand best
+ of allthey cost
+        fontfont facedverdana sized colordffff up to 
+ font iufont facedverdana colordffff sizedless
+fontui
+        font facedverdana sized colordffffff
+        than
+        retail pricefontbp
+        div aligndcenter
+          center
+          table borderd widthd heightd bordercolord
+
+            tr
+              td widthd bgcolordffff aligndcenter styl
+edcolor ffffff bordercolord
+        pbfont facedverdana sized colordcca style
+dcolor  fontweight bold hrefdhttpwwwsuperinknet
+click here
+        to visit our websiteafontbp
+              td
+            tr
+          table
+          center
+        div
+        pbufont sized colordffffffor call us tollfree 
+        fontub
+        pfont sized facedarial colordcccday warra
+nty on remanufactured
+        cartridges free shipping on orders over fonttd
+    tr
+  table
+div
+br
+pnbspp
+pnbspp
+div aligndleft
+          table borderd widthd heightd bgcolord
+
+            tr
+              td widthd heightd aligndcenter styledf
+ontfamily palatino linotype fontsize pt color fffffffont faced
+verdana sized colordffffffyou
+                are receiving this special offer because you have provided
+fontfont facedverdana sized colord
+                fontfont facedverdana sized colordffffff
+
+                permission to receive email communications regarding speci
+al
+                online promotions or offers if you feel you have received
+ this
+                message in error or wish to be removed from our subscribe
+r
+                list a hrefdmailtoprintbtamailnetcn styledco
+lor ffclick herea
+                and then click send and you will be removed within three 
+business days
+                thank you and we apologize for any inconveniencefont
+td
+            tr
+          table
+div
+
+body
+
+html
+
+
+
+

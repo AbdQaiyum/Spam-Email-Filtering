@@ -1,0 +1,33 @@
+on mon  aug    matthias saou matthiasegwnnet wrote
+
+ hi all
+ 
+ ive repackaged the new gkrellm  which is now ported to gtk
+ woohoo unfortunately the plugins are incompatible with the previous
+ x ones and since not manyall have been ported yet i prefer not to
+ release the package on the main freshrpmsnet site for now
+ 
+ for those of you whod like to try it out you can grab it here 
+ httpftpfreshrpmsnetpubfreshrpmstestinggkrellm
+ 
+ i think the themes are still compatible but havent tried to install some
+ with  yet
+ last note the above packages are for valhalla and yes although gnome 
+ is not in valhalla gtk and glib have been from the very beginning 
+
+    sweet dude i was really hoping itd be out sooner or later thanks a bunch
+
+
+brian fahrlnder              linux zealot conservative and technomad
+evansville in                    my voyage httpwwwcountermooncom
+icq  
+
+ive been complaining for years and almost no one listened windows is
+just easier you said i dont want to learn anything new you said
+tell me how easy this is
+httpwwwguardiancoukarchivearticlehtml
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

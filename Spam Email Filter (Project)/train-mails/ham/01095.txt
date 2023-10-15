@@ -1,0 +1,57 @@
+once upon a time harri wrote 
+
+ on wed feb   at pm  peter peltonen wrote
+  two issues
+  
+  snip
+  sorry but the following packages have unmet dependencies
+    openssh depends openssl  a but b is installed
+    phppgsql depends postgresql but it is not installed
+               depends libpqso
+  e unmet dependencies try using f
+  snip
+  
+   i have the following openssl packages installed
+  
+  snip
+  opensslperlb
+  opensslb
+  opensslaa
+  openssldevelb
+  snip
+  
+  the openssla package should provide the openssla compatibility
+  but apt doesnt think so 
+ 
+ i believe thats just a matter of string parsing if someone were to fix
+ the openssh package removing the explicit requires i believe the
+ automagic binary handler would figure the right libraries to use and
+ install i havent met an openssh like that and in worst case ive had 
+ different openssl libraries wtf cant they just bump a major version if
+ its incompatible
+
+strange all my openssh packages dont explicitly requires a version of
+openssl what version of openssh do you have is it an official red hat
+package i suppose it isnt and using red hats rpms will solve your
+problem
+
+what you need to know for openssl is 
+b is libcryptoso and libsslso
+  is libcryptoso and libsslso
+b is libcryptoso and libsslso
+
+now in all red hat packages ive seen so far the only dependency is on
+those files and not on openssl  version
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

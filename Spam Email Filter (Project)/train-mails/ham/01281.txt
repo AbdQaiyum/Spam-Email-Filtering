@@ -1,0 +1,23 @@
+once upon a time ville wrote 
+
+ any plans for rolling nessus rpms for rh  miss it already
+
+well thats one of the  rpmrelated mails leftover in my inbox i just
+mentionned privately 
+as its a big piece and needs some testing im just bit lazy about it 
+
+ill try to packages it asap or at least put up a testing version first
+in case i fear some imperfections
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel acpi
+load    
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

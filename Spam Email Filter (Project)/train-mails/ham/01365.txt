@@ -1,0 +1,31 @@
+ msgidaddedbymta    points
+ invalidmsgid          points 
+ msgidaddedbymta  points
+
+here are the new scores in the  branch they may change but they
+are better than before
+
+score invalidmsgid                  
+score msgidaddedbymta            
+score msgidaddedbymta          
+
+total of  which is better than  i suppose
+
+if they fixed their msgid it would help  i suppose we could allow
+comments without hurting spam detection too much but im reluctant
+its pretty bizarre to put a comment after the messageid header
+
+can you open a bugzilla ticket for this one
+
+dan
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

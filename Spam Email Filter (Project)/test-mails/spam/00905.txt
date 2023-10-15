@@ -1,0 +1,168 @@
+
+
+html
+head
+titlecards in advancetitle
+
+meta namecopyright contentcopyright   cards in advance all rights reserved
+
+style
+
+alink textdecoration none fontsize  pt color b
+alinksmall textdecoration none fontsize  pt color b
+alinkwhite textdecoration none fontsize  pt color fff
+
+avisited textdecoration none fontsize  pt color b
+avisitedsmall textdecoration none fontsize  pt color b
+avisitedwhite textdecoration none fontsize  pt color fff
+
+aactive textdecoration none fontsize  pt
+
+ahover textdecoration underline fontsize  pt color cc 
+ahoversmall textdecoration underline fontsize  pt color cc 
+ahoverwhite textdecoration none fontsize  pt color cc
+
+td fontfamily verdana fontsize pt
+input fontsize px background ffffff
+option fontsize px background ffffff
+select fontsize px background ffffff
+textarea fontfamily verdana fontsize pt
+
+body 
+fontfamily verdana helvetica sansserif fontsize pt
+margintop px
+marginleft px
+marginright px
+marginbottom px
+scrollbarfacecolor bfe
+scrollbarshadowcolor deebf
+scrollbarhighlightcolor ffffff
+scrollbardlightcolor 
+scrollbardarkshadowcolor 
+scrollbartrackcolor fff
+scrollbararrowcolor 
+
+
+w color ffffff
+title fontweight bold  fontfamily verdana fontsize pt
+subtitle fontweight bold  fontfamily verdana fontsize pt
+small fontfamily verdana fontsize pt
+sb fontfamily verdana fontweight bold fontsize pt
+esb fontfamily verdana fontweight bold fontsize pt
+bi fontweight bold fontstyle italic
+rating fontweight bold fontfamily verdana fontsize pt color ce
+web fontfamily webdings fontsize pt color ce
+
+button fontsize pt color  background cecece
+
+style
+
+head
+body bgcolorffffff topmargin leftmargin link alink vlink
+
+a nametopa
+
+center
+
+table border cellspacing cellpadding width
+trtda hrefhttpwwwcardsinadvancecomimg srchttpwwwcardsinadvancecomadsimagesciatopgif altcards in advance width height vspace borderatd
+tr
+table
+
+table cellspacing cellpadding width border
+  tbody
+  tr valigntop aligncenter width
+    td aligncenter width bgcolor
+a hrefhttpwwwcardsinadvancecomimg srchttpwwwcardsinadvancecomadsimagesintrogif vspace width height borderabrbr
+
+img srchttpwwwcardsinadvancecomadsimagesbttedaygif alteveryday cards vspace hspace width heightbr
+
+table border cellspacing cellpadding
+tr valigntop
+tdform actionhttpwwwcardsinadvancecomcardlistcfm methodgetselect namecardtype
+option valuebirt selectedbirthdayoption
+option valueannianniversaryoption
+option valuegetwget well soonoption
+option valuethinthinking of youoption
+option valuecongcongratulationsoption
+option valuesympsympathyoption
+option valueengaengagementoption
+option valuegoodgood luckoption
+option valuebabynew babyoption
+option valuenewhnew homeoption
+option valuelovelove  romanceoption
+option valuefriefriendshipoption
+option valueretiretirementoption
+option valuegradgraduationoption
+option valuethanthank youoption
+select
+td
+tr
+tr valigntop
+td alignrightinput typeimage srchttpwwwcardsinadvancecomadsimagesbttgogif namego width height vspace bordertd
+tr
+table
+
+img srchttpwwwcardsinadvancecomadsimagesxgif vspacebr
+
+
+img srchttpwwwcardsinadvancecomadsimagesbtthdaygif altholiday cards vspace hspace width heightbr
+
+table border cellspacing cellpadding
+tr valigntop
+td nowrapformform actionhttpwwwcardsinadvancecomcardlistcfm methodgetselect namecardtype
+option valuevalevalentines day feboption
+option valuepasspassover aproption
+option valueeasteaster aproption
+option valuemoth selectedmothers day mayoption
+option valuefathfathers day junoption
+option valueroshrosh hashana sepoption
+option valuehallhalloween octoption
+option valuetgivthanksgiving novoption
+option valuexmaschristmas decoption
+option valueyearhappy new year decoption
+option valuehannhanukkah decoption
+select
+td
+tr
+tr valigntop
+td alignrightinput typeimage srchttpwwwcardsinadvancecomadsimagesbttgogif namego width height vspace bordertd
+tr
+table
+
+img srchttpwwwcardsinadvancecomadsimageshwgif altall our cards are handwritten width height vspace borderbrimg srchttpwwwcardsinadvancecomadsimagesrecyclegif altcards in advance uses quality cards made from recycled paper width height vspace border
+
+centertd
+    td widthnbsptd
+    td widthfont faceverdana size
+ right cell start 
+
+a hrefhttpwwwcardsinadvancecomimg srchttpwwwcardsinadvancecomadsimageselevatorjpg width height vspace bordera
+a hrefhttpwwwcardsinadvancecomimg srchttpwwwcardsinadvancecomadsimagesciasmgif width height vspace borderabr
+a hrefhttpwwwcardsinadvancecomimg srchttpwwwcardsinadvancecomadsimageselevatorslogangif width height vspace borderabr
+
+ right cell end 
+
+fonttdtrtbodytable
+table cellspacing cellpadding width border
+  tbody
+  tr
+    tdimg height srchttpwwwcardsinadvancecomadsimagesciabotgif width vspace
+      bordertdtrtbodytable
+
+table cellspacing cellpadding width border
+tbody
+tr
+tdfont faceverdana color sizebryou received this email because you signed up at one of cards in advances websites or you signed up with a party that has contracted with cards in advance to unsubscribe from the cards in advance mailing list please reply to this email with remove as the subjecttdtrtbody
+table
+br
+center
+
+
+
+font
+form
+bodyhtml
+httpxentcommailmanlistinfofork
+
+

@@ -1,0 +1,34 @@
+httpwwwhughesfamilyorgbugzillashowbugcgiid
+
+jmjmasonorg changed
+
+           what    removed                     added
+
+             statusnew                         resolved
+         resolution                            invalid
+
+
+
+ additional comments from jmjmasonorg    
+hi david 
+
+im afraid this bugtracking system is only used for the opensource
+spamassassin the unix one    you need to talk to somebody
+at deersoftcom instead
+
+
+
+ you are receiving this mail because 
+you are the assignee for the bug or are watching the assignee
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+
+

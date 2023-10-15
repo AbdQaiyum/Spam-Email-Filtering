@@ -1,0 +1,32 @@
+once upon a time roi wrote 
+
+ since i upgraded to redhat mplayer vo sdl isnt working for me
+ it gives me black screen and i only hear sound
+ 
+ can anyone help me with this 
+
+ill test this as soon as i can
+
+ btw
+ also the source rpm specified that i can do without libdv
+ but it didnt work worked for lirc and arts
+
+should be fixed  you probably had libdvdevel installed and mplayer
+automatically detected it the new spec file explicitely passes
+disablelibdv when the package is rebuilt with without libdv
+
+grab the fr spec from here 
+httpfreshrpmsnetbuildsindexhtmlbuildmplayer
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel acpi
+load    
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

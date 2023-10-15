@@ -1,0 +1,56 @@
+this is a multipart mime message
+
+exmh
+contenttype textplain charsetusascii
+
+i suspect that as part of chris set of changes he cleaned up the
+use of the variable that was named l in ftoccommit in ftoctcl
+its name got changed from l to lineno
+
+but theres one reference of l left   that causes tracebacks if
+you attempt to use link with the current cvs version of exmh
+
+i guess that most of us dont use link very often  i noticed it
+last week but only got time to look and see why today
+
+if someone with the ability to commit to the cvs repository would
+apply the following patch to libftoctcl that would be nice
+it works and is trivial and you could perhaps just apply it by
+making the change with an editor faster than saving this patch and
+applying it  theres only one instance of l in the file that
+should be changed to lineno
+
+kre
+
+
+
+exmh
+contenttype textplain  namepatch charsetusascii
+contentdescription patch
+contentdisposition attachment filenamepatch
+
+ ftoctclprev	wed aug   
+ ftoctcl	tue sep   
+   
+ 		
+ 	    
+ 	    incr ftocnummsgs 
+ 	 else 
+	    ftocunmarkinner l
+	    ftocunmarkinner lineno
+ 	
+ 	incr ftocchanged 
+     
+     if delmsgs   
+
+exmh
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

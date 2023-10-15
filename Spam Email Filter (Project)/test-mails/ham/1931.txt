@@ -1,0 +1,19 @@
+url httpscriptingnewsuserlandcombackissueswhenpm
+date mon  sep   gmt
+
+jeremy zawodny who works at yahoo finance offers an rss  feed for every 
+stock its a beta feature heres the feed for microsoft and one for 
+marimba thanks to jon udell for the pointer nice jon also notes that 
+microsoft doesnt show up too strong in the weblog world and describes a 
+conversation with john montgomery about this what a small world john and i 
+got to know each other when we did the work on soap in the late s and weblog 
+software is one of the major reasons we were interested in soap so close but 
+so far but its never too late
+
+ httpjeremyzawodnycomblogarchiveshtml
+ httprssfinanceyahoocomrssgettickermsft
+ httprssfinanceyahoocomrssgettickermrba
+ httpwebloginfoworldcomudellhtmla
+ httpwebloginfoworldcomudellhtmla
+
+

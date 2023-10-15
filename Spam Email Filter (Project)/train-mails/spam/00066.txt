@@ -1,0 +1,27 @@
+htmlhead
+title free movie ticketstitlehead
+body bgcolorffffff
+table width border cellspacing cellpadding aligncenter
+tbody
+trtd bgcolorffffffa hrefhttptheadmanagercomservercaspadkeycpiuftgucubaextimg srchttpwwwsurveytheglobecomimagestitlegif height width border altatdtr
+trtda hrefhttptheadmanagercomservercaspadkeycpiuftgucubaextimg srchttpwwwsurveytheglobecomimagesbluegif width height border altatdtr
+trtda hrefhttptheadmanagercomservercaspadkeycpiuftgucubaextimg srchttpwwwsurveytheglobecomimagesbuttongif width height border altatdtr
+trtda hrefhttptheadmanagercomservercaspadkeycpiuftgucubaextimg srchttpwwwsurveytheglobecomimagesbottomgif width height border altatdtr
+tbody
+table
+br
+img srchttpadmanmailcomservertaspadkeycpiuftgucuba width height hspace vspace border altt
+hr size noshade
+font facearial size color
+you are receiving this mailing because you are a
+member of sendgreatofferscom and subscribed asjmnetnoteinccom
+to unsubscribe a hrefhttpadmanmailcomsubscriptionaspemjmnetnoteinccomlsgo
+font facearial size colorclick herea
+httpadmanmailcomsubscriptionaspemjmnetnoteinccomlsgo
+or reply to this email with remove in the subject line  you must
+also include the body of this message to be unsubscribed any correspondence about
+the productsservices should be directed to
+the company in the ad
+emjmnetnoteinccomem
+brfont body html
+

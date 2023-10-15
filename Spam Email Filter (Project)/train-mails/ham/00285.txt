@@ -1,0 +1,23 @@
+on tue  at  matthias saou wrote
+ hi there
+ 
+ two new things today 
+ 
+  ive had to install a red hat linux  server because of an old
+ proprietary ivr software that doesnt work on newer releases  so ive
+ recompiled both the latest apt and openssh packages for it and they are
+ now available with a complete os updates  freshrpms apt repository at
+ aptfreshrpmsnet for those who might be interested
+
+gack did you try  with the compatglibc first or does it require an
+antique kernel
+
+ 
+chris kloiber
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

@@ -1,0 +1,56 @@
+url httpdiveintomarkorgarchiveshtmlnowheavilymedicated
+date t
+
+trust me when i tell you that heavy medication and rdf do not mix here is a 
+list of things i intend to reread once the fog lifts 
+
+ phil ringnalda using foaf relationships and just say no to trackback in 
+indexhtml 
+ les orchard perpost comment rss feed 
+ phil wainewright the bare necessities of rss and what to do about rdf
+ the beginning of an rss  best practices document 
+ jonathon delacour trying to score a goal as the best and the 
+brightest focus on the possibilities of foaf i turned my attention to 
+yesterdays news rss no rss will always be todays news get it 
+todays newzzz never mind 
+ comments on ben hammersleys friend of a friend various ways to link to a 
+foaf file from an rss feed 
+ nicholas chase the webs future xhtml  were losing backward 
+compatibility isnt that great well he seems to think so 
+ modcc a module for including copyright information in rdf documents such 
+as rss  feeds and i hope foaf files 
+ shelley powers who is your audience and what are you trying to 
+accomplish addressing the growing identity crisis on the rssdev mailing 
+list also the comments on shelleys article 
+ ian hickson pingback  the best thing about this idea is 
+that unlike similar schemes like trackback it is totally transparent to both 
+users 
+ new software helps in building of accessible web sites a press release 
+for a new edition of lift which i have never used 
+ forget mars bars twinkies now the deepfried treat the secret to 
+making a deepfried twinkie he says is to place it in the fridge first to 
+give it more stability he then rolls it in flour covers it with batter  
+and plunks it into the oil 
+
+
+
+
+
+  httpphilringnaldacomarchivesphp
+  httpphilringnaldacomarchivesphp
+  httpwwwdecafbadcomnewsarchivesphtml
+  httphowtolooselycoupledcomblogdyhtm
+  httphowtolooselycoupledcomblogdyhtm
+  httpweblogdelacournetarchiveshtml
+  httprssbenhammersleycomarchiveshtml
+  httpwwwibmcomdeveloperworkslibrarywaxhtmlnwa
+  httpwebresourceorgrssmodulescc
+ httpweblogburningbirdnetarchivesphp
+ httpgroupsyahoocomgrouprssdev
+ httpburningbirdnetcgibinmtcommentscgientryid
+ httplnhixiechstartcount
+ httpmaccentralmacworldcomnewsusablephp
+ httpwwwusablenetcom
+ httpwwwglobeandmailcomservletarticlenewspestorytgamufattnheadlinesheaddexheaddexinternationaltemp
+
+

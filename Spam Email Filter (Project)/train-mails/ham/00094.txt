@@ -1,0 +1,44 @@
+begin pgp signed message
+
+vincent cunniffe wrote
+ justin maccarthy wrote
+
+ i think ill ask this question again as i sent on friday afternoon
+  
+
+
+ mailman 
+
+ trust me you do not want to running your own mailing lists
+ on your own software
+
+ youll wind up crying in a dark room looking for something
+ highvoltage to stick your fingers into
+
+all things considered i get that effect with mailman but the viable
+alternatives are ezmlm which is loonware and im avoiding on principle
+and majordomo which seems to have stagnated oh and theres apparently
+something called smartlist which is a bitch to set up
+
+waider
+ 
+waiderwaiderie  yes it is very personal of me
+begin pgp signature
+version gnupg v gnulinux
+comment using gnupg with mozilla  httpenigmailmozdevorg
+
+iqevawubpxnehbxyzzsabaqhkqfxqeomahnxalzbmgdiydvqaagwardq
+kdpznbecrospjolylspkgnshpjcdzirsxjvxmfpyrnqayphggwrvwgjgb
+nhgrgezsrhurauhpfbxoxzmigskdhsgefqsuoazvzvllsiriyhfy
+uvrpvtpryrhaxjxugvwftkddfftaimqgcsjnumxcmiptqrtxhxd
+wzhxcrfawirekyzdrlgjlyjqfsowumqzqlkkutxljvvosydjgraqpxm
+jmqlifudzayccbixxzcxmslppcwjxjsywrcjubgxtqhmbq
+egx
+end pgp signature
+
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

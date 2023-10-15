@@ -1,0 +1,27 @@
+
+steve thomas said
+
+ i created a user honeypot and set up an alias to it then i added a
+ hidden font color same as background color link to that address at the
+ bottom of my html pages the procmailrc file for that user is 
+ which will submit the msg to razor then save it locally i set this up about
+ a month ago and havent received anything other than some viruses sircam
+ on it yet the viruses are rejected at the mta level so theyre not being
+ savedreported to razor
+
+fwiw i would now recommend doing this using a user with a procmailrc
+instead of a system alias more secure and easier to filter out crud
+like bounces virii etc that render a corpus dirty
+
+j
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

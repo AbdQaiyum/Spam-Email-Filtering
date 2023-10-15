@@ -1,0 +1,19 @@
+hi
+
+matthias saou matthiasegwnnet wrote
+
+ repository and theres where the problem will be  it will say that
+ there are two synapticfr packages one installed the other
+ available with the same version but different dependencies 
+ thats why i always keep package versions lower for older distributions
+
+ah now i see this is a nonissue here so ill rebuild locally 
+
+ 
+dog for sale eats anything and is fond of children
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

@@ -1,0 +1,25 @@
+
+ gw  greg ward gwardpythonnet writes
+
+    gw if you and guido barry et al prefer i could change that
+    gw last statement to folder  none so the mail wont be saved
+    gw at all
+
+i dont care if the mail is foldered on pythonorg but personal
+messages regardless of who theyre for shouldnt be part of the
+public spambayes repository unless specifically approved by both the
+recipient and sender
+
+note also that we are much more liberal about pythonorgzopeorg
+mailing list traffic than most folks  read listmanagers for any
+length of time and youll find that there are a lot of people who
+assert strict copyright over their collections are very protective of
+their traffic and got really pissed when gmane just started
+gatewaying their messages without asking
+
+which might be an appropriate for their lists but not for ours dont
+think im suggesting we do the same  i like our laissezfaire
+approach
+
+but for personal email we should be more careful
+barry

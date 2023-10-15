@@ -1,0 +1,242 @@
+doctype html public wcdtd html  transitionalen
+htmlheadtitledigital authoring tools  featured product alerttitle
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta contentmshtml  namegeneratorhead
+body text vlinkcc alinkcc link bgcolorffffff
+div aligncenter
+pa hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimg height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesemailheadgif width border altif you are seeing this text and a blank image server demand is currently too high and you may be unable to download the free software  please reopen this mail again soon to retry so that you may download free software from digital authoring toolsabrp
+table cellspacing cellpadding width border
+  tbody
+  tr
+    tda hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimg height       srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimageslevelhdgif width border altif you are seeing this text and a blank image please open this mail again soon to get your free software from digital authoring toolsatdtrtbodytable
+table cellspacing cellpadding width bgcolorffffff border
+  tbody
+  tr
+    td valigntop alignleft width
+      pfont faceverdana arial helvetica sansserif sizefont 
+      colorbrfont colortoday you had bb digital web books downloaded and within two weeks there are bb circulating 
+two months later you have bb in the marketplace btidal waveb or bviral marketingb is a wonder of our new society a hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcombsee how major corporationsba have already embraced digital page authorbr
+fontbfontbfont color fontbfontp
+a hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimg height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimageslevelhdgif width border altthe site may be temporarily unreachable due to high demand for this limited time free software offera
+
+pfont faceverdana arial helvetica sansserif color 
+      sizeimagine a tool that is very easy to learn yet will enable you to create bbrilliant d reallife booklike pageturning digital documentsb that you can distribute via the internet store on websites and send on floppy or a cdrom complete with active web and email linksfontptd
+    td width
+      div aligncentera hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimg height 
+      srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbooklaptopsmalljpg width border altfree software from digital authoring tools
+
+due to high demand for this limited time free software offer kindly open this mail again soon to retry if you have difficulties reaching the websiteabrfont faceverdana arial helvetica sansserif 
+      sizea hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcombbrview samplesbafont brbrbr
+a hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomfont 
+      faceverdana arial helvetica sansserif sizebdownload free softwarebfonta brbrfont 
+      faceverdana arial helvetica sansserif sizebfont 
+      coloreca hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomdivtdtr
+  tr
+    td colspanfont faceverdana arial helvetica sansserif 
+      color sizedigital page author enables companies and 
+      individuals to produce their own professional looking catalogues 
+      brochures photo albums invitations and moreinhousewithout the associated costs 
+      of an outside design andor print shopbrbrdue to their bextremly 
+      small file sizeb digital web books created with digital page author can be 
+      sent via email or quickly downloaded onto a pc in minutes a business can 
+      create its own virtual catalogue in a format any windows pc can display 
+      while ensuring the content cannot be copied by the 
+  viewer the optional security plugin provides b virus proofb distribution including transport through firewallsfonttdtrtbodytablenbsp
+
+br
+table bordercolorabcadc cellspacing cellpadding width border
+  tbody
+  tr
+    td valigntop bgcolorffffff height
+      pfont faceverdana arial helvetica sansserif sizethe digital 
+      web book format presents several opportunities none more important than 
+      the incredible pfont sizeasson ratio of each 
+      brochurepublicationfontfontp
+      pfont faceverdana arial helvetica sansserif sizedigital web 
+      books are extremely small in file size present a familiar navigation 
+      system and can be used to attract new members fontp
+      pfont faceverdana arial helvetica sansserif sizebwhy are 
+      people attracted to digital web booksb  its the look and feel of a 
+      traditional brochure that captures the imagination of the end user there 
+      are several page transition choices but the d pageturns really stand outfontp
+      pfont faceverdana arial helvetica sansserif color 
+      sizebpossible usesbbrfontfont 
+      faceverdana arial helvetica sansserif sizecatalogues  flyers  
+      brochures  annual reports  photo albums  newsletters  media kits  
+      work portfolios  corporate presentations  manuals  books  magazines  
+      novels newspapers  sales presentations  marketing collateral  intranet 
+      publications  restaurant menus  educational materials  reference 
+      materials  email promotions  corporate  product profiles  guides  
+      reports  briefs  directories  and much much morefontp
+      table cellspacing cellpadding width border
+        tbody
+        tr bgcolor
+          td colspanfont faceverdana arial helvetica sansserif 
+            color sizebfont colorffffffdigital page author 
+            featuresfontbfonttdtr
+        tr
+          td widthfont faceverdana arial helvetica sansserif 
+            sizeimg height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+            widthfonttd
+          tdfont faceverdana arial helvetica sansserif 
+            sizeproduce d pageturning digital catalogues manuals 
+            photo albums etcfonttdtr
+        tr
+          tdfont faceverdana arial helvetica sansserif sizeimg 
+            height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+widthfonttd
+          tdfont faceverdana arial helvetica sansserif sizea 
+            universally understood formatfonttdtr
+        tr
+          tdfont faceverdana arial helvetica sansserif sizeimg 
+            height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+widthfonttd
+          tdfont faceverdana arial helvetica sansserif 
+            sizewsiwyg page creation and editing fonttdtr
+        tr
+          tdfont faceverdana arial helvetica sansserif sizeimg 
+            height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+widthfonttd
+          tdfont faceverdana arial helvetica sansserif sizecut 
+            and paste feature internal image manipulator hotlink to pages web 
+            sites email and even other files fonttdtr
+        tr
+          tdfont faceverdana arial helvetica sansserif sizeimg 
+            height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+widthfonttd
+          tdfont faceverdana arial helvetica sansserif sizeset 
+            auto page turn for trade show or instore 
+presentationsfonttdtr
+        tr
+          tdfont faceverdana arial helvetica sansserif sizeimg 
+            height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+widthfonttd
+          tdfont faceverdana arial helvetica sansserif 
+            sizedigital web book file sizes are small and easily distributed by 
+            email download or on floppycd fonttdtr
+        tr
+          tdfont faceverdana arial helvetica sansserif sizeimg 
+            height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+widthfonttd
+          tdfont faceverdana arial helvetica sansserif sizeno 
+            browser requiredno downloading of software or plugins 
+        fonttdtr
+        tr
+          tdfont faceverdana arial helvetica sansserif sizeimg 
+            height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+widthfonttd
+          tdfont faceverdana arial helvetica sansserif sizepages 
+            fit your desktop screenno scrolling required specify one of  
+            page transitions fly turn wipe slide printable pages 
+          fonttdtr
+        tr
+          tdfont faceverdana arial helvetica sansserif sizeimg 
+            height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+widthfonttd
+          tdfont faceverdana arial helvetica sansserif 
+            sizesuitable for all windowsbased pcs but currently nonmac 
+            compatiblefonttdtrtbodytable
+      table cellspacing cellpadding width border
+        tbody
+        tr bgcolor
+          td colspanbfont faceverdana arial helvetica sansserif 
+            colorffffff sizebenefitsfontbtdtr
+        tr
+          td widthfont faceverdana arial helvetica sansserif 
+            sizeimg height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+            widthfonttd
+          td
+            p
+            pfont faceverdana arial helvetica sansserif sizefast 
+            to learn and easy to use the net book author interface is designed 
+            with the average pc user in mind fontptdtr
+        tr
+          td widthfont faceverdana arial helvetica sansserif 
+            sizeimg height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+            widthfonttd
+          tdfont faceverdana arial helvetica sansserif sizesaves 
+            printing and distribution costs associated with print media 
+          fonttdtr
+        tr
+          td widthfont faceverdana arial helvetica sansserif 
+            sizeimg height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+            widthfonttd
+          tdfont faceverdana arial helvetica sansserif sizeno 
+            scrolling to view each page within pc screenturns pages like a 
+            real bookfonttdtr
+        tr
+          td widthfont faceverdana arial helvetica sansserif 
+            sizeimg height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+            widthfonttd
+          tdfont faceverdana arial helvetica sansserif sizeeasy 
+            to distribute via the web email floppy or cdrom fonttdtr
+        tr
+          td widthfont faceverdana arial helvetica sansserif 
+            sizeimg height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+            widthfonttd
+          tdfont faceverdana arial helvetica sansserif 
+            sizeeasily passed on by email fonttdtr
+        tr
+          td widthfont faceverdana arial helvetica sansserif 
+            sizeimg height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+            widthfonttd
+          tdfont faceverdana arial helvetica sansserif 
+            sizerecipients of the book can store view and interact with its 
+            content offline fonttdtr
+        tr
+          td widthfont faceverdana arial helvetica sansserif 
+            sizeimg height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+            widthfonttd
+          tdfont faceverdana arial helvetica sansserif 
+            sizedrives traffic to your web site fonttdtr
+        tr
+          td widthfont faceverdana arial helvetica sansserif 
+            sizeimg height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+            widthfonttd
+          tdfont faceverdana arial helvetica sansserif 
+            sizeencourages customer loyaltyrepeat purchases fonttdtr
+        tr
+          
+        tr
+          td widthfont faceverdana arial helvetica sansserif 
+            sizeimg height srchttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomimagesbulletgif 
+            widthfonttd
+          tdfont faceverdana arial helvetica sansserif 
+            sizepermanent information is 
+      readonlyfonttdtrtbodytable
+      pfont faceverdana arial helvetica sansserif color 
+      sizebsystem and software requirementsbfont font 
+      faceverdana arial helvetica sansserif sizebrwindows   
+      me nt   xpbrcurrently not mac compatablebrbrbhardware 
+      requirementsb minimum recommendedbr mhz processor or fasterbr mb 
+      rambr mb video graphics adapterbr mb free disk 
+      spacebrbrfontbfont 
+      faceverdana arial helvetica sansserif sizefont color 
+      sizeother requirementsfontfont brbfont 
+      faceverdana arial helvetica sansserif sizeinternet connection 
+      for product registrationfontp
+      p aligncenterfont faceverdana arial helvetica sansserif 
+      colorff sizeba 
+      hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomunsubscribeaspclick here to 
+      unsubscribeabfontptdtr
+  tr
+    td alignmiddle bgcolorffffff height
+      div aligncentera hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomfont 
+      faceverdana arial helvetica sansserif color 
+      sizebdownload free evaluationbfontafont 
+      faceverdana arial helvetica sansserif color sizeb  
+      a hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomdownload samplea a 
+      hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcom buy nowabfont
+br
+br
+font faceverdana arial helvetica sansserif sizeif you have trouble downloading the free software please open this mail again soon to retry as server demands are currently high for this limited time free software offerfont
+divtdtr
+  tr
+    td classtext alignmiddle bgcolorffffff height
+      div aligncenterfont faceverdana arial helvetica sansserif 
+      sizecopyright    reselling partner id    page limitfontdivtdtrtbodytablemap namemaparea shaperect 
+  coords hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomarea shaperect 
+  coords hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcomarea shaperect 
+  coords hrefhttpwwwcraycategoryuniquezaamnetcofrhttpsamgooptcommapdivbodyhtml
+
+bryqisnsdazpxdxondkxzppll

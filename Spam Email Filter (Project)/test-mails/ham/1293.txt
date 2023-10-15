@@ -1,0 +1,16 @@
+is it possible to use new apt to do null to rh upgrade
+
+even if its possible are there good reasons why maybe i should not do it and
+just use the rh isos i dont think rh will upgrade from null maybe update
+will
+
+
+thats angle as in geometry
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

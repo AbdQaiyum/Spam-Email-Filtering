@@ -1,0 +1,76 @@
+
+fnmlrgftvsgum
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on fri sep   at pm  vernon wrote
+ as i understand it dns a records are used in a rotating fashion for load
+ balancing but dns mx records are used in order or prority meaning the 
+ before the  and only  if the  isnt available
+
+thats the theory yes
+
+ but only some of the mail is actually being scanned which leads me to
+ believe that not all of the mail is actually hitting that box and the 
+ never goes down why have i got something confused here
+
+no but either due to some technical glitch or downright just wanting
+to do so people send to the secondary  its a semiusual spammer trick
+actually to bypass the main server and send directly to a secondary
+since it will either have less filtering or be trusted or 
+
+mx records in the mail world are all explained in rfc  section 
+
+
+   multiple mx records contain a preference indication that must be used
+   in sorting see below  lower numbers are more preferred than higher
+   ones  if there are multiple destinations with the same preference
+   and there is no clear reason to favor one eg by recognition of an
+   easilyreached address then the sendersmtp must randomize them to
+   spread the load across multiple mail exchangers for a specific
+   organization
+
+   if it determines that it should relay the message without rewriting
+   the address it must sort the mx records to determine candidates for
+   delivery  the records are first ordered by preference with the
+   lowestnumbered records being most preferred  the relay host must
+   then inspect the list for any of the names or addresses by which it
+   might be known in mail transactions  if a matching record is found
+   all records at that preference level and highernumbered ones must be
+   discarded from consideration  if there are no records left at that
+   point it is an error condition and the message must be returned as
+   undeliverable  if records do remain they should be tried best
+   preference first as described above
+
+
+randomly generated tagline
+now lets say i like sheep  and now lets say i take the sheep to a
+ christmas party                bob golub
+
+fnmlrgftvsgum
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqegjxauoquewasmragpajkoknzxoqbrzpmgdgjbjhacfqvlx
+outlfyasevnewwm
+oku
+end pgp signature
+
+fnmlrgftvsgum
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

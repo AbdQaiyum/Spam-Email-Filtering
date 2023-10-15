@@ -1,0 +1,14 @@
+tim
+ my tests train on about  msgs and a binary pickle of the database is
+ approaching  million bytes
+
+that shrinks to under  million bytes though if i delete all the wordinfo
+records with spamprob exactly equal to unknownspamprob  such records
+arent needed when scoring an unknown word gets a madeup probability of
+unknownspamprob  such records are only needed for training ive noted
+before that a scoringonly database can be leaner
+
+in part the bloat is due to character graming part due to that the
+database is brand new so has never been cleaned via clearjunk and part
+due to plain evil gremlins
+

@@ -1,0 +1,28 @@
+url httpdiveintomarkorgarchiveshtmlmovabletypeisout
+date t
+
+movable type  is out im running it and it appears to work it incorporates 
+many suggestions from dive into accessibility a book which was written in 
+and is still powered by movable type i find this amusing in a selfreferential 
+sort of way 
+
+the other big change is the inclusion of mtsearch to allow users to have their 
+own site search every web site needs a site search existing mtsearch 
+users should merge the contents of mtsearchcfg into mtcfg change 
+templatedir to searchtemplatepath and if you use alternate templates 
+change alttemplate alttemplate alttemplate etc to alttemplate 
+they should all just be alttemplate 
+
+ download mt  
+ mt  changelog 
+
+
+
+
+
+ httpdiveintoaccessibilityorg
+ httpdiveintoaccessibilityorgdaymakingeverythingsearchablehtml
+ httpwwwmovabletypeorg
+ httpwwwmovabletypeorgdocsmtchangeshtml 
+
+

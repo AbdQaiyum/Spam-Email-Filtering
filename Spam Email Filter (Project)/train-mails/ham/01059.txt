@@ -1,0 +1,20 @@
+once upon a time stephen wrote 
+
+  aptget install 
+ mntcdromlinuxcdburnercdrtoolscdrecordairpm
+
+this is not how apt is meant to be used see gordons answer to your post
+on the valhalla list for details
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

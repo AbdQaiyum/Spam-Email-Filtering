@@ -1,0 +1,91 @@
+doctype html public wcdtd html  transitionalen
+html
+head
+   meta httpequivcontenttype contenttexthtml charsetiso
+   meta nameauthor contentricardo
+   meta namegenerator contentmozilla pt win i netscape
+   titlericardotitle
+head
+body text bgcolorffffcc link vlinkff alinkff
+font facecourier newcourierfont sizenbspnbspnbsp
+olaacutefontfont
+brfont facecourier newcourierfont sizenbspnbspnbsp trabalho
+divulgando empresas seacuterias e competentesfontfont
+brfont facecourier newcourierfont sizeque podem lhe oferecer
+excelentes oportunidadesfontfont
+brfont facecourier newcourierfont sizenbspnbspnbsp caso
+natildeo seja de seu interesse solicito que excluafontfont
+brfont facecourier newcourierfont sizeeste email ou se possiacutevel
+o repasse para seus amigosfontfont
+brfont facecourier newcourierfont sizenbspnbspnbsp muito
+obrigado pela ajuda e compreensatildeofontfont
+brfont facecourier newcourierfont sizenbspnbspnbsp atenciosamentefontfont
+brfont facecourier newcourierfont sizenbspnbspnbsp ricardo
+l kampffontfont
+br
+hr widthbfont facearialhelveticafont colorfffont sizeproteja
+seu patrimocircnio sem gastar uma fortunafontfontfontb
+table border 
+tr
+td
+centerbfont facearialhelveticacamera falsa mfontb
+brimg srchttpwwwseghpgcombrpjpg 
+brbfont facearialhelveticar fontb
+brbfont facearialhelveticafrete inclusofontbcenter
+td
+
+tdbfont facearialhelveticafont colorfont sizea hrefhttpwwwgarciaclicnetpara
+ver outros modelos ou obter maisafontfontfontb
+brbfont facearialhelveticafont colorfont sizea hrefhttpwwwgarciaclicnetdetalhes
+clique aquiafontfontfontb
+center
+pbfont facearialhelveticafont colorfont sizea hrefhttpwwwgarciaclicnetoutros
+produtosafontfontfontbcenter
+
+ul
+li
+bfont facearialhelveticafont colorfont sizea hrefhttpwwwgarciaclicnetescuta
+telefocircnicaafontfontfontbli
+
+li
+bfont facearialhelveticafont colorfont sizea hrefhttpwwwgarciaclicnetalarmesafontfontfontbli
+
+li
+bfont facearialhelveticafont colorfont sizea hrefhttpwwwgarciaclicnetcameras
+verdadeirasafontfontfontbli
+ul
+td
+tr
+
+tr
+td
+centerbfont facearialhelveticatrava de cacircmbiofontb
+brimg srchttpwwwseghpgcombrtravacambiojpg 
+brbfont facearialhelveticar fontb
+brbfont facearialhelveticafrete inclusofontbcenter
+td
+
+tdbfont facearialhelveticafont sizea hrefhttpwwwgarciaclicnetao
+mesmo tempo trava a alavancaafontfontb
+brbfont facearialhelveticafont sizea hrefhttpwwwgarciaclicnetdo
+cacircmbio e do freio de matildeonbspafontfontb
+brbfont facearialhelveticafont sizea hrefhttpwwwgarciaclicnetfabricada
+em accedilo carbono e ferroafontfontb
+brbfont facearialhelveticafont sizea hrefhttpwwwgarciaclicnetpintura
+eletrostaacuteticaafontfontb
+pbfont facearialhelveticafont sizea hrefhttpwwwgarciaclicnetfechadura
+tetraafontfontb
+brbfont facearialhelveticafont colorfont sizea hrefhttpwwwgarciaclicnetpara
+ver outros modelos ou obter maisafontfontfontb
+brbfont facearialhelveticafont colorfont sizea hrefhttpwwwgarciaclicnetdetalhes
+clique aqui e visite nossa lojaafontfontfontb
+brnbsptd
+tr
+table
+nbspnbspnbsp para se retirar do cadastro favor responder sem assunto
+brnbsp
+body
+html
+httpxentcommailmanlistinfofork
+
+

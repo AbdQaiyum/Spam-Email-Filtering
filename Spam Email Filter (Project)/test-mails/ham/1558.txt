@@ -1,0 +1,63 @@
+
+
+on  at  am  spamassassintalkrequestlistssourceforgenet
+spamassassintalklistssourceforgenet wrote
+
+
+message 
+from vivek khera kherakcilinkcom
+date wed  sep   
+to spamassassintalkexamplesourceforgenet
+subject re satalk calypso email  ratware 
+
+ jm  justin mason jmjmasonorg writes
+
+jm now all we need to do is get all the spamassassin users out there to
+jm upgrade
+
+considering that the rules need to adapt to the changing look and feel
+of spam vs nonspam does it make sense to have sa automatically
+issue a notice when it is say  months old recommending that the
+useroperator check for updated rules
+
+sort of like a nagware feature but in selfdefense for the user not
+the vendor 
+
+ 
+
+vivek khera phd                khera communications inc
+internet kherakcilinkcom       rockville md       
+aim vivekkhera y vivekkhera   httpwwwkheraorgvivek
+
+better yet would be a builtin server check on a periodic basis even
+daily looking for the existence of an update and if found prompt the
+system admin to upgrade the server  with the ever changing face of spam
+this would probably be a big benefit to sa users and help keep everyone up
+to date  we have not done this with too many of the apps we sell on
+wwwrosecitysoftwarecom strictly because of joeaverageuser concerns
+about spyware and phoning home but in cases where the app needs to
+access the internet anyhow we have done it with great success and minimal
+concern by our users
+
+
+joseph burke
+presidentceo
+infinisource inc
+jburkeinfinisourcecom 
+
+
+
+
+
+
+
+
+
+in remembrance
+wwwosdncom
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

@@ -1,0 +1,376 @@
+
+this is a mime message
+
+nextpartfbdfcfabacb
+contenttype multipartalternative boundarynextpartbdfcfabacb
+
+nextpartbdfcfabacb
+contenttype textplain charsetiso
+contenttransferencoding quotedprintable
+
+ this is an html message  
+
+
+nextpartbdfcfabacb
+contenttype texthtml charsetiso
+contenttransferencoding quotedprintable
+
+html
+
+head
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+meta namedgenerator contentdmicrosoft frontpage e
+meta namedprogid contentdfrontpageeeditoredocument
+titlefree computer with merchant account setuptitle
+head
+
+body
+
+center
+pbcomplete credit card processing systems for your businesse interne
+t   home
+based   mail order   phone orderbp
+pbdo you accept credit cards your competition doesbp
+pnbspp
+peveryone approved  credit problems okbr
+approval in less than  hoursbr
+increase your sales by br
+start accepting credit cards on your websitebr
+free information no risk  confidentialebr
+your name and information will not be sold to thrid partiesbr
+home businesses ok  phonemail order okbr
+no application fee no setup feebr
+close more impulse salesbr
+br
+p
+div aligndcenter
+  table borderd cellspacingd widthd
+    tr
+      td widthd
+        p aligndcenterbfont facedtimes new roman sized c
+olordcceveryone approvedfontbp
+        pbfont facedtimes new roman good credit or badnbsp to
+ apply today please fill out
+        the express form belowe it
+contains all the information we need to get your account approvede for a
+reas
+that do not apply to you please put quotnaquot in the boxebr
+br
+upon receipt well fax you with all of the all bank card application
+documents necessary to establish your merchant accounte once returned we
+ can
+have your account approved within  hoursebrnbspfontb
+        p
+      td
+    tr
+  table
+div
+table borderd colsd widthd
+  tbody
+    tr
+      td aligndcenter bgcolord widthdbfont colo
+rdffff facedarialhelvetica sizedservicefontbtd
+      td aligndcenter bgcolord widthdbfont colo
+rdffff facedarialhelvetica sizedindustry
+        standardfontbtd
+      td aligndcenter bgcolord widthd
+        p aligndcenterbfont colordffff facedarialhelve
+tica sizedusfontbp
+      td
+    tr
+    tr
+      td bgcolordffff widthdbfont facedarialhelveti
+ca sizedsite
+        inspectionfontbtd
+      td aligndmiddle widthdbfont sized  fo
+ntbtd
+      td widthdbfont colordff facedarialhelvetica
+ sizedfreefontbtd
+    tr
+    tr
+      td bgcolordffff widthdbfont facedarialhelveti
+ca sizedshippingfontbtd
+      td aligndmiddle widthdbfont sized  fo
+ntbtd
+      td widthdbfont colordff facedarialhelvetica
+ sizedfreefontbtd
+    tr
+    tr
+      td bgcolordffff widthdbfont facedarialhelveti
+ca sizedwarrantyfontbtd
+      td aligndmiddle widthdbfont sized per month
+fontbtd
+      td widthdbfont colordff facedarialhelvetica
+ sizedfreefontbtd
+    tr
+    tr
+      td bgcolordffff widthdbfont facedarialhelveti
+ca sizedsales
+        receiptsfontbtd
+      td aligndmiddle widthdbfont sized  nbs
+pfontbtd
+      td widthdbfont colordff facedarialhelvetica
+ sizedfreefontbtd
+    tr
+    tr
+      td bgcolordffff widthdbfont facedarialhelveti
+ca sizedfraud
+        screeningfontbtd
+      center
+    td aligndmiddle widthd
+      p aligndleftfont sizedbe  ebbr
+      bper transactionbfontp
+    td
+center
+td widthdbfont colordff facedarialhelvetica sized
+freefontbtd
+    tr
+    tr
+      td bgcolordffff widthdbfont facedarialhelveti
+ca sizedamex set
+        upfontbtd
+      td aligndmiddle widthdbfont sized  fo
+ntbtd
+      td widthdbfont colordff facedarialhelvetica
+ sizedfreefontbtd
+    tr
+    tr
+      td bgcolordffff widthdbfont facedarialhelveti
+ca sized hournbsphelp
+        linefontbtd
+      td aligndmiddle widthdbfont sized monthfo
+ntbtd
+      td widthdbfont colordff facedarialhelvetica
+ sizedfreefontbtd
+    tr
+    tr
+      td bgcolordffff widthdbfont facedarialhelveti
+ca sizedsecurity
+        bondfontbtd
+      td aligndmiddle widthdfont sizedb 
+bbr
+        bor morebfonttd
+      td widthdbfont colordff facedarialhelvetica
+ sizednonefontbtd
+    tr
+  tbody
+tablep
+div aligndcenter
+  table borderd cellspacingd widthd
+    tr
+      td widthd
+        pfont facedarialhelvetica sizedbthis is a font co
+lordffno
+        obligation qualification formfont and is your first step tofon
+t colordcc
+        accepting credit cardsefont by filling out this form you will
+ font colordffquotnot
+        enterquotfont in to any font colordobligations o
+r
+        contracts fontwith use we will use it to determine the best p
+rogram
+        to offer you based on the information you providee you will be c
+ontacted by one of our representatives within  business days to go over 
+the rest of your account set upebfont
+        p aligndcenterfont facedarialhelvetica sizedb
+font colordccnotefontnbsp
+        all information provided to us font colordccwill remain
+ 
+        confidentialfont
+        nbspbfonttd
+    tr
+  table
+div
+table borderd
+  tbody
+    tr
+      td widthd
+        p aligndcenterbfont colord facedarial size
+dapply
+        free with no riskfontbp
+      td
+    tr
+  tbody
+table
+  center
+form
+div aligndleft
+  table borderd widthd
+    tr
+      td widthd
+        p aligndcenterbifont sized colordccpleas
+e fill out the
+        express application form completelyebrincomplete information m
+ay prevent us from properly
+        processing your applicationefontibp
+      td
+    tr
+  table
+div
+form namedform
+  methoddpost
+  actiondmailtosamtalloymailecomsubjectdmerchant form
+  enctypedtextplain
+  
+ 
+ tr
+div aligndleft
+  table borderd widthd
+    tr
+      td widthd aligndrightfont sizedbyour full emai
+l addressbbr
+        font colordffbe sure to use your full address fonti
+eeefont colordff
+        fontuserdomainecomfonttd
+      td widthd aligndcenterinput typedtext nameduser
+email sizedtd
+    tr
+    tr
+      td widthd aligndrightbfont sizedyour namefo
+ntbtd
+      td widthd aligndcenterinput typedtext namedappl
+icantname sizedtd
+    tr
+    tr
+      td widthd aligndrightbfont sizedbusiness name
+fontbtd
+      td widthd aligndcenterinput typedtext namedbusi
+nessname sizedtd
+    tr
+    tr
+      td widthd aligndrightbfont sizedbusiness phone
+ numberfontbtd
+      td widthd aligndcenterinput typedtext namedbusi
+nessphone sizedtd
+    tr
+    tr
+      td widthd aligndrightbfont sizedhome phone num
+berfontbtd
+      td widthd aligndcenterinput typedtext namedhome
+phone sizedtd
+    tr
+    tr
+      td widthd aligndrightbfont sizedtype of busine
+ssfontbtd
+      td widthd
+        div aligndleft
+          table borderd widthd
+            tr
+              td widthd aligndcenterinput typedradio val
+uedretail namedtypebusinesstd
+              td widthdfont sizedbretail businessbf
+onttd
+            tr
+            tr
+              td widthd aligndcenterinput typedradio val
+uedmailorder namedtypebusinesstd
+              td widthdfont sizedbmail order businessb
+fonttd
+            tr
+            tr
+              td widthd aligndcenterinput typedradio val
+uedinternet namedtypebusinesstd
+              td widthdfont sizedbinternet based busines
+sbfonttd
+            tr
+          table
+        div
+      td
+    tr
+    tr
+      td widthd aligndrightbfont sizedpersonal credi
+t ratingfontbtd
+      td widthd
+        div aligndleft
+          table borderd widthd
+            tr
+              td widthd aligndcenterinput typedradio val
+uedexcellent namedcreditranktd
+              td widthdexcellenttd
+            tr
+            tr
+              td widthd aligndcenterinput typedradio val
+uedgood namedcreditranktd
+              td widthdgoodtd
+            tr
+            tr
+              td widthd aligndcenterinput typedradio val
+uedfair namedcreditranktd
+              td widthdfairtd
+            tr
+            tr
+              td widthd aligndcenterinput typedradio val
+uedpoor namedcreditranktd
+              td widthdpoortd
+            tr
+          table
+        div
+      td
+    tr
+    tr
+      td widthd aligndrightbfont sizedhow soon would
+ you like a merchant
+        accountfontbtd
+      td widthd
+        p aligndcenterinput typedtext namedhowsoon sized
+p
+      td
+    tr
+    tr
+      td widthd colspand
+        div aligndcenter
+          center
+          table borderd widthd
+            tr
+              td widthd
+                p aligndcenterinput typedsubmit valuedsubmit
+ namedbtd
+            tr
+          table
+          center
+        div
+      tdform
+    tr
+  table
+divbr
+div aligndcenter
+  center
+  table borderd cellspacingd widthd bgcolordeee 
+bordercolordccc
+    tr
+      td widthd bgcolordeeefont sizedbyour info
+rmation is confidential it will not be sold or used for any other purpose
+ and you are under no obligatione
+        your information will be used solely for the purpose of evaluating
+ your business or website for a merchant account so that you may begin acce
+pting credit card paymentsebfont
+      td
+    tr
+  table
+  center
+div
+
+form
+
+p aligndcenter
+brbfont sized colordfflist
+ removaloptout optionfontb
+ brbfont colordfont sizeda
+ hrefdmailtombmwpknetscapeenetsubjectdremoveclick
+ hereafontfontbm
+
+body
+
+
+html
+
+
+nextpartbdfcfabacb
+
+nextpartfbdfcfabacb
+
+
+
+
+

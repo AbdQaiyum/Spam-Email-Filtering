@@ -1,0 +1,337 @@
+aware            sll
+doctype html public wcdtd html  transitionalen
+html
+
+head
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta httpequivcontentlanguage contentenus
+titlecovering all  statestitle
+meta contentmicrosoft frontpage  namegenerator
+meta contentfrontpageeditordocument nameprogid
+stylestyle
+head
+
+body bgcolor
+
+div aligncenter
+ center
+ table bordercolorff cellspacing cellpadding width bgcolorffffff border
+  tbody
+   tr
+    td width
+     table cellspacing cellpadding width aligncenter border
+      tbody
+       tr valigntop
+        td width heightimg srchttpswwwgmacmonlinecomcommonimagesroofjpg width heighttd
+        td width heightimg srchttpswwwgmacmonlinecomcommonimagescloudsjpg width heighttd
+        td width heightimg srchttpwwwgmacmortgagecombannerspeoplebuyingjpg width heighttd
+       tr
+      tbody
+     table
+     table height cellspacing cellpadding width aligncenter border
+      tbody
+       tr valigntop
+        td width heighttd
+        td width heightimg srchttpwwwgmacmortgagecomimagesgmaclogogif width heightimg srchttpwwwgmacmortgagecomimagesmortlogogif width heighttd
+        td width bgcolorffffff heightnbsptd
+        td width bgcolorffffff height
+         table cellspacing cellpadding width border
+          tbody
+           tr alignmiddle bgcolorffffff
+            td width heightnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp
+             font colorffjuly  fonttd
+           tr
+           tr
+            td valigntop bgcolorffffff height widthimg height srcimagesblkundernavlinegif width border nameblkundernavlinetd
+           tr
+           tr
+            td valigntop bgcolorffffff height widthnbsptd
+           tr
+          tbody
+         table
+        td
+       tr
+      tbody
+     table
+     table cellspacing cellpadding width aligncenter border height
+      tbody
+       tr valigntop bgcolorffffff
+        td width heightnbsp
+         table cellspacing cellpadding width border
+          tbody
+           tr
+            td valigntop width heighttd
+           tr
+          tbody
+         table
+         table cellspacing cellpadding width border
+          tbody
+           tr valigntop
+            td widthtd
+           center
+           td width height
+            p alignrightnbspp
+            p alignrightimg altcomstock image ks srchttpimagewarehouserfthumbnailversionsksjpg border width heightp
+           td
+           center
+           td widthnbsp
+            pnbspp
+            pnbspp
+            pnbspp
+           td
+           tr
+          tbody
+         table
+         table height cellspacing cellpadding width border
+          tbody
+           tr
+            td valigntop width height rowspanimg height srcimagesspacergif widthtd
+            td valigntop width bgcolor heightimg height srcimagesspacergif widthtd
+            td width colspan heightimg height srcimagesspacergif widthtd
+           tr
+           tr
+            td valigntop width bgcolor height rowspan
+             table cellspacing cellpadding width border
+              tbody
+               tr
+                td bgcolorffffff
+                 table height cellspacing cellpadding width border
+                  tbody
+                   tr
+                    td heightbfont facearial helvetica sansserif sizecovering
+                     all  statesfontbtd
+                   tr
+                   tr
+                    td heightbfont facearial helvetica sansserif size
+                     executive park drivefontbtd
+                   tr
+                   tr
+                    td heightbfont facearial helvetica sansserif sizefloor fontbtd
+                   tr
+                   tr
+                    td heightbfont facearial helvetica sansserif sizenewport
+                     beachnbspcabr
+                     nbspfontbtd
+                   tr
+                   tr
+                    td heightbfont facearial helvetica sansserif sizewholesale
+                     mortgagenbspfontbtd
+                   tr
+                   tr
+                    td heightbfont facearial helvetica sansserif sizeoffice
+                     fontbtd
+                   tr
+                   tr
+                    td heightbfont facearial helvetica sansserif sizefax
+                     fontbtd
+                   tr
+                   tr
+                    td heightfont facearial helvetica sansserif sizebemail
+                     cohengmmortgagecombfonttd
+                   tr
+                  tbody
+                 table
+                td
+               tr
+              tbody
+             table
+            td
+            td classntileryhold valigntop width bgcolorffcf heightfont colorffcfimg height srcinfocaptopgif widthfonttd
+            td valigntop width bgcolorffa rowspannbsptd
+           tr
+           tr
+            td classntileryhold width bgcolorffcf heightfont colorffcfimg height srcimagesspacergif widthfonttd
+           tr
+           tr
+            td classntileryhold valignbottom width bgcolorffcf heightfont colorffcfimg height srcimagesinfocapbottomgif widthfonttd
+           tr
+           tr
+            td valigntop width bgcolor heightimg height srcimagesspacergif widthtd
+            td valigntop width colspan heightimg height srcimagesspacergif widthtd
+           tr
+          tbody
+         table
+        center
+        p aligncenternbspp
+        p aligncenterimg altcomstock image ks srchttpimagewarehouserfthumbnailversionsksjpg border width heightp
+       td
+       center
+       td width height
+        table cellspacing cellpadding width border
+         tbody
+          tr
+           td valigntop heighttd
+          tr
+         tbody
+        table
+        table cellspacing cellpadding width border
+         tbody
+          tr valigntop
+           td bgcolorffff colspan height widthimg height srchttpheadergif widthtd
+          tr
+          tr
+           td valigntop width bgcolorffffffbfont facegeneva arial helvetica sanserif colora sizespan stylebackgroundcolor ffffffjack
+            cohen and loan officers  promotionspanfontbtd
+           td valigntop width bgcolorffffff heightnbsptd
+          tr
+         tbody
+        table
+        p aligncenternbsp img altcomstock image ks srchttpimagewarehouserfthumbnailversionsksjpg border width heightfont faceverdanaspan stylebackgroundcolor ffffffbfont colorff sizequotu
+        daysuquotfontbspanfontimg altcomstock image ks srchttpimagewarehouserfthumbnailversionsksjpg border width heightfont faceverdananbspfontfont facecenturynbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspfontp
+        p aligncenterspan stylebackgroundcolor ffffffbspan stylebackgroundcolor fffffffont size faceverdanafont colorcwefont
+        font colorffwill beat fontfont colorcanyfontfontspanbspan
+        p aligncenterfont size colorffspan stylebackgroundcolor ffffffbspan stylebackgroundcolor fffffffont faceverdanamortgage
+        loan ratenbspfontspanbspanfont
+        p aligncenterspan stylebackgroundcolor ffffffbspan stylebackgroundcolor fffffffont faceverdana color sizeor
+        callnbspfontspanbspan
+        p aligncenter stylelineheight  margintop  marginbottom span stylebackgroundcolor ffffffbspan stylebackgroundcolor fffffffont faceverdana color size
+        fontspanbspanp
+        form actionhttpcgibinpl methodpost targetblank
+         p aligncenter stylelineheight  margintop  marginbottom centernbspnbspnbspnbspnbspnbspcenterp
+         table bordercolor cellspacing cellpadding aligncenter bgcolorffffff border height width
+          tr
+           td bordercolor bordercolorlight width bgcolorc bordercolordark height valigntop
+            p alignrightfont colorffff sizestrongfont faceverdananame fontstrongfont faceverdanainput idtext stylewidth px height px tabindex maxlength size namenamestrongstrongfontfontp
+           td
+           td bordercolor bordercolorlight width bgcolorc bordercolordark height valigntop
+            p alignrightfont colorffff sizestrongfont faceverdanacontact
+            phone fontstrongfont faceverdanainput idtext stylewidth px height px tabindex maxlength size namecontactphonestrongnbspstrongfontfontp
+           td
+          tr
+          tr
+           td bordercolor bordercolorlight width bgcolorc bordercolordark height valigntop
+            p alignrightfont colorffff sizestrongfont faceverdanastatenbsp
+            fontstrongbfont faceverdana sizeinput idtext stylewidth px height px tabindex size namestatefontbstrongfont faceverdana sizefontstrongfontp
+           td
+           td bordercolor bordercolorlight width bgcolorc bordercolordark height valigntop
+            p alignrightfont colorffff sizestrongfont faceverdanacredit
+            rating fontstrongbfont faceverdanaselect idselect stylefontsize pt tabindex size namecreditrating
+             option valuegoodgood some latesoption
+             option valueexcellentexcellent no latesoption
+             option valuefairfair collectionoption
+             option valuepoor selectedpoor bankruptcyoption
+            selectfontbfontp
+           td
+          tr
+         center
+         tr
+          td width height bgcolorc valigntop
+           p alignleftfont colorffff sizestrongfont faceverdanaowed on stfontstrongfont faceverdanab
+           binput idtext stylefontsize pt width px height px tabindex size namemoneyowed
+           fontfontstrongfont faceverdana colorffff sizeratefontfont colorffff sizefont faceverdana
+           fontfontstrongfont colorffff sizefont faceverdanainput idtext stylefontsize pt width  height  tabindex size namecurrentintereststrongstrongfontstrongfont faceverdana sizefontstrongfontp
+          td
+          td height bgcolorc valigntop width
+           p alignrightfont colorffff sizestrongfont faceverdanaowed on nd fontstrongfont faceverdanainput idtext stylefontsize pt width px height px tabindex size namemoneyowednd
+           fontfontstrongfont faceverdana colorffff sizeratefontfont faceverdana sizefontstrongfont colorffff sizefont faceverdana
+           input idtext stylefontsize pt width  height  tabindex size namecurrentinterestndfontfontp
+          td
+         tr
+         center
+         tr
+          td height bgcolorc valigntop width
+           p alignrightfont colorffff sizestrongfont faceverdanahome valuefontstrongbfont faceverdana sizeinput idtext stylewidth px height px tabindex size namehomevaluefontbfontp
+          td
+          td height bgcolorc valigntop width
+           p alignrightfont colorffff sizestrongfont faceverdanaamount
+           requestedfontstrongfont faceverdana input idtext stylewidth px height px tabindex maxlength size value nameamountrequestedfontstrongfont faceverdana sizefontstrongfontp
+          td
+         tr
+         tr
+          td colspan height bgcolorc valigntop width
+           p aligncenterbifont faceverdana size colorffffwhat would you like
+           to dofontibp
+          td
+         tr
+         tr
+          td valigntop colspan height bgcolorc width
+           p aligncenterfont faceverdana colorffff sizetextarea idtextarea stylewidth px height px tabindex namecomments cols rowstextareafontp
+          td
+         tr
+         tr
+          td width colspan height bgcolorc valigntop
+           p aligncenterfont colorffff sizeinput idsubmit stylewidth px color  height px tabindex typesubmit size valuesubmit namesubmitfontp
+          td
+         tr
+         table
+        centertd
+       tr
+      tbody
+     table
+     table cellspacing cellpadding width aligncenter border
+      tbody
+       tr
+        td bgcolorff heightimg height srcimagesspacergif widthtd
+       tr
+      tbody
+     table
+     table cellspacing cellpadding width aligncenter border
+      tbody
+       tr
+        td bgcolorffffff
+         table cellspacing cellpadding width border
+          tbody
+           tr valigntop
+            td valignbottom widthnbsptd
+            td valigncenter
+             table cellspacing cellpadding width border
+              tbody
+               tr
+                tdtd
+               tr
+              tbody
+             table
+            td
+           tr
+          tbody
+         table
+        td
+       tr
+      tbody
+     table
+    td
+   tr
+  tbody
+ table
+ div
+ table cellspacing cellpadding width aligncenter border
+  tbody
+   tr bgcolor
+    td width
+     table cellspacing cellpadding width alignright border
+      tbody
+       tr
+        tdnbsp
+        td valignbottom widthimg srchttpwwwgmacmortgagecomimageseohlogogif width heighttd
+       tr
+      tbody
+     table
+    td
+    td
+     table cellspacing cellpadding width border
+      tbody
+       tr
+        tdfont facearial helvetica sansserifba hreflicensinghtmlfont colorfffffflicensingfontafont colorffffff
+          fonta hrefprivacyhtmlfont colorffffffprivacyfontafont colorffffff
+          fonta hreftermsofusehtmlfont colorffffffterms of usefontabfonttd
+       tr
+       tr
+        tdfont facearial helvetica sansserifbfont facearial helvetica sansserif colorffffff
+          us sterns mortgagenbsp corporationfontfont colorffffffequal housing
+         opportunityfontbfonttd
+       tr
+      tbody
+     table
+    td
+   tr
+  tbody
+ table
+ p aligncentera hrefmailtosignoutpersolangrowthseminarscavernplbodyyour right to be removed from our email list is fully supported by us we are currently cleaning all our lists please do not alter this remove request altering or sending multiple remove requests will default the program and you will not be removed properly to insure that your email address is removed from our list simply send do not alter nor send more than once if you follow these directions your email address will be removed automatically the moment you send thank you for your cooperationampsubjectremoveremoveap
+
+body
+
+html
+
+httpxentcommailmanlistinfofork
+
+

@@ -1,0 +1,21 @@
+on wed feb   at pm  harri haataja wrote
+ install i havent met an openssh like that and in worst case ive had 
+ different openssl libraries wtf cant they just bump a major version if
+ its incompatible
+
+so what should i with the openssl thing
+
+ something and ive just made dummy packages with verbose warning
+ attached  that explicitly provide those capabilities or claim to
+ that is
+
+how do i make such packages
+
+ 
+peter
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

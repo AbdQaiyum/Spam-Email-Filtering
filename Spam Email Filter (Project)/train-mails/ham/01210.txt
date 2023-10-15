@@ -1,0 +1,34 @@
+once upon a time mark wrote 
+
+ i remember aptget distupgrading from  to  fine so it should 
+ work maybe 
+
+ive done that too on many production servers the only little
+unimportant catch is to replace kernelheaders by glibckernheaders
+a simple aptget install glibckernheaders taking care of that
+
+upgrading between releases is meant to work not between betas or beta and
+releases the reason is simple  some packages may have been downgraded
+some others may have been rebuilt with the same versions but different
+dependencies for both these categories of packages the upgrade through
+aptrhnwhatever just wont do as some older packages might be considered
+as the newest thus being kept on the system
+
+as red hat does i really dont recommend trying to upgrade between betas
+or from a beta to a final release either simply backup your home etc
+and root andor usrlocal if needed then reinstall cleanly itll
+probably save a few hassles and youll get the cleanest possible system 
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

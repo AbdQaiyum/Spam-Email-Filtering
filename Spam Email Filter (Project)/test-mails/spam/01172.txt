@@ -1,0 +1,268 @@
+this is a multipart message in mime format
+
+nextpartecdaad
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ free
+ ltc sales closers
+ just tell us which sales closer you would like us to send you
+ 	 our stateofthe art pointofsale cd rom
+which virtually sells long term care to your clients this turnkey
+presentation prepares your client for the sale it has both video and
+audio so you just sit back run the presentation and get the
+applications ready
+
+ 
+ were also offering our flip chart version of this presentation
+the same great tool in a flip chart format with a
+complete script to keep you on track
+
+ 	the choice is yours  choose one of these great ltc
+pointofsale items which gift would you like all you have to do is
+complete appointment paperwork with mo marketing
+
+respond to this email or call us today and we will send over the
+paperwork for one of our top carriers remember  we train our agents
+on products  free  and we also give at least a  commission bonus
+for every app you send us
+
+  ext 
+
+for agent use only 
+please fill out the form below for more information	
+name	  
+email	  
+phone	  
+city	  	state	  	 
+ 	  	 	   
+
+we dont want anybody to receive our mailing who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartecdaad
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlefree ltc sales closerstitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+font facedarial helvetica sansserif
+table widthd borderd cellspacingd cellpaddingd 
+bordercolord aligndcenter
+    tr
+      td
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td img srcdhttpiiqusimagesmogif 
+widthd heightd altdfreebr
+              img srcdhttpiiqusimagesmogif 
+widthd heightd altdltc quotsales closersquot
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td img srcdhttpiiqusimagesmoclosergif 
+widthd heightd altdjust tell us which sales closer you 
+would like us to send youtd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthdimg 
+srcdhttpiiqusimagesmochartgif widthd 
+heightdtd
+            td widthd valigndtop
+              p aligndcenterimg 
+srcdhttpiiqusimagesmotaggif widthd heightd 
+altdour stateofthe art pointofsale cd rombr
+                font sizedwhich virtually sells long term care to 
+your clients
+                this turnkey presentation prepares your client for the 
+sale it
+                has both video and audio so you just sit back run the 
+presentation
+                and get the applications ready fontp
+            td
+            td widthdimg 
+srcdhttpiiqusimagesmocdjpg widthd 
+heightdtd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            tdimg srcdhttpiiqusimagesmotaggif 
+widthd heightd altdwere also offering our flip chart 
+version of this presentationtd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td
+              p aligndcenterfont sized
+                the same great tool in a flip chart format with abr
+                complete script to keep you on trackfontp
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthdimg 
+srcdhttpiiqusimagesmoformsgif widthd 
+heightdtd
+            td widthd
+              font sizedpthe choice is yours  choose one 
+of these great
+                ltc pointofsale items which gift would you like all 
+you have
+                to do is complete appointment paperwork with mampo 
+marketingp
+              prespond to this email or call us today and we will 
+send over
+                the paperwork for one of our top carriers remember  
+we train
+                our agents on products  free  and we also give at 
+least a 
+                commission bonus for every app you send us fontp
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenter
+              img srcdhttpiiqusimagesmogif 
+widthd heightd altd ext br
+              img srcdhttpiiqusimagesmologogif 
+widthd heightdbr
+              font sizedfor agent use onlyfont
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td
+              table widthd bgcolordffffff
+                tr
+                  form methoddpost 
+actiondhttpresponseresponseasp
+                    td
+                      table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordffffff
+                        tr bgcolord
+                          td colspand aligndcenterfont 
+sizedbfont colordffffffplease fill out the form below for 
+more informationfontbfonttd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+sizedbnamebfonttd
+                          td colspand
+                            input typedtext namedcontactname 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+sizedbemailbfonttd
+                          td colspand
+                            input typedtext namedemail 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+sizedbphonebfonttd
+                          td colspand
+                            input typedtext namedphone 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+sizedbcitybfonttd
+                          td widthd
+                            input typedtext namedcity 
+sized
+                          td
+                          td widthd aligndrightfont 
+sizedbstatebfonttd
+                          td widthd
+                            input typedtext namedstate 
+sized
+                          td
+                          td rowspand aligndcenter 
+valigndmiddleimg srcdhttpimagesqgif 
+widthd heightdtd
+                        tr
+                        tr
+                          td widthd aligndrightnbsptd
+                          td widthd
+                            input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          td
+                          td widthd aligndrightnbsptd
+                          td widthd
+                            input typedhidden 
+namedhdnrecipienttxt valuedmarketingmandomarketingcom
+                            input typedhidden 
+namedhdnsubjecttxt valuedmo ltc response
+                          td
+                        tr
+                      table
+                    td
+                  input typedhidden namedsentto 
+valued
+form
+                tr
+              table
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenter font sizedwe dont want anybody 
+to receive
+              our mailing who does not wish to receive them this is a 
+professional
+              communication sent to insurance professionals to be 
+removed from
+              this mailing list do not reply to this message instead 
+go here
+              a 
+hrefdhttpwwwinsurancemailnethttpwwwinsurancemailnetabr
+
+              a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafont
+            td
+          tr
+        table
+      td
+    tr
+  table
+font
+body
+html
+
+nextpartecdaad
+
+

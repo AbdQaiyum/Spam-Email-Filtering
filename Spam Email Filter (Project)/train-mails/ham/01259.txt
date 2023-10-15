@@ -1,0 +1,21 @@
+on fri  oct   
+ben liblit libliteecsberkeleyedu wrote
+
+ so if your fonts look ugly lack of bytecode hinting is not the cause
+
+well you are right sorry i didnt have any better idea yesterday late in
+the evening
+the fonts are ugly only inside of gnome and clean for gnome apps if
+antialiasing is disabled 
+this is difficult to understand for me
+
+
+regards from germany
+                   matthias
+      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

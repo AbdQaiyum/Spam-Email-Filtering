@@ -1,0 +1,215 @@
+this is a multipart message in mime format
+
+nextpartaacfcadf
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+  annuity comissions
+ from the tba annuity doctor
+  commissiona
+ year onea
+ guaranteed years a
+a best
+carrier
+
+ guaranteed
+ 	 
+ call today for details
+
+click here for a test drive
+httpnettracipipelinecomquotesrequestannqtaspgaidd
+ 
+  ext 
+ or 
+
+please fill out the form below for more information	
+name	  
+email	  
+phone	  
+city	  	state	  	 
+ 	  	 	   
+
+
+dont forget  we also do impaired risk life
+
+wwwtbacom httpwwwtbacom
+ 
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet
+
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+nextpartaacfcadf
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+title guaranteed annuity   commissiontitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+table widthd cellpaddingd cellspacingd 
+bgcolord aligndcenter
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordcc
+        tr
+          td aligndcenter
+            img 
+srcdhttpimagestbacjpg widthd 
+heightd altd annuity comissionsbr
+            img 
+srcdhttpimagestbacgif widthd 
+heightd altdfrom the tba annuity doctorbr
+            img 
+srcdhttpimagestbacgif widthd 
+heightd altd commission year one 
+guaranteed years a best carrierbr
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                tdimg 
+srcdhttpimagestbagif widthd 
+heightd altdguaranteedbr
+                  img 
+srcdhttpimagestbacgif widthd 
+heightdtd
+                tdimg 
+srcdhttpimagestbacgif widthd 
+heightdtd
+              tr
+            table
+            img 
+srcdhttpimagestbacgif altdcall 
+today for detailsbr
+            br
+            a 
+hrefdhttpnettracipipelinecomquotesrequestannqtaspgaidd
+img srcdhttpimagestbagif 
+widthd heightd borderd altdclick here for a test 
+driveabr
+            nbsp
+          td
+        tr
+        tr
+          tdimg srcdhttpimagestbagif 
+widthd heightd altd ext td
+        tr
+        tr
+          td aligndcenter
+            font facedarial helvetica sansserif 
+sized or br
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordffffff
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont colordffffff sizedplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                        td rowspand aligndcenter 
+valigndmiddleimg srcdhttpimagesqgif 
+widthd heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedkkinnanetbacom
+                          input typedhidden namedhdnsubjecttxt 
+valuedtba ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            br
+            font sized colordffffffibdont forget  we 
+also do impaired risk lifebifontbrbr
+            a hrefdhttpwwwtbacomimg 
+srcdhttpimagestbagif widthd 
+heightd borderd altdwwwtbacomabr
+            nbsp font
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+body
+html
+
+nextpartaacfcadf

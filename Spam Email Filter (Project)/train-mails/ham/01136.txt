@@ -1,0 +1,59 @@
+exmhp
+contenttype textplain charsetusascii
+
+ from  anders eriksson aerikssonfastmailfm
+ date  wed  sep   
+
+ 
+ it seems that something changed during the last  weeks
+ 
+  in a folder msgs n is read ncurrent n upwards is unread
+  change to another folder
+  change back to the original folder and youll see msg n being 
+ highlighted as current for a split second that it changes back to 
+ ncurrent
+ 
+ kind of annoying since it marks msg n as read
+
+i havent seen what you describe but i just saw something close to what you 
+describe  i think the message thats being incorrectly highlighted as current
+is related to the current message in the other folder rather than being n
+
+ill have to investigate a bit more to identify and fix the bug but there is 
+something going on here
+
+chris
+
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqekxpxkbhriuiraqfajlzuupvkbkjijrnbsbqhaywcftal
+tjnhsbcbcvytqjnvooq
+lb
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

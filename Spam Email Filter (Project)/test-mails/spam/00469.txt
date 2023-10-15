@@ -1,0 +1,126 @@
+html
+head
+titlereliaquote  save up to  on life insurancetitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+
+body bgcolorffffff leftmargin topmargin marginwidth marginheight linkffffff vlinkffffff alinkffcc
+div aligncenter
+  center
+table width border cellspacing cellpadding height bgcolorffffff
+  tr 
+    td alignleft valigntop height width 
+      table width border cellspacing cellpadding
+        tr 
+          tda hrefhttpwwwreliaquotecomtermlifedefaultaspsourceid targetblankimg srchttpwwwreliaquotecombannerbanneradsimagesrqlogojpg width height borderatd
+        tr
+      table
+    td
+    td alignleft valigntop height rowspan width 
+      table width border cellspacing cellpadding
+        tr aligncenter valignmiddle 
+          tdimg srchttpwwwreliaquotecombannerbanneradsimagespercentgif width heighttd
+        tr
+        tr aligncenter valigntop 
+          td height 
+            table border cellspacing cellpadding width bgcolor
+              tr bgcolorcc 
+                td aligncenter colspanfont facetimes new romanarial colorffca sizebfont facetahoma verdana arial colorffffffyear 
+                  level br
+                  term life insurancefontfont facetahoma verdana arial colorccccffbr
+                  fontbfont facetahoma verdana arial color sizemalefemale 
+                  monthly premiumsbr
+                  no nicotinefontfonttd
+              tr
+              tr bgcolor 
+                td width heightnbsptd
+                td aligncenter colspan heightfont facetahoma verdana arial size colorffffffbbfonttd
+                td aligncenter colspan heightfont facetahoma verdana arial size colorffffffbbfonttd
+              tr
+              tr valignmiddle bgcolorffffff 
+                td width aligncenterfont color facetahoma verdana arial sizebagebfonttd
+                td width aligncenterfont color facetahoma verdana arial sizebmalebfonttd
+                td width aligncenterfont color facetahoma verdana arial sizebfemalebfonttd
+                td width aligncenterfont color facetahoma verdana arial sizebmalebfonttd
+                td width aligncenterfont color facetahoma verdana arial sizebfemalebfonttd
+              tr
+              tr valignmiddle bgcolor 
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+              tr
+              tr valignmiddle bgcolorffffff 
+                td width aligncenterbfont facetahoma verdana arial size colorfontbtd
+                td width aligncenterbfont facetahoma verdana arial size colorfontbtd
+                td width aligncenterbfont facetahoma verdana arial size colorfontbtd
+                td width aligncenterbfont facetahoma verdana arial size colorfontbtd
+                td width aligncenterbfont facetahoma verdana arial size colorfontbtd
+              tr
+              tr valignmiddle bgcolor 
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+              tr
+              tr valignmiddle bgcolorffffff 
+                td width aligncenterbfont facetahoma verdana arial size colorfontbtd
+                td width aligncenterbfont facetahoma verdana arial size colorfontbtd
+                td width aligncenterbfont facetahoma verdana arial size colorfontbtd
+                td width aligncenterbfont facetahoma verdana arial size colorfontbtd
+                td width aligncenterbfont facetahoma verdana arial size colorfontbtd
+              tr
+              tr valignmiddle bgcolor 
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+                td width aligncenterfont colorffffff facetahoma verdana arial sizebbfonttd
+              tr
+            table
+            div aligncenterimg srchttpwwwreliaquotecombannerbanneradsimageslegalgif width height altsample rates underwritten by first colony life insurance company term life insurance subject to the terms of policy form nos   et al and  et al which includes an exclusion period of death by suicide premiums include a  annual policy fee no nicotine use includes use of all nicotine and nicotine substitutes subject to state availability and issue limitations based on premiums paid monthly rates are higher for other underwriting classifications reliaquote inc is a licensed insurance agency dba reliaquote insurance services in ca license c br
+              br
+              a hrefhttpwwwreliaquotecomtermlifedefaultaspsourceid targetblankimg srchttpwwwreliaquotecombannerbanneradsimagesclickheregif width height bordera 
+              font facetahoma verdana arial size colorccbr
+              font colorbr
+              fontfont facetahoma verdana arial size colorccfont colorcopy 
+               reliaquote all rights reservedfontfont fontdiv
+          td
+        tr
+      table
+    td
+  tr
+  tr 
+    td alignleft valigntop width height 
+      table width border cellspacing cellpadding
+        tr 
+          td heightimg srchttpwwwreliaquotecombannerbanneradsimagesheadlinegif width heighttd
+        tr
+        tr aligncenter valignmiddle 
+          tdimg srchttpwwwreliaquotecombannerbanneradsimagesphotojpg width heighttd
+        tr
+        tr aligncenter 
+          td 
+            table width border cellspacing cellpadding
+              tr 
+                td heightfont size facetahoma verdana ariallife 
+                  can change in an instant dont wait until its too late give 
+                  your family the security they deserve today with affordable 
+                  term life insurance from reliaquotefonttd
+              tr
+            table
+          td
+        tr
+      table
+    td
+  tr
+table
+  center
+div
+p aligncenterfont facearial helvetica sansserif sizeto unsubscribe from our
+mailing list please fonta hrefhttponlineoffersaanetonlineoffersunsubscribeaspidjmnetnoteinccomfont color facearial helvetica sansserif sizeclick
+herefontap
+body
+html

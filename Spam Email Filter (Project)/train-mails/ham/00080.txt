@@ -1,0 +1,22 @@
+if i have any rpms in
+
+httpwwwdudexnetrpms
+
+that could be useful to some one with a real apt repository or someone who wants to
+maintain a package be it known i am not selfish 
+
+i found stuff i thought would later get popular so i would not have to maintain the
+rpms for them after they hit the big time gnumpd is an exapmple of this
+
+so if anyone is psyched go for it if so let me know so i can get the rpms from
+you in the future
+
+
+thats angle as in geometry
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

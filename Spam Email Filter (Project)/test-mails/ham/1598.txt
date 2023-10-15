@@ -1,0 +1,17 @@
+jmjmasonorg justin mason writes
+
+ except for  thing defanged mime messages  thats a big problem
+ but if you didnt just remove the headers and instead reverted
+ back to the xspamprev versions itd moreorless work
+ 
+ btw fixed the downloads page 
+
+check now undefangs mime  it was screwing up some of my masscheck
+results where samarkup was present yes
+
+if there ever was a warning about samarkup in masscheck it never
+worked for me
+
+dan
+
+

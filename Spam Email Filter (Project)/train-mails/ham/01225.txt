@@ -1,0 +1,73 @@
+
+rnlqjjddatv
+contenttype textplain charsetusascii
+contentdisposition inline
+
+on wed oct   at am  matthias saou wrote
+ well i dont really find it consistent at all to use an rpm package built
+ against something that wasnt installed through rpm 
+
+following that reasoning ive been installing all my custombuilt
+kernels through rpm recently i find it annoying though that 
+alsakernel and similar packages will only build for the currently 
+running kernel
+
+so ive attached a patch to specify an alternate kernel by setting the
+targetkernel environment variable before running rpmbuild you
+still need to have the rpm for the specified kernel installed but at
+least it doesnt have to be currently running its kinda hackish so
+if someone has a better way to do this let me know
+
+gary
+
+rnlqjjddatv
+contenttype textplain charsetusascii
+contentdisposition inline filenamealsadriverspecpatch
+
+ alsadriverspecorig	  
+ alsadriverspec	  
+   
+  comma separated list of cards for which to compile a driver
+ define	cards		all
+ 
+define	kunamer		uname r
+define	kversion	echo uname r  sed e ssmp 
+if uname r  grep c smp
+if printenv targetkernel devnull  echo n   echo n 
+define usekernel	echo n targetkernel
+endif
+define	kunamer		usekernel uname rusekernel
+define	kversion	echo kunamer  sed e ssmp 
+if echo kunamer  grep c smp
+ 	expanddefine ksmp smp
+ endif
+ define	karch		rpm q qf arch kernelksmpkversion
+   
+ 	withoutisapnpwithisapnpno 
+ 	withoutsequencerwithsequencerno 
+ 	withoutosswithossno 
+	usekernelwithkernellibmodulesusekernelbuild 
+ 	withcardscards
+ make
+ 
+   
+ rm f buildrootetcrcdinitdalsasound
+ 
+ post n alsakernelksmp
+sbindepmod a
+sbindepmod a f bootsystemmapkunamer kunamer
+ 
+ postun n alsakernelksmp
+sbindepmod a
+sbindepmod a f bootsystemmapkunamer kunamer
+ 
+ clean
+ rm rf buildroot
+
+rnlqjjddatv
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

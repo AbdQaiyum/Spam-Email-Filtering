@@ -1,0 +1,98 @@
+iieo
+html
+head
+titlemortgage companies make you waittitle
+head
+
+body
+
+div aligndcenter
+  center
+  table heightd cellspacingd widthd borderd styled
+bordercollapse collapse bordercolord cellpaddingd
+    tr
+      td colspand
+      p aligndcenterfont facedtahoma colordbigst
+rong
+      mortgage companies make you waitthey demand to interview youth
+ey u
+      intimidateu youthey uhumiliateu youand all of that is 
+while 
+      they decide if they even want to do business with youstrongb
+igp
+      p aligndcenterfont colord sizedstrongwe tu
+rn the 
+      tables on thembr
+      now youre in chargestrongfontp
+      p aligndcenterfont colordsmallbjust fill out 
+our simple 
+      form and they will have to compete for your businessbsmall
+br
+      br
+      bigbigstrong
+      a targetdnew hrefdhttpmortgagemailer
+      click here for the formastrongbigbigfontp
+      p aligndcenterfonttd
+    tr
+    tr
+      td valigndcenter widthdstrong
+      font facedtahoma colord sizedwe have hundreds 
+of loan 
+      programs includingfontstrongbfont facedtahoma colord
+ sizedul
+        lirefinance li
+        lidebt consolidation li
+        lihome improvement li
+        lisecond mortgages li
+        licash outli
+        lihome equity loanli
+      ul
+      fontbtd
+      td valigndtop widthd
+      blockquote dirdltr styledborderleft px solid  mar
+ginleft px marginright px paddingleft px
+        div aligndcenter
+          center
+          p aligndjustifyyou can save ibuthousands of dollars
+ubi 
+          over the course of your loan with just a  of  drop in your 
+ratebr
+          br
+          br
+          br
+          br
+          br
+          br
+nbspp
+          center
+        div
+      blockquote
+      td
+    tr
+    tr
+      td colspandbr
+nbspp aligndcenterfont facedtahoma colordffbigbi
+gstrong
+      a targetdnew hrefdhttpmortgagemailer
+      click here for the formastrongbigbigfontp
+      p aligndcenterfont facedtahoma colord sized
+strongyou 
+      will be contacted with an offer within  hours from the time you fi
+ll out 
+      the formstrongfonttd
+trtdfont facedarialhelvetica sizedbrplease know that we do
+ not want to send you information regarding our special offers if you do n
+ot wish to receive it  if you would no longer like us to contact you or y
+ou feel that you have received this email in error you may a hrefdhtt
+premoveclick here to unsubscribeafonttdtr
+    tr
+  table
+  center
+div
+
+body
+
+html
+xcps
+
+

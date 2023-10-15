@@ -1,0 +1,53 @@
+
+htmlheadtitleuntitled documenttitle
+meta contenttexthtml charsetiso httpequivcontenttype
+meta contentmshtml  namegeneratorhead
+body bgcolorffffff leftmargin text topmargin marginheight 
+marginwidth
+table backgroundhttpimagesemailbgjpg border cellpadding 
+cellspacing height width
+  tbody
+  tr
+    td valigntopimg height srchttpimagesxgif 
+      widthbrimg alignleft height hspace 
+      srchttpimagesxgif width bfont colore 
+      facearial helvetica sansserif 
+      sizenbspnbspnbspnbspnbspwe can help you 
+fontbbrbr
+      table backgroundhttpimagesxgif border cellpadding 
+      cellspacing height width
+        tbody
+        tr
+          td height valigntop widthfont 
+            facearial helvetica sansserif sizeimg height 
+            srchttpimagescheckmarkjpg widthnbspreduce your 
+            monthly payment up to brimg height 
+            srchttpimagescheckmarkjpg widthnbsplower your credit 
+            card interest ratesbrimg height 
+            srchttpimagescheckmarkjpg widthnbspstop late or over 
+            the limit feesbrimg height 
+            srchttpimagescheckmarkjpg widthnbspcombine your 
+            bills into one low simple paymentbrimg height 
+            srchttpimagescheckmarkjpg widthnbspprovide a 
+            structured payment planbrimg height 
+            srchttpimagescheckmarkjpg width bring your account to 
+            a current statusbrimg height 
+            srchttpimagescheckmarkjpg width private handling of 
+            your accountsbrimg height srchttpimagescheckmarkjpg 
+            width put a debt specialist on your sidefonttd
+          td valigntop widthimg height 
+            srchttpimagesxgif widthbra 
+            hrefhttpperlplimg border 
+            height srchttpimagesxgif widtha 
+      tdtrtbodytablefont colorff sizebrbrbfont 
+      facearial helvetica sansserifnot a loan no credit check no 
+      property needed fontbfonttdtrtbodytable
+
+pfont size colorblackthis email is not sent unsolicited you are receiving it because you requested receive this email by optingin with our marketing partner you will receive notices of exciting offers products and other options however we are committed to only sending to those people that desire these offers if you do not wish to receive such offers 
+a hrefhttpperlunsubscribeplsbfont size color  blueclick herefontba or paste the following into any browserp httpperlunsubscribepls brbrp to remove your email name from our list you may contact our company by mail at  se th street suite number  ft lauderdale fl p 
+img srchttpperlropenplserialno
+
+body
+html
+
+

@@ -1,0 +1,24 @@
+ the devices are there now thank gordon for reporting the problem and as i
+ said you were the only one any further comments are very welcome
+ 
+ download  httpftpfreshrpmsnetpubfreshrpmstestingalsa
+ new spec  httpfreshrpmsnetbuildsalsadriveralsadriverspec
+
+ahh wonderful  just tried out these and finally got sound working
+with my abit thiiraids integrated audio  ive been pulling hair
+together with the helpful opensound people for quite some time now
+but weve failed to get sound to work either with the drivers included
+in kernel or the commercial oss
+
+thanks a lot   the rpms seem to be fine they worked for me out of
+the box on vanilla valhalla wlatest errata
+
+ 
+ille skytt
+villeskytta at ikifi
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

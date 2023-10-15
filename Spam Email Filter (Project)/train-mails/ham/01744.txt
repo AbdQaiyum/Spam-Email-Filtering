@@ -1,0 +1,104 @@
+weve not only reduced the fp and fn rates in my test runs weve also
+made the score distributions substantially sharper  this is bad news for
+greg because the nonexistent middle ground is becoming even less
+existent wink
+
+ham distribution for all runs
+   items
+    
+        
+       
+       
+       
+       
+      
+      
+      
+       
+      
+      
+      
+      
+      
+       
+      
+      
+      
+      
+      
+      
+      
+      
+       
+      
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+spam distribution for all runs
+   items
+      
+        
+       
+        
+       
+       
+       
+       
+       
+       
+      
+      
+       
+       
+       
+       
+      
+       
+       
+      
+       
+       
+       
+       
+      
+       
+       
+      
+       
+       
+       
+       
+      
+      
+       
+       
+       
+       
+      
+   
+
+as usual for me this is an aggregate of  runs each both training and
+predicting on  clpy ham   bruceg spam
+
+only  ham scores out of  are above  now and yes the
+nigerian scamquoting msg is still counted as ham  i havent taken
+anything out of the ham corpus since remving the if aol were a car spam
+the fp rate wouldnt have changed at all if the spamprob cutoff were
+dropped from  to  dropping the cutoff to  would have added
+only  false positives and dropping it to  would have added only
+another  more
+
+its spooky
+

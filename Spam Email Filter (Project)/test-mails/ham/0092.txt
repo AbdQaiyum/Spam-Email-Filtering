@@ -1,0 +1,86 @@
+this list is sponsored by ironclad networks httpwwwironcladnetau
+
+this is a multipart message in mime format
+
+nextpartccffe
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+im using simple dns from jhsoft  we support only a few web sites and 
+id like to swap secondary services with someone in a similar position
+
+we have a static ip dsl line and a  set of web sql mail and now a 
+dns server  as i said we are hosting about  web sites web and dns 
+traffic is almost nothing  everything is on lightly loaded apc battery 
+backups so we are very seldom down
+
+id like to swap with someone also using simple dns to take advantage of 
+the trusted zone file transfer option
+
+
+
+bob musser
+database services inc
+makers of
+   process servers toolbox
+   courier service toolbox
+bobmdbsinfocom
+wwwdbsinfocom
+ longhorn road
+winter park fl 
+ 
+
+
+
+nextpartccffe
+contenttype texthtml
+	charsetwindows
+contenttransferencoding quotedprintable
+
+doctype html public wcdtd html  transitionalen
+htmlhead
+meta httpequivdcontenttype contentdtexthtml 
+charsetdwindows
+meta contentdmshtml  namedgenerator
+stylestyle
+head
+body bgcolordffffff
+divfont sizedim using simple dns from jhsoftnbsp we support 
+only a few
+web sites and id like to swap secondary services with someone in a 
+similar
+positionfontdiv
+divfont sizedfontnbspdiv
+divfont sizedwe have a static ip dsl line and a  set of web 
+sql mail
+and now a dns servernbsp as i said we are hosting about  web 
+sites web
+and dns traffic is almost nothingnbsp everything is on lightly loaded 
+apc
+battery backups so we are very seldom downfontdiv
+divfont sizedfontnbspdiv
+divfont sizedid like to swap with someone also using simple dns 
+to take
+advantage of the trusted zone file transfer optionfontdiv
+divfont sizedfontnbspdiv
+divfont sizedfontnbspdiv
+divfont sizedfontnbspdiv
+divfont sizedbob musserbrdatabase services incbrmakers
+ofbrnbspnbsp process servers toolboxbrnbspnbsp courier 
+service
+toolboxbra 
+hrefdmailtobobmdbsinfocombobmdbsinfocomabra
+hrefdhttpwwwdbsinfocomwwwdbsinfocomabr longhorn 
+roadbrwinter
+park fl br fontdiv
+divnbspdiv
+divfont sizedfontnbspdivbodyhtml
+
+nextpartccffe
+
+
+
+to unsubscribe dnsswapofflistsironcladnetau
+sponsor  host ironclad networks httpwwwironcladnetau
+

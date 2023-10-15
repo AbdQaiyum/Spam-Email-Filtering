@@ -1,0 +1,45 @@
+html
+body bgcolorffffff text
+div alignleftfont size facetimes new roman times serifbfont colorffyoure 
+  bahama boundfontfont colorff fontbfontbr
+  br
+  font facetimes new roman times serif sizedear rsharp fontdiv
+pfont facetimes new roman times serif sizecongratulations youre 
+  a winner fontp
+pfont facetimes new roman times serif sizeyouve won a chance 
+  to receive an all expense paid florida vacation br
+  the grand prize will included  days and  night in magical orlando floridabr
+  at a world class resortfontp
+pfont facetimes new roman times serif sizebut wait theres more 
+  youll also receive a  day  night round trip cruise to the bahamasbr
+  with all of your meals and entertainment included aboard the shipfontfont facetimes new roman times serif size 
+  fontp
+pfont facetimes new roman times serif sizeyoull also receive a  
+  day  night weekend getaway for  in any one of br
+  fontfont facetimes new roman times serif sizedestinations around 
+  the world youll really enjoy your weekend getaway becausebr
+  you can take it any time in the next  months fontp
+pfont facetimes new roman times serif sizeto enter to win your prize 
+  just come to our website and register br
+  a hrefhttpwwwwiildaccesscomformhtmclick herebr
+  a fontp
+pfont facetimes new roman times serif sizethanks for entering our 
+  contest and we look forward to seeing you soon fontp
+pfont facetimes new roman times serif sizesincerely fontp
+pfont facetimes new roman times serif sizeemily rodriguezfontp
+pfont facetimes new roman times serif sizeps youve got to 
+  hurry if you claim your weekend getaway in  hoursbr
+  you will also be entered to receive  round trip airline ticketsbr
+  fontfont facetimes new roman times serif size so dont wait 
+  a hrefhttpwwwwiildaccesscomformhtmclick herea today fontfont facetimes new roman times serifbr
+  br
+  br
+  br
+  br
+  to be excluded from future prizes a hrefhttpwwwwiildaccesscomremovehtmclick 
+  hereafontp
+body
+html
+
+
+

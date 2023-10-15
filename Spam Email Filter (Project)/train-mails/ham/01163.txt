@@ -1,0 +1,54 @@
+
+oooops
+
+doesnt work at all got this on startup and on any attempt to change folder which fail
+
+anders
+
+cant read flistseqcountlistsexmhunseen no such element in array
+    reading value of variable to increment
+    invoked from within
+incr flistseqcountfolderseq delta
+    procedure seqdel line 
+    invoked from within
+seqdel exmhfolder mhprofileunseensequence msgid
+    procedure msgseen line 
+    invoked from within
+msgseen msgid
+    procedure msgshow line 
+    invoked from within
+msgshow msgid
+    procedure msgchange line 
+    invoked from within
+msgchange  show
+    invoked from within
+time list msgchange msgid show
+    procedure msgchange line 
+    invoked from within
+msgchange msgid show
+    procedure msgshow line 
+    invoked from within
+msgshow cur
+    eval body line 
+    invoked from within
+eval msgshowproc
+    procedure folderchange line 
+    invoked from within
+folderchange listsexmh msgshow cur
+    invoked from within
+time list  folderchange folder msgshowproc
+    procedure folderchange line 
+    invoked from within
+folderchange exmhfolder
+    procedure exmh line 
+    invoked from within
+exmh
+    after script
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

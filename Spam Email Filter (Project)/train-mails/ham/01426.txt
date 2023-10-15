@@ -1,0 +1,37 @@
+hi
+
+ive just installed spamassassin and relevant modules
+just tried the initial test 
+
+spamassassin t  samplenonspamtxt  nonspamout
+
+and got back
+
+broken pipe
+
+ive also tried using the p and pipe option but to
+no avail
+
+any help greatly appreciated btw  im no great perl
+expert
+
+rgds
+
+peter
+
+
+do you yahoo
+everything youll ever need on one web page
+from news and sport to email and music charts
+httpukmyyahoocom
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

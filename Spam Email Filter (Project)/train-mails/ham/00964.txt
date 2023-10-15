@@ -1,0 +1,69 @@
+exmhp
+contenttype textplain charsetusascii
+
+ from  anders eriksson aerikssonfastmailfm
+ date  mon  aug   
+
+ 
+ lately ive got the feeling that exmh is getting slower and slower i 
+ just decided to check that vs reality and yes speed has left the 
+ scene somewhere between the release of  and now
+ 
+ i checked on a number of small messages in a big folder  
+ msgs the delay of the next button has increased considerably
+ 
+ release  msec
+ latest cvs  msec
+ 
+ frankly i think this is getting close to nonacceptable since the 
+ user settings hasnt changed
+ 
+ anybody have any ideas where performance disappeared
+
+heres a fix that i think will make a real difference
+
+ftocshowsequences needs to be able to be called with an optional list of msgids 
+to update and if its called that way it only removes or adds tags for those 
+messages  then in places like msgchange we only update the messages which have
+changed
+
+also a separate ftocshowsequence function which only updates the display of 
+one sequence should be written which also takes an optional list of msgids  
+in a place like msgchange it would only need to update the cur sequence
+
+if nobody else gets to it ill do this when i get back
+
+chris
+
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqebpulkbhriuiraqcdajkbyatjwlyrmepecdygkxmxvgccdadm
+nqhdvwmkrlgjnlubm
+rde
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

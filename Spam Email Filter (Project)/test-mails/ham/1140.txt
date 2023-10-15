@@ -1,0 +1,36 @@
+hi all folks
+
+i have apt installed and updated from freshmeatnet  but i failed using it
+
+ aptget install 
+mntcdromlinuxcdburnercdrtoolscdrecordairpm
+processing file dependencies done
+reading package lists done
+building dependency tree done
+e couldnt find package 
+mntcdromlinuxcdburnercdrtoolscdrecordairpm
+
+the file cdrtoolscdrecordairpm is there
+
+i performed another test copying the file 
+cdrtoolscdrecordairpm to rootdownload
+
+ aptget install rootdownloadcdrtoolscdrecordairpm
+processing file dependencies done
+reading package lists done
+building dependency tree done
+e couldnt find package rootdownloadcdrtoolscdrecordairpm
+
+still failed  finally i rpm cdrtoolscdrecordairpm from the 
+cd and suceeded
+
+kindly advise what mistake i have committed
+
+thanks in advance
+
+stephen liu
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

@@ -1,0 +1,26 @@
+im getting these messages and im not sure what they mean can anyone clear 
+this up for me thanks
+
+sep   linux mailscanner rbl check ordbrbl timed out and 
+was killed consecutive failure  of 
+sep   linux mailscanner spamassassin timed out and was 
+killed
+
+
+ 
+this message has been scanned for viruses and
+dangerous content by mailscanner at compwizcom
+and is believed to be clean
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

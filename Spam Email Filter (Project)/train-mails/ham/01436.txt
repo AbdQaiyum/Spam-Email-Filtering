@@ -1,0 +1,72 @@
+
+mxyipescom
+contenttype textplain
+
+this is a warning message only
+  your message remains in the server queue
+  the server will try to send it again
+  you should not try to resend your message now
+
+message delivery to casimirtgsnopeccom delayed
+smtp moduledomain tgsnopeccom reports
+ relaytgsnopeccom no response
+
+
+mxyipescom
+contenttype messagedeliverystatus
+
+reportingmta dns mxyipescom
+
+originalrecipient rfccasimirtgsnopeccom
+finalrecipient rfccasimirtgsnopeccom
+action delayed
+
+mxyipescom
+contenttype textrfcheaders
+
+received from  helo uswsflistsourceforgenet
+  by mxyipescom communigate pro smtp 
+  with esmtptls id  for casimirtgsnopeccom thu  sep   
+received from uswsflistbsourceforgenet  helouswsflistsourceforgenet
+	by uswsflistsourceforgenet with esmtp exim vamm  debian
+	id mryqek thu  sep   
+received from hippostarcouk 
+	by uswsflistsourceforgenet with smtp exim vamm  debian
+	id mryb
+	for spamassassintalklistssourceforgenet thu  sep   
+received from mattlinux by hippostarcouk
+          via smtpd for uswsflistssourceforgenet  with smtp  sep   ut
+received qmail  invoked from network  sep   
+received from unknown helo startechgroupcouk 
+  by mattdevintstarcouk with smtp  sep   
+messageid dfstartechgroupcouk
+from matt sergeant msergeantstartechgroupcouk
+useragent mozilla x u linux i enus rvb gecko
+xacceptlanguage enus en
+mimeversion 
+to rose bobby brosemedwayneedu
+cc justin mason yyyyspamassassintaintorg 
+ spamassassintalklistssourceforgenet
+subject re satalk ot perl problem and  released
+references daadddeecbefedemedcoremedwayneedu
+contenttype textplain charsetusascii formatflowed
+contenttransferencoding bit
+sender spamassassintalkadminexamplesourceforgenet
+errorsto spamassassintalkadminexamplesourceforgenet
+xbeenthere spamassassintalkexamplesourceforgenet
+xmailmanversion sfnet
+precedence bulk
+listhelp mailtospamassassintalkrequestexamplesourceforgenetsubjecthelp
+listpost mailtospamassassintalkexamplesourceforgenet
+listsubscribe httpsexamplesourceforgenetlistslistinfospamassassintalk
+	mailtospamassassintalkrequestlistssourceforgenetsubjectsubscribe
+listid talk about spamassassin spamassassintalkexamplesourceforgenet
+listunsubscribe httpsexamplesourceforgenetlistslistinfospamassassintalk
+	mailtospamassassintalkrequestlistssourceforgenetsubjectunsubscribe
+listarchive httpwwwgeocrawlercomredirsfphplistspamassassintalk
+xoriginaldate thu  sep   
+date thu  sep   
+
+mxyipescom
+
+

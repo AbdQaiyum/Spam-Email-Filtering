@@ -1,0 +1,15 @@
+philip reynolds wrote
+does anyone know how to list the biggest file in my
+root directoryor the second biggest etc
+  find dir name    xargs du s  sort n
+
+you might want to put a type f on that find
+
+paul
+
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

@@ -1,0 +1,139 @@
+this is a mimeencapsulated message
+
+buffyjpcinet
+contenttype textplain charsetusascii
+contenttransferencoding bit
+contentdisposition inline
+
+your message was not delivered to
+ 
+    dazjpcinet
+ 
+this mail message contains banned or potentially offensive text
+
+
+buffyjpcinet
+contenttype messagedeliverystatus
+contenttransferencoding bit
+contentdisposition inline
+
+reportingmta dnsbuffyjpcinet
+ 
+finalrecipient rfcdazjpcinet
+action failure
+status  phrase in email not acceptable
+
+
+buffyjpcinet
+contenttype messagerfc
+contenttransferencoding bit
+contentdisposition inline
+
+received from uswsflistbsourceforgenet  helouswsflistsourceforgenet
+	by uswsflistsourceforgenet with esmtp exim vamm  debian
+	id ywhfwq tue  oct   
+received from dslbosdslspeakeasynet  heloblazingarsecandleorg
+	by uswsflistsourceforgenet with esmtp 
+	cipher tlsvdescbcsha exim vamm  debian
+	id ywgp
+	for spamassassintalklistssourceforgenet tue  oct   
+received qmail  invoked from network  oct   
+received from localhost helo raging rod
+  by localhost with smtp  oct   
+messageid acedfcbacraging
+from rodbegbie rodarsecandleorg
+to odhiambo washington washwananchicom
+	spamassassin spamassassintalklistssourceforgenet
+references ganswananchicom
+subject re satalk spamd error messages
+organization arsecandle industries inc
+xhabeasswe winter into spring
+xhabeasswe brightly anticipated
+xhabeasswe like habeas swe tm
+xhabeasswe copyright  habeas tm
+xhabeasswe sender warranted email swe tm the sender of this
+xhabeasswe email in exchange for a license for this habeas
+xhabeasswe warrant mark warrants that this is a habeas compliant
+xhabeasswe message hcm and not spam please report use of this
+xhabeasswe mark in spam to httpwwwhabeascomreport
+mimeversion 
+contenttype multipartsigned
+	micalgsha
+	protocolapplicationxpkcssignature
+	boundarynextpartcebddfe
+xpriority 
+xmsmailpriority normal
+xmailer microsoft outlook express 
+xmimeole produced by microsoft mimeole v
+sender spamassassintalkadminexamplesourceforgenet
+errorsto spamassassintalkadminexamplesourceforgenet
+xbeenthere spamassassintalkexamplesourceforgenet
+xmailmanversion sfnet
+precedence bulk
+listhelp mailtospamassassintalkrequestexamplesourceforgenetsubjecthelp
+listpost mailtospamassassintalkexamplesourceforgenet
+listsubscribe httpsexamplesourceforgenetlistslistinfospamassassintalk
+	mailtospamassassintalkrequestlistssourceforgenetsubjectsubscribe
+listid talk about spamassassin spamassassintalkexamplesourceforgenet
+listunsubscribe httpsexamplesourceforgenetlistslistinfospamassassintalk
+	mailtospamassassintalkrequestlistssourceforgenetsubjectunsubscribe
+listarchive httpsourceforgenetmailarchivesforumphpforumspamassassintalk
+xoriginaldate tue  oct   
+date tue  oct   
+
+this is a multipart message in mime format
+
+nextpartcebddfe
+contenttype textplain
+	charsetiso
+contenttransferencoding bit
+
+odhiambo washington wrote
+ after being bitten by bugs in  ive downgraded to  but now spamd
+ spews errors like ive never seen before
+
+delete the contents of usrlocalsharespamassassin and reinstall  there
+are some files that were new to vx so they wont be overwritten when you
+downgrade
+
+rod
+
+
+
+fast  fast  faster  bring the beef you bastard
+cries paula abdul and dont forget the pasta
+
+doing the blogging thang again at httpwwwgroovymothercom 
+
+nextpartcebddfe
+contenttype applicationxpkcssignature
+	namesmimeps
+contenttransferencoding base
+contentdisposition attachment
+	filenamesmimeps
+
+miagcsqgsibdqehaqcamiacaqexczajbgurdgmcgguamiagcsqgsibdqehaqaaoiijijccanow
+gghjoamcaqicarcwdqyjkozihvcnaqefbqawuzelmakgauebhmcvvmxhdaabgnvbaotevxdwlm
+yxgguvjdxjlieluyyxjjakbgnvbamthuvxdwlmyxgguvjdxjligvcdxnpbmvzcybdqsxmbx
+dtaymdqxodemjkznoxdtiwmdqxmzemjkznowtjelmakgauebhmcvvmxfjaubgnvbaotdudl
+brydxnieluyyxjzalbgnvbamthkdlbrydxnifrydwugqjlzgvudglhbhmgqegmjcbnzan
+bgkqhkigwbaqefaaobjqawgykcgyeaspcspzispyxajqwoycsyygqfbyovseprzlruendjr
+wjodwfpirrfouqktkkxsybqzxcecrrninygcxuijsyrsmdwobbwlncpebhgcebybwd
+kfafvvkxyuntmdzpttobrnpjtetiqmpncbgocrheljccaweaaanjmgewdgydvrpaqh
+baqdaghgmbgauddgqwbbqigtniaimmfrwraatrxiefrstapbgnvhrmbafebtadaqhmbg
+audiwqymbaafepmlirkwnlfwrqqgphfeyhmagcsqgsibdqebbquaagbacmwzslsls
+fafdecqjpfizfzjzspqklwyvhnnwhlakyecbtafhbpdyhspkrjkghxeijnkymfjskxdkyu
+wmxrauuhhiduzugokbwqbhbtqjjedocchilqsaleukmnkkrpbuvrhrocgffrmrwhzzyb
+lxoqeemiicgjccaeugawibagibbdanbgkqhkigwbaqqfadbtmqswcqydvqqgewjvuzecmbog
+auechmtrxfawzhecbtzwncmugswjljemmcqgaueaxmdrxfawzhecbtzwncmugzujclu
+zxnzienbltewhhcnotkwnjixmdqwmdawwhcnmjawnjixmdqwmdawwjbtmqswcqydvqqgewjvuzec
+mbogauechmtrxfawzhecbtzwncmugswjljemmcqgaueaxmdrxfawzhecbtzwncmugzuj
+cluzxnzienbltewgzwdqyjkozihvcnaqebbqadgyamigjaogbamvgbwxtfeklfwgxtzqa
+djjitlzmrorvcncwfaydgrwlivffqeswwdyybjqymtvgcqitzjdkockidmsodrsjqbu
+wqdzquaizxukxvwsupoegmljxwhxzrvcwdydiqrosvojvomrxyoygkwenvjydagmb
+
+nextpartcebddfe
+
+buffyjpcinet
+
+

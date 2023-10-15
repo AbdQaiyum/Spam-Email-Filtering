@@ -1,0 +1,117 @@
+html
+
+head
+meta httpequivdcontentlanguage contentdenus
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+titledo you have an inkjet or laser printertitle
+head
+
+body
+div aligndleft
+  table borderd widthd heightd bordercolordffffff 
+bordercolorlightdffff bordercolordarkd bgcolordff
+
+    tr
+      td widthd heightd aligndcenter bgcolordcc
+ bordercolordccc styledborderrightstyle solid borderright
+color cccnbsp
+        div aligndcenter
+          center
+          table borderd widthd heightd bordercolord
+
+            tr
+              td widthd heightd aligndcenter bgcolord
+ffffff styledcolor ffffff fontsize pt fontweight boldb
+font facedverdana colordff sizeddo
+        you have an inkjet or laser printerfontb
+              td
+            tr
+          table
+          center
+        div
+        pfont facedverdana sizedbfont colordffffffye
+s then we can fontfont colordffffccsavefontfont facedver
+dana sized colordffffff
+        you fontfont colordffffccfontfont facedverdana
+ sized colordffffff moneyfontbfontp
+        pbfont sized colordfffffffont facedverdanaou
+r high quality ink  toner cartridges come
+        with a moneyback guaranteefont font facedverdanaa yea
+r
+        warranty and get fontfontifont facedverdana sized
+ colordffffccufree day shippingufontibp
+        pbfont facedverdana sized colordffffffand best
+ of allthey cost
+        fontfont facedverdana colordffffccfont sized 
+up to  font iufont facedverdana colordffff sized
+lessfontui
+        font
+        font facedverdana sized colordffffff
+        than
+        retail pricefontbp
+        div aligndcenter
+          center
+          table borderd widthd heightd bordercolord
+
+            tr
+              td widthd bgcolordffffff aligndcenter styl
+edcolor ffffff bordercolord
+        pba styledcolor  fontweight bold hrefdhttp
+wwwsuperinknetfont facedverdana colordff sized
+a styledcolor  fontweight boldgtafontafont fa
+cedverdana colordff sizeda styledcolor  fo
+ntweight boldgtafonta styledcolor  fontweight 
+bold hrefdhttpfont facedverdana colord
+ff sized
+        click here
+        to visit our website lt fontabp
+              td
+            tr
+          table
+          center
+        div
+        pufont colordffffff sized facedarialor call us
+ tollfree
+        anytime at fontu
+        pfont sized facedarial colordcccday warra
+nty on remanufactured
+        cartridges free shipping on orders over fonttd
+    tr
+  table
+div
+br
+pnbspp
+div aligndleft
+          table borderd widthd heightd bgcolordcc
+ bordercolordffff
+            tr
+              td widthd heightd aligndcenter styledfo
+ntfamily palatino linotype fontsize pt color fffffffont faced
+tahomafont sized colordffffffyou
+                are receiving this special offer because you have provided
+ permission to receive email communications regarding special
+                online promotions or offers if you feel you have received
+ this
+                message in error or wish to be removed from our subscribe
+r
+                list font a hrefdmailtoprintbtamailnetcn sty
+ledcolor fffont sized colordclick herefont
+a
+                font sized colordffffff
+                and then click send and you will be removed within three 
+business days
+                thank you and we apologize for any inconveniencefont
+fonttd
+            tr
+          table
+div
+
+body
+
+html
+
+
+

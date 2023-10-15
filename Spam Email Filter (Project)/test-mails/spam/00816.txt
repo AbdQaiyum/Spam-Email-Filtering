@@ -1,0 +1,37 @@
+html
+
+head
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titlenew page title
+head
+
+body
+
+p aligncenter
+
+font colorffdue to heavy demand from our customers we are extending the
+b  extra off couponb on all your purchases with coupon code burmscypu
+bupto july 
+and the offer is exclusively from usfont
+
+p aligncenter
+
+a hrefhttpwwwqksrvnetclick targetblank onmouseoverwindowstatushttpwwwinkjetexpertscomreturn true onmouseoutwindowstatus return true
+img srchttpwwwqksrvnetimage width height altget blowout savings on inkjet toner bordera
+div
+  p aligncenterfont sizeyou received this letter because you signed
+  up to receive offers from one of our affiliate sitesbr
+  nbsp font colorto unsubscribe from our mailing list online
+  unsubscribe fonta hrefhttpdownloadsaanetdownloadsunsubscribeaspidjmnetnoteinccomfont colorclick
+  herefontafont color fontfont coloror bynbsp
+  emailfontfont color fonta hrefmailtoremoveaanetsubjectjmnetnoteinccomfont colorclick
+  herefontafontbr
+  span classfont colorff facearial sizenbspfontspan
+div
+body
+
+html
+
+

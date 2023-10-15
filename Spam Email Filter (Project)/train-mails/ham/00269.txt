@@ -1,0 +1,47 @@
+colin nevin wrote
+ 
+ hi all
+ the modem handshake works at slightly higher speeds bps to
+ bps but that is no good for txrxing data to the remote server
+ as it insists at talking at the speed of treaclebps
+
+it sounds like the flow control is set to xonxoff rather than hardware
+
+ baud   data bits even parity
+
+unusual    n  is more common
+
+ 
+ i am doing a atz to reset the modem then i send this init string
+ 
+ atfevqxysabcdhikmnprsuy
+
+i think that the at command for hardware flow control is e though this
+may vary from modem to modem
+
+regardszzzzcc
+ 
+
+john mccormac             hack watch news
+zzzzcchackwatchcom         viewmount 
+voice      waterford
+bbsfax    ireland
+httpwwwhackwatchcomkooltek
+
+
+begin pgp public key block
+version 
+
+mqcnazaypnsaaaeeapgthanyitutnawfbumfpcblqxdeuhfxtuolodz
+zocaxkaljbjuqywhlqvtvkcellrphpqmkypowfqwlptjofzmcxevdqz
+tretvskirqryvkoaxojhqizurgovbnidpkeokkulzxkuxcgzsulkkvaaux
+tcjkbhuiejqybwfjidxqbwnjqghhytyxrjacjbtbjqbwnjqghhyt
+yxrjacjb
+stfy
+end pgp public key block
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

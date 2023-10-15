@@ -1,0 +1,25 @@
+url httpboingboingnet
+date not supplied
+
+the distributednet project  a precursor to setihome that used volunteer 
+computertime to attack giant sophisticated ciphers  has cracked rc i 
+used to have half a dozen computers working on this 
+
+    on jul a relatively characterless piii in tokyo returned the 
+    winning key to the distributednet keyservers the key xdedcfd 
+    produces the plaintext output 
+
+    the unknown message is some things are better left unread 
+
+    unfortunately due to breakage in scripts dbakers fault naturally on 
+    the keymaster this successful submission was not automatically detected 
+    it sat undiscovered until aug the key was immediately submitted to 
+    rsa labs and was verified as the winning key  
+
+link discuss thanks dave
+
+ httpwwwdistributednetpressroomnewshtml
+ httpwwwquicktopiccomboinghwfmvudfxfr
+ httpwwwseizethedavecom
+
+

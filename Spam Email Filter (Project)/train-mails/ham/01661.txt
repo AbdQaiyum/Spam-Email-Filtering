@@ -1,0 +1,64 @@
+so then guido van rossum guidopythonorg is all like
+
+  basic procmail usage goes something like this
+  
+      fw
+       spamassassin p
+  
+      
+       xspamstatus yes
+      spam
+  
+ 
+ do you feel capable of writing such a tool  it doesnt look too hard
+
+not to beat a dead horse but thats exactly what my spamcan package
+did  for those just tuning in spamcan is a thingy i wrote before i
+knew about tim  cos work on this crazy stuff you can download it from
+httpwoozleorgnealesrcspamcanspamcanhtml but im not going
+to work on it anymore
+
+im currently writing a new one based on classifier and timtests
+bootykicking tokenizer  ill probably have something soon like maybe
+half an hour and no its not too hard  the hard part is storing the
+data somewhere  i dont want to use zodb as id like something a
+person can just drop in with a default python install  so anydbm is
+looking like my best option
+
+i already have a setup like this using xavier leroys spamoracle which
+does the same sort of thing  you call it from procmail it adds a new
+header and then you can filter on that header  really easy
+
+heres how i envision this working  everybody gets four new mailboxes
+
+  traineggs
+  trainspam
+  trainedeggs
+  trainedspam
+
+you copy all your spam and eggs into the train boxes as you get it
+how frequently you do this would be up to you but youd get better
+results if you did it more often and youd be wise to always copy over
+anything which was misclassified  then every night the spam fairy
+swoops down and reads through your folders learning about what sorts of
+things you think are eggs and what sorts of things are spam  after shes
+done she moves your mail into the trained folders
+
+this would work for anybody using imap on a unix box or folks who read
+their mail right off the server  ive spoken with some fellows at work
+about exchange and they seem to beleive that exchange exports
+appropriate functionality to implement a spam fairy as well
+
+advanced users could stay ahead of the game by reprogramming their mail
+client to bind the key s to move to trainspam and h to move to
+traineggs  eventually if enough people used this sort of thing itd
+start showing up in mail clients  thats the delete as spam button
+paul graham was talking about
+
+ the hormel company might not think well of using the word ham as the
+  opposite of spam and theyve been amazingly cool about the use of
+  their product name for things thus far  so i propose we start calling
+  nonspam something more innocuous and more monty pythonic such as
+  eggs
+
+neale

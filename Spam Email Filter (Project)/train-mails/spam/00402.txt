@@ -1,0 +1,163 @@
+html
+
+head
+meta httpequivdcontentlanguage contentdenus
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+titlenorton adtitle
+head
+
+body
+
+table borderd widthd heightd bgcolordffffff
+  tr
+    td widthd heightd bgcolord aligndcenter
+font facedimpact sized colordfffftake
+      control of your computer with this topoftheline softwarefont
+td
+  tr
+table
+
+table borderd cellspacingd widthd cellpaddingd bgco
+lord  bordercolordffffff styledbordercollapse collaps
+e bordercolordarkd heightd bordercolorlightdccccff
+
+  tr
+    td widthd heightd bordercolorlightdffffff borderco
+lordarkdffff
+      table borderd widthd heightd bgcolord
+ bordercolordffffff
+        tr
+          td widthd heightd aligndcenterbfont faced
+tahoma sized colordffffffnorton
+            systemworks fontfont colordff facedtahoma
+ sized fontfont facedtahoma sized colordffff so
+ftware suitefontfont colordff facedtimes new roman sized
+br
+            fontfont facedtimes new roman sized colordccc
+cff
+            iprofessional editionifontbtd
+        tr
+      table
+      table borderd widthd heightd
+        tr
+          td widthd heightd aligndcenterbfont faced
+tahoma sized colordccffffincludes
+            six  fontfont facedtahoma sized colordffffff
+iyes i
+            fontfont facedtahoma sized colordccffff 
+             featurepacked utilitiesbrall for fontfont facedtah
+oma sized colordffffff
+            special low
+            price of only
+            fontbtd
+        tr
+      table
+      table borderd widthd heightd bgcolord
+ bordercolordccccff
+        tr
+          td widthd heightd bgcolord bordercolo
+rdbfont facedtahoma sizedfont colordffff
+this
+            software willfontfont colordffffffbrnbsp
+            protect your computer from unwanted and i hazardousi  vir
+usesbrnbsp
+            help secure your private amp valuable informationbrnbsp
+ allow
+            you to transfer files and send emails u safelyubrnbsp
+
+            backup your all your data quick and easilybrnbsp improve 
+your
+            pcs performance wisuperiori
+            integral diagnosticsbrnbsp iyoull never have to take 
+your
+            pc to the repair shop againifontfontbtd
+        tr
+      tablenbsp
+      table borderd widthd heightd bgcolord 
+bordercolordccccff
+        tr
+          td widthd heightd
+            p aligndcenterbfont facedtahoma sized colord
+fffffffontfont sized facedtahomafont colordffff
+
+            topoftheline fontfontfont facedtahoma sized
+ colordffffff utilitiesfontfont sized facedtahomafont
+ colordfffffont colord sizedbrfontu
+            ufontfontufont facedtahoma sized colord
+ffffff
+            great pricefontufont colord sized fon
+t sized facedtahomafont colordffff br
+            a fontfont
+            font
+            font facedtahoma sized colordfffffffont
+font colord sized font sized facedtahomafon
+t colordffff
+            fontfont
+            font
+            font facedtahoma sized colordffffff  
+            combined retail valuefontfont sized facedtahoma
+font colordfffffont colord sized 
+            font
+            iyoursi  fontfontfont facedtahoma sized c
+olordffffff for
+            a limited timefontfont sized facedtahomafont co
+lordffff
+            for only fontfontfont facedtahoma sized col
+ordfffffffontfont facedtahoma sized colordf
+ffffontfont sizedbr
+            fontbfont facedtahoma sizedfont colord
+fffflt fontfontfont facedtahoma sized colordffffff
+
+            price includes free shipping fontfont colordffff
+font facedtahoma sized gtbrfontfontfont facedimpac
+t sized colordccffffand
+            for a limited time buy  of our products amp get  freefo
+nttd
+        tr
+      table
+    p aligndcenterb font facedtahoma sized colordfff
+fffdont fall
+    prey to destructive viruses or hackersbrprotectnbsp your computer
+ and
+    your valuable information andfontbp
+      table borderd widthd heightd bordercolordfff
+fff bgcolord
+        tr
+          td widthd heightd bgcolordffffff aligndce
+nterba hrefdhttperik styledcolor ff f
+ontfamily verdana fontsize pt fontweight boldfont facedtah
+oma sized colordffgt
+            click here to order yours now ltfontabtd
+        tr
+      table
+      p aligndcenterbfont facedverdana sized colordf
+fffffor call
+      tollfree fontbp
+      p aligndcenterfont colordffffff sized facedtahom
+ayour email
+      address was obtained from an optin list optin eaf ecommerce anti
+spam
+      federation approved list  type upc prefix d yywudflusnbspt
+o
+      unsubscribe from this list please a styledcolor ffffcc hrefd
+httperikremoveaspclick
+      herea  you need to allow  business days for removal if you hav
+e previously unsubscribed and are still receiving
+      this message you may visit our a styledcolor ffffcc hrefd
+httperikabuseaspspam
+      abuse control centera we do not condone spam in any shape or for
+m
+      thank you kindly for your cooperationfonttd
+  tr
+table
+
+body
+
+html
+
+
+
+

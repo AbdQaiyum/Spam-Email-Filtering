@@ -1,0 +1,234 @@
+this is a multipart message in mime format
+
+nextpartcaea
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ turbojet issue impaired risk term
+ 	 only  medical questionsa
+acceptreject underwriting
+almost guarantee issue term for impaired risk market
+ year level term   medical questions
+issue ages  to    to  face amount
+a carrier
+
+
+you wont sleep tonight thinking about all the prospects
+you have for this product
+
+you have several cases in your desk drawer
+for this product
+
+
+
+call or email mailtoinfoimpairedrisktermcom  us today
+visit our web site wwwimpairedrisktermcom
+httpwwwimpairedrisktermcom  for rates
+and a sample application 
+
+ 
+please fill out the form below for more information	
+name	  
+email	  
+phone	  
+city	  	state	  	 
+ 	  	 	   
+
+we dont want anybody to receive our mailing who does not wish to
+receive them this is professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+legal notice httpwwwinsuranceiqcomlegalhtm
+
+
+nextpartcaea
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlealmostguaranteed issue termtitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+
+body bgcolordffffff textd
+  table widthd borderd cellspacingd cellpaddingd 
+bordercolord aligndcenter
+    tr
+      td bordercolord
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td colspandimg 
+srcdhttpimagesproducersheaderjpg widthd 
+heightd borderd altdturbojet issue impaired risk 
+termtd
+          tr
+          tr
+            tdimg 
+srcdhttpimagesproducersbotjpg widthd 
+heightd borderdtd
+            tdimg 
+srcdhttpimagesproducersmoviegif widthd 
+heightd borderd altdonly  medical 
+questionsacceptreject underwritingtd
+          tr
+          tr
+            td bgcolord colspand
+              pfont facedarial helvetica sansserif sized 
+colordffffffb
+                almost guarantee issue term for impaired risk marketbr
+                 year level term   medical questionsbr
+                issue ages  to    to  face amountbr
+                a carrierbfontp
+            td
+          tr
+          tr
+            td colspand
+              p aligndcenterfont facedverdana arial 
+helvetica sansserif colordccbbr
+                you wont sleep tonight thinking about all the prospects 
+br
+                you have for this productbrbr
+                you have several cases in your desk drawer br
+                for this productbrbr
+                fontbp
+            td
+          tr
+          tr
+            td colspand aligndcenter
+              bfont facedverdana arial helvetica sansserif
+               call  or a 
+hrefdmailtoinfoimpairedrisktermcomemaila us todaybr
+               visit our web site a 
+hrefdhttpwwwimpairedrisktermcomwwwimpairedrisktermcoma 
+for rates br
+               and a sample applicationfontb
+            td
+          tr
+          tr
+            td colspand aligndcenterbr
+              img 
+srcdhttpimagesproducersphonejpg widthd 
+heightd altd
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td
+              table widthd bgcolord
+                tr
+                  form methoddpost 
+actiondhttpresponseresponseasp
+                    td
+                      table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordffffff
+                        tr bgcolord
+                          td colspand aligndcenterfont 
+facedverdana arial helvetica sansserifbfont 
+colordffffffplease fill out the form below for more 
+informationfontbfonttd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizednamefonttd
+                          td colspand
+                            input typedtext namedcontactname 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizedemailfonttd
+                          td colspand
+                            input typedtext namedemail 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizedphonefonttd
+                          td colspand
+                            input typedtext namedphone 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizedcityfonttd
+                          td widthd
+                            input typedtext namedcity 
+sized
+                          td
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizedstatefonttd
+                          td widthd
+                            input typedtext namedstate 
+sized
+                          td
+                          td rowspand aligndcenter 
+valigndmiddleimg srcdhttpimagesqgif 
+widthd heightdtd
+                        tr
+                        tr
+                          td widthd aligndrightnbsptd
+                          td widthd
+                            input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          td
+                          td widthd aligndrightnbsptd
+                          td widthd
+                            input typedhidden 
+namedhdnrecipienttxt valuedinfoimpairedrisktermcom
+                            input typedhidden 
+namedhdnsubjecttxt valuedsimplified issue inquiry
+                          td
+                        tr
+                      table
+                    td
+                  input typedhidden namedsentto 
+valued
+form
+                tr
+              table
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenter
+              pfont facedverdana arial helvetica sansserif 
+sized
+                we dont want anybody to receive our mailing who does 
+not wish to
+                receive them this is professional communication sent to 
+insurance
+                professionals to be removed from this mailing list do 
+not reply
+                to this message instead go here a 
+hrefdhttpwwwinsurancemailnethttpwwwinsurancemailnetabr
+
+                a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafontp
+            td
+          tr
+        table
+      td
+    tr
+  table
+body
+html
+
+nextpartcaea

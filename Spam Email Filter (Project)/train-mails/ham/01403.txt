@@ -1,0 +1,55 @@
+
+hdwzlqdsrxdal
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on fri aug   at pm  rose bobby wrote
+ if you didnt add it when compile would be one way  another would be to
+ grep your sendmailcf for the word milter
+
+i dont know if theres a sendmailish way its not in the d output
+but this should work
+
+ strings which sendmail  grep i milter
+
+if you get a long list of functionmessage looking phrases milter
+is builtin  if you get something like
+
+warning filter usage x requires milter support dmilter
+milter warning option s requires milter support dmilter
+id miltercv    zarzycki exp 
+
+then its not builtin 
+
+
+randomly generated tagline
+m can anyone tell us the lesson that has been learned here
+  s yes master not a single one of us could defeat you
+  m you gain wisdom child               the frantics
+
+hdwzlqdsrxdal
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqezoikauoquewasmranjajruhvxggzmrsnvpqljjkstkeqcfsnh
+eedarysodldqfuufba
+nbse
+end pgp signature
+
+hdwzlqdsrxdal
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+

@@ -1,0 +1,228 @@
+this is a multipart message in mime format
+
+nextpartadcdcfbb
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ group worksite ltci with phyllis shelton the first lady of ltci and
+insuranceiq
+ free with purchase ltc policy comparison software free with purchase
+ltc policy comparison software	 	
+ long term care insurance worksite marketing system 	
+ 
+
+take advantage of the most current information available concerning the
+group ltci market developed after months of exhaustive research and
+agent interviews the worksite marketing system is the resource for
+successful group enrollment
+
+included with your order
+ agent manual  all the howto info including an implementation
+schedule 
+ benefit manager flip chart 
+ presentationsales script which promotes long term care insurance as
+productivity
+  insurance
+ benefit manager sales brochures 
+ benefit manager direct mail letters 
+ employer announcement letter 
+ seven  newsletteremail articles to promote employee education
+prior to meetings 
+  each of five  payroll stuffers 
+  each of three  employee seminar posters 
+ employee education presentation on cdrom 
+  employee education brochures which promote long term care
+insurance as 
+   lifestyle insurance 
+ the secret of a successful group enrollment instructional audiotape 
+ a handsome gold embossed binder with storage pockets
+
+click here for more information and pricing
+httpwwwinsiqcomstoreproductasppid 
+
+ bonus free with your order the ltc policy comparison  a  value	
+ 
+ click here to view a demo pdf
+httpwwwinsiqcomstoreproductscomparisondemopdf  	
+this comprehensive ltci policy review compares over  major companies
+in  benefit and ratingsasset categories and includes a premium
+comparison for a  year old couple
+
+over  policies are covered in this semiannual publication this is
+the oldest ltc policy comparison in the nation and is a valuable tool
+for any agent selling ltc insurance today
+
+older generation policies are kept after new policies are introduced
+because agents encounter the older policies in the field
+
+the cdrom version allows you to compare up to three companies at a time
+in any of the  categories youll also receive a spreadsheet version
+to take with you all the time
+
+we dont want anybody to receive our mailings who does not wish to
+receive them this is professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+httpwwwinsurancemailnet 
+legal notice httpwwwinsiqcomlegalhtm 
+
+
+nextpartadcdcfbb
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlefree ltci policy comparison softwaretitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd 
+backgrounddhttpiiqusimagesltccgif
+table widthd cellpaddingd cellspacingd borderd 
+aligndcenter bordercolord bgcolordffffff
+  tr
+    td
+      table widthd
+        tr
+          td valigndmiddle
+            img srcdhttpiiqusimagesltccgif 
+widthd heightd altdgroup worksite ltci with phyllis 
+shelton quotthe first lady of ltciquot and insuranceiqbr
+            img srcdhttpiiqusimagesltccgif 
+widthd heightd altdfree with purchase ltc policy 
+comparison softwareimg 
+srcdhttpiiqusimagesltccgif widthd 
+heightd altdfree with purchase ltc policy comparison 
+software
+          td
+          tdimg srcdhttpiiqusimagesltccjpg 
+widthd heightdtd
+        tr
+      table
+    td
+  tr
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd
+        tr
+          td bgcolord
+            bfont facedverdana arial helvetica sansserif 
+sized colordffffffnbsplong term care insurance worksite 
+marketing systemfontb
+          td
+        tr
+        tr
+          td valigndtop
+            p aligndcenterimg 
+srcdhttpiiqusimagesltccworksitemaketingsystemjpg 
+widthd heightdp
+            font facedarial helvetica sansserif sized
+            ptake advantage of the most current information available 
+concerning
+              the group ltci market developed after months of 
+exhaustive research
+              and agent interviews the worksite marketing system is the 
+resource
+              for successful group enrollmentp
+            piincluded with your orderibr
+              nbspagent manual  all the quothowtoquot info 
+including an implementation schedule br
+              nbspbenefit manager flip chart br
+              nbsppresentationsales script which promotes long 
+term care insurance as quotproductivitybr
+              nbspnbspinsurancequotbr
+              nbspbenefit manager sales brochures br
+              nbspbenefit manager direct mail letters br
+              nbspemployer announcement letter br
+              nbspseven  newsletteremail articles to 
+promote employee education prior to meetings br
+              nbsp each of five  payroll stuffers br
+              nbsp each of three  employee seminar posters 
+br
+              nbspemployee education presentation on cdrom br
+              nbsp employee education brochures which promote 
+long term care insurance as br
+              nbspnbsp quotlifestyle insurancequot br
+              nbspquotthe secret of a successful group 
+enrollmentquot instructional audiotape br
+              nbspa handsome gold embossed binder with storage 
+pocketsp
+            p aligndcentera 
+hrefdhttpwwwinsiqcomstoreproductasppiddimg 
+srcdhttpiiqusimagesltccgif widthd 
+heightd borderd altdclick here for more information and 
+pricingap
+            font
+          td
+        tr
+        tr
+          td bgcolord aligndcenterimg 
+srcdhttpiiqusimagesltccgif widthd 
+heightd altdbonus free with your order the ltc policy 
+comparison  a  valuetd
+        tr
+        tr
+          td valigndtop
+            table widthd cellpaddingd cellspacingd 
+aligndleft
+              tr
+                td aligndcenter
+                  img 
+srcdhttpiiqusimagesltccltcpolicycomparisongif 
+widthd heightdbr
+                  img srcdspacergif widthd heightda 
+hrefdhttpwwwinsiqcomstoreproductscomparisondemopdfimg 
+srcdhttpiiqusimagesltccgif widthd 
+heightd borderd altdclick here to view a demo pdfa
+                td
+              tr
+            table
+            font facedarial helvetica sansserif sized
+            p this comprehensive ltci policy review compares over  
+major companies in  benefit
+              and ratingsasset categories and includes a premium 
+comparison for
+              a  year old couplep
+            pover  policies are covered in this semiannual 
+publication this is the oldest
+              ltc policy comparison in the nation and is a valuable tool 
+for any
+              agent selling ltc insurance todayp
+            polder generation policies are kept after new policies 
+are introduced because agents
+              encounter the older policies in the fieldp
+            pthe cdrom version allows you to compare up to three 
+companies at a time in any of
+              the  categories youll also receive a spreadsheet 
+version to
+              take with you all the timep
+            font
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordccccff aligndcenter
+      pfont facedarial helvetica sansserif sized
+        we dont want anybody to receive our mailings who does not wish 
+to receive
+        them this is professional communication sent to insurance
+        professionals to be removed from this mailing list bdo not 
+replyb
+        to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetabr
+        a hrefdhttpwwwinsiqcomlegalhtmlegal 
+noticeafontp
+    td
+  tr
+table
+body
+html
+
+nextpartadcdcfbb

@@ -1,0 +1,30 @@
+on tue  at  john moylan wrote
+ hmm speaking of cheap machines etc has anyone tried this sort of 
+ thing httpwwwminiitxcomprojectshumidor  or more importantly 
+ has anyone had any positivenegative experiences with the via miniitx 
+ boardsvia c processors
+ i recall a thread last year about building a custom mpcdgamevcd 
+ recorder machine these systems seem to hit the mark also i need to 
+ build a new box and i was thinking about something that would be as 
+ unobtrusive as possible in my living room
+ 
+ john
+
+
+the forums there are very informative and there is also more info on
+using linux on the mini itx boards at httplinitxorg
+
+a couple of the autopc projects make interesting reading in this regard
+httpthisstrifecom but most of them seem to use windows for some
+unknown reason
+
+hth
+
+phil 
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

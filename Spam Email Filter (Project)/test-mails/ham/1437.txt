@@ -1,0 +1,33 @@
+httpwwwhughesfamilyorgbugzillashowbugcgiid
+
+
+
+
+
+ additional comments from danielroech    
+ usage of p just like br ie without p which is obsolete
+   not sure whether some mailers still produce such broken html
+ tag argument values sometimes enclosed in  sometimes not
+ colour args without  in front of hex rgb code
+ colour args with nondigit rgb code typo
+ onmouseover et al in nonconsistent case throughout the document
+
+mind those are just ideas im pretty sure some or even most of them
+are not working in practice but they might be worth checking out
+
+
+
+
+ you are receiving this mail because 
+you are on the cc list for the bug or are watching someone who is
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+

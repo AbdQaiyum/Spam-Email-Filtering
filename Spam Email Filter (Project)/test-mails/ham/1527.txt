@@ -1,0 +1,37 @@
+
+zeek said
+
+ this was thoroughly confusing but by playing musical chairs with the spamd
+ args i smashed a bug
+ 
+ ok
+ spamd debug daemonize autowhitelist usernamenobody allowedips
+ 
+ ok
+ spamd debug daemonize autowhitelist usernamenobody allowedips
+  
+ not ok
+ spamd debug daemonize autowhitelist usernamenobody allowedips
+  
+
+fwiw i cant reproduce this with
+
+  spamd debug autowhitelist allowedips
+  spamd debug autowhitelist allowedips 
+  spamd debug autowhitelist allowedips 
+
+which i presume is what you meant except for the missing args
+of course  they all seem to work ok
+
+j
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

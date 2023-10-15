@@ -1,0 +1,19 @@
+ j  jim whitehead ejwcseucscedu writes
+
+    j you open sourced the new components you developed for this
+    j project so the next person who comes along wont have to
+    j reimplement them right
+
+no need all those components already exist either in the java
+class libraries or from the various java jar collections  most
+of the classes i used came from the jakarta project and apachexml
+
+but if its any consolation my threading of them all together into
+a newswire server is gpl and available on sourceforge
+
+ 
+gary lawrence murphy garymteledyncom teledynamics communications inc
+ business advantage through community software  httpwwwteledyncom
+computers are useless  they can only give you answerspablo picasso
+
+

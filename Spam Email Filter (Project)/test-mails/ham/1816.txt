@@ -1,0 +1,238 @@
+  but it also identified as spam everything in my inbox that had any
+  mime structure or html parts and several messages in my saved zope
+  geeks list that happened to be using mime andor html
+ 
+ do you know why  the strangest implied claim there is that it hates mime
+ independent of html  for example the spamprob of contenttypetextplain
+ in that pickle is under   contenttypemultipartalternative gets
+  but thats not a killer clue and one bit of good content will more
+ than cancel it out
+
+i reran the experiment with the new spamhampik but it doesnt seem
+to make a difference  here are the clues for the two spams in my
+inbox in hammiepys output format which sorts the clues by
+probability the first two numbers are the message number and overall
+probability then linefolded
+
+      s facility  speaker  stretch 
+    thursday  young  mistakes  growth
+     contenttypetextplain  please  capital
+     series  subjectdon  companies 
+    contenttypetexthtml  fee  money 
+    am  am  contenttypeimagegif 
+    contenttypemultipartalternative  attend 
+    companies  contenttypetypemultipartalternative
+     contenttypemultipartrelated  economy 
+    economy 
+
+this has  contenttypes as spam clues only one of which is related
+to html despite there being an html alternative and  other spam
+clues vs only  ham clues  this was an announcement of a public
+event by our building owners with a text part that was the same as
+the html afaict  its language may be spammish but the contenttype
+clues didnt help  btw it makes me wonder about the wisdom of
+keeping punctuation  economy and economy to me dont seem to
+deserve two be counted as clues
+
+      s near  alexandria  conn 
+    fromadam  fromemail addrpanix  poked 
+    thorugh  though  im  reflect 
+    ive  wednesday  contentdispositioninline
+     contacting  sold  financially 
+    prices  rates  discount  hotel 
+    hotels  hotels  nights  plaza 
+    rates  rates  rooms  season 
+    stations  subjecthotel 
+
+here is the full message received headers stripped with apologies
+to ziggy and david
+
+
+date fri  sep   
+from adam turoff ziggypanixcom
+subject hotel information
+to guidopythonorg davidaactivestatecom
+messageid gkpanixcom
+mimeversion 
+contenttype textplain charsetusascii
+contentdisposition inline
+useragent mutti
+
+ive been looking into hotels  i poked around expedia for availability
+from march  to   nights wednesday thorugh saturday  
+
+ive also started contacting hotels for group rates some of the group
+rates are no better than the regular rates and they require signing a
+contract with a minimum number of rooms sold with someone financially
+responsible for unbooked rooms  most hotels are less than responsive
+
+	radission  barcelo hotel dupont circle
+	night weekend
+
+	state plaza hotel foggy bottom near gwu
+	night weekend
+
+	hilton silver spring near metro in suburban md
+	hight weekend
+
+	windsor park hotel
+	conn ave between dupont circlewoodley park metro stations
+	night needs a car
+
+	econo lodge alexandria near metro in suburban va
+	night
+
+this is a hand picked list i ignored anything over night even
+though there are some really well situated hotels nearby at higher rates
+also im not sure how much these prices reflect an expediaonly
+discount  i cant vouch for any of these hotels either
+
+i also found out that the down season for dc hotels are midjune through
+midseptember and midnovember through midjanuary
+
+z
+
+
+this one has no mime structure nor html  it even has a
+contentdisposition which is counted as a nonspam clue  it got
+fped because of the many hospitalityrelated and moneyrelated
+terms  im surprised night and similar arent clues too  and
+again several spam clues are duplicated with different variations
+hotel hotels hotels subjecthotel rates rates
+
+ wrt hating html possibilities include
+ 
+  it really had to do with something other than mimehtml
+ 
+  these are pure html not multipartalternative with a textplain part
+    so that the tags arent getting stripped  the pickled classifier
+    despises all hints of html due to its clpy heritage
+ 
+  these are multipartalternative with a textplain part but the
+    latter doesnt contain the same text as the texthtml part for
+    example as anthony reported perhaps the textplain part just
+    says something like this is an hmtl message
+ 
+ if its  it would be easy to add an optional bool argument to tokenize
+ meaning even if it is pure html strip the tags anyway  in fact id like
+ to do that and default it to true  the extreme hatred of html on tech lists
+ strikes me as umm extreme wink
+
+i also looked in more detail at some fps in my geeks traffic  the
+first ones a doozie thats the term right   it has lots of
+html clues that are apparently ignored  it was a multipartmixed with
+two parts a brief textplain part containing one or two sentences a
+mondo weird url
+
+httpxdejacomstrnpsgetdocxpancontexthitnum
+
+and some employergenerated spammish boilerplate the second part was
+the html taken directly from the above url  clues
+
+      s main  later  lots  paul
+       adopt  apps  commands
+     dejacom  dejanews  discipline 
+    duct  email addrdigicool  email namepaul
+     everitt  exist  forwards 
+    framework  fromemail addrdigicool  fromemail
+    namepaul  frompaul  height 
+    hodgepodge  httpdeja  httpzope 
+    httpstrn  httpcomp  httpgetdoc 
+    httpps  http  http 
+    http  httpan  httpauthor 
+    httpfmt  httpgetdoc  httppr 
+    httpproducts  httpquery  httpsearch
+     httpviewthread  httpxp  httpzope
+     inventing  jsp  jsp  logic 
+    maps  neo  newsgroup  object 
+    popup  probable  query  query 
+    resizes  servlet  skip   stems
+     subjectjsp  sucks  templating 
+    tempted  url  usenet  usenet 
+    wrote  xmailermozilla  en windows nt  u
+     zope    cc 
+    ff  ff  ffffff  copy
+     gt  nbspnbsp  quotno 
+    med  small  pt  px  px
+     pt  px  pt  px 
+    pt  px    pt  
+     b  body  head  html
+     script  select  span 
+    style  table  td  tdtr
+     tr  trtr  ba  base
+     body  br  brnbsp  bra
+     brspan  font  form  head
+     html  img  input  meta 
+    option  p  pa  script 
+    select  span  style  table 
+    td  td  tdtd  tdimg 
+    tr  tr  trtd  trtdimg 
+    absolute  alignleft  aligncenter 
+    alignleft  alignmiddle  alignright 
+    alignright  alt  bold  border
+     border  color  colspan 
+    colspan  colspan  facearial 
+    fontfamily  fontsize  fontweight 
+    footer  forbr  fuckingbr 
+    height  height  height 
+    height  height  height 
+    height  height  height 
+    height  height  height 
+    hspace  httpg  httpweb  http
+     httpads  httpd  httppage 
+    httpsite  httparticle  httpback 
+    httpcom  httpd  httpgif 
+    httpgo  httpgroup  httphttp 
+    httppost  httpps  httpsite 
+    httpst  httptitle  httpyahoo 
+    inca  jobs  normal  nowrap 
+    nowrap  nowrapfont  padding 
+    rowspan  rowspan  servlets 
+    size  size  skip   skipb 
+     skiph   skiph   skiph  
+    skiph   skiph   skiph  
+    skipv   solid  text  tobr
+     typeimage  typetext  typehidden
+     typeimage  typeradio  typesubmit 
+    typetext  valigntop  valigntop 
+    value  visibility  width 
+    width  width  width 
+    width  width  width 
+    width  width  width  width
+     width  width  width 
+    width  width  worksbr 
+
+the second fp had the same structure and sender  the third fp
+had the same structure and a different sender  ditto the fifth sixth  not posting clues for
+brevity
+
+the fourth was different plaintext with one very short sentence and a
+url  clues
+
+     s fromemail addrdigicool  httpnews 
+   fromemail addrcom  fromtres  httpdigi
+    protohttp  subjectgeeks  xmailermozilla
+    en x u linux smp i  take 
+   boolnoorg  httpcom  skiph  
+   httphtm  subjectsoftware  httpbusiness
+    httplocal  subjectfirm  us 
+
+the seventh was similar
+
+i scanned a bunch more until i got bored and most of them were either
+of the first form brief text with url followed by quoted html from
+website or the second brief text with one or more urls
+
+its up to you to decide what to call this but i think these are none
+of your   or  theyre close to  but all are multipartmixed
+rather than multipartalternative
+
+  so i guess ill have to retrain it yes you told me so 
+ 
+ that would be a different experiment  im certainly curious to see whether
+ jeremys muchworsethanmine error rates are typical or aberrant
+
+its possible that the corpus youve trained on is more homogeneous
+than you thought
+
+guido van rossum home page httpwwwpythonorgguido

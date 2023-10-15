@@ -1,0 +1,25 @@
+once upon a time coy wrote 
+
+ i cant seem to build this package it errors out because rpm found 
+ files not included in any of the packages i tried getting them addes 
+ its the documentation that is being loaded and was unsuccessful 
+ anyone get this to work
+
+hi
+
+could you post the list of files in question maybe more docs get generated
+when a certain doc tool is installed and that i didnt have it installed
+when i rebuilt the package 
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel 
+load     ac online battery charging  
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

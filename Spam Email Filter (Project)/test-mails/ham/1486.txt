@@ -1,0 +1,12 @@
+jmjmasonorg justin mason writes
+
+ btw i tried tweaking some of the scores that lintrules complained about
+ being negative when they shouldnt be and it ruined the results  its
+ worth handtweaking a bit but in some cases theres counterintuitive
+ combinatorial effects like the above so be careful when tweaking run
+ a logstoc  evolve c to check the new hitrates afterwards
+
+my tendency is to say that we shouldnt tweak at all
+
+ dan
+

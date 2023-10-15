@@ -1,0 +1,136 @@
+style typetextcss
+
+p
+  fontsize  px
+  color  navy
+
+
+style
+head
+body
+phellothis is chinese traditionalbr
+p
+div stylewidth  pxheight  pxtop  pxleft  px
+  position  absolute
+  zindex  
+  visibility  visible
+  backgroundcolor  lime
+ idlayerdiv
+div stylewidth  pxheight  pxtop  pxleft  px
+  position  absolute
+  zindex  
+  visibility  visible
+  backgroundcolor  olive
+ idlayerdiv
+div stylewidth  pxheight  pxtop  pxleft  px
+  position  absolute
+  zindex  
+  visibility  visible
+  backgroundcolor  silver
+ idlayerdiv
+p obr
+nbsp nbspfrvi
+br
+nbsp nbspic
+ibr
+nbsp nbsp wninemailwinbr
+cvrremarketerminbr
+br
+vw average response
+rate ranges br
+  banner ads br
+br
+  direct mail br
+br
+  email br
+br
+br
+bfont size colorff  fontbbr
+br
+i fhk ifhk
+br
+i fhk nbsp ifhk
+nbspa hrefhttpwwwjjyxcomservehktxt targetblank stylefontsize  pxbfont size colorfffree downloadfontbabr
+i fhk nbsp ifhk
+nbspa hrefhttpwwwjjyxcomservewdtaiwantxt targetblank stylefontsize  pxbfont size colorfffree downloadfontbabr
+br
+bfont size colorff stylecolor  ff nbsp nbsplfontbbr
+vl fhk fl
+br
+l nbsp nbsp nbsp nbsp fhk
+br
+nbsp nbsp nbsp nbsp nbsp nbsp
+nbsp nbsp nbsp nbspfhk
+cwlbr
+l nbsp nbsp nbsp nbsp fhk
+cwl br
+br
+bfont size colorff stylecolor  ff nbsp nbspwfontbbr
+span langenus stylefontsize pt color cspan stylecolor navy msofareastfontfamily pmingliu msofareastlanguage zhtwspanspan langzhtw stylecolor navy fontfamily pmingliu msofareastlanguage zhtw msoasciifontfamily times new roman msohansifontfamily times new romannlwlwspanspan stylecolor navy msofareastfontfamily pmingliu msofareastlanguage zhtwspanspan langzhtw stylecolor navy fontfamily pmingliu msofareastlanguage zhtw msoasciifontfamily times new roman msohansifontfamily times new romanhkspanspanspan langenus stylefontsize pt msofareastfontfamily pmingliu msofareastlanguage zhtw spanspan langzhtw stylefontsize pt fontfamily pmingliu msofareastlanguage zhtw msoasciifontfamily times new roman msohansifontfamily times new romanspanspan langzhtw stylefontsize ptspanspan langenus stylefontsize ptspanspan langenus stylefontsize pt color bfspan langzhtw stylecolor navy fontfamily pmingliu msofareastlanguage zhtw msoasciifontfamily times new roman msohansifontfamily times new romanspanspan stylecolor navy msofareastfontfamily pmingliu msofareastlanguage zhtwspanspan langzhtw stylecolor navy fontfamily pmingliu msofareastlanguage zhtw msoasciifontfamily times new roman msohansifontfamily times new romanlwlyspanspanbr
+a hrefmailtoyhzxvipsinacomyhzxvipsinacomap
+
+
+pbr
+bfont size colorff  r
+hkfontbbr
+ymwubr
+br
+br
+bemailbbr
+br
+
+nbspa hrefhttpwwwjjyxcomservehktxt targetblank stylefontsize  pxbfont size colorfffree download the samplefontbabr
+
+nbspa hrefhttpwwwjjyxcomservewdtaiwantxt targetblank stylefontsize  pxbfont size colorfffree download the samplefontbabr
+fbr
+br
+br
+br
+nbsp yemailyievbr
+fayvqrrbr
+crssibr
+ivemailnimbr
+br
+br
+font sizebmbfontbr
+wvwvbr
+tgtiyimbr
+br
+br
+font sizebcymbr
+a hrefmailtoyhzxvipsinacomyhzxvipsinacoma cmbfontbr
+br
+bfont sizeyrbr
+ykr br
+englishbr
+br
+benificiary customer nbspwangjingjingbr
+ac bank nbsp nbsp nbsp nbsp nbsp
+nbsp nbspbank of china mianyang branchbr
+ac no nbsp nbsp nbsp nbsp nbsp
+nbsp nbsp nbsp   br
+benificiarys tel no  br
+br
+br
+   br
+y ydbr
+ nbsp nbsp    br
+br
+br
+mbr
+br
+gjm 
+fontbr
+br
+font sizeywybr
+dbr
+emaila hrefmailtoyhzxvipsinacomyhzxvipsinacoma br
+j fontbr
+br
+br
+wv wo w
+w qg wlrxgmbr
+bp
+body
+
+

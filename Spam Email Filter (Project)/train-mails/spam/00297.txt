@@ -1,0 +1,41 @@
+doctype html public wcdtd html en
+html
+
+head
+	meta namedgenerator contentdvisual page  for windows
+	meta httpequivdcontenttype contentdtexthtmlcharsetdiso
+
+	titleuntitledtitle
+head
+
+body onloaddwindowopenhttpdvdspecialdiscountsucom
+
+p aligndcenterfont colordff facedarialbcopy dvd mov
+iesbr
+bfontfont colord facedarialbr
+fontfont facedarialbyes  copy and burn your own dvd
+movies and video with a cdr drivebr
+bfontfont colord facedarialbr
+fontfont colordff facedarialb order by september  
+ and receive the following free gifts
+
+ free dvd movie of your choice  value
+ cell phone battery booster  value
+
+
+own all the dvds youve always wanted
+and start burning today
+bfontp
+
+p aligndcenterfont colordff facedarialbbr
+bfonta hrefdhttpdvdspecialdiscountsucom font faceda
+rialbclick here nowbfonta
+
+
+body
+
+html
+
+
+
+

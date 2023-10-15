@@ -1,0 +1,32 @@
+urban boquist wrote
+ hi matt and thanks for your quick reply
+ 
+ matt dont run sa on mails this large
+ 
+ that would be fine if i only understood how i should do that i cant
+ find anything in the sa documention that mentions some kind of upper
+ limit for the size of a message what should i put in my userprefs
+ file
+ 
+ i run sa from procmail btw but i cant imagine that procmail would be
+ able to check the size of a message before handing it over to sa
+
+thats exactly what it can do
+
+fw 
+ spamassassin p
+
+
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

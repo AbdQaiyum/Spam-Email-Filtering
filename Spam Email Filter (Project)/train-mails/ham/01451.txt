@@ -1,0 +1,29 @@
+i thought id installed razor correctly but i am seeing the following in my 
+logs  can anyone give me a hitn
+
+sep    omega spamd razor check skipped no such file or 
+directory cant locate object method new via package netdnsresolver 
+perhaps you forgot to load netdnsresolver at eval  line  
+stdin line  ipropagated at 
+usrlibperlsiteperlmailspamassassindnspm line  stdin 
+line 
+
+ 
+robin lynn frank
+paradigmomega llc
+
+the only certainty about documentation is that
+whoever wrote it might have understood it
+the rest of us may not be so lucky
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

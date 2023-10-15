@@ -1,0 +1,285 @@
+this is a multipart message in mime format
+
+nextpartecfafc
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ behind every elite produceris an elite seminar system
+ 	 
+ 
+ 
+ attention all independent registered representatives
+ our reps business has grown dramatically in the last two years
+ whats their hook
+ our exclusive seminar marketing system for seniors combined with
+equity indexed and fixed annuities
+ 	advanced equity indexed annuities and how registered reps
+position these products in their practice the eia story is out  
+with
+ years of great results	
+ 	proven seminar marketing system hundreds of our reps are using
+this system to build their senior client base	
+ 	a simpler approach to increasing sales with our generic
+powerpointae eia presentation and should i stay or should i go
+incomizer and inflationizer sales ideas	
+ 	real world scenarios that you can use to solve real world
+problems in todays environment	
+ the bottom linea
+your senior clients and prospects want you to call us
+today
+ 
+call us today for more information
+ 
+ or 
+
+please fill out the form below for more information	
+name	 	  
+email	 	
+phone	 	
+city	 	 state	 	
+ 	    
+
+
+ american financial marketing inc
+we dont want anyone to receive our mailings who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsuranceiqcomoptout
+httpwwwinsuranceiqcomoptout
+
+legal notice httpwwwinsiqcomlegalhtm
+
+nextpartecfafc
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlebehind every elite producertitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolord textd
+font facedarial helvetica sansserif
+table widthd borderd aligndcenter cellpaddingd 
+cellspacingd bordercolord bgcolordffffff
+  tr
+    td
+			table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          tdimg srcdhttpiiqusimagesamfingif 
+altdbehind every elite produceris an elite seminar system 
+widthd heightdtd
+        tr
+        tr
+          td
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                td rowspand widthdimg 
+srcdhttpiiqusimagesamfinjpg widthd 
+heightdtd
+                tdimg 
+srcdhttpiiqusimagesamfingif widthd 
+heightdtd
+              tr
+              tr
+                tdimg 
+srcdhttpiiqusimagesamfinjpg widthd 
+heightdtd
+              tr
+              tr
+                tdimg 
+srcdhttpiiqusimagesamfingif widthd 
+heightdtd
+              tr
+            tabletd
+        tr
+        tr
+          td
+						table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                td aligndcenter img 
+srcdhttpiiqusimagesamfingif altdattention all 
+independent registered representatives widthd 
+heightdbr
+                  img 
+srcdhttpiiqusimagesamfingif altdour reps 
+business has grown dramatically in the last two years widthd 
+heightdbr
+                  img 
+srcdhttpiiqusimagesamfingif altdwhats their 
+hook widthd heightdbr
+                  img 
+srcdhttpiiqusimagesamfingif altdour exclusive 
+seminar marketing system for seniors combined with equity indexed and 
+fixed annuities widthd heightd
+                td
+              tr
+              tr
+                td aligndcenter
+                  table widthd borderd cellspacingd 
+cellpaddingd
+                    tr
+                      td widthd valigndtopimg 
+srcdhttpiiqusimagesamfingif widthd 
+heightdtd
+                      tdfont sizedbadvanced equity indexed 
+annuitiesb
+                        and how registered reps position these products 
+in their
+                        practice the eia story is out  with  
+years of
+                        great resultsfonttd
+                    tr
+                    tr
+                      td valigndtopimg 
+srcdhttpiiqusimagesamfingif widthd 
+heightdtd
+                      tdfont sizedbproven seminar marketing 
+system bhundreds
+                        of our reps are using this system to build their 
+senior
+                        client basefonttd
+                    tr
+                    tr
+                      td valigndtopimg 
+srcdhttpiiqusimagesamfingif widthd 
+heightdtd
+                      tdfont sizedba simpler approach to 
+increasing salesb
+                        with our generic powerpointreg eia 
+presentation and
+                        should i stay or should i go incomizer
+                        and inflationizer sales ideasfonttd
+                    tr
+                    tr
+                      td valigndtopimg 
+srcdhttpiiqusimagesamfingif widthd 
+heightdtd
+                      tdfont sizedbreal world scenarios that 
+you can
+                        use to solve real world problems in todays 
+environmentbfonttd
+                    tr
+                  table
+                td
+              tr
+              tr
+                td aligndcenterimg 
+srcdhttpiiqusimagesamfingif altdthe bottom 
+lineyour senior clients and prospects want you to call us today 
+widthd heightdbr
+                  img 
+srcdhttpiiqusimagesamfingif widthd 
+heightdtd
+              tr
+              tr
+                td aligndcenter
+                  bfont sizedcall us today for more 
+informationbr
+                    img 
+srcdhttpiiqusimagesamfingif altd 
+widthd heightdbr
+                     or fontbbr
+                  table widthd borderd cellpaddingd 
+cellspacingd bordercolord
+                    tr
+                      form methoddpost 
+actiondhttpresponseresponseasp
+                        td
+                          table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordcccccc
+                            tr
+                              td colspand aligndcenter 
+bgcolordbfont colordffffff sizedplease fill 
+out the form below for more informationfontbtd
+                            tr
+                            tr
+                              td widthd aligndrightbfont 
+sizednamefontbtd
+                              td colspandinput typedtext 
+namedcontactname sizedtd
+                              td rowspand valigndmiddle 
+aligndcenterimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                            tr
+                            tr
+                              td widthd aligndrightbfont 
+sizedemailfontbtd
+                              td colspandinput typedtext 
+namedemail sizedtd
+                            tr
+                            tr
+                              td widthd aligndrightbfont 
+sizedphonefontbtd
+                              td colspandinput typedtext 
+namedphone sizedtd
+                            tr
+                            tr
+                              td widthd aligndrightbfont 
+sizedcityfontbtd
+                              td widthdinput typedtext 
+namedcity sizedtd
+                              td widthd aligndrightbfont 
+sizedstatefontbtd
+                              td widthdinput typedtext 
+namedstate sizedtd
+                            tr
+                            tr
+                              td widthd 
+aligndrightnbsptd
+                              td widthd colspand
+                                input typedsubmit 
+namedbtnsubmit valuedsubmit
+                                input typedhidden 
+namedhdnrecipienttxt valuedbrianbamericanfinancialbrkgcom
+                                input typedhidden 
+namedhdnsubjecttxt valuedafm ad inquiry
+                              td
+                            tr
+                          table
+                        td
+                      input typedhidden namedsentto 
+valued
+form
+                    tr
+                  tablebr
+                  img srcdhttpiiqusimagesamfingif 
+altdamerican financial marketing inc widthd heightd
+								td
+              tr
+            table
+					td
+        tr
+      table
+		td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+			pfont facedarial helvetica sansserif sizedwe dont 
+want anyone to receive our mailings who does not
+			wish to receive them this is a professional communication
+			sent to insurance professionals to be removed from this mailing
+			list bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptout
+			httpwwwinsuranceiqcomoptoutafontp
+    td
+  tr
+table
+center
+  a hrefdhttpwwwinsiqcomlegalhtmfont sized 
+facedarial helvetica sansseriflegal notice fonta
+center
+font
+body
+html
+
+nextpartecfafc
+
+

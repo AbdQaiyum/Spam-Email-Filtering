@@ -1,0 +1,29 @@
+ i seem to be having a little trouble with it my printersconf is
+
+defaultprinter lp
+info hp
+location locals
+deviceuri ipp
+state idle
+accepting yes
+jobsheets none none
+quotaperiod 
+pagelimit 
+klimit 
+printer
+
+ and cupds uses that to make a printcap of
+
+lp
+
+ sounds dodgy to me if someone has an example printersconfprintcap for
+a jetdirect printer id appreciate it if they sent it on
+
+john
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

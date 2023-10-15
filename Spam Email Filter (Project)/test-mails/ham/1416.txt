@@ -1,0 +1,37 @@
+
+brian r melcer said
+ ive got spamassassin installed and tested on macos x 
+ although there are issues with spamd still  so in addition to
+ looking for new and different uses for sa id like to hear
+ from folks using it under macos x
+
+ i just recently converted our sa setup to use amavisd into our postfix
+
+amavisd or amavisdnew if the latter you dont need spamd running since
+amavisdnew calls sa functions directly
+
+ 
+pgp fingerprint aa dc cb aef c bf ab ef aa bcdf
+member leaf project httpleafsourceforgenet    aim mikeleone
+public key  httpwwwmikeleonecomturgonturgonpublickeyasc
+
+some days youre the pigeon some days youre the statue
+
+
+
+
+random thought
+
+
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

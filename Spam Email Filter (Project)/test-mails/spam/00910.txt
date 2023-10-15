@@ -1,0 +1,223 @@
+html
+
+head
+meta httpequivcontenttype contenttexthtml charsetgb
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titleemail marketingtitle
+style
+
+			spanbug  color black fontsize px lineheight px fontfamily arial helvetica sansserif 
+style
+head
+
+body
+
+div aligncenter
+  center
+  table border cellspacing width
+    tr
+      td  
+div  
+font facearial colorffuthe power of email marketingufont 
+pbr
+p 
+p   
+div   
+div   
+  font facearial sizeemail marketing is spreadingnbsparound the wholenbspworld                   
+  because of itsnbsphigh effectivenessnbspbr                 
+  speednbspandnbsplow costfont                  
+div                  
+font facearial size                  
+div                  
+  br                  
+  now if you want to introduce and sell your product or servicenbsplook for                   
+  anbsppartner tonbspraise br                  
+  your websites reputation the best way would be for younbsptonbspusenbspemail                   
+  to contact yourbr        
+  targeted customer of coursefirstnbspyounbsphave tonbspknow their email addresses br                 
+font                 
+br                
+div                
+div                
+  font facearial sizetargeted email is no doubt verynbsp effectivenbsp                   
+  if you can introduce your product or servicenbspbr                  
+  throughnbspemail directly to the customersnbspwho are interestednbspin                   
+  themnbspnbsp this willnbsp bringnbspyournbspbr                 
+  businessnbspanbspbetter chancenbspof successnbspfont                  
+div                  
+pfont facearial sizexinlannbsp internetnbsp marketingnbsp                   
+centernbsp hasnbsp many years ofnbspexperience in developingnbspandnbspbr                  
+utilizingnbspinternet resourceswe have setnbspupnbspglobalnbsp businessnbsp                   
+emailaddressnbspdatabasesnbsp br                  
+whichnbspcontain nbspmillionsnbspof email addresses of commercialnbsp                   
+enterprisesnbsp and consumersnbspbr                  
+all over the world thesenbspemails are sorted bynbspcountriesnbsp                   
+andnbsp fields wenbspalso continuobr                  
+uslynbsp update nbspournbsp databasesnbspnbsp addnbsp newnbsp                   
+addressesnbsp andnbspnbsp remove nbspundeliverablenbsp andnbspbr                  
+unsubscribed addressesfontp                  
+pfont facearial sizewith the cooperation with our partnersnbsp we                   
+can supplynbspvalid targeted emailnbspaddressesnbspbr                  
+according nbsptonbsp yournbsp requirementsnbsp bynbsp whichnbsp younbspcannbsp                   
+easilynbsp and nbspdirectly nbspcontactnbspyournbspbr                  
+potentialnbspcustomerswith our help many enterprises and individualsnbsphavenbspgreatly                   
+raised br                  
+thenbspfame of theirnbspproducts or service and found many potential                   
+customersbr                  
+br                  
+we also supplynbspanbsp wide varietynbspof softwarenbsp for example                   
+wcastnbsp the software fornbspfastbr                  
+sending emailsfont colorthis software is a powerfulnbsp                   
+internetnbsp emailmarketingnbsp applicationnbsp which br                  
+is perfect for individuals or businesses to sendnbspmultiple customized                   
+email messages to br                 
+their customersfontbr                  
+br                  
+we are pleased tonbspoffer younbspour best prices fontp                  
+div alignleft                  
+  table height width border                  
+    tbody                  
+      tr                  
+        td width heightbfont facearial sizenbspnbspnbspnbspnbspnbspnbspnbspnbsp                   
+          emailsnbsp ornbsp softwarefontbtd                  
+        td width heightbfont facearial sizenbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp                   
+          remarksfontbtd                  
+        td width heightbfont facearial color sizenbspnbspnbsp                   
+          pricefontbtd                  
+      tr                  
+      tr                  
+        td width heightfont facearial size targeted                   
+          email addressesnbspfonttd                  
+        td width heightfont facearialbr                  
+          font sizewe are able to supply valid targeted email addresses                   
+          according to your requirementsnbsp which are compiledbr  
+          only on your order                   
+          such as region  country  field  occupation  domain name such as aolcom orbr   
+          msncom etcbr                  
+          fontfonttd                  
+        td width heightfont facearial color sizenbsp                   
+          usd nbspfonttd                  
+      tr                  
+      tr                  
+        td width heightfont facearial color sizenbspnbspnbspnbsp                   
+          classified email addressesfonttd                  
+        td width heightfont facearial color sizebr                  
+          our database contains more than  sorts of email addressesand can                   
+          meetnbspyour mostnbspstringent demandsbr            
+          br               
+ fonttd               
+        td width heightfont facearial color sizenbspnbspfonttd               
+      tr               
+      tr               
+        td width heightfont facearial sizenbspnbspnbsp                 
+           million email addressesfonttd                
+        td width heightfont facearial sizebr                
+           million email addresses of global commercial enterprisebr              
+          br                
+          fonttd               
+        td width heightfont facearial color sizenbspusd                 
+          nbspfonttd                
+      tr                
+      tr                
+        td width heightfont facearial sizenbspnbspnbspnbspnbspnbspnbsp                 
+          wcast softwarenbspfonttd                
+        td width heightfont facearial sizebr                
+          software for fastsending emails this program can br                
+        send mailnbspat a rate of over  emails per hour br                
+        and release informationnbspto                 
+          thousands of people in a br                
+        short timebr             
+          br               
+          fonttd              
+        td width heightfont facearial color sizenbsp                 
+          usd nbspfonttd                
+      tr                
+      tr                
+        td width heightfont facearial sizenbspnbspnbspnbspnbspnbsp                 
+          email searcher softwarenbspfonttd                
+        td width heightfont facearial sizesoftware for                 
+          searching for targeted email addressesbr                
+          fonttd                
+        td width heightfont facearial color sizenbsp                 
+          usd nbspfonttd                
+      tr                
+      tr                
+        td width heightfont facearialbfont color sizenbspnbspnbspnbspnbspnbspnbsp                 
+          fontbfont color sizeglobal trade posterfontfonttd                
+        td width heightfont size facearialbr                
+          spread information about your business and your products to over                  
+          trade message boards and newsgroupsbr              
+          br                
+          fonttd               
+        td width heightfont facearial color sizenbspusd                 
+          nbspfonttd                
+      tr                
+      tr                
+        td width heightfont facearial sizenbspnbspnbspnbspnbspnbsp                 
+          jethits plus  pronbspfonttd                
+        td width heightfont facearial sizebr                
+          software for submitting website to nbsp search enginesbr              
+          br                
+          fonttd               
+        td width heightfont facearial color sizenbsp                
+          usd nbspfonttd               
+      tr               
+    tbody               
+  table               
+div               
+font facearial               
+pbr               
+you maynbsporder the email listsnbspornbspsoftware directly from our                
+website font color sizefornbsp further details br               
+pleasenbsprefer to our websitefontfont sizefontfont color sizebr               
+br               
+we will benbsp honourednbsp if you are interestednbsp in our services or                
+software fontplease do not br               
+hesitate to contact usnbspwith any queries or concern you may havenbsp wenbspwill                
+benbsphappy tonbspbr               
+serve youbr               
+br               
+br               
+best regardsbr               
+br               
+nbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp                
+nbspfont sizekang pengbr              
+marketing managerfontfontbr 
+font faceariala hrefhttpwwwcomoverdercomhttpwwwcomoverdercomabr
+a hrefmailtosalesmarketingpromotecomsalesmarketingpromotecomafontfont facearialbr         
+xinlan internet marketing centerfontp           
+           
+hr           
+pfont size facearialyou are receiving this email because you               
+registered to receive special offers from one of our marketingnbspbr              
+partnersif you would prefer not to receive future emails font colornbspplease               
+click here tonbsp a hrefhttpunsubscribemailcomindexhtmlclientidunsubscribea               
+ or fontfontspan classbugfont sizesend a br              
+blank email tonbsp font colorffa hrefmailtoemaildatacomemaildatacomafontfontspanp        
+hr        
+        
+      td   
+    tr   
+  table   
+  center   
+div   
+        
+body        
+        
+html
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

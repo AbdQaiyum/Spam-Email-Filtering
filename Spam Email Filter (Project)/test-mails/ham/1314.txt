@@ -1,0 +1,25 @@
+once upon a time angles wrote 
+
+ matthias saou matthiasegwnnet wrote
+ youre really better off backuping all placed where you know youve hand
+ edited or installed some files for me thats only etc root and
+ home then you reinstall cleanly formating  put your home files
+ back into place and youre ready to go
+ 
+ matthias i gotta believe you ive been using your rpms for some time now
+  thats the way ill do it
+
+im no messiah just do what you think suits you the best 
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel acpi
+load    
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

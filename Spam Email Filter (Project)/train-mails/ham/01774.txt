@@ -1,0 +1,67 @@
+use perl daily newsletter
+
+in this issue
+     this week on perlporters  august  st september 
+     the perl review v i
+
+
+ this week on perlporters  august  st september         
+   posted by rafael on monday september   summaries      
+   httpuseperlorgarticleplsid              
+
+
+this week were back to our regularly scheduled pp report straight
+from my keyboards mouth many thanks to elizabeth mattjisen who provided
+the two previous reports while i was away from pp and from whatever
+might evocate more or less a computer
+
+this story continues at
+    httpuseperlorgarticleplsid
+
+discuss this story at
+    httpuseperlorgcommentsplsid
+
+
+
+ the perl review v i                                             
+   posted by ziggy on monday september   news            
+   httpuseperlorgarticleplsid              
+
+
+briandfoy writes the latest issue of the perl review is ready
+httpwwwtheperlreviewcom
+
+   extreme mowing  andy lester
+
+   perl assembly language  phil crow
+
+   what perl programmers should know about java  beth linker
+
+   filehandle ties  robby walker
+
+   the iterator design pattern  brian d foy
+    enjoy
+
+discuss this story at
+    httpuseperlorgcommentsplsid
+
+links
+     httpwwwtheperlreviewcom
+     httpwwwtheperlreviewcom
+
+
+
+copyright  pudge  all rights reserved
+
+
+
+
+you have received this message because you subscribed to it
+on use perl  to stop receiving this and other
+messages from use perl or to add more messages
+or change your preferences please go to your user page
+
+	httpuseperlorgmymessages
+
+you can log in and change your preferences from there
+

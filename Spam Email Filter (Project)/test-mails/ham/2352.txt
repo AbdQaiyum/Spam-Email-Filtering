@@ -1,0 +1,38 @@
+url httpdiveintomarkorgarchiveshtmlmicrosoftredesign
+date t
+
+jeffrey zeldman party like its  microsoft has redesigned 
+its new layout uses font tags and other deprecated junk straight out of the 
+mids  when a wc member company that helped create xhtml and css 
+ignores or misuses those web standards on its corporate site you have to 
+wonder who didnt get the memo 
+
+the new design also fails even the most basic accessibility tests the home 
+page contains  instances of images without alt text this is the same basic 
+failing for which the sydney organizing committee for the olympic games was 
+successfully sued in  
+
+here is what microsoftcom looks like in a textonly browser to better 
+understand the experience take a piece of paper and cover your entire monitor 
+except for the top line then scroll the window slowly so you can only read one 
+line at a time while nothing is technically locked out all the links are 
+regular links nothing requires javascript to function properly all the 
+unaltenhanced images which are mostly spacer images and imagesasbullets 
+add so much clutter to the page that its very difficult to navigate 
+
+meanwhile i dont want to imagine what it would sound like through a screen 
+reader want to find the search box thats pttrans dot gif pttrans 
+dot gif search for pttrans dot gif pttrans dot gif form edit box pttrans dot 
+gif submit button go pttrans dot gif link advanced search pttrans dot gif 
+ and i hope you werent looking for microsofts accessibility home 
+page its the th link on the page out of 
+
+
+
+ httpwwwzeldmancomdailybhtmlprince
+ httpbobbywatchfirecombobbybobbyservletadvancedtrueurlhttpaffwwwmicrosoftcomfglwcagatexttextlinelineanerrsanerrsstealthbobbyfoutputsubmit
+ httpwwwcontenunusocoghtml
+ httpdiveintomarkorgpublicmicrosoftlynxoutputtxt
+ httpwwwmicrosoftcomenable
+
+

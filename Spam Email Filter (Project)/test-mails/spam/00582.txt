@@ -1,0 +1,157 @@
+html
+head
+titlemcle seminarstitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+body bgcolorffffff text link vlink alinkff leftmargin topmargin marginwidth marginheight
+table width border cellspacing cellpadding
+  tr
+    td alignleft valigntop 
+p aligncenterfont faceverdana arial helvetica sansserif sizeclick 
+            a hrefhttpwwwaskthelawyerscomappsremoveaspemailwebmasterefiieherea 
+            to be removed from our email list you can also send an a hrefmailtoremoveattorneysonlineinccomsubjectremoveemaila or call us tollfree at  fontp
+      table width border cellspacing cellpadding
+        tr 
+          tdimg srchttpwwwattorneyconnectionsinccomemailtopgif width heighttd
+        tr
+        tr 
+          tdimg srchttpwwwattorneyconnectionsinccomemailbargif width heightbr
+            img srchttpwwwattorneyconnectionsinccomemailpicjpg width height 
+          td
+        tr
+      table
+      br
+      table width border cellspacing cellpadding
+        tr 
+          td width alignleft valigntop 
+            pfont size faceverdana arial helvetica sansserifbfont sizejuly 
+                fontbfontfont sizebfont faceverdana arial helvetica sansserifbr
+              cost font colorfont sizefontfontbr
+              held at the hilton waikola village fontfont size faceverdana arial helvetica sansserifbfont sizehawaiifontbfontbfontp
+            pfont faceverdana arial helvetica sansserif sizebfont color 
+              register and pay by june  and recieve  off fontbfontp
+            pfont faceverdana arial helvetica sansserif sizefont colorfffont color sizefontfont colorfont sizeair 
+              hotel and activities not includedfontfontfontfontp
+      td
+          td width alignleft valigntop 
+            pfont faceverdana arial helvetica sansserif color sizeibfont colorquotthe 
+              presentation was extremely informative and entertainingquot fontbi 
+              font p
+            pfont size color faceverdana arial helvetica sansserifibquotfun 
+              for the whole family a great reason to take a vacationquotbifontp
+          td
+        tr
+      table
+      table width border cellspacing cellpadding
+        tr
+          td heighttd
+        tr
+        tr
+          td valignmiddle aligncenter bgcolorfont size faceverdana arial helvetica sansserif colorbifont size faceverdana arial helvetica sansserif colorbifont colorfffffffont size 
+            fontfontibfontfont colorfffffflimited space available 
+            font sizefontfontibfonttd
+        tr
+        tr
+          td heighttd
+        tr
+      table
+      table width border cellspacing cellpadding
+        tr
+          td valigntop alignleft 
+            table width border cellspacing cellpadding
+              tr
+                td valignmiddle aligncenter 
+                  table width border height cellpadding cellspacing bordercolor
+                    tr 
+                      td width height aligncenter valignmiddlebfont size facearial helvetica sansserif colorhoursfontbtd
+                      td width height valignmiddlefont size facearial helvetica sansserif colorbfont sizeincludes 
+                         hours of participatoryfontbfonttd
+                    tr
+                    tr 
+                      td width aligncenter valignmiddlebfont size facearial helvetica sansserif colorfontbtd
+                      td width valignmiddlebfont size facearial helvetica sansserif color 
+                        ethicsfontbtd
+                    tr
+                    tr 
+                      td width aligncenter valignmiddlebfont size facearial helvetica sansserif colorfontbtd
+                      td width valignmiddlebfont size facearial helvetica sansserif colorsubstance 
+                        abusefontbtd
+                    tr
+                    tr 
+                      td width aligncenter valignmiddle heightbfont size facearial helvetica sansserif colorfontbtd
+                      td width valignmiddle heightbfont size facearial helvetica sansserif coloremotional 
+                        distressfontbtd
+                    tr
+                    tr 
+                      td width aligncenter height valignmiddlebfont size facearial helvetica sansserif colorfontbtd
+                      td width height valignmiddlebfont size facearial helvetica sansserif colorelimination 
+                        of bias in the legal professionfontbtd
+                    tr
+                    tr aligncenter 
+                      td width height valignmiddlebfont size facearial helvetica sansserif colorfontbtd
+                      td width height alignleft valignmiddlebfont size facearial helvetica sansserif colorgeneral 
+                        legal educationfontbtd
+                    tr
+                    tr aligncenter 
+                      td colspan valignmiddlefont size facearial helvetica sansserif color 
+                        font sizebaudio materials for remaining mcle br
+                        credits will be available at the seminarbfontfonttd
+                    tr
+                  table
+                td
+                td valignmiddle aligncenter 
+                  pfont faceverdana arial helvetica sansserif size colorbbrought 
+                    to you bybr
+                    bfontimg srchttpwwwattorneyconnectionsinccomemaillogogif width heightp
+                  td
+              tr
+            table
+            table width border cellspacing cellpadding
+              tr 
+                td alignleft valigntop 
+                  table width border cellspacing cellpadding
+                    tr
+                      td aligncenter valigntop 
+                        pnbspp
+                        td
+                      td alignleft valignmiddle 
+                        pfont faceverdana arial helvetica sansserif colorbifont sizebar 
+                          approved curriculumfontibfontp
+                        pfont faceverdana arial helvetica sansserif sizeapproved 
+                          by arizona arkansas california georgia idaho iowa 
+                          kansas louisiana maine missouri montana nevada 
+                          new hampshire new mexico north carolina north dakota 
+                          oregon pennsylvania south carolina tennesee texas 
+                          utah virginia washington state and wisconsin bar 
+                          associations approval pending for alabama and minnesotafontp
+                        td
+                    tr
+                  table
+                td
+              tr
+            table
+            table width border cellspacing cellpadding bordercolor
+              tr 
+                td aligncenter valignmiddle bgcolor 
+                  pfont faceverdana arial helvetica sansserif size colorffffffbcall 
+                    font size attorney connectionsfont at font size 
+                    font br
+                    to reserve your package todaybfont p
+                  pfont colorffffffbfont faceverdana arial helvetica sansserif sizeor 
+                    fontfont faceverdana arial helvetica sansserif sizea hrefhttpwwwattorneyconnectionsinccomregistrationhtm stylecolorgold
+ targetblankclick here to printa the reservation form and fax to font colorffcc 
+                    font or br
+                    mail to attorney connections po box  bonsall ca 
+                    fontbfontp
+                td
+              tr
+            table
+          td
+        tr
+      table
+    td
+  tr
+tableimg srchttpwwwaskthelawyerscomemailaspemailwebmasterefiiecampaign width height
+body
+html
+

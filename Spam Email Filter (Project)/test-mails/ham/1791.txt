@@ -1,0 +1,16 @@
+there seem to be two drivers for the classifier now neale picketts
+hammiepy and the original gbayespy  according to the readmetxt
+gbayespy hasnt been kept up to date  is there anything in there
+that isnt covered by hammiepy  about the only useful feature of
+gbayespy that hammiepy doesnt yet copy is u which calculates
+spamness for an entire mailbox  this feature can easily be copied
+into hammiepy  gbayespy also has a large collection of tokenizers
+but timtokenpy rules so im not sure how interesting that is now
+
+therefore i propose to nuke gbayespy after adding a u feature
+
+anyone against  i imagine that skip or barry might have a stake in
+gbayespy tim seems to have moved all code hes working to other
+modules
+
+guido van rossum home page httpwwwpythonorgguido

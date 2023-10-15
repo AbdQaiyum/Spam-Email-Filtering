@@ -1,0 +1,8 @@
+url httpjeremyzawodnycomblogarchiveshtml
+date t
+
+got a stock ticker for which youd like to have an rss news feed help test the 
+beta rss feeds weve put up o yahoo finance take your favorite ticker say 
+yhoo and put this url in your news aggregator
+
+

@@ -1,0 +1,69 @@
+html
+head
+titlecell booster antennatitle
+meta httpequivdcontenttype contentdtexthtml charsetdiso
+
+head
+
+body
+table widthd borderd cellpaddingd cellspacingd bord
+ercolord aligndcenter
+  tr
+    td bgcolordp aligndcenterfont colordff si
+zed facedverdana arial helvetica sansserifstrongboost 
+        your receptionstrongfontbr
+        strongfont colordff sized facedgeneva arial 
+helvetica sansserifemon 
+        any cell phone or cordlessemfontstrongptd
+  tr
+  tr
+  	tdtable widthd borderd cellspacingd cellpaddingd
+
+  			tr
+    			td aligndcenterpnbspp
+            pfont colord sized facedgeneva arial h
+elvetica sansserifstrong more claritystrongfontp
+					
+            pfont facedverdana arial helvetica sansserifstron
+gdont 
+              buy another phone because of bad recepitonbr
+              improve your communication instantly bybr
+              simply installing this small chipstrongfontp
+            pfont colord sized facedverdana arial 
+helvetica sansserifstrongpowerful reception boosterbr
+              save  as seen on tvstrongfontp
+					
+            pfont colordff sized facedverdana arial 
+helvetica sansserifemstrongno 
+              other product comparesstrongemfontp
+					pulliultrathin and transparentli
+					liinstalls in a secondli
+					
+              listrongpower of a ft antennastrongli
+					lino more dropped or interrupted callsli
+					liwork any place your singal may be weakli
+					liadvertised on tv for over  times the priceliulp
+					pfont colordff sized facedverdana arial helveti
+ca sansserifstronga hrefdhttpwwwsjcomcellboosterwelcom
+ehtmlaffiddclick 
+              here nowastrongfontp
+					
+            pemstrongfont colordff sized facedgene
+va arial helvetica sansserifit was so easy to 
+              installfontstrongemp
+					pto be removed from our database a hrefdhttpsjcomremov
+eclick herea
+				td
+  			tr
+		table
+
+tdtr
+
+table
+
+body
+html
+
+
+
+

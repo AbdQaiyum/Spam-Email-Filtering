@@ -1,0 +1,124 @@
+
+htmlheadtitletitleheadbody bgcolorwhite
+table widthtrtdfont size faceverdana color
+
+have tax problems do you owe the irs money if your debt is
+ us or more we can help our licensed agents can help
+you with both past and present tax debt we have direct contacts
+with the irs so once your application is processed we can help
+you immediately without further delaybrbr
+
+also as our client we can offer you other services and help with
+other problems our nationally recognized tax attorneys
+paralegals legal assistants and licensed enrolled agents can
+help you withbrbr
+
+ tax preparationbr
+ auditsbr
+ seizuresbr
+ bank leviesbr
+ asset protectionbr
+ audit reconsiderationbr
+ trust fund penalty defensebr
+ penalty appealsbr
+ penalty abatementbr
+ wage garnishmentsbr
+ and morebrbr
+
+to receive free information on tax help please fill out the
+form below and return it to us there are no obligations and
+supplied information is kept strictly confidential please note
+that this offer only applies to us citizens application
+processing may take up to  business daysbrbr
+
+note for debt size please also include any penalties or interestbrbrbr
+
+
+form namepagerform actionhttpwwpicqcomwhitepagespagemehtml methodpost
+input typehidden namefromemail valueirircom
+input typehidden namefrom valueirircom
+input typehidden namerecipient valueediecyahoocouk
+
+table cellspacing
+trtdfont size faceverdana colorbfull namebfont nbspnbsptdtdinput typehidden namebody valuenameinput typetext size namebody maxlengthtdtr
+trtdfont size faceverdana colorbstatebfont nbspnbsptdtdinput typehidden namebody valuestate
+select namebody
+option valueoption
+option valueal alabama
+option valueak alaska
+option valueaz arizona
+option valuear arkansas
+option valueca california
+option valueco colorado
+option valuect connecticut
+option valuede delaware
+option valuedc dist of columbia
+option valuefl florida
+option valuega georgia
+option valuehi hawaii
+option valueid idaho
+option valueil illinois
+option valuein indiana
+option valueia iowa
+option valueks kansas
+option valueky kentucky
+option valuela louisiana
+option valueme maine
+option valuemd maryland
+option valuema massachusetts
+option valuemi michigan
+option valuemn minnesota
+option valuems mississippi
+option valuemo missouri
+option valuemt montana
+option valuene nebraska
+option valuenv nevada
+option valuenh new hampshire
+option valuenj new jersey
+option valuenm new mexico
+option valueny new york
+option valuenc north carolina
+option valuend north dakota
+option valueoh ohio
+option valueok oklahoma
+option valueor oregon
+option valuepa pennsylvania
+option valueri rhode island
+option valuesc south carolina
+option valuesd south dakota
+option valuetn tennessee
+option valuetx texas
+option valueut utah
+option valuevt vermont
+option valueva virginia
+option valuewa washington
+option valuewv west virginia
+option valuewi wisconsin
+option valuewy wyoming
+select
+tdtr
+
+trtdfont size faceverdana colorbphone numberbfont nbspnbsptdtdinput typehidden namebody valuephoneinput typetext size namebody maxlengthtdtr
+trtdfont size faceverdana colorbtime to contactbfont nbspnbsptdtdinput typehidden namebody valuebesttimeinput typetext size namebody maxlengthtdtr
+trtdfont size faceverdana colorbtax debt sizebfont nbspnbsptdtdinput typehidden namebody valuedebtsizeinput typetext size namebody maxlengthinput typehidden nameto valuetdtr
+trtdfont size faceverdana colorbemailbfont nbspnbsptdtdinput typehidden namebody valueemailinput typetext size namebody maxlengthtdtr
+trtdnbsptdtdinput typesubmit valuesubmittdtr
+tablebrbr
+
+form
+
+thank you for your timebrbrbrbr
+
+
+font sizeb
+note if you wish to receive no further advertisements regarding
+this matter or any other please reply to this email with the
+word remove in the subject
+bfontbrbr
+
+fonttdtrtable
+bodyhtml
+
+qbvqlvq
+
+

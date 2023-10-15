@@ -1,0 +1,48 @@
+on wed  sep  vince puzzella wrote
+
+ ever since i set defangmime  all spam that contains html has a badly
+ formatted report  i thinkrealize its because the report should be in
+ html  is there anyway to get spamassassin to add an html report in
+ cases where it is required defangmime 
+
+funny i was in the middle of composing the same message when i saw yours
+
+it would be nice if it sees a header like
+contenttype texthtml charsetiso
+
+and defangmime is  it could wrap the report with prepre for ease
+of reading
+
+and the same sort of problem seems to occur with base encoded messages
+the report is placed inside of the mime boundary
+nextpartbeabbe
+contenttype textplain charsetiso
+contenttransferencoding base
+
+spam  start spamassassin results 
+
+should this not go above probably in its own mime section to make sure
+that the attachments dont get destroyed
+
+ian
+
+
+ian white
+email iwhitevictoriatcca
+
+
+
+
+
+
+
+
+
+in remembrance
+wwwosdncom
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

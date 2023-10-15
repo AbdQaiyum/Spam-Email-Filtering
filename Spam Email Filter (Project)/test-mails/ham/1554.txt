@@ -1,0 +1,83 @@
+i successfully installed spamassassin  razor to run system wide on my
+debian woody server  
+ 
+briefly i 
+aptget installed spamassassin razor and libmilterdev
+ 
+downloaded spamassmiltertargz from httpwwwmilterorg
+ungzipped and untarred the file into etcmail 
+ 
+followed the directions in etcmailspamassmilterreadme to
+compile the milter install the rc scripts and edit and update
+sendmailmc
+ 
+changed etcdefaultspamassassin to set spamassassin to daemon mode
+ 
+verified that spamassassin was running by tailing varlogmaillog
+ 
+ 
+woodystable has sa 
+woodyunstable has sa 
+
+im running the stable source live right now and it is working very
+well
+
+if you want unstable change etcaptsourceslist substituting
+unstable for stable
+run aptget update
+install the unstable versions
+change etcaptsourceslist
+run aptget update
+
+
+quentin krengel
+krengel technology inc
+
+
+
+original message
+from spamassassintalkadminexamplesourceforgenet
+mailtospamassassintalkadminlistssourceforgenet on behalf of
+tanniel simonian
+sent wednesday september    pm
+to spamassassintalkexamplesourceforgenet
+subject satalk debianized packages for sa 
+
+
+im currently using woody
+
+is there a debianized package for sa on woody or at least somewhere i
+can download from its been soo long that i havent compiled stuff that
+im sort of shy to try again 
+
+
+
+ 
+tanniel simonian
+programmer  analyst iii
+ucr libraries
+httplibsysucredu
+  
+
+
+
+
+
+in remembrance
+wwwosdncom 
+spamassassintalk mailing list spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+
+
+
+
+
+in remembrance
+wwwosdncom
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

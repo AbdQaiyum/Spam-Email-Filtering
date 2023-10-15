@@ -1,0 +1,15 @@
+hi matthias
+
+i think i could do help you out with new plugins package for gkrellm  
+would you prefer to keep it as it is now or package every plugin
+separately  the latter would be probably easier to maintain
+
+ 
+ille skytt
+villeskytta at ikifi
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

@@ -1,0 +1,32 @@
+thank you that was exactly what i needed
+dvd works great now
+ more problem
+videodvdrip worked on rh  but cant get contents of dvd last
+message is libdvdread using libdvdcss  for dvd access
+but it fails
+
+on sun  at  chris kloiber wrote
+ on sun  at  alvie wrote
+  hdparm d devhdc says operation not permitted
+  dvd playback is very jumpy
+  does someone have any ideas on what i can do yo get dma transfers
+  thanks alvie
+ 
+ add to etcmodulesconf
+ 
+ options idecd dma
+ 
+  
+ chris kloiber
+ 
+ 
+ rpmlist mailing list rpmlistfreshrpmsnet
+ httplistsfreshrpmsnetmailmanlistinforpmlist
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

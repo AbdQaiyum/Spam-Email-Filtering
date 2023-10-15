@@ -1,0 +1,194 @@
+doctype html public wcdtd html  transitionalen
+html
+head
+titlesunfrom lightingtitle
+meta httpequivdcontenttype contentdtexthtml charsetdgb
+link hrefdhttpwwweccomepostfengacss reldstylesheet typ
+edtextcss
+script languagedjavascript typedtextjavascript
+
+function mmreloadpageinit   reloads the window if nav resized
+  if initddtrue with navigator if appnameddnetscapepar
+seintappversiondd 
+    documentmmpgwdinnerwidth documentmmpghdinnerheight onresize
+dmmreloadpage 
+  else if innerwidthddocumentmmpgw  innerheightddocumentmmpgh
+ locationreload
+
+mmreloadpagetrue
+windowopenhttpwwwchinalightingmarketcom
+
+script
+head
+
+body leftmargind topmargind
+table widthd borderd cellspacingd cellpaddingd align
+dcenter
+  tr
+    td heightd
+      table widthd borderd cellspacingd cellpaddingd
+
+        tr
+          td widthdimg srcdhttpwwweccomepostfengima
+gestopgif widthd heightdtd
+          td widthd backgrounddhttpwwweccomepostfengi
+magestopgifbr
+            aawebsite br br
+            strongaa strongstrongfont sizeda hrefdhtt
+pwwwchinalightingmarketcom classdcwwwchinalightingmarketcoma
+fontstrongtd
+        tr
+      table
+      table widthd borderd cellpaddingd cellspacingd
+ backgrounddhttpwwweccomepostfengimagestopgif
+        tr
+          td heightd valigndtop
+            table widthd borderd cellspacingd cellpaddin
+gd
+              tr
+                td widthd heightd
+                  table widthd borderd cellspacingd cellp
+addingd
+                    tr
+                      td widthdimg srcdhttpwwweccomep
+ostfengimageslifegif widthd heightd borderd usemap
+dmaptd
+                      td widthdimg srcdhttpwwweccomep
+ostfengimageslifegif widthd heightd borderd usemap
+dmaptd
+                    tr
+                    tr
+                      tdimg srcdhttpwwweccomepostfengimage
+slifegif widthd heightd borderd usemapdmaptd
+
+                      tdimg srcdhttpwwweccomepostfengimage
+slifegif widthd heightd borderd usemapdmaptd
+
+                    tr
+                    tr
+                      td heightd colspandimg srcdhttpww
+weccomepostfengimageslifegif widthd heightd border
+d usemapdmaptd
+                    tr
+                    tr
+                      td colspandimg srcdhttpwwweccomep
+ostfengimageslifegif widthd heightdtd
+                    tr
+                  table
+                td
+                td widthd aligndcenterobject classiddclsid
+dcdbeaedcfb codebasedhttpdownloadmacromed
+iacompubshockwavecabsflashswflashcabversiond widthd
+ heightd aligndmiddle
+                    param namedmovie valuedhttpwwweccomepo
+stfengtuswf
+                    param namedquality valuedhigh
+                    embed srcdhttpwwweccomepostfengtuswf w
+idthd heightd aligndmiddle qualitydhigh pluginspage
+dhttpwwwmacromediacomgogetflashplayer typedapplicationxshoc
+kwaveflashembedobjecttd
+                td aligndcenter valigndmiddle table widthd
+
+                    tr
+                      td heightdnbsptd
+                    tr
+                  table
+                  table widthd heightd borderd align
+dcenter cellpaddingd cellspacingd
+                    tr
+                      td
+                        table borderd cellspacingd cellpadding
+d aligndright heightd widthd
+                          tr
+                            td
+                              p iframe srcdhttpwwweccomepost
+fengmyhtm namedcontent iddcontent scrollingdno widthd
+ heightd marginwidthd marginheightd frameborderd al
+ignddefaultiframe
+                              p
+                            td
+                          tr
+                        table
+                      td
+                    tr
+                  table
+                td
+              tr
+            table
+          td
+        tr
+      table
+      table widthd borderd cellspacingd cellpaddingd
+
+        tr
+          td widthd
+
+td
+          td widthd bgcolordaedimg srcdhttpwwwec
+comepostfengimagestopgiftd
+          td widthd heightddiv aligndcenterfont size
+dbr
+              font
+              table widthd borderd cellspacingd cellpaddi
+ngd
+                tr
+                  td heightdspan classdafont sizedtel
+ 
+                    fax br
+                    mobile   mr davidfontspanfon
+t sizedbr
+                    a hrefdmailtosunfromchinalightingmarketcom clas
+sdbemail
+                    sunfromchinalightingmarketcomabr
+                    span classdaadd room noxinxingzhongroad
+ guzhen
+                    zhongshan guangdong chinaspanfonttd
+                tr
+              table
+             
+            divtd
+        tr
+        tr bgcolordaed
+          td heightd colspandnbsptd
+        tr
+        tr
+          td heightd colspanddiv aligndright classdd
+  div iddlayer styledpositionabsolute widthpx height
+px zindex left px top px visibility hidden
+              scriptvar tcuserdsunfromvar tcclassdscript
+              script srcdhttpstatttcomstatjsscript
+            div
+div iddlayer styledpositionabsolute widthpx heightpx zi
+ndex left px top px visibility hidden
+               script srcdhttpwwwcncomdesignercountercount
+aspuserdsunfromuseriddscript
+    div
+  font sizeda hrefdhttpwwwcncom targetdblank
+ classdbpower
+              by cncomaaafontdivtd
+        tr
+      table td
+  tr
+table
+map namedmap
+  area shapedrect coordsd hrefdhttpwwwchinaligh
+tingmarketcomcompanyhtm targetdblank
+map
+map namedmap
+  area shapedrect coordsd hrefdhttpwwwchinaligh
+tingmarketcombclistasp targetdblank
+map
+map namedmap
+  area shapedrect coordsd hrefdhttpwwwchinalig
+htingmarketcomfeedbackhtm targetdblank
+map
+map namedmap
+  area shapedrect coordsd hrefdhttpwwwchinaligh
+tingmarketcom
+map
+map namedmap
+  area shapedrect coordsd hrefdhttpwwwchinaligh
+tingmarketcom
+map
+body
+html

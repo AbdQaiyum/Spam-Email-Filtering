@@ -1,0 +1,90 @@
+once upon a time daniel wrote 
+
+   and yes i accept patchescommentssuggestions about all those spec
+   files
+ 
+ sure thing 
+
+cool 
+
+ ive added to the spec some flags to remove oss and isapnp support at
+ build time if one wishes to so iss possible to do a
+ 
+ 	rpmbuild recompile rpm without oss without isapnp
+
+ok ill add this
+
+ also having the kernel compiled by me i have no kernelsource package
+ installed  ive added a flag kernsrc that also can be used
+ without to remove the dependency for kernelsource at build time  it
+ would be nice to check the correct kernel include files actually exist
+ libmodulesuname rbuildincludelinuxh though however im
+ a beginner in rpm building  is it possible to buildrequire for a file
+ not provided by a package at all  ive googled a bit and found no way
+ to do that
+
+requiring a file that isnt part of an rpm is not possible no except
+maybe by stopping the build process if it isnt found but thats errr
+ugly
+and i really think that for people who installed a kernel from sources the
+easiest is to install the alsa kernel drivers from source too
+
+ i was also considering adding some sort of flag for the withcards
+ option in alsas configure but dont know how to do that  only found
+ out about without from your first alsadriverspec and existing rpm
+ docs dont help much
+
+this would be a tricky one since to use the with name feature of
+rpmbuild i think youd need to add individual handling of each and every
+card 
+
+ oh and one more thing   at first ive installed the first version of
+ alsadriver for  although i dont have that kernel to supply
+ the dependency for the rest of the alsa rpms and compiled the modules
+ from source  it created the dev files and all
+
+thats what the alsadriver is there for create all the base files
+excluding the kernel drivers what i would suggest for dependency reasons
+it to install an alsakernel for the original kernel youve kept it
+right  and install alsa modules from source for custom kernels built
+from source
+
+ then wanted to make my own rpm for  so now im trying to rpmbuild
+ the alsakernel package  removed all alsa rpms and tried my spec
+ 
+ rpmbuild ba alsadriverspecmine without oss without isapnp
+ without kernsrc
+ 
+ but i get this
+ 
+ long successful compile snipped
+ rpm build errors
+       file listed twice devadsp
+       file listed twice devamidi
+       installed but unpackaged files found
+      etcmakedevdmacros
+      etcrcdinitdalsasound
+ 
+ 
+ oh and i think ive forgot to mention im running betanull 
+
+indeed  the rpm  snapshot in null has a few new features among which
+having the build fail when files are present in the build root but not
+listed in the files section i should remove them manually as part of the
+build process or maybe the new exclude pathtofile in the files
+section would do but i dont know how older versions of rpm would handle
+it on my null build system ive simply set the variable 
+unpackagedfilesterminatebuild 
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

@@ -1,0 +1,62 @@
+on thu  at  barry dexter a gonzaga wrote
+ on thu aug   at pm  larry w virden wrote
+  i am wondering whether theres a way that i can use sitescooper andor plucker
+  or some other free utility to convert word documents into something a bit
+  more palmos friendly
+ 
+ 	you could try antiword httpwwwwinfielddemonnllinux
+ its consoled based and converts word  docs to text and some images to
+ postscript and png
+
+also theres catdoc and wv for word  text conversions  actually wv
+consists of wvware which as the manpage says converts word documents
+into other formats such as ps pdf html latex dvi abw  html would
+probably be the best format for use with pluckersitescooper depending
+on how good the doc  html conversion is  i havent used either in
+over a year as abiword or openoffice work well enough  prefer abiword
+for its lightweight size but openoffice has the better doc importer
+
+dont know which of these are better or worse than the other but i
+figure the more the merrier 
+
+ you could also try openoffice andor abiword if you
+ have x installed
+
+abiword supports exporting to palmdoc pdb which is about as
+palmosfriendly as you can get  never triedneeded it but its listed
+there in the save as dialog box
+
+wine or crossover office if you already have it may support word
+viewer free download from microsoft but didnt a year or so ago when
+i last tried  word viewer is what i used back in the day to convert
+word  docs to word  as you could display the word  doc and copy 
+paste the text with formatting into word  which was the only
+version of word that i had  anyways a little nostalgia
+
+  i dont have a windows machine so it becomes problematic to convert them
+  i know that if this were not the case in word i could save them as some
+  other more friendly format
+
+i have a windows dualboot machine but it only get used by my
+significant other and for burning multisession cdrrw  is there any
+linux gui app that supports cdrecords multisession feature  since
+openoffice ive been able to edit word docs flawlessly or at least the
+simple word documents i receive from others
+
+anyways
+ 
+
+please request permission to redistribute
+   authors comments or email address
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+sitescoopertalk mailing list
+sitescoopertalklistssourceforgenet
+httpslistssourceforgenetlistslistinfositescoopertalk
+

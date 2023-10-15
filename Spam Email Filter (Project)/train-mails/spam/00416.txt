@@ -1,0 +1,149 @@
+
+html
+head
+
+head
+body bgcolorffffff text 
+table width height border cellspacing cellpadding 
+  tr
+    td valignmiddle  
+      div aligncenter 
+        table width border cellspacing cellpadding
+          tr 
+            td width height bgcolordddnbsptd
+            td width height bgcolordddnbspfont size faceverdana arial helvetica sansserifstrongnbspnbspthe 
+              best mortage ratesstrongfonttd
+            td colspan height bgcolornbspnbspnbspnbspnbspfont faceverdana arial helvetica sansserif colorffffffbsimple 
+              easy and freebfonttd
+            td width height bgcolordddnbsp td
+          tr
+          tr 
+            td width height bgcolordddnbsptd
+            td width height bgcolornbsptd
+            td colspan height bgcoloraaanbsptd
+            td width height bgcolordddnbsptd
+          tr
+          tr 
+            td width height bgcolordddnbsptd
+            td colspan rowspan valigntop  
+              div alignleft 
+                div aligncenterdiv
+                div aligncenter 
+                  table border bordercolor cellpadding cellspacing
+width height
+                    tbody 
+                    tr bgcolorefefef 
+                      td colspan
+                        div aligncenterfont colorffffff 
+      facetahomaarialhelvetica sizebfont size colorhave 
+                          hundreds of lenders compete for your loanfontbfont 
+                        div
+                      td
+                    tr
+                    tr 
+                      td bgcolor valigntop width brbr
+                        libfont colorffffff size facearial helvetica
+sansserifrefinancing fontb 
+                        lifont size facearial helvetica sansserifbfont
+colorffffffnew home loans fontbfont 
+                          lifont size facearial helvetica sansserifbfont
+colorffffffdebt consolidation fontbfont 
+lifont size facearial helvetica sansserifbfont
+colorffffffsecond mortgage fontbfont 
+                        lifont size facearial helvetica sansserifbfont
+colorffffffhome equity br
+                          fontbfontbfont colorffffffbr
+                          fontbbr
+                          center
+                              a
+hrefhttpmasterindexphpfont 
+      colorffffff facetahomaarialhelvetica sizebclick here tobr
+                            jumpstartbr
+                            your plans forbr
+                            the futurebfonta 
+                          center
+                        li
+                      td
+                      tdbfont faceverdana arial helvetica sansserif sizedear 
+                        homeownerfontb 
+                        p alignleftfont color faceverdana arial helvetica sansserif newnew romanroman timestimes sizeinterest 
+                          rates are at their lowest point in  years we help 
+                          you find the best rate for your situation by matching 
+                          your needs with hundreds of lendersbr
+                          br
+                            a 
+      hrefhttpmasterindexphpbhome improvement refinance 
+                            second mortgage home equity loans and morebafontfont faceverdana arial helvetica sansserif sizebr
+                          br
+                          youre eligible even with less than perfect creditbr
+                          br
+                          this service is font colorb freebfont 
+                          to home owners and new home buyers without any obligation 
+                          br
+                          br
+                          just fill out a quick simple form and jumpstart your 
+                          future plans todayfontbr
+                          br
+                            a 
+      hrefhttpmasterindexphpfont 
+      colorb faceverdanaarialhelvetica sizebfont
+colorclick here to beginfontbfonta font 
+size fontp
+                      td
+                    tr
+                    tbody 
+                  table
+                div
+              div
+              td
+            td width height bgcolordddnbsptd
+          tr
+          tr 
+            td width bgcolordddnbsptd
+            td width bgcolordddnbsptd
+          tr
+          tr 
+            td height bgcolorddd widthnbsptd
+            td height colspan bgcolordedede
+              div alignleft
+                div aligncenterdiv
+              div
+              div aligncenter 
+                table border cellpadding cellspacing width
+                  tbody 
+                  tr 
+                      tdfont color 
+      faceverdana sizeyou are receiving this email because you registered 
+                        at one of juncannets partner sites and agreed to receive 
+                        gifts and special offers that may be of interest to you 
+                        if you do not want to receive special offers in the future 
+                        please a hrefhttpempiresremoveremovehtmlclick 
+                        hereabr
+                      you are subscribed as webmasterefiie fonttd
+                  tr
+                  tbody 
+                table
+              div
+            td
+            td height bgcolorddd widthnbsptd
+          tr
+          tr 
+            td width height bgcolorccccccnbsptd
+            td height bgcolorcccccc widthfont faceverdana arial sizenbsp 
+              fonttd
+            td height bgcolor width 
+              div alignrightfont faceverdana arialarial size colorffffffequal 
+                housing opportunityfontfont faceverdana arial sizefontdiv
+            td
+            td height bgcolor widthnbsptd
+            td width height bgcolordddnbsptd
+          tr
+        table
+      div
+    td
+  tr
+table
+body
+html
+
+

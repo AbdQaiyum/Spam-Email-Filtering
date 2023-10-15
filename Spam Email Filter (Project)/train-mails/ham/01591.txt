@@ -1,0 +1,65 @@
+
+huqbwerxvnrxx
+contenttype textplain charsetusascii
+contentdisposition inline
+
+gary funck garyintrepidcom   
+ in my experience there are spam messages that sneak past spam assassin
+ that razor will pick up those are the ones that im calling marginal
+ basically im hoping that the collective of razor users make a better
+ judge of spam than any single program like sa can and therefore i can
+ benefit from their judgement and get more extensive spam filtering ive
+ seen examples of this already where sa doesnt score the spam high enough
+ to bounce it but razor does
+
+i think perhaps you missed the fact that sa scores are adjustable  if
+you want sa to tag all messages listed in razor then you can put this
+in your spamassassinuserprefs file
+
+  score razorcheck 
+
+the default score is  and the default threshold needed is 
+therefore if you wish to have any razor listed messages tagged by sa
+then setting a score for any razor listed messages to anything above 
+would be sufficient
+
+if you are already using sa then the above would be more efficient
+otherwise you are running all of the mail through razor twice once
+for sa and once again afterward  if you really want to run razor
+individually then you should set the score razorcheck  so that sa
+wont do it and avoid the double network hit
+
+however one of the benefits of using sa in combination with razor has
+been the history of false positive reports in the razor database  the
+current score of  is hefty but not enough by itself to tag as spam
+but for any real spam is usually enough to push it over the threshold
+razor addresses the false positive problem but is not yet in as wide
+of use as razor
+
+bob
+
+huqbwerxvnrxx
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+
+iddbqeivkprcoeulyrajoaajcblpbhphqaijxlglrivdwcfuzib
+kuakzsrwlptbtrequy
+xvm
+end pgp signature
+
+huqbwerxvnrxx
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

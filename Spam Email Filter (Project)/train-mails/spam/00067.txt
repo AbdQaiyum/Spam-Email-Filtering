@@ -1,0 +1,135 @@
+html
+
+head
+meta httpequivdcontentlanguage contentdenus
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+titledoes your computer need an oil changetitle
+head
+
+body
+
+table borderd widthd heightd
+  tr
+    td widthd heightd aligndcenter bgcolordb
+font facedcentury gothic sized colordffffffdoes your comp
+uter need an oil
+      changefontbtd
+  tr
+table
+table borderd widthd heightd
+  tr
+    td widthd heightdbfont facedtahoma sizedn
+ortonfontfont colord facedverdana sizedbrfont
+ifont facedverdana colordcc sizedsystemworks
+      fontifont sized facedverdanabr fontfont f
+acedtahoma sizedprofessional
+      editionfont btd
+  tr
+table
+table borderd widthd heightd
+  tr
+    td widthd heightd aligndcenter bgcolord
+bfont colordffffff facedcentury gothicmade
+      by the creators of the  antivirus software on the marketfont
+btd
+  tr
+table
+
+table borderd widthd heightd
+  tr
+    td widthd heightd aligndcenterfont facedlucida
+ sans unicode colordccthis
+      uunbeatableu software suite comes with i everyi
+      program youll fontfont facedlucida sans unicode colordf
+f everfontfont facedlucida sans unicode colordcc n
+eed to answer the problems or threats that your
+      computer faces each day of its lifebrbrfontfont facedta
+homa colordbincluded in this magnificent deal
+      are the following programsbfonttd
+  tr
+table
+
+table borderd widthd heightd
+  tr
+    td widthd heightd bgcolordfont colord
+fffffffont sized facedtahomanorton
+      antivirusffffff   fontfont facedtahoma sizedb
+the 
+      antivirus protecion everbfontfont sized facedtahoma
+brnorton utilitiesffffff 
+       fontfont facedtahoma sizedbdiagnose any problem wi
+th your
+      systembfontfont sized facedtahomabr
+      font sizednorton ghostffffff   fontfontfont fa
+cedtahoma sizedbmakes
+      backing up your valuable data easybfontfont sized faced
+tahomabr
+      norton cleansweepffffff   fontfont facedtahoma sized
+bcleans
+      out excess internet file buildupbfontfont sized faced
+tahomabr
+      norton winfaxffffff basic  fontfont facedtahoma sized
+bturns your
+      cpu into a fax machinebfontfont sized facedtrebuchet
+ msbr
+      font
+      font sized facedtahomagobackffffffae  personal  font
+bfont facedtahoma sizedhelps
+      prevent you from making any mistakesfontbfonttd
+  tr
+table
+
+table borderd widthd heightd
+  tr
+    td widthd heightd aligndcenterbfont facedver
+dana sized colordall
+      this has a retail price of fontfont facedverdana size
+d colordffbr fontfont facedverdana colordff
+ sized get it
+      now for only fontfont facedverdana sized colord
+ffbrfontifont facedverdana sized colord
+with
+      free shippingfontibtd
+  tr
+table
+
+table borderd widthd heightd bgcolord
+  tr
+    td widthd heightd aligndcenterfont sized col
+ordffffff facedimpacta hrefdhttpaffiliates
+nortonsystemworksehtm styledcolor ffffffclick
+      here to order nowafonttd
+  tr
+table
+pfont colord facedsystemthis product is available now 
+when we
+run out its gone so get it while its hotfontp
+
+pnbspp
+pnbspp
+table borderd widthd heightd bordercolorlightd
+ bordercolordarkd
+  tr
+    td widthd heightd aligndcenterfont facedtahoma
+ sized colordyour
+      email address was obtained from an optin list optin iao internet
+      advertising organisationnbsp listbr
+      nbspserial no egunbspnbspif you wish to be unsubscribed f
+rom
+      this list please a styledcolor  hrefdhttp
+affiliatesnortonremovemehtmlclick
+      herea we do not condone spam in any shape or form thank you kin
+dly
+      for your cooperationfonttd
+  tr
+table
+
+body
+
+html
+
+
+

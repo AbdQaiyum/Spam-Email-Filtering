@@ -1,0 +1,403 @@
+this is a multipart message in mime format
+
+nextpartfcafca
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ welcome to jefferson pilots
+ gateway to wealth
+ as one of the industrys premier producers you must continually seek
+qualified cutting edge services
+ financial profiles	
+ concept	profiles professional is a personal and business
+analysis tool that analyzes a clients insurance investment and
+financial planning goals to help them see their situation today
+compared to their objectives 	
+ market	profiles professional is an ideal tool for true financial
+planning it not only provides a thorough analysis including asset
+allocation but it can calculate tax implications in a clients plan
+due to its modular format it can be used for specific planning needs
+as well as more comprehensive planning 	
+ benefits
+this software not only provides exceptional analysis but excels in
+providing simple as well as comprehensive presentation pages by
+uncovering multiple needs producers sell more products	 
+ deferral	
+ concept	an internetbased salesenabling service which allows
+users to quickly become successful in the deferred compensation coli
+market 	
+ market	focus on midmarket businesses in the area of executive
+benefits the midmarket opportunity should be defined by either the
+number of employees within a company or more specifically by the number
+of highly compensated executives within a company	 
+ benefits
+a turnkey program that includes qualification of prospect marketing and
+sales support case design plan documents and administration 	
+ gift	
+ concept	global insurance funding transaction gift is a
+sophisticated premiumfinancing program that provides an alternative
+funding mechanism for life products purchased to offset large estate and
+corporate liabilities 	
+ market	clients with a high net worth of at least  million who have
+an insurance need and believe their existing portfolio of investments
+when left unliquidated will earn more then they will have to pay on
+loan interest expenses 	
+ benefits
+gift offers compelling sales solutions comprehensive supplemental
+illustrations and access to a consortium of established banks willing
+and able to lend in this market loans are available in both us
+dollars and japanese yen 	
+please fill out the form below for more information	 
+name	 	 
+email	 	 
+phone	 	 
+city	 	 state	 	 zip	 	 
+primary insurance carrier	 	 
+brokerdealer	 	 
+ 	  	 	
+ 
+ 	if you are currently contracted with any of the 
+jefferson pilot financial family of companies 
+please disregard this ad
+we dont want anybody to receive our mailing who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsuranceiqcomoptout
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+
+nextpartfcafca
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titleyour gateway to wealthtitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+
+body bgcolordffffff textd
+p aligndcenter
+  table widthd borderd cellspacingd cellpaddingd 
+bordercolord
+    tr
+      td
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenterimg 
+srcdhttpiiqusimagesjeffersontopjpg widthd 
+heightd altdwelcome to jefferson pilotsbr
+              img srcdhttpiiqusimagesjeffersonmidjpg 
+widthd heightd altdgateway to wealthbr
+              img srcdhttpiiqusimagesjeffersontagjpg 
+widthd heightd altdas one of the industrys premier 
+producers you must continually seek qualified cutting edge 
+servicesbr
+              img srcdhttpiiqusimagesjeffersonfinancialgif 
+widthd heightd altdfinancial profiles
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthd valigndtop aligndrightimg 
+srcdhttpiiqusimagesjeffersonconceptgif widthd 
+heightd altdconcepttd
+            td widthdfont facedarial helvetica 
+sansserif sizedprofiles
+              professional is a personal and business analysis tool that 
+analyzes
+              a clients insurance investment and financial planning 
+goals to
+              help them see their situation today compared to their 
+objectives
+              font td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd heightd
+          tr
+            td widthd valigndtop aligndrightimg 
+srcdhttpiiqusimagesjeffersonmarketgif widthd 
+heightd altdmarkettd
+            td widthdfont facedarial helvetica 
+sansserif sizedprofiles
+              professional is an ideal tool for true financial planning 
+it not
+              only provides a thorough analysis including asset 
+allocation but
+              it can calculate tax implications in a clients plan due 
+to its
+              modular format it can be used for specific planning 
+needs as well
+              as more comprehensive planning fonttd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthd valigndtop aligndrightimg 
+srcdhttpiiqusimagesjeffersonbenefitgif widthd 
+heightd altdbenefitsdiv
+            td
+            td widthdfont facedarial helvetica 
+sansserif sizedthis
+              software not only provides exceptional analysis but 
+excels in providing
+              simple as well as comprehensive presentation pages by 
+uncovering
+              multiple needs producers sell more productsfonttd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenterimg 
+srcdhttpiiqusimagesjeffersondeferralgif widthd 
+heightd altddeferraltd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthd valigndtop aligndrightimg 
+srcdhttpiiqusimagesjeffersonconceptgif widthd 
+heightd altdconcepttd
+            td widthdfont facedarial helvetica 
+sansserif sizedan
+              internetbased quotsalesenablingquot service which 
+allows
+              users to quickly become successful in the deferred 
+compensation
+              coli market fonttd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd heightd
+          tr
+            td widthd valigndtop aligndrightimg 
+srcdhttpiiqusimagesjeffersonmarketgif widthd 
+heightd altdmarkettd
+            td widthdfont facedarial helvetica 
+sansserif sized
+              focus on midmarket businesses in the area of executive 
+benefits
+              the midmarket opportunity should be defined by either the 
+number
+              of employees within a company or more specifically by the 
+number
+              of highly compensated executives within a 
+companyfonttd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthd valigndtop aligndrightimg 
+srcdhttpiiqusimagesjeffersonbenefitgif widthd 
+heightd altdbenefitsdiv
+            td widthdfont facedarial helvetica 
+sansserif sized
+              a turnkey program that includes qualification of prospect 
+marketing
+              and sales support case design plan documents and 
+administration
+              fonttd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenterimg 
+srcdhttpiiqusimagesjeffersongiftblinkgif widthd 
+heightd altdgifttd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthd valigndtop aligndrightimg 
+srcdhttpiiqusimagesjeffersonconceptgif widthd 
+heightd altdconcepttd
+            td widthd font facedarial helvetica 
+sansserif sizedglobal
+              insurance funding transaction gift is a 
+sophisticated premiumfinancing
+              program that provides an alternative funding mechanism for 
+life
+              products purchased to offset large estate and corporate 
+liabilities
+              fonttd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd heightd
+          tr
+            td widthd valigndtop aligndrightimg 
+srcdhttpiiqusimagesjeffersonmarketgif widthd 
+heightd altdmarkettd
+            td widthdfont facedarial helvetica 
+sansserif sized
+              clients with a high net worth of at least  million who 
+have an
+              insurance need and believe their existing portfolio of 
+investments
+              when left unliquidated will earn more then they will have 
+to pay
+              on loan interest expenses fonttd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthd valigndtop aligndrightimg 
+srcdhttpiiqusimagesjeffersonbenefitgif widthd 
+heightd altdbenefitsdiv
+            td widthdfont facedarial helvetica 
+sansserif sized
+              gift offers compelling sales solutions comprehensive 
+supplemental
+              illustrations and access to a consortium of established 
+banks willing
+              and able to lend in this market loans are available in 
+both us
+              dollars and japanese yen fonttd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td
+              table widthd
+                tr
+                  form methoddpost 
+actiondhttpresponseresponseasp
+                    td
+                      table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordffffff
+                        tr bgcolord
+                          td colspand aligndcenterfont 
+facedarial helvetica sansserif sized 
+colordffffffbplease fill out the form below for more 
+informationbfonttd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+sized facedarial helvetica sansserifnamefonttd
+                          td colspandinput typedtext 
+namedcontactname sizedtd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+sized facedarial helvetica sansserifemailfonttd
+                          td colspandinput typedtext 
+namedemail sizedtd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+sized facedarial helvetica sansserifphonefonttd
+                          td colspandinput typedtext 
+namedphone sizedtd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+sized facedarial helvetica sansserifcityfonttd
+                          td widthdinput typedtext 
+namedcity sizedtd
+                          td widthd aligndrightfont 
+sized facedarial helvetica sansserifstatefonttd
+                          td widthdinput typedtext 
+namedstate sizedtd
+                          td valigndmiddle widthd 
+aligndrightfont facedarial helvetica sansserif 
+sizedzipfonttd
+                          td valigndmiddle widthdinput 
+typedtext namedzip sizedtd
+                        tr
+                      table
+                      table widthd borderd 
+cellspacingd cellpaddingd
+                        tr
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif sizedprimary insurance 
+carrierfonttd
+                          td widthdinput typedtext 
+namedins carrier sizedtd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif 
+sizedbrokerdealerfonttd
+                          td widthdinput typedtext 
+namedbrokerdealer sizedtd
+                        tr
+                      table
+                      table widthd borderd 
+cellspacingd cellpaddingd
+                        tr
+                          td widthd aligndright
+                              input typedsubmit namedsubmit 
+valuedsubmit
+                          td
+                          td widthd
+                            input typedhidden 
+namedhdnrecipienttxt valuedwendyquiggjpfinancialcom
+                            input typedhidden 
+namedhdnsubjecttxt valuedjefferson pilot inquiry
+                          td
+                          td widthdimg 
+srcdhttpiiqusimagesqgif widthd heightdtd
+                        tr
+                      table
+                    td
+                  input typedhidden namedsentto 
+valued
+form
+                tr
+              table
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthd aligndcenterimg 
+srcdhttpiiqusimagesjeffersonlogogif widthd 
+heightdtd
+            td widthd
+              p aligndcenterfont facedverdana arial 
+helvetica sansserif sizedb
+                if you are currently contracted with any of the br
+                jefferson pilot financial family of companies br
+                please disregard this adbfontfont 
+facedverdana arial helvetica sansserif sizedbr
+                we dont want anybody to receive our mailing who does 
+not wish
+                to receive them this is a professional communication 
+sent to
+                insurance professionals to be removed from this mailing 
+list
+                do not reply to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptouthttpwwwinsuranceiqcomopt
+outabr
+                a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafontp
+            td
+          tr
+        table
+      td
+    tr
+  table
+p
+body
+html
+
+nextpartfcafca
+
+

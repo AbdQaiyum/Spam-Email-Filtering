@@ -1,0 +1,36 @@
+
+hi
+
+succeeded in ringing a bell anytime i get a mail
+to my inbox not mailing lists spams etc by
+using procmail to execute a play clinkwav on
+the right mails
+now my demands are growing 
+i use my laptop remotely very often and now i would
+like the bell to sound on that when i am there
+i triedto use the kde remote sound server and it works in
+the tests but when procmail runs it it doesnt presumably
+as it doesnt have the authorization to communicate with
+the laptop beeing another user
+
+any hints
+
+brgds
+
+
+ 
+dag nygren                               email dagnewtechfi
+oy espoon newtech ab                     phone   
+trsktorpet                               fax   
+ esbo                              mobile   
+finland
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

@@ -1,0 +1,11 @@
+url httpwwwnewsisfreecomclick
+date t
+
+this feature excerpted from wolfgang engels shaderx book from wordware 
+publishing presents a simple shader trick that performs a good per pixel 
+approximation of a noninteger power function the technique works for input 
+values between  and  and supports large exponents the presented shader does 
+not require any texture lookup and is scalable making it possible to spend 
+more instructions in order to decrease the error or to reach greater exponents
+
+

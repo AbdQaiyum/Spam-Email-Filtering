@@ -1,0 +1,68 @@
+url httpwwwmozillazineorgweblogshyatt
+date not supplied
+
+i just finished reading an article about mozilla for saloncom this 
+excerpt was rather amusing
+
+it is a good question because in almost every way mozilla is a better 
+browser than navigator for example netscapes best new feature tabbed 
+browsing  which lets you have several web pages open in the same browser 
+window and allows you to bookmark all the pages under one name  was in 
+mozilla many months ago and the mozilla project that created it called 
+multizilla already has an improved version available when asked about this 
+yecies of netscape said thats true but the engineer whos working on it 
+for mozilla is a netscape employee it was always done with the intention of 
+fostering general browsing usability for netscape 
+
+yes ok i suppose thats true if by netscape employee you really meant 
+apple employee and by always done with the intention of fostering general 
+browsing usability for netscape you meant was done in a weekend for mozilla 
+because i thought multizilla was cool 
+
+heres how the whole tabbed browsing thing happened one night i finally 
+downloaded an extension called multizilla go check it out on mozdevorg i 
+was particularly impressed with a feature contained in multizilla called tabbed 
+browsing i started doing research and discovered netcaptor a tabbed 
+browser that embedded winie 
+
+multizilla was cool but at the time suffered from two fundamental flaws that 
+prevented the code from being incorporated into the mozilla tree the first was 
+a ui flaw namely that at the time it had ripped off netcaptor down to the last 
+context menu item the gui was similar enough that there would have been 
+definite concerns about so obviously copying some of netcaptors more obscure 
+capabilities like sticky names and tab locking the second concern was that 
+the tab behavior wasnt encapsulated cleanly into a widget 
+
+i produced a simplified version of tabbed browsing on my own time did it in a 
+weekend that removed some of the geekier netcaptor features and that 
+encapsulated the tab behavior so that the changes to other navigator files 
+would be minimal once i established that it didnt degrade performance in the 
+single tab case i checked it in as an experiment
+
+the response was overwhelming as were the bugs that started being filed so 
+much so that at first i wanted to back tabbed browsing out of the tree i was 
+overruled by mozilla which turned out to be a good thing for all i think  
+even with all the excitement and hoopla surrounding the advent of tabbed 
+browsing on the engineering side and in the mozilla community netscape still 
+didnt get it netscape marketing prioritized all sorts of useless work that 
+nobody had even started above tabbed browsing in their marketing document they 
+continued to do so for months simply not getting it it was this odd curiosity 
+that one of their engineers had checked in and they didnt know what to make 
+of it
+
+only after the press raved about it did netscape really jump on board im sure 
+netscape is doing the same thing now with popup blocking cant you just see it 
+now well have a popup manager and a manager to manage the popup manager and 
+twentyseven preferences for finegrained control of all aspects of popups 
+
+can you believe how disfunctional netscape is when their engineers say you 
+should do this or you should do that they get completely ignored or blown 
+off but when cnet says we didnt like this or we didnt like that 
+netscape scurries to meet their demands that is simply pathetic
+
+ httparchivesaloncomtechfeaturebrowserwars
+ httpwwwsaloncom
+ httpwwwmozdevorg
+ httpwwwnetcaptorcom
+
+

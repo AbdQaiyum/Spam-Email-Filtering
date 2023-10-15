@@ -1,0 +1,27 @@
+
+
+ on mon  sep  rick  rick baartman wrote
+
+  rick this is dangerous i have to remember to rescan each
+  rick folder i enter is there a safeguard for this
+
+nope  regenerate the cache in the script
+
+	for f in folders fast r
+	do
+		echo sorting f 
+		sortm f
+		scan mhpath fxmhcache
+	done
+
+hal
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

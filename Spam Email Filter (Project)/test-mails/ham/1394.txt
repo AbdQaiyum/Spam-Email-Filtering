@@ -1,0 +1,104 @@
+
+ive also just tried doing rpm rebuilddb no change
+
+a question
+
+do these files look too small  
+
+rootcanarsievarcacheapt  ls ltr
+total 
+drwxrxrx     root     root          sep   gensrclist
+drwxrxrx     root     root          sep   genpkglist
+drwxrxrx     root     root          oct    archives
+rwrr     root     root         oct    srcpkgcachebin
+rwrr     root     root        oct    pkgcachebin
+
+
+i ran strings on them and it doesnt look like i see a complete listing
+of either my systems installed rpms or the rpms in the lists
+
+rootcanarsievarstateaptlists  ls s
+total 
+  aptfreshrpmsnetredhatenibasepkglistfreshrpms
+ aptfreshrpmsnetredhatenibasepkglistos
+    aptfreshrpmsnetredhatenibasepkglistupdates
+    aptfreshrpmsnetredhatenibasereleasefreshrpms
+    aptfreshrpmsnetredhatenibasereleaseos
+    aptfreshrpmsnetredhatenibasereleaseupdates
+   aptfreshrpmsnetredhatenibasesrclistfreshrpms
+  aptfreshrpmsnetredhatenibasesrclistos
+    aptfreshrpmsnetredhatenibasesrclistupdates
+    lock
+    partial
+
+
+if i kill them they get recreated about the same size next time i run
+aptget
+
+stevek
+
+
+on tue oct   at pm  steve kann wrote
+ 
+ i posted about this last week and im still stumped  aptget is just
+ not working for me and i cant figure out what the problem is
+ 
+ ive tried removing the apt rpms making sure to remove any traces left
+ behind etcapt varstateapt varcacheapt and still i get
+ couldnt find package xmmsmp when running aptget install xmmsmp
+ 
+ any clues  heres a log of a fresh try
+ 
+ rootcanarsietmp  rpm e apt aptdevel
+ rootcanarsietmp  rm rf etcapt varcacheapt varstateapt
+ rootcanarsietmp  rpm ivh aptcncfrirpm aptdevelcncfrirpm
+ warning aptcncfrirpm v dsa signature nokey key id
+ edb
+ preparing                 
+    apt                      
+    aptdevel               
+ rootcanarsietmp  aptget update
+ ign httpaptfreshrpmsnet redhateni release
+ get httpaptfreshrpmsnet redhatenios pkglist kb
+ get httpaptfreshrpmsnet redhatenios release b
+ get httpaptfreshrpmsnet redhateniupdates pkglist b
+ get httpaptfreshrpmsnet redhateniupdates release b
+ get httpaptfreshrpmsnet redhatenifreshrpms pkglist
+ kb
+ get httpaptfreshrpmsnet redhatenifreshrpms release
+ b
+ get httpaptfreshrpmsnet redhatenios srclist kb
+ get httpaptfreshrpmsnet redhateniupdates srclist b
+ get httpaptfreshrpmsnet redhatenifreshrpms srclist
+ kb
+ fetched kb in s kbs
+ reading package lists done
+ rootcanarsietmp  aptget install xmmsmp
+ reading package lists done
+ building dependency tree done
+ e couldnt find package xmmsmp
+ rootcanarsietmp  aptcache search xmms
+ rootcanarsietmp 
+ 
+ 
+ beats me
+ 
+ stevek
+ 
+ 
+ 
+  
+   steve kann  chief engineer   th ave  ny     
+                 horizonlivecom  collaborate  interact  learn
+    the box said requires windows  nt or better so i installed linux
+
+ 
+  steve kann  chief engineer   th ave  ny     
+                horizonlivecom  collaborate  interact  learn
+   the box said requires windows  nt or better so i installed linux
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

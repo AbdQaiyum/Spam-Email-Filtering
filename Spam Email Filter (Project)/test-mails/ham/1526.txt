@@ -1,0 +1,32 @@
+
+craig rhughes said
+
+ seems like a good idea  we might get one of two other issues 
+ raised tomorrow too once us people get back to work tomorrow and 
+ start downloading  in earnest
+
+yep i reckon thats likely
+
+btw im hearing reports about problems resolving spamassassinorg
+anyone else noticing this  if its serious ill see if i can get
+mark reynolds to add a ndary in the us to go with the primaries
+in oz
+
+      looks like there may be a razor issue
+
+i think this is a razor bugglitch triggered when file permissions
+dont allow its own log system to work  at least thats the report
+i heard on the razor list in the past
+
+theo does it work now that you devnulld the logfile
+
+      version number says cvs
+      tag tree as rel this time too
+
+i wont bother tagging with rel imo i dont think we should
+rely on the version control system inside our code so ive just
+put a line in mailspamassassinpm instead   i will of course
+tag with a release label though
+
+j
+

@@ -1,0 +1,28 @@
+once upon a time ralf wrote 
+
+ are there any reasons not to use the new apt releases on rh x
+
+hmmm i dont see any 
+
+my main concern is that when rebuilding the recent packages ive made for
+psyche on valhalla id need to lower the release tag to keep an
+upgrade working and that would fck up my cvs repository which is on my
+valhalla box well im exagerating itll just make it more difficult for
+me 
+sure there are easy ways around this but the easiest for me will be to
+wait until i upgrade my main box to psyche and have valhalla only on a
+secondary rebuild system
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

@@ -1,0 +1,39 @@
+on mon  at  matthias saou wrote
+
+ ive never heard of any cdrom or dvdrom drive having problems with dma
+ although there probably is since red hat decided to default disabling it a
+ few releases back 
+
+heh i get to see bad cdrom problems all the time mostly when vendors
+buy crap cables to try to save each but there are chipsets and
+drives with known dma issues as well
+
+ normally even if you try to enable dma and your device doesnt support it
+ it simply dont be able to make the change and thats it the problem iirc
+ is with crappy hardware that is supposed to support dma but doesnt work as
+ expected when its enabled maybe chris could confirm this 
+
+usually if you enable dma on a cdrom that cant handle it gracefully you
+wont be able to read data off it relably and thats about it no
+endoftheworld problems and easily fixed
+
+ i guess ill settle for the devdvd link change as described and putting
+ the dma tip in the description 
+
+my biggest beef with automatically setting devdvd is that i always
+seem to have a cdburner and a dvd drive or dvd burner in the same
+box and i usually have the dvd as the second drive devcdrom in
+kudzuspeak i agree that the description is the best place for the
+tip unless someone can come up with a way to probe cddvd drives to
+divulge their largest supported media size without loading idescsi or
+having that media currently in the drive
+
+ 
+chris kloiber
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

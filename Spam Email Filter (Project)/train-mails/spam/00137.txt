@@ -1,0 +1,355 @@
+this is a multipart message in mime format
+
+nextpartcdcdeddef
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ the best critical illness product on the market period
+ national travelers life insurance company
+ 
+
+ immediate payment upon diagnosis
+  valuable lifetime benefits
+
+ of the face amount	 
+heart attack	 stroke	 invasive cancer	 hiv for medical
+personnel	 
+paralysis	 organ transplant	 severe burns	 loss of
+independent living	 
+terminal illness	 kidney failure	 blindness	 death by any
+cause	 
+ 	
+ of the face amount	 
+coronary artery bypass	 noninvasive cancer	 
+ 	
+ of the face amount	 
+coronary angioplasty	 
+ 
+
+worksite marketing	 individual sales	 
+ 	 	
+ guaranteed issue for groups of 	  up to  maximum
+
+ electronic enrollment	  simplified issue up to 	 
+ unlimited billing options	  up to  advance	 
+  
+ dont forget to ask about our matching retirement plan	
+to learn more please call us today
+ 
+ or  	
+please fill out the form below for more information	 
+name	 	 
+address	 	 
+city	 	 state	 	 zip	 	 
+email	 	 
+phone	 	 
+area of interest	  worksite        individual sales 	 both 	
+ 	  personal producer      manager 	 number of agents 	
+ 	  	
+ 	    	
+ 
+ national travelers life co	
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsuranceiqcomoptout
+httpwwwinsuranceiqcomoptout 
+
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartcdcdeddef
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlethe best critical illness policy on the markettitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+table widthd cellpaddingd cellspacingd 
+bgcolordffffff borderd bordercolord 
+aligndcenter
+  tr
+    tdimg srcdhttpiiqusimagesntljpg 
+altdthe best critical illness product on the market period 
+widthd heightdbrimg 
+srcdhttpiiqusimagesntljpg altdnational 
+travelers life insurance company widthd heightdbrimg 
+srcdhttpiiqusimagesntlgif widthd 
+heightdbr
+		  table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          td aligndcenter
+            img srcdhttpiiqusimagesntlcgif 
+widthd heightd altdimmediate payment upon 
+diagnosisbr
+            img srcdhttpiiqusimagesntlgif 
+widthd heightd altd valuable lifetime benefitsbr
+            font facedverdana arial helvetica sansserif
+            table widthd borderd cellspacingd 
+cellpaddingd bordercolord bgcolordcccccc
+              tr
+                td colspand bgcolord 
+aligndcenterbfont sized colordffffff of the face 
+amountfontbtd
+              tr
+              tr aligndcenter
+                td heightdbfont sizedheart 
+attackfontbtd
+                td heightdbfont 
+sizedstrokefontbtd
+                td heightdbfont sizedinvasive 
+cancerfontbtd
+                td heightdbfont sizedhiv for medical 
+personnelfontbtd
+              tr
+              tr aligndcenter
+                tdbfont sizedparalysisfontbtd
+                tdbfont sizedorgan transplantfontbtd
+                tdbfont sizedsevere burnsfontbtd
+                tdbfont sizedloss of independent 
+livingfontbtd
+              tr
+              tr aligndcenter
+                tdbfont sizedterminal illnessfontbtd
+                tdbfont sizedkidney failurefontbtd
+                tdbfont sizedblindnessfontbtd
+                tdbfont sizeddeath by any 
+causefontbtd
+              tr
+              tr
+                td colspand bgcolordffffff 
+aligndcenterimg srcdhttpiiqusimagesntlspacergif 
+widthd heightdtd
+              tr
+              tr
+                td colspand bgcolord 
+aligndcenterbfont sized colordffffff of the face 
+amountfontbtd
+              tr
+              tr aligndcenter
+                td colspandbfont sizedcoronary artery 
+bypassfontbtd
+                td colspandbfont sizednoninvasive 
+cancerfontbtd
+              tr
+              tr aligndcenter
+                td colspand bgcolordffffffimg 
+srcdhttpiiqusimagesntlspacergif widthd 
+heightdtd
+              tr
+              tr aligndcenter
+                td colspand bgcolordbfont 
+sized colordffffff of the face amountfontbtd
+              tr
+              tr aligndcenter
+                td colspandbfont sizedcoronary 
+angioplastyfontbtd
+              tr
+            table
+            nbspbr
+            table widthd cellpaddingd cellspacingd 
+borderd
+              tr
+                td widthd aligndcenterbfont sized 
+facedarial helvetica sansserifworksite marketingfontbtd
+                td widthd aligndcenterbfont sized 
+facedarial helvetica sansserifindividual salesfontbtd
+              tr
+              tr
+                td widthd aligndcenterimg 
+srcdhttpiiqusimagesntlspacergif widthd 
+heightdtd
+                td widthd aligndcenterimg 
+srcdhttpiiqusimagesntlspacergif widthd 
+heightdtd
+              tr
+              tr
+                td widthdfont sized facedverdana 
+arial helvetica sansserifnbspguaranteed issue for groups of 
+fonttd
+                td widthdfont sized facedverdana 
+arial helvetica sansserifnbspup to  
+maximumfonttd
+              tr
+              tr
+                td widthdfont sized facedverdana 
+arial helvetica sansserifnbspelectronic 
+enrollmentfonttd
+                td widthdfont sized facedverdana 
+arial helvetica sansserifnbspsimplified issue up to 
+fonttd
+              tr
+              tr
+                td widthdfont sized facedverdana 
+arial helvetica sansserifnbspunlimited billing 
+optionsfonttd
+                td widthdfont sized facedverdana 
+arial helvetica sansserifnbspup to  advancefonttd
+              tr
+            table
+            nbspfont
+          td
+        tr
+        tr
+          td aligndcenterimg 
+srcdhttpiiqusimagesntlgif widthd 
+heightd altddont forget to ask about our matching retirement 
+plantd
+        tr
+        tr
+          td aligndcenter
+            font facedarial helvetica sansserif sizedb
+            to learn more please call us todaybr
+            img srcdhttpiiqusimagesntlbiggif 
+widthd heightd altdbr
+             or bfont
+          td
+        tr
+        tr
+          td aligndcenterfont facedarial helvetica 
+sansserif sizedb
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordcccccc
+                      tr
+                        td colspand aligndcenterbfont 
+sizedplease fill out the form below for more 
+informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand input typedtext 
+namedcontactname sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedaddressfontbtd
+                        td colspand input typedtext 
+namedaddress sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd input typedtext 
+namedcity sizedtd
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd input typedtext 
+namedstate sizedtd
+                        td widthd aligndrightbfont 
+sizedzipfontbtd
+                        td widthd input typedtext 
+namedzip sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspandinput typedtext 
+namedemail sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspandinput typedtext 
+namedphone sizedtd
+                      tr
+                      tr
+                        td aligndright widthdbfont 
+sizedarea of interestfontbtd
+                        td colspand font sizedb
+                          input typedcheckbox namedcategory 
+valuedworksite
+                          worksitenbspnbspnbspnbspnbspnbsp
+                          input typedcheckbox namedcategory 
+valuedindividual
+                          individual sales bfont td
+                        td colspand 
+                          input typedcheckbox namedcategory 
+valuedboth
+                          bfont sizedboth fontb
+                        td
+                      tr
+                      tr
+                        td widthdnbsptd
+                        td colspand font sizedb
+                          input typedcheckbox namedcategory 
+valuedagent
+                          personal producernbsp nbspnbsp
+                          input typedcheckbox namedcategory 
+valuedmanager
+                          manager bfont td
+                        td colspand 
+                          input typedtext namednumofagents 
+sized
+                          bfont sizednumber of agents 
+fontb
+                        td
+                      tr
+                      tr
+                        td colspandnbsptd
+                        td rowspand aligndcenter 
+valigndmiddle widthdimg srcdhttpiiqusimagesqgif 
+widthd heightdtd
+                      tr
+                      tr
+                        td widthdnbsptd
+                        td widthd colspand
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          input typedhidden 
+namedhdnrecipienttxt valuedmarketingntlmailcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedntl ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            bfont
+          td
+        tr
+        tr
+          td aligndcenterimg 
+srcdhttpiiqusimagesntlgif widthd 
+heightd altdnational travelers life cotd
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptout
+        httpwwwinsuranceiqcomoptoutafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+body
+html
+
+nextpartcdcdeddef
+

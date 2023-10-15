@@ -1,0 +1,41 @@
+
+snvjlsmumxqwq
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on mon sep   at pm  justin mason wrote
+    razor v now supported fully
+
+hmmm  i just upgraded from my modified  to a slightly modified 
+i add a routine to evaltests and get
+
+sep    eclectic spamd razor check skipped no such file o
+r directory cant call method
+log on unblessed reference at usrlibperlsiteperlrazorclien
+tagentpm line  stdin
+line 
+
+i havent quite figured out why yet more to come
+
+
+randomly generated tagline
+so on one hand honey is an amazingly sophisticated and efficient food
+ source on the other hand its bee backwash
+              alton brown good eats pantry raid iv comb alone
+
+snvjlsmumxqwq
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqeczvauoquewasmramakcinxyazybjiufirqhyjacgifm
+jujlqnmvwcqmultyvazu
+hkgw
+end pgp signature
+
+snvjlsmumxqwq
+

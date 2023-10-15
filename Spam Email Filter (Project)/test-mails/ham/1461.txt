@@ -1,0 +1,38 @@
+update of cvsrootspamassassinspamassassint
+in directory uswprcvstmpcvsservt
+
+modified files
+      tag b
+	satestpm 
+log message
+ok looks like sa can now be run even with another version installed in usr again
+
+index satestpm
+
+rcs file cvsrootspamassassinspamassassintsatestpmv
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ satestpm	 aug   	
+ satestpm	 aug   	
+   
+   my tname  shift
+ 
+   scr  envscript
+  scr  spamassassin
+  scr  perl w spamassassin
+ 
+   spamd  envspamdscript
+   spamd  spamdspamd x
+
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassincommits mailing list
+spamassassincommitslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassincommits
+

@@ -1,0 +1,46 @@
+
+qchopeyabhauab
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on sun sep   at pm  justin mason wrote
+ i seem to be getting a lot of spam relayed via these guys recently
+ can others confirm this
+
+ if its the case ill come up with a forgedhostname test for it
+
+i do get some from them typically some dsltelespnetbr host
+
+ grep c telespnetbr  sort rn
+spammers
+spammers
+spammers
+spammers
+spammers
+spammers
+
+definitely increasing per month  percentagewise   has 
+spams in it so  is about   last month was 
+
+
+randomly generated tagline
+i dont believe ive ever cuddled my elses
+               larry wall in iaawallorg
+
+qchopeyabhauab
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqejfhauoquewasmrakcuakdzpeimevxokqkchrkhixvvacfzkn
+abrbtjxpnpozggnpkbs
+muje
+end pgp signature
+
+qchopeyabhauab
+
+

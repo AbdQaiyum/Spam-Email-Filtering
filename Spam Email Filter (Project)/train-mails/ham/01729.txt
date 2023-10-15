@@ -1,0 +1,86 @@
+neil schemenauer
+ woops  i didnt have the summary files so i regenerated them using a
+ slightly different set of data  here are the results of enabling the
+ received header processing
+
+     false positive percentages
+             won    
+             won    
+             tied
+             tied
+             won    
+             won    
+
+     won    times
+     tied   times
+     lost   times
+
+     total unique fp went from  to  won    
+
+     false negative percentages
+             won    
+             tied
+             won    
+             won    
+             won    
+             tied
+
+     won    times
+     tied   times
+     lost   times
+
+     total unique fn went from  to  won    
+
+ my test set is different than tims in that all the email was received
+ by the same account  also my set contains email sent to me not to
+ mailing lists i use a different addresses for mailing lists
+
+enabling the received headers works even better for me wink heres the
+fn section from a quick run on element subsets
+
+        won    
+        tied
+        won   
+        won    
+        won    
+        won   
+        won   
+        won    
+        won    
+        won    
+        won    
+        won    
+        tied
+        won    
+        won   
+        won    
+        won   
+        won   
+        lost  was 
+        won   
+
+won   times
+tied   times
+lost   times
+
+total unique fn went from  to  won    
+
+a huge improvement but for wrong reasons  except not entirely  the most
+powerful discriminator in the whole database on one training set became
+
+        receivedunknown  
+
+thats got nothing to do with bruceg right
+
+        receivedbfsmediacom
+
+was also a strong spam indicator across all training sets  im jealous
+
+ if people cook up more ideas i will be happy to test them
+
+neil are using your own tokenizer now or the tokenizertokenizertokenize
+generator  whichever someone whos not afraid of their headers should try
+adding mboxtestmytokenizertokenizeheaders into the mix once in lieu of
+tokenizertokenizertokenizeheaders and again in addition to it  jeremy
+reported on just the former
+

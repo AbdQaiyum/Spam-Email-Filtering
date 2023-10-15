@@ -1,0 +1,29 @@
+on thu sep   at pm  axel thimm wrote
+ on thu sep   at am   angles  puglisi wrote
+  if i can use apt can i use it to get updates from these  different
+  places
+   the null update redhat upgrades
+   the null files at freshrpmsnet
+   the regular rh files from freshrpmsnet
+ you could build your own aptrepository just mirror the needed
+ directories eg by using a wget cron job symlink the needed rpms
+ and recreate the repository it is already worth the trouble if you
+ have more than one installation
+
+always nice to have one to put stuff that overrides rh things like if
+you absolutely detest qt and some programs are rebuildable from sources
+with different configure options you can get srcrpm edit spec bump
+release numberwith your initials and another number and rebuild insert
+into apt and let loose 
+
+doesnt freshrpms have updates dir too maybe not quite as up to date as
+update but still i would never use update there is another
+repository at aptrpmtuxfamilyorg iirc not sure if that had the
+updates
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

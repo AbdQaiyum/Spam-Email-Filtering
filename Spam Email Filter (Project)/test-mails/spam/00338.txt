@@ -1,0 +1,245 @@
+html
+center
+table width cellpadding cellspacing border bgcolorblacktrtd
+table width cellpadding cellspacing border bgcolorcc
+tr
+	td aligncenter valigntop width
+
+	table width cellpadding cellspacing border bgcolorbafebd
+	trtd aligncenter valigntop width
+	font faceverdana colorblue sizebfree debt consolidation information
+	tdtrtable
+	brbr
+	font facearial color sizeib
+	free  minute debt consolidation quoteib
+	br
+	font facearial coloraa size quickly and easily reduce your monthly debt payments up to font
+	brbr
+	font facearial size colorwe are a c nonprofit organizationb that has helped s consolidate theirbr debts into one easy affordable monthly payment for a free  no obligationbbr quote to see how much money we can save you please read onfont
+	br
+	font size colorblue facearialhelveticaibecome debt freeget your life back on trackifont
+	br	
+	font size color facearialhelveticaall credit accepted and home 
+	ownership is not requiredfont
+	br
+	font size color facearialhelvetica not another loan to dig you deeper in to debtfont
+	brbr
+	font faceverdana color sizebif you have  or more in debt a trained professionalbr will negotiate with your creditors tofontb
+	br
+	font faceverdana color size
+	blower your monthly debt payments up to bfont
+	br
+	font faceverdana color size
+	end creditor harassmentfont
+	br
+	font faceverdana color size
+	save thousands of dollars in interest and late chargesfont
+	br
+	font faceverdana color size
+	start improving your credit ratingfont
+	br
+	table width cellpadding cellspacing border bgcolorbafebd
+	trtd aligncenter valigntop width
+	font faceverdana colorblue sizebour quickform and submit it for your free analysis
+	tdtrtable
+	form namepagerform actionhttpwwpicqcomwhitepagespagemehtml methodpost
+	input typehidden nameto value
+	input typehidden namecharcount value																						      
+	input typehidden namefrom valuednewdnewcom
+	input typehidden namefromemail valuednewdnewcom
+	table width cellpadding cellspacing border bgcolorbb
+	tr
+		td alignright valigncenter width
+		font faceverdana color sizename
+		td
+		td alignleft valigncenter width
+		input typehidden namebody valuename
+		input typetext size  namebody maxlength
+		td
+	tr
+	tr
+		td alignright valigncenter width
+		font faceverdana color sizestreet address
+		td
+		td alignleft valigncenter width
+		input typehidden namebody valueaddress
+		input typetext size namebody maxlength
+		td
+	tr
+	tr
+		td alignright valigncenter width
+		font faceverdana color sizecity
+		td
+		td alignleft valigncenter width
+		input typehidden namebody valuecity
+		input typetext namebody size maxlength
+		td
+	tr
+	tr
+		td alignright valigncenter width
+		font faceverdana color sizestate  zip
+		td
+		td alignleft valigncenter width
+		input typehidden namebody valuestate
+		select namebody
+option valueoption
+option valueal alabama
+option valueak alaska
+option valueaz arizona
+option valuear arkansas
+option valueca california
+option valueco colorado
+option valuect connecticut
+option valuede delaware
+option valuedc dist of columbia
+option valuefl florida
+option valuega georgia
+option valuehi hawaii
+option valueid idaho
+option valueil illinois
+option valuein indiana
+option valueia iowa
+option valueks kansas
+option valueky kentucky
+option valuela louisiana
+option valueme maine
+option valuemd maryland
+option valuema massachusetts
+option valuemi michigan
+option valuemn minnesota
+option valuems mississippi
+option valuemo missouri
+option valuemt montana
+option valuene nebraska
+option valuenv nevada
+option valuenh new hampshire
+option valuenj new jersey
+option valuenm new mexico
+option valueny new york
+option valuenc north carolina
+option valuend north dakota
+option valueoh ohio
+option valueok oklahoma
+option valueor oregon
+option valuepa pennsylvania
+option valueri rhode island
+option valuesc south carolina
+option valuesd south dakota
+option valuetn tennessee
+option valuetx texas
+option valueut utah
+option valuevt vermont
+option valueva virginia
+option valuewa washington
+option valuewv west virginia
+option valuewi wisconsin
+option valuewy wyoming select
+input typehidden namebody valuezip
+input typetext namebody size maxlength
+
+	tr
+		td alignright valigncenter width
+		font faceverdana color sizehome phone with area code
+		td
+		td alignleft valigncenter width
+		input typehidden namebody valuehphone
+		input typetext size namebody maxlength
+		td
+	tr
+	tr
+		td alignright valigncenter width
+		font faceverdana color sizework phone with area code
+		td
+		td alignleft valigncenter width
+		input typehidden namebody valuewphone
+		input typetext size namebody maxlength
+		td
+	tr
+	tr
+		td alignright valigncenter width
+		font faceverdana color sizebest time to contact
+		td
+		td alignleft valigncenter width
+		input typehidden namebody valuebtime
+		select size namebody
+		option valuemorning at homemorning at homeoption
+		option valuemorning at workmorning at workoption
+		option valueafternoon at homeafternoon at homeoption
+		option valueafternoon at workafternoon at workoption
+		option valueevening at homeevening at homeoption
+		option valueevening at workevening at work option
+		option valueweekendweekendoptionselect
+		td
+	tr
+	tr
+		td alignright valigncenter width
+		font faceverdana color sizeemail address
+		td
+		td alignleft valigncenter width
+		input typehidden namebody valueemail
+		input typetext namebody size
+		td
+	tr
+	tr
+		td alignright valigncenter width
+		font faceverdana color sizetotal debt
+		td
+		td alignleft valigncenter width
+		input typehidden namebody valuetdebt
+		select namebody
+		option valueoption
+		option value    
+		option value    
+		option value    
+		option value    
+		option value    
+		option value    
+		option value    
+		option value    
+		option value    
+		option value    
+		option value    
+		option value    
+		option value    
+		option value    
+		option valueselect
+		td
+	tr
+	table
+	input typesubmit valueclick here to submitinput typereset valuereset	
+	form
+	font faceverdana size colorplease click the submit button
+	just once  process will take  secondsfont
+
+	table width cellpadding cellspacing border bgcolorbafebd
+	trtd aligncenter valigntop width
+	font faceverdana colorblue sizebor please reply with the following for your free analysisb
+	tdtrtablefont faceverdana colorblack size
+	table width cellpadding cellspacing border bgcolorbafebdbr
+namebr
+addressbr
+citybr
+statebr
+zipbr
+home phone br
+work phone br
+best timebr
+emailbr
+total debtbr
+table
+
+center
+
+
+td
+
+trtable
+td
+trtable
+
+brto end mail reply to this email with the subject bremoveb
+center
+html
+
+fabcncnrroumzcsg
+

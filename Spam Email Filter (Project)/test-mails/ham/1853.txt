@@ -1,0 +1,186 @@
+tim
+ 
+ at the other extreme training on half my hamspam and scoring aginst
+ the other half
+ 
+     false positive rate 
+     false negative rate 
+ 
+ alas all  of the  clues there are htmlrelated
+
+that begged to try it again but with tokenizeretainpurehtmltags false
+the random halves getting trained on and scored against are different here
+and i repaired the bug that dropped  ham and  spam on the floor so this
+isnt exactly a change difference between runs
+
+ham distribution for all runs
+   items
+    
+     
+     
+     
+     
+     
+     
+     
+     
+      
+
+spam distribution for all runs
+   items
+      
+     
+     
+      
+     
+     
+      
+     
+      
+   
+
+    false positive rate 
+    false negative rate 
+
+yay  that may mean that html tags arent really needed in my test data
+provided its trained on enough stuff  curiously the sole false positive
+here is the same as the sole false positive on the halfhalf run reported in
+the preceding msg i assume the nigerian scam false positive just happened
+to end up in the training data both times
+
+
+datahamsettxt
+prob  
+probpython  
+probalteration  
+probedinburgh  
+probsubjectpython  
+probheadererrorsto  
+probthanks  
+probhelp  
+probroad  
+probthere  
+probus  
+probour  
+probcompany  
+probvisit  
+probsent  
+probemail  
+probcourses  
+probreceived  
+probanalyst  
+probinvestment  
+probregulated  
+probemails  
+probmills  
+
+received from  helonodedmzstandardlifecom
+        by mailpythonorg with esmtp exim  
+        id rdsuk
+        for pythonlistpythonorg wed  oct   
+received from slukdcninternalstandardlifecom slukdcnstandardlifecom
+        
+        by nodedmzstandardlifecom propro with smtp id
+        iaafor pythonlistpythonorg wed  oct  
+
+received from sl  by
+        slukdcninternalstandardlifecom lotus smtp mta v  
+
+        with smtp id aeb wed  oct   
+messageid
+ecdbbefacslinternalstandardlifecom
+from vickie mills vickiemillsstandardlifecom
+to pythonlistpythonorg
+subject training courses in python in uk
+date wed  oct   
+mimeversion 
+contenttype textplain
+        charsetiso
+contenttransferencoding bit
+xpriority 
+xmsmailpriority normal
+xmailer microsoft outlook express 
+xmimeole produced by microsoft mimeole v
+sender pythonlistadminpythonorg
+errorsto pythonlistadminpythonorg
+xbeenthere pythonlistpythonorg
+xmailmanversion  
+precedence bulk
+listhelp mailtopythonlistrequestpythonorgsubjecthelp
+listpost mailtopythonlistpythonorg
+listsubscribe httpmailpythonorgmailmanlistinfopythonlist
+        mailtopythonlistrequestpythonorgsubjectsubscribe
+listid general discussion list for the python programming language
+        pythonlistpythonorg
+listunsubscribe httpmailpythonorgmailmanlistinfopythonlist
+        mailtopythonlistrequestpythonorgsubjectunsubscribe
+listarchive httpmailpythonorgpipermailpythonlist
+
+hi there
+
+i am looking for you recommendations on training courses available in the uk
+on python  can you help
+
+thanks
+
+vickie mills
+is training analyst
+
+tel      
+fax      
+email    vickiemillsstandardlifecom
+
+for more information on standard life visit our website
+httpwwwstandardlifecom   the standard life assurance company standard
+life house  lothian road edinburgh eh dh is registered in scotland
+no sz and regulated by the personal investment authority  tel  
+  calls may be recorded or monitored  this confidential email is for
+the addressee only  if received in error do not retaincopydisclose it
+without our consent and please return it to us  we virus scan all emails
+but are not responsible for any damage caused by a virus or alteration by a
+third party after it is sent
+
+
+the top  discriminators are more interesting now
+
+        income  
+        httppython  
+        headermimeversion  
+        httpremove  
+        contenttypetexthtml  
+        string  
+        httpjpg  
+        object  
+        python  
+        python  
+        language  
+          
+        headerreturnpath  
+        unsubscribe  
+        headerreceived  
+        def  
+        httpgif  
+        module  
+        import  
+        headerreceived  
+        headererrorsto  
+        headerinreplyto  
+        wrote  
+        nbsp  
+        subjectpython  
+        headeruseragent  
+        headerxcomplaintsto  
+        wrote  
+        python  
+        headerorganization  
+
+there are still two html clues remaining there nbsp and
+contenttypetexthtml  anthonys trick accounts for almost a third of
+these  python appears in  of them httppython means that python
+was found in the st field of an embedded http url  sticking a gif or
+a jpg in  a url both score as  spam clues  note the damning pattern of
+capitalization in headermimeversion  this counting is casesensitive
+and nobody ever would have guessed that mime is more damning than subject or
+date  why would spam be likely to end up with two instances of returnpath
+in the headers
+

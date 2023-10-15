@@ -1,0 +1,1322 @@
+this is a multipart message in mime format
+
+nextpart
+contenttype textplain
+	charsetusascii
+contenttransferencoding quotedprintable
+
+ saved from urldhttpinternetemail 
+
+
+html xmlnsodurnschemasmicrosoftcomofficeoffice
+
+
+xmlnswdurnschemasmicrosoftcomofficeword
+
+
+xmlnsdhttpwwwworgtrrechtml
+
+
+
+
+
+head
+
+
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+
+meta namedprogid contentdworddocument
+
+
+meta namedgenerator contentdmicrosoft word 
+
+
+meta namedoriginator contentdmicrosoft word 
+
+
+link reldfilelist
+
+
+hrefdprofitfromtheboomersjulyfilesfilelistxml
+
+
+titlehow do i profit from the boomers title
+
+
+if gte mso xml
+
+
+ odocumentproperties
+
+
+  oauthorval curloauthor
+
+
+  otemplatenormalotemplate
+
+
+  olastauthorval curlolastauthor
+
+
+  orevisionorevision
+
+
+  ototaltimeototaltime
+
+
+  ocreatedtzocreated
+
+
+  olastsavedtzolastsaved
+
+
+  opagesopages
+
+
+  owordsowords
+
+
+  ocharactersocharacters
+
+
+  olinesolines
+
+
+  oparagraphsoparagraphs
+
+
+  ocharacterswithspacesocharacterswithspaces
+
+
+  oversionoversion
+
+
+ odocumentproperties
+
+
+xmlendif
+
+
+style
+
+
+
+
+
+  font definitions 
+
+
+fontface
+
+
+	fontfamilylucida handwriting
+
+
+	panose         
+
+
+	msofontcharset
+
+
+	msogenericfontfamilyscript
+
+
+	msofontpitchvariable
+
+
+	msofontsignature     
+
+
+fontface
+
+
+	fontfamilyimpact
+
+
+	panose         
+
+
+	msofontcharset
+
+
+	msogenericfontfamilyswiss
+
+
+	msofontpitchvariable
+
+
+	msofontsignature     
+
+
+  style definitions 
+
+
+pmsonormal limsonormal divmsonormal
+
+
+	msostyleparent
+
+
+	marginin
+
+
+	marginbottompt
+
+
+	msopaginationwidoworphan
+
+
+	fontsizept
+
+
+	fontfamilytimes new roman
+
+
+	msofareastfontfamilytimes new roman
+
+
+pmsobodytext limsobodytext divmsobodytext
+
+
+	marginin
+
+
+	marginbottompt
+
+
+	textaligncenter
+
+
+	msopaginationwidoworphan
+
+
+	fontsizept
+
+
+	fontfamilyarial
+
+
+	msofareastfontfamilytimes new roman
+
+
+pmsobodytext limsobodytext divmsobodytext
+
+
+	marginin
+
+
+	marginbottompt
+
+
+	textaligncenter
+
+
+	msopaginationwidoworphan
+
+
+	fontsizept
+
+
+	msobidifontsizept
+
+
+	fontfamilyimpact
+
+
+	msofareastfontfamilytimes new roman
+
+
+	msobidifontfamilyarial
+
+
+	colorpurple
+
+
+alink spanmsohyperlink
+
+
+	colorblue
+
+
+	textdecorationunderline
+
+
+	textunderlinesingle
+
+
+avisited spanmsohyperlinkfollowed
+
+
+	colorpurple
+
+
+	textdecorationunderline
+
+
+	textunderlinesingle
+
+
+page section
+
+
+	sizein in
+
+
+	marginin in in in
+
+
+	msoheadermarginin
+
+
+	msofootermarginin
+
+
+	msopapersource
+
+
+divsection
+
+
+	pagesection
+
+
+
+
+
+style
+
+
+head
+
+
+
+
+
+body langdenus linkdblue vlinkdpurple styledtabintervalin
+
+
+
+
+
+div classdsection
+
+
+
+
+
+p classdmsobodytextspan styledfontsizeptmsobidifontsize
+pthow
+
+
+do i profit from thebr
+
+
+ million baby boomers opopspanp
+
+
+
+
+
+p classdmsonormal aligndcenter styledtextaligncenterspan
+
+
+styledcolor
+br
+
+
+styledmsospecialcharacterlinebreak
+
+
+if supportlinebreaknewlinebr styledmsospecialcharacterlinebreak
+
+
+endifspanspan styledfontfamilyarialopopspanp
+
+
+
+
+
+p classdmsobodytextbspan styledfontsizeptmsobidifontsize
+pt
+
+
+colorbecome an uexclusiveu uprovideru of abr
+
+
+look younger productbr
+
+
+that the boomers uwantu spanbspan styledcolorbr
+
+
+br
+
+
+spanbspan styledfontsizeptmsobidifontsizept
+colorprovide
+
+
+a upatentedu product that successfully addressesspanbbr
+
+
+bspan styledfontsizeptmsobidifontsizept
+fontfamilylucida handwriting
+
+
+colorfuchsiawrinkles dark circles age spots fine lines cellulite 
+spider
+
+
+veins and more spanbspan styledfontsizeptmsobidifontsize
+
+
+ptcolorfuchsiabr
+
+
+spanbr
+
+
+bspan styledfontsizeptmsobidifontsizept
+colorprovide
+
+
+an affordable uhealthyu product thatbr
+
+
+shows ufast resultsu on the outside of the bodybr
+
+
+while providing the proven benefits ofbr
+
+
+super antioxidants at the cellular level br
+
+
+spanbspan styledcolorbr
+
+
+
+br
+
+
+spanbr
+
+
+bspan styledfontsizeptmsobidifontsizeptcolorwe 
+uallu
+
+
+know thatspanbbr
+
+
+span styledfontsizeptmsobidifontsizeptfontfamilyimpact
+
+
+colorfuchsiavanity sells spanspan styledfontsizept
+msobidifontsize
+
+
+ptfontfamilyimpactcolorfuchsiabr
+
+
+spanspan 
+styledcolor
+br
+
+
+spanbr
+
+
+buspan styledfontsizeptmsobidifontsizept
+colorwhy
+
+
+notspanubbspan styledfontsizeptmsobidifontsizept
+
+
+colorbr
+
+
+spanbbspan styledfontsizeptmsobidifontsizept
+
+
+colorfuchsialook ten years younger and uget paid for itu 
+spanbbspan
+
+
+styledfontsizeptmsobidifontsizeptcolorbr
+
+
+spanbspan 
+styledcolor
+br
+
+
+spanbr
+
+
+bspan styledfontsizeptmsobidifontsizept
+colorthis
+
+
+boomer phenomenon is happeningbr
+
+
+with or withoutbr
+
+
+you or me br
+
+
+br
+
+
+this receptive marketplace will createspanbspan 
+styledcolorffccbr
+
+
+spanspan styledfontsizeptmsobidifontsizeptfontfamily
+
+
+impactcolorfuchsiamillionaires spanspan styledfontsizept
+
+
+msobidifontsizeptfontfamilyimpactbr
+
+
+br
+
+
+spanbiuspan styledfontsizeptmsobidifontsizept
+
+
+colorwhy notspanuibbispan styledfontsizept
+
+
+msobidifontsizeptcolor be one of them spanibbr
+
+
+span 
+styledcolor
+br
+
+
+spanbr
+
+
+span styledfontsizeptmsobidifontsizeptfontfamilyimpact
+
+
+colorfuchsiaa hrefdmailtogotytcorpcomspan styledcolor
+
+
+fuchsiaclick herespanaspanbspan styledfontsizept
+
+
+msobidifontsizeptbr
+
+
+spanbbspan styledfontsizeptmsobidifontsizeptwith 
+spanbspan
+
+
+styledfontsizeptmsobidifontsizeptfontfamilyimpact
+
+
+colorim your leaderspanbspan styledfontsizept
+
+
+msobidifontsizept or spanbspan styledfontsizept
+
+
+msobidifontsizeptfontfamilyimpactcolorproduct 
+onlyspanbspan
+
+
+styledfontsizeptmsobidifontsizept in the subject linebr
+
+
+br
+
+
+spanbbspan styledfontsizeptmsobidifontsizept
+
+
+coloryou will be emailed information sufficient for you to make an
+
+
+educated business decision as to whether this phenomenon is something you 
+want
+
+
+to pursue or not br
+
+
+no hype  no obligationbr styledmsospecialcharacterlinebreak
+
+
+if supportlinebreaknewlinebr styledmsospecialcharacterlinebreak
+
+
+endifopopspanbp
+
+
+
+
+
+p classdmsobodytextbspan styledfontsizeptmsobidifontsize
+pt
+
+
+colorif supportemptyparasnbsp
+endifopopspanbp
+
+
+
+
+
+p 
+classdmsonormal
+p
+
+
+
+
+
+p classdmsobodytextspan styledfontsizeptmsobidifontsize
+ptyour
+
+
+email address was obtained from an optin listspan styledmsospacerun
+
+
+yes spanif you wish to unsubscribe from this list please click on 
+remove
+
+
+me below and click sendspanspan styledfontsizept
+msobidifontsize
+
+
+ptbr
+
+
+to be removedspan styledmsospacerun yes spanplease udo notu
+
+
+click on the reply button br
+
+
+just uclick hereu at spanbspan styledfontsizept
+msobidifontsize
+
+
+pta hrefdmailtoremovenoucecomremove measpanbspan
+
+
+styledfontsizeptmsobidifontsizept with quotremove mequot
+
+
+in subject line you will be immediately and permanently removed from this
+
+
+database and please accept our apologies for any inconvenience best of
+
+
+success in whatever you choose to do in lifebr
+
+
+span
+span
+
+
+styledcoloropopspanp
+
+
+
+
+
+div
+
+
+
+
+
+body
+
+
+
+
+
+html
+
+
+
+
+
+nextpart
+contenttype texthtml
+	charsetusascii
+contenttransferencoding quotedprintable
+
+ saved from urldhttpinternetemail 
+
+
+html xmlnsodurnschemasmicrosoftcomofficeoffice
+
+
+xmlnswdurnschemasmicrosoftcomofficeword
+
+
+xmlnsdhttpwwwworgtrrechtml
+
+
+
+
+
+head
+
+
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+
+meta namedprogid contentdworddocument
+
+
+meta namedgenerator contentdmicrosoft word 
+
+
+meta namedoriginator contentdmicrosoft word 
+
+
+link reldfilelist
+
+
+hrefdprofitfromtheboomersjulyfilesfilelistxml
+
+
+titlehow do i profit from the boomers title
+
+
+if gte mso xml
+
+
+ odocumentproperties
+
+
+  oauthorval curloauthor
+
+
+  otemplatenormalotemplate
+
+
+  olastauthorval curlolastauthor
+
+
+  orevisionorevision
+
+
+  ototaltimeototaltime
+
+
+  ocreatedtzocreated
+
+
+  olastsavedtzolastsaved
+
+
+  opagesopages
+
+
+  owordsowords
+
+
+  ocharactersocharacters
+
+
+  olinesolines
+
+
+  oparagraphsoparagraphs
+
+
+  ocharacterswithspacesocharacterswithspaces
+
+
+  oversionoversion
+
+
+ odocumentproperties
+
+
+xmlendif
+
+
+style
+
+
+
+
+
+  font definitions 
+
+
+fontface
+
+
+	fontfamilylucida handwriting
+
+
+	panose         
+
+
+	msofontcharset
+
+
+	msogenericfontfamilyscript
+
+
+	msofontpitchvariable
+
+
+	msofontsignature     
+
+
+fontface
+
+
+	fontfamilyimpact
+
+
+	panose         
+
+
+	msofontcharset
+
+
+	msogenericfontfamilyswiss
+
+
+	msofontpitchvariable
+
+
+	msofontsignature     
+
+
+  style definitions 
+
+
+pmsonormal limsonormal divmsonormal
+
+
+	msostyleparent
+
+
+	marginin
+
+
+	marginbottompt
+
+
+	msopaginationwidoworphan
+
+
+	fontsizept
+
+
+	fontfamilytimes new roman
+
+
+	msofareastfontfamilytimes new roman
+
+
+pmsobodytext limsobodytext divmsobodytext
+
+
+	marginin
+
+
+	marginbottompt
+
+
+	textaligncenter
+
+
+	msopaginationwidoworphan
+
+
+	fontsizept
+
+
+	fontfamilyarial
+
+
+	msofareastfontfamilytimes new roman
+
+
+pmsobodytext limsobodytext divmsobodytext
+
+
+	marginin
+
+
+	marginbottompt
+
+
+	textaligncenter
+
+
+	msopaginationwidoworphan
+
+
+	fontsizept
+
+
+	msobidifontsizept
+
+
+	fontfamilyimpact
+
+
+	msofareastfontfamilytimes new roman
+
+
+	msobidifontfamilyarial
+
+
+	colorpurple
+
+
+alink spanmsohyperlink
+
+
+	colorblue
+
+
+	textdecorationunderline
+
+
+	textunderlinesingle
+
+
+avisited spanmsohyperlinkfollowed
+
+
+	colorpurple
+
+
+	textdecorationunderline
+
+
+	textunderlinesingle
+
+
+page section
+
+
+	sizein in
+
+
+	marginin in in in
+
+
+	msoheadermarginin
+
+
+	msofootermarginin
+
+
+	msopapersource
+
+
+divsection
+
+
+	pagesection
+
+
+
+
+
+style
+
+
+head
+
+
+
+
+
+body langdenus linkdblue vlinkdpurple styledtabintervalin
+
+
+
+
+
+div classdsection
+
+
+
+
+
+p classdmsobodytextspan styledfontsizeptmsobidifontsize
+pthow
+
+
+do i profit from thebr
+
+
+ million baby boomers opopspanp
+
+
+
+
+
+p classdmsonormal aligndcenter styledtextaligncenterspan
+
+
+styledcolor
+br
+
+
+styledmsospecialcharacterlinebreak
+
+
+if supportlinebreaknewlinebr styledmsospecialcharacterlinebreak
+
+
+endifspanspan styledfontfamilyarialopopspanp
+
+
+
+
+
+p classdmsobodytextbspan styledfontsizeptmsobidifontsize
+pt
+
+
+colorbecome an uexclusiveu uprovideru of abr
+
+
+look younger productbr
+
+
+that the boomers uwantu spanbspan styledcolorbr
+
+
+br
+
+
+spanbspan styledfontsizeptmsobidifontsizept
+colorprovide
+
+
+a upatentedu product that successfully addressesspanbbr
+
+
+bspan styledfontsizeptmsobidifontsizept
+fontfamilylucida handwriting
+
+
+colorfuchsiawrinkles dark circles age spots fine lines cellulite 
+spider
+
+
+veins and more spanbspan styledfontsizeptmsobidifontsize
+
+
+ptcolorfuchsiabr
+
+
+spanbr
+
+
+bspan styledfontsizeptmsobidifontsizept
+colorprovide
+
+
+an affordable uhealthyu product thatbr
+
+
+shows ufast resultsu on the outside of the bodybr
+
+
+while providing the proven benefits ofbr
+
+
+super antioxidants at the cellular level br
+
+
+spanbspan styledcolorbr
+
+
+
+br
+
+
+spanbr
+
+
+bspan styledfontsizeptmsobidifontsizeptcolorwe 
+uallu
+
+
+know thatspanbbr
+
+
+span styledfontsizeptmsobidifontsizeptfontfamilyimpact
+
+
+colorfuchsiavanity sells spanspan styledfontsizept
+msobidifontsize
+
+
+ptfontfamilyimpactcolorfuchsiabr
+
+
+spanspan 
+styledcolor
+br
+
+
+spanbr
+
+
+buspan styledfontsizeptmsobidifontsizept
+colorwhy
+
+
+notspanubbspan styledfontsizeptmsobidifontsizept
+
+
+colorbr
+
+
+spanbbspan styledfontsizeptmsobidifontsizept
+
+
+colorfuchsialook ten years younger and uget paid for itu 
+spanbbspan
+
+
+styledfontsizeptmsobidifontsizeptcolorbr
+
+
+spanbspan 
+styledcolor
+br
+
+
+spanbr
+
+
+bspan styledfontsizeptmsobidifontsizept
+colorthis
+
+
+boomer phenomenon is happeningbr
+
+
+with or withoutbr
+
+
+you or me br
+
+
+br
+
+
+this receptive marketplace will createspanbspan 
+styledcolorffccbr
+
+
+spanspan styledfontsizeptmsobidifontsizeptfontfamily
+
+
+impactcolorfuchsiamillionaires spanspan styledfontsizept
+
+
+msobidifontsizeptfontfamilyimpactbr
+
+
+br
+
+
+spanbiuspan styledfontsizeptmsobidifontsizept
+
+
+colorwhy notspanuibbispan styledfontsizept
+
+
+msobidifontsizeptcolor be one of them spanibbr
+
+
+span 
+styledcolor
+br
+
+
+spanbr
+
+
+span styledfontsizeptmsobidifontsizeptfontfamilyimpact
+
+
+colorfuchsiaa hrefdmailtogotytcorpcomspan styledcolor
+
+
+fuchsiaclick herespanaspanbspan styledfontsizept
+
+
+msobidifontsizeptbr
+
+
+spanbbspan styledfontsizeptmsobidifontsizeptwith 
+spanbspan
+
+
+styledfontsizeptmsobidifontsizeptfontfamilyimpact
+
+
+colorim your leaderspanbspan styledfontsizept
+
+
+msobidifontsizept or spanbspan styledfontsizept
+
+
+msobidifontsizeptfontfamilyimpactcolorproduct 
+onlyspanbspan
+
+
+styledfontsizeptmsobidifontsizept in the subject linebr
+
+
+br
+
+
+spanbbspan styledfontsizeptmsobidifontsizept
+
+
+coloryou will be emailed information sufficient for you to make an
+
+
+educated business decision as to whether this phenomenon is something you 
+want
+
+
+to pursue or not br
+
+
+no hype  no obligationbr styledmsospecialcharacterlinebreak
+
+
+if supportlinebreaknewlinebr styledmsospecialcharacterlinebreak
+
+
+endifopopspanbp
+
+
+
+
+
+p classdmsobodytextbspan styledfontsizeptmsobidifontsize
+pt
+
+
+colorif supportemptyparasnbsp
+endifopopspanbp
+
+
+
+
+
+p 
+classdmsonormal
+p
+
+
+
+
+
+p classdmsobodytextspan styledfontsizeptmsobidifontsize
+ptyour
+
+
+email address was obtained from an optin listspan styledmsospacerun
+
+
+yes spanif you wish to unsubscribe from this list please click on 
+remove
+
+
+me below and click sendspanspan styledfontsizept
+msobidifontsize
+
+
+ptbr
+
+
+to be removedspan styledmsospacerun yes spanplease udo notu
+
+
+click on the reply button br
+
+
+just uclick hereu at spanbspan styledfontsizept
+msobidifontsize
+
+
+pta hrefdmailtoremovenoucecomremove measpanbspan
+
+
+styledfontsizeptmsobidifontsizept with quotremove mequot
+
+
+in subject line you will be immediately and permanently removed from this
+
+
+database and please accept our apologies for any inconvenience best of
+
+
+success in whatever you choose to do in lifebr
+
+
+span
+span
+
+
+styledcoloropopspanp
+
+
+
+
+
+div
+
+
+
+
+
+body
+
+
+
+
+
+html
+
+
+
+
+
+
+
+
+nextpart
+
+
+
+httpxentcommailmanlistinfofork
+
+

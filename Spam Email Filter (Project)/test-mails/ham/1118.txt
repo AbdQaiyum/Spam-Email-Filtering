@@ -1,0 +1,38 @@
+once upon a time ville wrote 
+
+  thanks a lot   the rpms seem to be fine they worked for me out of
+  the box on vanilla valhalla wlatest errata
+ 
+ except that i dont see an init script in the rpms a sample one
+ designed for rh is supposed to be in utilsalsasound  could you take
+ a look if it can be included
+
+it doesnt need to as red hat linux already sets correct permissions on all
+alsa audio devices for locally logged in users through the consoleperms
+file and the modulesconf files takes care of loading the right modules on
+demand also aumix and the scripts that come with red hat linux still work
+for controlling the volume so its still saved and restored when the
+computer is halted even using alsa
+
+im glad you got your card working with these im now wondering if i wont
+maybe buy an amplifier that supports dolby digial decoding my current one
+only does pro logic since ive read that alsa supports the spdif
+optical output of the sound chip of my shuttle
+httpfreshrpmsnetshuttle
+
+from what i can tell after only  days using it  alsa rocks especially
+since having a full oss compatibility results that it breaks nothing at
+all 
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

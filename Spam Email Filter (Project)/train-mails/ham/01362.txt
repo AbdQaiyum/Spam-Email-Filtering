@@ -1,0 +1,51 @@
+im a new user or about to be hopefully of sa but ive run into some
+compilation errors that prevent me from installing  rather than picking
+through the code i thought id avoid reinventing the wheel and ask here
+when i run the make i get the following
+
+cc error spamdspamcc line  in this declaration inaddrt has no
+linka
+ge and has a prior declaration in this scope at line number  in file
+usrinc
+ludesystypesh nolinkage
+typedef unsigned long   inaddrt       base type for internet address
+
+
+cc warning spamdspamcc line  in this statement the referenced
+type of
+the pointer value msgbuf is char which is not compatible with
+unsigned ch
+ar ptrmismatch
+  ifbytes  fullread in msgbuf maxsize maxsize 
+maxsize
+
+cc warning spamdspamcc line  in this statement the referenced
+type of
+the pointer value headerbuf is char which is not compatible with
+const un
+signed char ptrmismatch
+    fullwrite outheaderbufbytes
+
+
+there are lots more where they came from  any ideas what can be done
+thanks in advance
+
+
+don newcomer                                            dickinson college
+associate director system and network services		po box 
+newcomerdickinsonedu                                  carlisle pa  
+                                                        phone  
+                                                          fax  
+
+
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

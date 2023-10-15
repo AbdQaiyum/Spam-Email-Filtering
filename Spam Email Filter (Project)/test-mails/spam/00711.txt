@@ -1,0 +1,116 @@
+html
+
+head
+meta httpequivcontentlanguage contentenus
+meta httpequivcontenttype contenttexthtml charsetwindows
+titlehello from bidstogobiztitle
+style
+style
+head
+
+body
+
+pnbspp
+
+table border
+  tr
+    td widthfont sizehello fonttd
+    td
+    div aligncenter styleborderstyle solid borderwidth  bordercolorgray paddingleft  paddingright  paddingtop  paddingbottom 
+      font facearial sizeuprivacy policyu to 
+      permanently opt out of our mailings simply 
+      send a blank email to a hrefmailtooptoutbidstogobizsubjectoptoutoptoutbidstogobizafontdiv
+    td
+   td widthnbsp 
+  tr
+table
+
+pfont sizea hrefhttpwwwbidstogobizbidstogoa invites you 
+visit and explorenbsp
+a hrefhttpwwwbidstogobizhttpwwwbidstogobiza the site 
+dedicated to font colorblue iplaces to goifont and
+font colorblue ithings to doifont you can use
+a hrefhttpwwwbidstogobizbidstogoa to advertise sell or auction 
+places to go and things to do  and right now it is free to make a basic 
+listingfontp
+
+pfont sizea hrefhttpwwwbidstogobizbidstogoa is great forfontbr
+nbsptable border cellpadding cellspacing stylebordercollapse collapse bordercolor width idautonumber
+  tr
+    td width aligncenterfont colorffblodgingbfont
+    div aligncenter
+      font faceserif sizehotels bed amp breakfasts resorts 
+      timeshares vacation rentals etcfont
+    div
+    td
+    td width aligncenterbfont colorfftravelfontb
+    div aligncenter
+      font faceserif sizecruises yacht charters rail tours auto 
+      rental etcfont
+    div
+    td
+  tr
+  tr
+    td width aligncenterbfont colorffvacation packs
+    fontb
+    div aligncenter
+      font faceserif sizeskiing outfitters hunting fishing golf abroad resorts 
+      etcfont
+    div
+    td
+    td width aligncenterfont colorffbgame ticketsb
+    font font faceserif sizeb
+    br
+    bfootball baseball basketball hockey etcfonttd
+  tr
+  tr
+    td width aligncenterfont colorffbevents and festivalsbfontdiv aligncenter
+      festivals events tournaments races bowl games parades etcdiv
+    td
+    td width aligncenterfont colorffbtheme parksbfont
+    div aligncenter
+      font faceserif sizedisney world busch gardens kings dominion 
+      sea world etcfont
+    div
+    td
+  tr
+  tr
+    td width aligncenterfont colorffbconcertsbfont
+    div aligncenter
+      font faceserif sizemusical concertsfont
+    div
+    td
+    td width aligncenterfont colorffbtheaterbfont
+    div aligncenter
+      font faceserif sizeplays operas musicals etcfont
+    div
+    td
+  tr
+  tr
+    td width aligncenterfont colorffbtrainingbfontdiv aligncenter
+      font faceserif sizeprofessional or personal trainingfontdiv
+    td
+    td width aligncenternbsptd
+  tr
+table
+
+pfont sizevisit a hrefhttpwwwbidstogobizhttpwwwbidstogobizafontp
+
+hr width
+
+p aligncenternbsp
+div aligncenter
+div styleborderpx solid gray paddingleft  paddingright  paddingtop   paddingbottom width
+      font facearial sizeuprivacy policyu to 
+      permanently opt out of our mailings simply 
+      send a blank email to a hrefmailtooptoutbidstogobizsubjectoptoutoptoutbidstogobiza 
+      contact
+      a hrefmailtocustomerservicebidstogobizsubjectprivacy policy questioncustomerservicea 
+      for more informationfontdiv
+div
+
+body
+
+html
+
+

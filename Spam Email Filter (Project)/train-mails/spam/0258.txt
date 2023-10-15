@@ -1,0 +1,346 @@
+this is a multipart message in mime format
+
+nextpartdceab
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ i a fully insured tax qualified retirement plan
+ 	 	 	 	 
+	 	 	 	 
+
+ai	 defined benefit	 profit sharing	 sep	 k	
+ 
+ designed for business owners over age 
+  contributions are  tax deductible
+
+  us government approved erisa pension plan since 
+
+  up to  of the benefit goes directly to the business owner 
+make your clients retirement dreams come true 
+ 
+for a personalized proposal please call the pension department 
+	
+or email your request to us at pensionsfsfginccom
+mailtopensionsfsfginccom  
+ 
+
+ innovative solutions for changing economic climates 
+please fill out the form below for more information	
+name	 	
+email	 	
+phone	 	
+city	 	 state	 	  
+ 	    
+
+ 
+   fax 
+pensionsfsfginccom mailtopensionsfsfginccom     wwwfsfginccom
+httpwwwfsfginccom  
+ american national independent marketing
+ assumes  year old making a maximum tax deductible contribution
+
+we dont want anybody to receive our mailings who does not wish to
+receive them this is professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsuranceiqcomoptout
+legal notice httpwwwinsiqcomlegalhtm
+
+
+nextpartdceab
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+meta httpequivdcontentlanguage contentdenus
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+titlethe businessowner friendly pension plantitle
+head
+body
+table borderd widthd cellspacingd cellpaddingd 
+bgcolordffffff bordercolord aligndcenter
+  tr
+    td widthd heightd 
+backgrounddhttpiiqusimagessagif
+      table borderd widthd heightd 
+cellpaddingd cellspacingd
+        tr
+          td widthd heightd aligndcenterimg 
+borderd srcdhttpiiqusimagessagif 
+widthd heightd altdi a fully insured tax 
+qualified retirement plantd
+        tr
+        tr
+          td widthd heightd valigndtop
+            table borderd widthd cellpaddingd 
+heightd
+              tr
+                td widthd heightd valigndbottomimg 
+borderd srcdhttpiiqusimagessagif 
+widthd heightdtd
+                td widthd heightd valigndbottom 
+aligndcenterimg borderd 
+srcdhttpiiqusimagessagif widthd 
+heightdtd
+                td widthd heightd valigndbottom 
+aligndcenterimg borderd 
+srcdhttpiiqusimagessagif widthd 
+heightdtd
+                td widthd heightd valigndbottom 
+aligndcenterimg borderd 
+srcdhttpiiqusimagessagif widthd 
+heightdtd
+                td widthd heightd valigndbottom 
+aligndcenterimg borderd 
+srcdhttpiiqusimagessagif widthd 
+heightdtd
+              tr
+              tr
+                td widthd heightd 
+aligndcenterbfont facedarial sized 
+colordfontbtd
+                td widthd heightd 
+aligndcenterbfont facedarial sized 
+colordfontbtd
+                td widthd heightd 
+aligndcenterbfont facedarial sized 
+colordfontbtd
+                td widthd heightd 
+aligndcenterbfont facedarial sized 
+colordfontbtd
+                td widthd heightd 
+aligndcenterbfont facedarial sized 
+colordfontbtd
+              tr
+              tr
+                td widthd heightd 
+aligndcenterbfont facedarial sized 
+colordaifontbtd
+                td widthd heightd 
+aligndcenterbfont facedarial sized 
+colorddefined benefitfontbtd
+                td widthd heightd 
+aligndcenterbfont facedarial sized 
+colordprofit sharingfontbtd
+                td widthd heightd 
+aligndcenterbfont facedarial sized 
+colordsepfontbtd
+                td widthd heightd 
+aligndcenterbfont facedarial sized 
+colordkfontbtd
+              tr
+            table
+          td
+        tr
+        tr
+          td widthd heightd valigndtop
+            table borderd widthd cellspacingd 
+cellpaddingd
+              tr
+                td widthd bgcolordimg borderd 
+srcdhttpiiqusimagessspacergif widthd 
+heightdtd
+              tr
+            table
+          td
+        tr
+        tr
+          td widthd heightd valigndtop 
+aligndcenterimg borderd 
+srcdhttpiiqusimagessagif widthd 
+heightd altddesigned for business owners over age td
+        tr
+        tr
+          td widthd heightd valigndtop bfont 
+facedarial sized
+            nbsp contributions are  tax deductiblebrbr
+            nbsp us government approved erisa pension plan since 
+brbr
+            nbsp up to  of the benefit goes directly to the 
+business ownerfontb
+          td
+        tr
+        tr
+          td widthd heightd aligndcenter
+            bfont colord facedtimes new roman 
+sizedimake your clients retirement dreams come 
+trueifontb
+          td
+        tr
+        tr
+          td widthd heightd
+            table borderd widthd cellspacingd 
+cellpaddingd
+              tr
+                td widthd bgcolordimg borderd 
+srcdhttpiiqusimagessspacergif widthd 
+heightdtd
+              tr
+            table
+          td
+        tr
+        tr
+          td widthd heightd aligndcenter
+            bfont facedtimes new roman sized 
+colordfor a personalized proposal please call the pension 
+departmentfontb
+          td
+        tr
+        tr
+          td widthd heightd aligndcenter bfont 
+facedtimes new roman sized 
+colordfontbtd
+        tr
+        tr
+          td widthd heightd aligndcenter
+            bfont facedtimes new roman sized 
+colordor email your request to us at a 
+hrefdmailtopensionsfsfginccompensionsfsfginccomafontb 
+
+          td
+        tr
+        tr
+          td widthd heightd
+            table borderd widthd cellspacingd 
+cellpaddingd
+              tr
+                td widthd bgcolordimg borderd 
+srcdhttpiiqusimagessspacergif widthd 
+heightdtd
+              tr
+            table
+          td
+        tr
+        tr
+          td widthd heightd
+            p aligndcenterimg borderd 
+srcdhttpiiqusimagessagif widthd 
+heightdbr
+              font colordquot innovative solutions for 
+changing economic climatesquotfont
+          td
+        tr
+        tr
+          td widthd heightd
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordffffff
+                      tr bgcolordffffff
+                        td colspand aligndcenterfont 
+sized facedarial helvetica sansserifplease fill out the 
+form below for more informationfonttd
+                      tr
+                      tr bgcolordffffff
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizednamefonttd
+                        td colspandinput typedtext 
+namedcontactname sizedtd
+                      tr
+                      tr bgcolordffffff
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedemailfonttd
+                        td colspandinput typedtext 
+namedemail sizedtd
+                      tr
+                      tr bgcolordffffff
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedphonefonttd
+                        td colspandinput typedtext 
+namedphone sizedtd
+                      tr
+                      tr bgcolordffffff
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedcityfonttd
+                        td widthdinput typedtext 
+namedcity sizedtd
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedstatefonttd
+                        td widthdinput typedtext 
+namedstate sizedtd
+                        td rowspand aligndcenter 
+valigndmiddleimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr bgcolordffffff
+                        td widthd aligndrightnbsptd
+                        td widthd colspand
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          input typedhidden 
+namedhdnrecipienttxt valuedpensionsfsfginccom
+                          input typedhidden namedhdnsubjecttxt 
+valuedfour seasons ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+          td
+        tr
+        tr
+          td widthd heightd
+            table borderd widthd cellspacingd 
+cellpaddingd
+              tr
+                td widthd bgcolordimg borderd 
+srcdhttpiiqusimagessspacergif widthd 
+heightdtd
+              tr
+            table
+          td
+        tr
+        tr
+          td widthd heightd aligndcenter
+            font facedtimes new roman 
+sizedbnbspnbspnbspfax bbr
+            a 
+hrefdmailtopensionsfsfginccompensionsfsfginccomanbspnbsp
+nbspa hrefdhttpwwwfsfginccomwwwfsfginccomafont
+          td
+        tr
+        tr
+          td aligndcenterimg 
+srcdhttpiiqusimagessagif widthd 
+heightd altdamerican national independent marketingtd
+        tr
+        tr
+          td widthd heightd aligndcenter
+            pfont colord facedarial sized 
+assumes
+               year old making a maximum tax deductible 
+contributionfontp
+            font facedverdana sized
+            pwe dont want anybody to receive our mailings
+              who does not wish to receive them this is professional
+              communication sent to insurance professionals to be 
+removed from
+              this mailing list do not reply to this message instead 
+go here 
+              a 
+hrefdhttpwwwinsuranceiqcomoptouthttpwwwinsuranceiqcomopt
+outabr
+              a hrefdhttpwwwinsiqcomlegalhtmlegal 
+noticeap
+            font
+          td
+        tr
+      table
+    td
+  tr
+table
+body
+html
+
+nextpartdceab
+
+

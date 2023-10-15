@@ -1,0 +1,81 @@
+html
+body bgcolor
+p aligncenterfont colorffffff sizecongratulations 
+you won  freebrtoday at the internets best amp mostbrtrusted online 
+casinofontp
+p aligncenterfont colorfont colorffffff sizeto collect your 
+ cash fonta 
+hrefhttpfont 
+sizeclick herefontafontp
+p aligncentera 
+hrefhttpimg 
+altclick here to collect your  dollars free and start playing 
+srchttpmemberstriposdukkeyindexarpqweffdiceieicacbaacba 
+borderap
+p aligncenternbspp
+p aligncenterfont colorffffff sizeto collect your  cash fonta 
+hrefhttpfont 
+sizeclick herefontap
+p aligncenternbspp
+p aligncentera 
+hrefhttpimg 
+altclick here to collect your  dollars free and start playing 
+srchttpmemberstriposdukkeyindexarpqweffdicaaomfocaieofabi 
+borderap
+p aligncenternbspp
+p aligncenternbspp
+p aligncenternbspp
+p
+form nameform methodpost actionhttprprocesscleanlistphp
+div aligncenter 
+            table width border cellspacing cellpadding aligncenter bordercolor
+              tr 
+                td 
+                  table width border cellspacing cellpadding bgcolorcccccc
+                    tr 
+                      td
+            pfont facearial helvetica sansserif sizethis message is sent in compliance of the new 
+            email billbrsection  per section  paragraph ac of 
+            s brfurther transmissions to you by the sender of this email 
+            maybebrstopped at no cost to you by entering your email address 
+            tobrthe form in this email and clicking submit to be 
+            automaticallybr   
+                                    
+                               removed fontfont 
+            facearial helvetica sansserif sizeto be removed from our 
+            optin mailing list please enter your email address in the provided 
+            box below and click remove thank you 
+      fontptd
+                    tr
+                  table
+                  table width border cellspacing cellpadding bgcolorcccccc
+                    tr 
+                      td 
+                        div aligncenter 
+                          input typehidden namesubject valueremove
+                          input nameemail size 
+           
+                          input typesubmit namesubmit valueremove
+                        div
+                      td
+                    tr
+                  table
+                  div aligncenterdiv
+                  div aligncenterdiv
+                  table width border cellspacing cellpadding bgcolorcccccc
+                    tr 
+                      td 
+                        div aligncenterfont facearial helvetica sansserif sizeyour 
+                          email address will be immediately removed from all mailing listsfontdiv
+                      td
+                    tr
+                  table
+                td
+              tr
+            tablediv
+        form
+pnbspp
+p
+body
+html
+

@@ -1,0 +1,245 @@
+this is a multipart message in mime format
+
+nextpartccfccdcfe
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ thats not rush hour traffic
+ its the flight to safety	
+ 	
+fixed and indexed annuities are being bought in record numbers as both
+savers and investors seek strong guarantees and greater upside earnings
+potential from financially strong companies 	
+
+october is the biggest month for cd rollovers and most cds will roll for
+one reason  habit give your clients a better alternative and take
+advantage of this window of opportunity 	
+ respond todayand receive a free cd replacement kit	 call
+	
+    
+
+ 	st application bonus
+free digital camera to capture 
+those precious memories 	
+ 	
+please fill out the form below to receive a free replacement cd kit
+
+name	 	 
+email	 	 
+phone	 	 
+city	 	 state	 	  	
+ 	    	
+ 
+we dont want anybody to receive our mailing who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsuranceiqcomoptout
+httpwwwinsuranceiqcomoptout 
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+
+
+nextpartccfccdcfe
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlethe flight to safety is upon ustitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+p aligndcenter
+  table widthd borderd cellspacingd cellpaddingd 
+bordercolord
+    tr
+      td
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            tdimg srcdhttpiiqusimagestpstopjpg 
+widthd heightd altdthats not rush hour trafficbr
+            img srcdhttpiiqusimagestpsmidjpg widthd 
+heightd altdits the flight to safetytd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthd valigndtopimg 
+srcdhttpiiqusimagestpscopterjpg widthd 
+heightdtd
+            td widthdbr
+              font facedgeorgia times new roman times 
+seriffixed and indexed
+              annuities are being bought in record numbers as both 
+savers and
+              investors seek strong guarantees and greater upside 
+earnings potential
+              from financially strong companiesfont
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            tdfont facedgeorgia times new roman times 
+serifbr
+              october is bfont colordthe biggest 
+monthfontb
+              for cd rollovers and most cds bfont 
+colordwillfontb
+              roll for one reason  bfont 
+colordhabitfontb
+              give your clients a better alternative and take advantage 
+of this
+              window of opportunityfont
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthd aligndcenterimg 
+srcdhttpiiqusimagestpsrepondgif widthd heightd 
+altdrespond todayand receive a free cd replacement kittd
+            td widthd aligndcenterimg 
+srcdhttpiiqusimagestpscdjpg widthd heightd 
+altdcall td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td
+              hr
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthd aligndrightimg 
+srcdhttpiiqusimagestpscamerajpg widthd 
+heightdtd
+            td widthd aligndcenter
+              bfont facedtimes new roman times seriffont 
+colordst application bonusfontbr
+              free digital camera to capture br
+              those precious memoriesfontb
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenterimg 
+srcdhttpiiqusimagestpslogogif widthd 
+heightdtd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td
+              table widthd
+                tr
+                  form methoddpost 
+actiondhttpresponseresponseasp
+                    td
+                      table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordffffff
+                        tr bgcolord
+                          td colspand aligndcenterfont 
+facedgeorgia times new roman times serif sized 
+colordffffffbplease fill out the form below to receive a free 
+replacement cd kitbfonttd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif sizednamefonttd
+                          td colspandinput typedtext 
+namedcontactname sizedtd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif sizedemailfonttd
+                          td colspandinput typedtext 
+namedemail sizedtd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif sizedphonefonttd
+                          td colspandinput typedtext 
+namedphone sizedtd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif sizedcityfonttd
+                          td widthdinput typedtext 
+namedcity sizedtd
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif sizedstatefonttd
+                          td widthdinput typedtext 
+namedstate sizedtd
+                          td rowspand aligndcenter 
+valigndmiddleimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                        tr
+                        tr
+                          td widthd aligndrightnbsptd
+                          td widthd colspand
+                            input typedsubmit namedbtnsubmit 
+valuedsubmit
+                            input typedhidden 
+namedhdnrecipienttxt valuedsalestpsbrokeragecom
+                            input typedhidden 
+namedhdnsubjecttxt valuedtps ad inquiry
+                          td
+                        tr
+                      table
+                    td
+                  input typedhidden namedsentto 
+valued
+form
+                tr
+              table
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td
+              p aligndcenterfont facedverdana arial 
+helvetica sansserif sizedwe
+                dont want anybody to receive our mailing who does not 
+wish to
+                receive them this is a professional communication sent 
+to insurance
+                professionals to be removed from this mailing list do 
+not reply
+                to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptouthttpwwwinsuranceiqcomop
+toutabr
+                a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafont
+              p
+            td
+          tr
+        table
+      td
+    tr
+  table
+  br
+p
+body
+html
+
+nextpartccfccdcfe
+
+

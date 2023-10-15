@@ -1,0 +1,55 @@
+html
+
+head
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titlenew page title
+head
+
+body bgcolor
+
+p aligncenterspan stylefontfamily arial msofareastfontfamily times new roman msoansilanguage enus msofareastlanguage enus msobidilanguage arsafont sizespan stylefontfamily arial msofareastfontfamily times new roman color red msoansilanguage enus msofareastlanguage enus msobidilanguage arsaviagrabr
+spanspan stylefontfamily arial msofareastfontfamily times new roman color black msoansilanguage enus msofareastlanguage enus msobidilanguage arsawithoutbr
+a doctors visitspanfontspanp
+p aligncentera hrefhttpwwwuniversalmedscommainphprxfont sizeclickbr
+herefontap
+p aligncenter styletextaligncenterspan stylefontsizept
+fontfamilyarialspanspan stylefontfamily arialfont sizeother
+top medications also availableop
+op
+fontspanp
+p aligncenter styletextaligncenterspan stylefontfamily arialfont sizewe
+have doctors on call around the country to viewbr
+your information and quickly approve your orderop
+op
+fontspanp
+p aligncenter styletextaligncenterspan stylefontfamily arialfont sizetotally
+discreet system allows you to order today andbr
+enjoy your medication tomorrow in most casesop
+op
+fontspanp
+p aligncenterspan stylefontfamily arial msofareastfontfamily times new roman msoansilanguage enus msofareastlanguage enus msobidilanguage arsafont sizefinally
+you can try the wonder drug viagra thatbr
+has swept the world without the embarrassment ofbr
+having to visit your doctor and explain your conditionfontspan
+p aligncenterfont sizea hrefhttpwwwuniversalmedscommainphprxto
+order click hereafontp
+p aligncenternbspp
+p aligncenternbspp
+p aligncenternbspp
+p aligncenternbspp
+p aligncenternbspp
+p aligncenternbspp
+p aligncenternbspp
+p aligncenternbspp
+p alignleftto get deleted p
+p alignleftfont facearial sizea hrefhttpremovephphttpremovephpafontp
+p alignleftnbspp
+p alignleftnbspp
+
+body
+
+html
+uldzgxnewliqvokjuvael
+

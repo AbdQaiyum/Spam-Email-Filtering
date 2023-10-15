@@ -1,0 +1,136 @@
+this is an html email message  if you see this your mail client does not support html messages
+
+nextpartqxvroefefx
+contenttype texthtmlcharsetiso
+contenttransferencoding bit
+
+pnbspp
+table cellspacing cellpadding width border
+tbody
+tr
+td stylefontsize xsmall fontfamily arialhelveticasansserif valigntop bgcolorwhite
+table classbarlink cellspacing cellpadding width border
+tbody
+tr
+td stylefontsize xsmall fontfamily arialhelveticasansserif
+table cellpadding width
+tbody
+tr
+td stylefontsize xsmall fontfamily arialhelveticasansserifbrnbsp 
+div idmessagexmeta contentenus httpequivcontentlanguage xbody langenus vlinkblue linkblue bgcoloryellow 
+div classsection stylewidth px height px
+p styletextalign center aligncenterbspan stylefontsize pt color blue fontfamily arialthe industry forumspanbp
+table stylewidth  bordercollapse collapse cellspacing cellpadding border
+tbody
+tr
+td stylepaddingright in paddingleft in fontsize xsmall paddingbottom in width  paddingtop in fontfamily arialhelveticasansserif width
+p classmsonormal styletextalign center aligncentera hrefhttpwwwcpillccomprdcpimmshtmimg height srchttpwwwcpillccomimagescpimfrontsmalljpg width borderaptd
+td stylepaddingright in paddingleft in fontsize xsmall paddingbottom in width  paddingtop in fontfamily arialhelveticasansserif width
+p classmsonormal styletextalign center aligncenterfont sizespan stylefontfamily arialminute man iispanfontp
+p classmsonormal styletextalign center aligncenterfont sizespan stylefontfamily arial lbs light  requires no electricity  under  complete bnow everybody can be a foamerbspanfontptd
+td stylepaddingright in paddingleft in fontsize xsmall paddingbottom in width  paddingtop in fontfamily arialhelveticasansserif width
+p classmsonormal styletextalign center aligncenterspan stylefontfamily arialnbspnbspnbsp spana hrefhttpwwwcpillccomprdflxfrothpakhtmimg height srchttpwwwcpillccomimagesesflxfrothpaktnjpg width borderaptd
+td stylepaddingright in paddingleft in fontsize xsmall paddingbottom in width  paddingtop in fontfamily arialhelveticasansserif
+p classmsonormal styletextalign center aligncenterfont sizespan stylefontfamily arialbsmall one time projectbrbfrothpak is the answer smallest selfcontained outofbox foam application for repairs and small jobs also available instastick tilebond roofpak and morespanfontptd
+td stylepaddingright in paddingleft in fontsize xsmall paddingbottom in width  paddingtop in fontfamily arialhelveticasansserif
+p classmsonormal aligncentera hrefhttpwwwcpillccomformfeedbackhtmimg height srchttpwwwcpillccomimagesforumiccoverjpg width borderaptd
+td stylepaddingright in paddingleft in fontsize xsmall paddingbottom in width  paddingtop in fontfamily arialhelveticasansserif
+p classmsonormal styletextalign center aligncenterspan stylefontsize pt fontfamily arialget your copy of the industry catalog most complete reference for our industryspanptdtr
+tr
+td stylepaddingright in paddingleft in fontsize xsmall paddingbottom in width  paddingtop in fontfamily arialhelveticasansserif width colspan
+p styletextalign center aligncenterspan stylefontsize pt color blue fontfamily arialclick on the picture above to learn more about the equipmentspanptdtr
+tr
+td styleborderright navy pt inset paddingright in bordertop medium none paddingleft in fontsize xsmall paddingbottom in borderleft navy pt inset width  paddingtop in borderbottom navy pt inset fontfamily arialhelveticasansserif width colspan
+p classmsonormalnbspptdtrtbodytable
+p classmsonormalnbspp
+table stylebordercollapse collapse bordercolor cellspacing cellpadding width border
+tbody
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt bordertop  pt inset paddingleft pt fontsize xsmall background ffffc paddingbottom pt borderleft  pt inset width  paddingtop pt borderbottom navy pt inset fontfamily arialhelveticasansserif height pt width colspan
+p styletextalign center aligncenterbspan stylefontsize pt color blue fontfamily arialthe industry forum issue spanbptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p styletextalign center aligncenterspan stylecolor blue fontfamily plumpmtspanbspan stylefontsize pt color blue fontfamily arialbrforum membersspanbptd
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc valigntop width rowspan
+p classarial stylemargin in in pt dik m pap
+p classarial stylemargin in in ptit would be much more useful to the industry if spfa would help find a code conforming fire barrier for attics crawl spaces etc thannbsp lecture on fast and loose applications of codenbsp something about  cents a bd ft installed meeting all codes and spray applied many companies we talk to have a product that appears to be perfect but they havent spent the money to test over foam maybe a small committee could do a evaluation of various products report results to spfa who in turn will acquire funding from usp
+p classarial stylemargin in in ptnbspp
+p classarial stylemargin in in pt william b australiap
+divfont facearial sizewe are in australia but we are finding it hard to locate polyurea sprayers here so that we can start a chapter of the pda do u have any list of australian contractors suppliers or maybe they can put their hand up and lets us know at a hrefmailtoenvirolinepowerupcomauenvirolinepowerupcomauanbspit isnbspfor the betternbspof the game that an association is need to inform clients and specifiers of the uses and properties of polyureas and train its own membersalso to keep cowboys out that give the industry a bad namefont div
+p classarial stylemargin in in ptnbspp
+p classarial stylemargin in in pt ed mp
+p classarial stylemargin in in pti am a writer for aviation magazines and one that i write for is a test international a new publication that just launched this month i need any new processes you might have that would be used on aircraft particularly commercial aviationbrnbspp
+p classarial stylemargin in in pt john c louisianap
+p classarial stylemargin in in pti have a foam cat  graco machine and a probler gun with a  tipnbsp i use this setup to spray truck bed linersnbsp my question is can i and how do i spray foam insulation using my equipmentnbsp and what are the different types of insulationp
+p classarial stylemargin in in ptnbspp
+p classarial stylemargin in in pt murph mahaffey glascraftp
+p classarial stylemargin in in pti like the new look of the industry forump
+p classarial stylemargin in in ptnbspp
+p classarial stylemargin in in pt mark w south carolinap
+p classarial stylemargin in in ptim sick of all this garbage about covering foam with a thermal barrier what the hell do you think foam is if you are saying that anything that can be forced to burn should be covered with a fireproof barrier then youd better get busy covering all those trusses and joists and plywood up there that are definitely not carrying a class one fire rating this double standard for foam is coming directly from those who stand to lose business from it icynene is differentnbsp it doesnt burn alone it doesnt melt it doesnt emit phosgene does it smoke in a fire situation sure so whatp
+p classarial stylemargin in in ptbrblaming foam in the attic for a house fire because it forces the foam to eventually burn is about as stupid as blaming foam seat cushions for burning when a gas tank ruptures and burns up a car get real inspectors you want us to cover up the only thing in the attic assembly that doesnt burnbrnbspp
+p classarial stylemargin in in ptas for the vaunted r rating system it is totally bogus the test is designed to make porous insulations appear to perform better than they actually donbsp measuring only conduction and ignoring convection and radiant to convective transfer the test should have been thrown out for the industry lackey it is  years ago along with that obsolete fiberglassbrgarbage theyre still selling everybodynbsp theres a reason they dont make refrigerators freezers coolers amp coffee cups out of fiberglass or cellulosenbspnbsp think about itp
+p classarial stylemargin in in ptnbspp
+p classarial stylemargin in in pt dirk benthien forum moderatorp
+p classarial stylemargin in in ptthank you mark and dik for your statements above i also feel that far too often individuals and companies are too complacent and quietly live with rules and regulations without trying to change themnbsp nbsp even if everybody knows they do not make sense we are all experts and representatives of this industry and should speak up and promote changep
+p classarial stylemargin in in ptnbspp
+p classarial stylemargin in in pt martin s canadap
+divstrongfont facearial sizedoes anyone make a dispensing machine for crumb rubber  urethane blends fontstrong div
+p classarial stylemargin in in ptnbspp
+p classarial stylemargin in in pt carole l california re  otto v germanyp
+p classarial stylemargin in in ptwhat are the answers phaseout of bp
+p classarial stylemargin in in ptnbspp
+p classarial stylemargin in in pt brian d canadap
+divfont stylelineheight em facearial sizefont stylelineheight em facetimes new roman sizenbspnbspnbsp there has been a lot of talk about ceramic coatingsnbsp we are a distributor of such a coatingnbsp we have never professed an rnbsp reason  is there isnt an astm test available to measure coatings for rvalue we compare standardized insulation to ceramic coatings via btu loss calculationsnbsp depending on the criteria we can equal  to  inches of standard insulation with an aluminum jacketnbsp we have the data and the projects to prove itfontbrnbspfont div
+p classarial stylemargin in in pt cpip
+p classarial stylemargin in in ptwe have inquiries from a number of people for used equipment  especially gusmer h h h gx and glascraft probler please contact brspan stylefontsize pt fontfamily arialp
+pspan stylefontfamily arialend of messagesspanspanptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p styletextalign center aligncenterspan stylefontsize pt color blue fontfamily arialthis forum welcomes anyone interested in the processing of single or pluralcomponent materials such as polyurethane polyurea coatings epoxies and other sprayapplied materialsspanptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p styletextalign center aligncenterbspan stylefontsize pt fontfamily arialthe industry forum a free span stylecolor redespanspan stylecolor blueservicespan frombrspanspan stylefontfamily arialfont sizebrfontspanba hrefhttpwwwcpillccomimg height srchttpwwwcpillccomimagesforumcpilogojpg width bordera nbspptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p styletextalign center aligncenterspan stylefontsize pt color blue fontfamily arialto ask or answer a question or to contribute anything simply send an email to spanba stylecolor blue textdecoration underline hrefmailtoforumcpillccom targetblanksp styletextdecoration none anspan stylefontsize pt fontfamily arialforumcpillccomspansp abptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p styletextalign center aligncenterspan stylefontsize pt fontfamily ariala hrefhttpwwwcpillccomclausedhtmused bgusmer hb and bprobler gun bfor saleabrspanptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p classmsonormal styletextalign center aligncenterspan stylefontsize pt fontfamily arialyour privacy is protected please read the policies and rules at a stylecolor blue textdecoration underline hrefhttpwwwcpillccomindustryforumhtm targetblankcpillccomaspanptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p classmsonormal styletextalign center aligncenterspan stylefontsize pt color blue fontfamily arialshow your name here become a bsponsorb call  or send an email to spanspan stylefontsize pt color blue fontfamily stopa stylecolor blue textdecoration underline hrefmailtoinfocpillccom targetblankcpiaspanptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p classmsonormal styletextalign center aligncenterspan stylefontsize pt fontfamily arialread this and previous forum issues all on one page it will only work if you are connected to the internet click here to go to a stylecolor blue textdecoration underline hrefhttpwwwcpillccomforumdiscussionhtm targetblankcpillccomforumdiscussion htmaspanptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p classmsonormal styletextalign center aligncenterspan stylefontsize pt color blue fontfamily arialvisit spanspan stylefontsize pt color blue fontfamily stopcpi llc spanspan stylefontsize pt color blue fontfamily arialon the web click a stylecolor blue textdecoration underline hrefhttpwwwcpillccom targetblankhttpwwwcpillccomaspanptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p classmsonormal styletextalign center aligncenterspan stylefontsize pt color blue fontfamily stopcpispanspan stylefontsize pt color blue fontfamily arial is authorized distributor for all leading manufacturers in this industry including a stylecolor blue textdecoration underline hrefhttpwwwcpillccomprdguhtm targetblankgusmera a stylecolor blue textdecoration underline hrefhttpwwwcpillccomprdgchtm targetblankglascrafta a stylecolor blue textdecoration underline hrefhttpwwwcpillccomprdgohtm targetblankgracoa resin technology a stylecolor blue textdecoration underline hrefhttpwwwcpillccomprdcpiaccdynasolvehtm targetblankdynasolveaspanptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p classmsonormal styletextalign center aligncenterspan stylefontsize pt fontfamily stopcpispanspan stylefontsize ptspanspan stylefontsize pt fontfamily arials customers enjoy impartial advice full service lifelong free phone support training and setup with all new system at a very fair pricespanptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p classmsonormal styletextalign center aligncenterspan stylefontsize pt fontfamily arialshop our online warehouse brmost efficient procurement anywhere spanspan stylefontsize pt fontfamily ariala stylecolor blue textdecoration underline hrefhttpwwwcpillccomwarehousehtm targetblankwwwcpillccomwarehousehtmaspanptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p classmsonormal styletextalign center aligncentera hrefhttpwwwcpillccomclajoblistingshtmjob marketbrspray jobsaptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc widthspan stylefontsize pt color blue fontfamily arialdid we miss someone feel free to submit any number of email addresses of coworkers and friends to be included here again this service is free for all help grow our forumspantdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p classmsonormal styletextalign center aligncenterbspan stylefontsize pt fontfamily arialwerespan span stylefontfamily stopcpispanbrspan stylefontsize pt fontfamily arialwe make it workspanbptdtr
+tr styleheight pt
+td styleborderright navy pt inset paddingright pt backgroundposition   bordertop  paddingleft pt fontsize xsmall backgroundattachment scroll paddingbottom pt borderleft  pt inset paddingtop pt borderbottom navy pt inset backgroundrepeat repeat fontfamily arial helvetica sansserif height pt backgroundcolor ffffc width
+p classmsonormal styletextalign center aligncentercall us tollfreebrbcpibrbptdtrtbodytable
+p styletextalign center aligncenterspan stylefontfamily arialcopyright c    spanspan stylefontsize pt fontfamily stopcpi llcspanspan stylefontfamily arial all rights reservedbrbdisclaimers and limitations of liabilities posted at a stylecolor blue textdecoration underline hrefhttpwwwcpillccomindustryforumhtm targetblankcpillccomabspanbbrbspan stylefontsize pt fontfamily arialthis free span stylecolor redespanservice is made possible by spanspan stylefontsize pt fontfamily stopcpispanspan stylefontsize pt fontfamily arialbrnbspplease visit their web site at a stylecolor blue textdecoration underline hrefhttpwwwcpillccom targetblankspan styletextdecoration nonewwwcpillccomspana or call tollfree  or brspanspan stylefontsize pt fontfamily arialif you wish to unsubscribe please hit the reply button  subject  remove please allow  days to take effectspanpdivdivtdtrtbodytabletdtrtbodytabletdtrtbodytable
+pnbspp
+nextpartqxvroefefx
+
+

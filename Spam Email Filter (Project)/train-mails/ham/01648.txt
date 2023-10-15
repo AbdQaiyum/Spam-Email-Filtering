@@ -1,0 +1,38 @@
+did you want this on the list im replying to the list
+
+on  sep  at  guido van rossum wrote
+
+ whats an autoham
+
+automatically marking something as ham after a given timeout regardless of how long 
+that timeout is someone is going to forget to submit the message back as spam 
+
+how many spamsashams can be accepted before the fn rate gets unacceptable
+
+
+  how about adding an imap server with a spam and deletedham
+  folder most email clients can handle imap users should be able to
+  quickly move spam into the spam folder
+ 
+ i personally dont think imap has a bright future but for people who
+ do use it thats certainly a good approach
+ 
+  instead of deleting messages or by reprogramming the delete
+  function they can quickly move ham into the ham folder
+ 
+ yes
+
+i view imap as a stopgap measure until tighter integration with various email clients 
+can be achieved
+
+i still feel its better to require classification feedback from the recipient rather than 
+make any assumptions after some period of time passes but this is an enduser issue 
+and were still at the algorithm stage 
+
+
+
+
+brad clements                bkcmurkworkscom   
+httpwwwmurkworkscom                           fax
+aolim bkclements
+

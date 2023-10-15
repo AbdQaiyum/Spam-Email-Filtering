@@ -1,0 +1,50 @@
+on saturday  september   cet daniel quinlan wrote
+ craig hughes craighughesfamilyorg writes
+  how about configuring sa to set precendence to low for spam
+  messages then filter on that  no real human ive ever seen has
+  actually set precendence to low on real mail
+
+ assuming there isnt a better way for lotus notes users we could
+ create a precedence spam convention  the only two precedence
+ headers ive seen aside from one or two odd messages are bulk and
+ list  adding a spam header makes sense given the convention
+
+id suggest using precedence junk albeit its no standard header does most 
+software already recognize it courier eg doesnt send autoreplies to 
+mails with the precedence bulk or junk i think outlook does handle these 
+special too  says
+ autoresponses should always contain the header
+          precedence junk
+ notice the spelling of precedence in particular count the number of
+ ns and as and ses if youre totally agraphic andor from the united
+ states this will prevent welltempered mail programs from generating
+ bounce messages for these if the recipient cant be reached the
+ autoresponder message is simply discarded 
+ 
+ for what its worth the meaning of the precedence header in practice is
+ that it affects sendmail so that messages identified as less important get
+ moved back in the queue under high load 
+
+
+
+malte
+
+ moronic mail autoresponders a faq from hell
+httpwwwlinghelsinkifiusersrerikssomailautoresponderfaqhtml
+ 
+ coding is art
+ 
+
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

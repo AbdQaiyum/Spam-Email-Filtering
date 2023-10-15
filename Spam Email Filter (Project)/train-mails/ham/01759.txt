@@ -1,0 +1,17 @@
+skip
+ hmmm   how about you create empty datahamset stuff all your
+ files into a datahamreservoir folder then run the rebalpy script to
+ randomly parcel messages out to the various real directories
+
+im afraid rebal is quadratictime in the  of msgs it shuffles around 
+since it was only intended to move a few files around its dead simple
+
+an easy thing is to start the same way  move all the files into a single
+directory  then do randomshuffle on an oslistdir of that directory
+then its trivial to split the result into n slices and move the files into
+n other directories accordingly
+
+ i suspect you can pull the same stunt for your dataspam stuff
+
+yup
+

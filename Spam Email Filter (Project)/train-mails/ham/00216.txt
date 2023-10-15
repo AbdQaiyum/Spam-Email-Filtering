@@ -1,0 +1,34 @@
+hello folks
+im new to linux so here goes
+ive been trying to get connected to the outside world through my modem
+ive got debian with kernel 
+ive got this winmodemyes i know and managed to locate a proper driver
+for it
+minicom is very much able to dial out
+but there seems to be a problem with my pppd installation
+when i type ppp in the minicom terminal all i get after the initial info
+of my dynamic ip etc is a  and then the no carrier signal
+then i looked into calling pppd directly using chat
+i used this command  pppd call provider where provider is some script
+somewhere
+it dials it connects it sends my username  password and when connection
+is established it gives the sighup signal and exits
+this is confirmed when me friend and i tried to connect through a serial
+port using pppd to connect ttys  i ran pppd waiting for a connection me
+friend tried connecting and as soon as he did pppd exited
+
+some expert help would be greatly appreciated as im sick and tired of
+having to reboot get into windoze to hook up to the net and then back to
+linux mounting this drive to get that file etc  itd be nice never have
+to go back to windozeexcept for games that is
+
+thanks a million
+carlos
+
+
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

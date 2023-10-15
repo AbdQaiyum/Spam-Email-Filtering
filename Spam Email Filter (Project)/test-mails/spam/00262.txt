@@ -1,0 +1,126 @@
+body bgcolorffffff leftmargin topmargin
+ new top logo  nav 
+table width border cellspacing cellpadding
+  tr
+    td colspan height bgcolorccccccimg
+srchttpgcvcimagesspacegif width height
+bordertd
+  tr
+  tr
+    td colspan height bgcolorimg
+srchttpgcvcimagesspacegif width height
+bordertd
+  tr
+  tr
+    td alignleft width height
+      a hrefhttpgcvcindexhtmimg
+srchttpgcvcimagesnewlogogif width
+height bordera
+    td
+    td width alignleft
+backgroundhttpgcvcimagesstripesgifimg
+srchttpgcvcimagesspacegif width height
+borderbr
+  bfont facearial colorwhitelive and work in the united states of
+americafontb
+    td
+    td
+      img srchttpgcvcimagesrighttopgif width
+height border
+    td
+  tr
+  tr
+    td colspan height bgcolorimg
+srchttpgcvcimagesspacegif width height
+bordertd
+  tr
+table
+ end of new top logo  nav 
+ main part 
+table width height border cellspacing cellpadding
+  tr
+     middle area 
+    td width valigntop alignleft
+center
+font facearial size colorblackithe following information is
+intended for people who wish to obtain an american green card that enables
+them to live and work in the united states legallyifontp main
+part table width border cellspacing cellpadding
+aligncenter
+  tr
+    td aligncenter valigntop
+  img srchttpgcvcimagesspacegif width
+height bordera hrefhttpgcvcindexhtmimg
+srchttpgcvcimagessamgif width height
+bordera
+td
+td
+  img srchttpgcvcimagesspacegif width
+height border
+td
+    td alignleft
+font facearial size colorblack
+the american green card lottery program also known as dv is a us
+congress approved program that enables you to obtain the american green card
+through lottery that is conducted yearly by the american governmentp
+the diversity lottery dv program makes  immigrant visas available
+through a lottery if you win you will be entitled to live and work in the
+united states with your family you your spouse and children under  years
+of agep
+font
+div aligncenter
+  a hrefhttpgcvcindexhtmimg
+srchttpgcvcimagesparticipategif width
+height bordera
+  a hrefhttpgcvcindexhtmimg
+srchttpgcvcimageshelpgif width height
+bordera
+  a hrefhttpgcvcindexhtmimg
+srchttpgcvcimagesapplygif width height
+borderabr
+div
+td
+tdimg srchttpgcvcimagesspacegif width
+height bordertd
+  tr
+table
+table width border cellspacing cellpadding
+aligncenter
+  tr
+    td alignleft
+  hr width aligncenterp
+  font facearial size colorblack
+bwhy use our servicesbbr
+our organization allows you to fill your application online and ensure that
+your application qualifies you should note that according to the us ins out
+of the  applications submitted in one year  were
+disqualified because of bad formatting or misunderstandings of the
+requirementsp
+div aligncenterba hrefhttpgcvcindexhtmfont
+sizetake the free test to ensure your entry qualifies to
+participatefontabdivp
+if you have further questions please dont hesitate to contact usp
+sincerely yoursp
+the american green card lotterypnbspp
+font size
+br
+if you do not want to receive any further emails simply go to our a
+hrefhttpdelisterunsubscribe pagea enter your email
+address and you will be removed
+fontfont
+td
+  tr
+table
+br
+brnbspp
+    td
+    td bgcolor widthimg
+srchttpgcvcimagesspacegif width height
+bordertd
+    td bgcolor widthnbspimg
+srchttpgcvcimagesspacegif width height
+bordertd
+  tr
+table
+font colorffffff
+beqfoclaqdxdvol

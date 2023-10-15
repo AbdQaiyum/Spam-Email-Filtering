@@ -1,0 +1,108 @@
+html
+
+head
+meta httpequivcontentlanguage contentenus
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+meta httpequivcontenttype contenttexthtml charsetwindows
+titletake control of your computer with this toptitle
+head
+
+body
+
+table border width height bgcolorffffff
+  tr
+    td width height bgcolorffffff aligncenter
+    font faceimpact colorcc sizetake control of your computer 
+    with this topoftheline softwarefonttd
+  tr
+table
+table border cellspacing width cellpadding bgcolor bordercolorffffff stylebordercollapse collapse bordercolordark height bordercolorlightffff
+  tr
+    td width height bordercolorlightffffff bordercolordarkffff
+    table border width height bgcolorffff bordercolorffffff
+      tr
+        td width height aligncenterb
+        font colorff facetahoma sizenorton systemworks 
+        fontfont facetahoma size colorsoftware suitefontfont colorff facetimes new roman sizebr
+        iprofessional editionifontbtd
+      tr
+    table
+    table border width height
+      tr
+        td width height aligncenterb
+        font facetahoma colorffffff sizeincludes six  fonti
+        font facetahoma size colorffffyes fontifont facetahoma colorffffff size 
+         featurepacked utilitiesbr
+        all for fontfont facetahoma size colorfffffontfont facetahoma colorffffff size 
+        special fontfont facetahoma size colorfffflowfontfont facetahoma colorffffff size 
+        price of fontfont facetahoma size colorffffonly 
+        fontbtd
+      tr
+    table
+    table border width height bgcolor bordercolorffffff
+      tr
+        td width height bgcolorffff bordercolor
+        bfont facetahoma sizefont colorthis software 
+        willfontfont colorffffffbr
+        nbspfontfont colorff protect your computer from unwanted and
+        ihazardousi virusesbr
+        nbsp help secure your private amp valuable informationbr
+        nbsp allow you to transfer files and send emails usafelyubr
+        nbsp backup your all your data quick and easilybr
+        nbsp improve your pcs performance wisuperiori integral diagnosticsbr
+        nbsp iyoull never have to take your pc to the repair shop againifontfontbtd
+      tr
+    table
+    pnbsp p
+    table border width height bgcolorffffff bordercolorffff
+      tr
+        td width height
+        p aligncenterbfont size facetahomafont color
+        font colorfffont featurepacked utilities font
+        font color sizebr
+        fontufont colorfffontfont color great 
+        pricefontufont color size br
+        a font colorfffont combined retail value fonti
+        font colorffyoursfonti font colorfor only
+        font colorfffont fontfontfont sizebr
+        fontbfont facetahoma sizefont colorlt price 
+        includes fontfont colorfffreefontfont color
+        fontfont colorshipping gtfontfonttd
+      tr
+    table
+    p aligncenterbfont facearial size colorffffffdont fall 
+    prey to destructive viruses or hackersbr
+    protectnbsp your computer and your valuable information andfontbp
+    table border width height bordercolorffff bgcolorffff
+      tr
+        td width height bgcolorffffff aligncenterb
+        a stylecolor rgb fontfamily verdana fontsize pt fontweight bold titleorder now hrefhttpsystemworkshtm
+        font facetahoma size colorffgt click here to order 
+        yours now ltfontabtd
+      tr
+    table
+    p aligncenterbfont colorffffff denotes free shipping for 
+    uscanadian customers only fontbp
+    p aligncenternbspp
+    p aligncenternbspp
+    p aligncenterfont colorffffffwe are strongly against sending 
+    unsolicited emails to those who do not wish to receive our special mailings 
+    you have opted in to one or more of our affiliate sites requesting to be 
+    notified of any special offers we may run from time to time we also have 
+    attained the services of an independent rd party to overlook list 
+    management and removal services this is not unsolicited email if you do 
+    not wish to receive further mailings please font
+    a hrefhttpremovemeaspfont colorffffffclick 
+    herefontafont colorffffffnbspto be removed from the list please 
+    accept our apologies if you have been sent this email in error we honor all 
+    removal requestsfonttd
+  tr
+table
+
+body
+
+html
+psqqdhixxdpfl
+
+

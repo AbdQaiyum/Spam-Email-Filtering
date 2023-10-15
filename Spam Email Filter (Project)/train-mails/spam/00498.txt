@@ -1,0 +1,30 @@
+this is an html email message  if you see this your mail client does not support html messages
+
+nextpartoomlwvmesg
+contenttype texthtmlcharsetiso
+contenttransferencoding bit
+
+table border cellpadding cellspacing height width
+tbody
+tr
+td alignmiddle bgcolorff colspan height valigncenter widthstrongbigbigthank you for shopping with usbigbigstrongtdtr
+tr
+td alignmiddle height valigntop width
+p aligncenteremstrongfont colorffgifts for all occasionsfontstrongemp
+p aligncenternbspp
+p aligncenterfree gift with  purchaseptd
+td alignmiddle height valigncenter widthimg altjpg  bytes height srchttpwwwmarysstorecomimagesproductsimagesjpg widthtd
+td alignleft height valigntop widthfont facearial sizefor a limited time only receive this  plush santa bear free with your purchase of  or more 
+pwhen your order totals  or more order must be  or more before shipping and handling this santa bear is added to your cart for free while supplies lastfontptdtr
+tr
+td height widthimg altwpejpg  bytes height srchttpwwwmarysstorecomimagesproductsnewpagjpg widthtd
+td alignleft colspan height valigntop width
+p alignleftfont colorffmarys store would like to thank you for being a valued customernbspnbsp as our way of saying thanks to you the customer we are offering a  discountnbsp on all purchases made during the month ofnbsp novembernbsp just enter the wordfontp
+p aligncenterfont colorffstrongthanksstrongnbspnbsp fontp
+p alignleftfont colorffin the discount code box during checkout to receive your automatic  discountfontp
+p aligncenterfont colorffa hrefhttpwwwmarysstorecomclick herea a hrefhttpwwwmarysstorecomto enter afontp
+p aligncentera hrefhttpwwwmarysstorecomfont colorffmarys storefontaptdtrtbodytable
+psmallsmallif you do not wish to receive further discounts please a hrefmailtoremovememarysstorecomclick herea and type remove in the subject linesmallsmallp
+nextpartoomlwvmesg
+
+

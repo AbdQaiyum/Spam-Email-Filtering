@@ -1,0 +1,178 @@
+meta httpequivdcontenttype contentdtexthtmlcharsetdbig
+doctype html public wcdtd html  transitionalen
+htmlhead
+meta httpequivdcontenttype contentdtexthtml charsetdbig
+meta contentdmshtml  namedgenerator
+stylestyle
+head
+body bgcolordffffff
+divfont sized
+p aligndcenterimg heightd srcdhttpviptocombensu
+lovegif
+widthd borderdp
+div aligndcenter
+center
+table heightd cellspacingd cellpaddingd widthd bgcolord
+ffff
+borderd
+  tbody
+  tr
+    td widthd heightd
+      centercentera
+      form actiondhttpwwwxlinecomtwfmfmphpfd m
+ethoddpost
+      p styledmargintop px aligndleftfont
+      sizednbspnbspnbspfontp
+      p styledmargintop px aligndleftbfont colord
+
+      sizednbsp fontbfont sizedbaabawbadag
+fontbfont
+      colordffffffselect sized namedd option
+      selectedbabfbeaadabfcoptionselectfontbp
+      p styledmargintop px aligndleftfont sizednbspn
+bsp
+      amanbspnbspnbsp awaginput sized
+      namednamebbbfbcgaaaeafeawaaacbfbc
+gbccabadbrnbspnbsp aednbspnbspnbsp aaaginput
+
+      sized namedaddfontp
+      p styledmargintop px aligndleftfont sizednbspn
+bsp
+      aedavbqbdcaginput sized namedhometelfontp
+
+      p styledmargintop px aligndleftfont
+      sizednbspnbspfontfont sized abdaqbqbdca
+ginput sized
+      namedofficetelfontp
+      p styledmargintop px aligndleftfont
+      sizednbspnbspfontfont sized aebcabqbdca
+ginput sized
+      namedmobiltelfontp
+      p styledmargintop px aligndleftfont sizednbspn
+bsp
+      bqalblafagfontinput sized namedemailp
+      p styledmargintop px aligndleftfont sizednbspn
+bsp
+      bceabdsbbagfontinput sized namedemailp
+      p styledmargintop px lineheight  aligndcentern
+bspnbsp
+      input typedradio valueddata namedchoicefont colord
+
+      sizedadaacbeaacaecafahaabaakbobd
+abbeabtbqalbffontbrnbsp font colord
+      sizedbcaabfagadbddahaubbadtbee
+acabcacdabbbboabaabddbdtbeafontp
+      p styledmargintop px lineheight  aligndcenterf
+ont
+      colord sizednbspnbspnbspnbsp nbspnbsp
+      bfbddadbddaaedaaapbeaaecabbbbna
+abbbzacfontp
+      p styledmargintop px lineheight  aligndcenter
+      centernbspnbsp input typedsubmit valuedbdtaw namedo
+knbsp input typedreset valuedadabbsbaw namedresetce
+nter
+      center
+      ppformcentertdtrtbodytablediv
+script languagedjavascriptscript
+
+script languagedjavascriptscript
+
+script languagedvbscript       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+           
+           
+           
+           
+           
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+           
+       
+       
+       
+script
+centerfontdivbodyhtml
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

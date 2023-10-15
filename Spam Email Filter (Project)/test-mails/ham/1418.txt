@@ -1,0 +1,32 @@
+
+craig rhughes said
+
+ the ga run on the current corpus is yielding an average mean 
+ score for falsepositives of about  points which is higher 
+ than before  theres some tweaking to be done yet rule 
+ elimination and such so that will likely fall but  might 
+ not be enough of a correction in many situations  i will set 
+ the scores for the habeas stuff and the ironport stuff to be 
+ sensible given
+ 
+ a estimated likeliness of compliance with habeasbonded sender 
+ rules and
+ b score correction level needed to achieve purposes of those projects
+
+using the scoreranges stuff and my aggressive antifp evaluation code
+btw yielded an average fp of  points with  fps and 
+overall accuracy  but i notice you went back to the other method
+just pointing this out 
+
+j
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

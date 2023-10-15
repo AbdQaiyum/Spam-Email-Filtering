@@ -1,0 +1,29 @@
+despite my lack of confidence to upgrade to  using the tarball instead of 
+cpan it worked  with the help of others got razor working  i did however 
+notice something in my logs which happened twice but hasnt recurred
+
+sep    omega spamd razor check skipped permission denied 
+cant call method log on unblessed reference at 
+usrlibperlsiteperlrazorclientagentpm line  stdin line 
+
+
+
+ 
+robin lynn frank
+paradigmomega llc
+
+the only certainty about documentation is that
+whoever wrote it might have understood it
+the rest of us may not be so lucky
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

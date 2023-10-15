@@ -1,0 +1,38 @@
+update of cvsrootspamassassinspamassassin
+in directory uswprcvstmpcvsserv
+
+modified files
+      tag b
+	procmailrcexample 
+log message
+added length limit to sample procmail recipe
+
+index procmailrcexample
+
+rcs file cvsrootspamassassinspamassassinprocmailrcexamplev
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ procmailrcexample	 aug   	
+ procmailrcexample	 aug   	
+   
+ pipe the mail through spamassassin
+ pipe the mail through spamassassin unless its over k
+ spamassassin can take a long time to process large messages
+ fw
+  
+  spamassassin
+ 
+  move it to the caughtspam mbox if it was tagged as spam
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassincommits mailing list
+spamassassincommitslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassincommits
+

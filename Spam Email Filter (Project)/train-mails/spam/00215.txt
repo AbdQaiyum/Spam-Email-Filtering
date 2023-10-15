@@ -1,0 +1,206 @@
+
+doctype html public wcdtd html en
+
+html
+head
+titlewwwlowinterestratesnettitle
+style
+
+td 
+	fontfamily verdana tahoma sansserif
+	fontsize px
+	color black
+
+
+text 
+	fontfamily verdana tahoma sansserif
+	fontsize px
+	color black
+
+
+text 
+	fontfamily verdana tahoma sansserif
+	fontsize px
+	color black
+
+
+header 
+	fontfamily trebuchet ms verdana tahoma sansserif
+	fontsize px
+	color white
+
+
+title 
+	fontfamily trebuchet ms verdana tahoma sansserif
+	fontsize px
+	color dcfab
+	fontweight bold
+
+
+h 
+	color bc
+	fontfamily tahoma sansserif
+
+
+footer 
+	fontfamily verdana tahoma sansserif
+	fontsize px
+	color white
+	fontweight bold
+
+
+afooter color white textdecoration none
+afootervisited color white textdecoration none
+afooterhover color white textdecoration underline
+
+button 
+	fontsize px
+	borderwidth 
+	backgroundcolor ff
+	color white
+	fontfamily verdana tahoma sansserif
+	fontweight bold
+
+
+
+selected 
+	color fd
+	textdecoration none
+
+
+clicker cursor hand
+
+
+a color white textdecoration none
+
+style
+
+
+head
+
+body leftmargind topmargind marginwidthd marginheightd
+form actiond methoddpost
+
+
+
+div
+
+
+
+
+table widthd cellspacingd cellpaddingd borderdtrtd b
+gcolorddcfab
+
+
+
+center
+br
+table widthd cellspacingd cellpaddingd borderd
+
+tr
+td bgcolordfd heightd classdheader aligndleftnbspnbsp
+nbspnbspnbspnbspbquotepoolbmortgagetd
+tr
+
+
+
+trtd bgcolordwhite aligndcenter
+
+table widthd cellspacingd cellpaddingd borderd
+tr
+td aligndleft classdtext
+br
+were different and its a difference that can save you time and moneybr
+
+we b iddselectedcanb help youbrbr
+
+	table widthd cellspacingd cellpaddingd borderd
+	trtd widthd aligndcenter classdtitletdtd classdte
+xtbrefinanceb to get a lower ratetdtr
+	trtd aligndcenter classdtitletdtd classdtextbcons
+olidateb your highinterest debttdtr
+	trtd aligndcenter classdtitletdtd classdtextblowe
+rb your monthly paymentstdtr
+	trtd aligndcenter classdtitletdtd classdtextget b
+extra cashb for a vacationtdtr
+	trtd aligndcenter classdtitletdtd classdtextpay for
+ btuitionbtdtr
+	trtd aligndcenter classdtitletdtd classdtextstart h
+ome bimprovementsbtdtr
+	trtd aligndcenter classdtitletdtd classdtextbpurc
+haseb a new hometdtr
+	table
+	
+br
+p classdtextwe understand that there are a lot of decisions to make wh
+en securing a mortgage loan or refinancing your current loan  thats why 
+we have mortgage experts with years of experience to help you make the rig
+ht decisions  
+
+p classdtextcredit doesnt have to be an issue either  whether your c
+redits perfect or less than perfect we can help you find the best deal o
+n your home loan our quick free easy form will put you in contact with 
+the top brokers in the businessbr
+bdont miss the opportunity to saveb
+
+p classdtextnow is the perfect time to secure your mortgage loan  wit
+h our country in a recession the federal government keeps lowering intere
+st rates to help stimulate the economy  it is a winwin situation and it 
+benefits mostly you the homeowner btry it nowb
+				
+p classdtextbthere are no excuses there are great rates available 
+its a simple form and it costs you nothing to fill out for a free quote
+b
+
+
+td
+tr
+table
+
+
+brbr
+
+
+table cellspacingd cellpaddingd borderd aligndright
+tr
+td bgcolordfd widthd heightd aligndcentera hrefdht
+tpwwwlowinterestratesnetbproceed herebatd
+td widthdnbsptd
+tr
+table
+
+
+td
+tr
+table
+
+
+
+
+table widthd cellspacingd cellpaddingd borderd
+tr
+td widthd heightd aligndleft bgcolordfd classdfooter
+nbspnbspnbspnbsp a hrefdhttpwwwlowinterestratesnetetc
+privacyhtm classdfooterprivacya  a hrefdhttpwwwlowintere
+stratesnetetcunsubscribehtm classdfooterunsubscribeatd
+tr
+table
+
+
+center
+brbr
+
+
+tdtrtable
+
+
+div
+
+
+form
+body
+html
+
+
+
+

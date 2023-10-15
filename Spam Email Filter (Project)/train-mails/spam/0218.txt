@@ -1,0 +1,280 @@
+this is a multipart message in mime format
+
+nextpartcfcfaa
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ high velocity term underwriting has arrived
+  high velocity term underwriting has arrived
+
+ with unbelieveable rates
+ zapp the competition zapp the competition
+ 	eliminates all paperwork	
+ 	online preapplication process	
+ 	cuts days out of the application process	
+ 	avoids delays by ensuring that all information submitted is
+correct and complete 
+ 	eliminates the need for client visits and your need to obtain
+original client signatures	
+ 	increases your clients satisfaction with improved ease
+accuracy and speed 
+ 	helps you deliver policies faster than the competition	
+dont delay call or email mailtozapprosterfinancialcom  us today
+for more information
+ x
+ or 
+
+please fill out the form below for more information	
+name	  
+email	  
+phone	  
+city	  	state	  	 
+ 	  	 	   
+
+
+roster financial services llc
+mailtocustomerservicerosterfinancialcom
+
+
+zapp is an online preliminary application available through the
+zurich life companies and used in conjunction with zurichs telelifeae
+process replacement forms required in some states not for use with
+the general public for agent use only
+
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsuranceiqcomoptout
+httpwwwinsuranceiqcomoptout
+
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+nextpartcfcfaa
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlezapp the competition with rostertitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolord textd
+table widthd cellpaddingd cellspacingd 
+aligndcenter bgcolordffffff borderd 
+bordercolord
+  tr
+    tdimg srcdhttpiiqusimagesrosterajpg 
+widthd heightd altdhigh velocity term underwriting has 
+arrivedbr
+      img srcdhttpiiqusimagesrosterajpg 
+widthd heightdimg 
+srcdhttpiiqusimagesrosterajpg widthd 
+heightd altdhigh velocity term underwriting has arrivedbr
+      img srcdhttpiiqusimagesrosterajpg 
+widthd heightdbr
+      img srcdhttpiiqusimagesrosterajpg 
+widthd heightd altdwith unbelieveable rates
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          tdimg srcdhttpiiqusimagesrosteragif 
+widthd heightd altdzapp the competitionimg 
+srcdhttpiiqusimagesrosteragif widthd 
+heightd altdzapp the competitiontd
+        tr
+        tr
+          td
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                td widthd valigndbaseline 
+aligndrightimg srcdhttpiiqusimagesrostergif 
+widthd heightdtd
+                td widthdbfont facedverdana arial 
+helvetica sansserif sized colordeliminates all 
+paperworkfontbtd
+              tr
+              tr
+                td widthd valigndbaseline 
+aligndrightimg srcdhttpiiqusimagesrostergif 
+widthd heightdtd
+                td widthdbfont sized colord 
+facedverdana arial helvetica sansserifonline preapplication 
+processfontbtd
+              tr
+              tr
+                td widthd valigndbaseline 
+aligndrightimg srcdhttpiiqusimagesrostergif 
+widthd heightdtd
+                td widthdbfont facedverdana arial 
+helvetica sansserif sized colordcuts days out of the 
+application processfontbtd
+              tr
+              tr
+                td widthd valigndbaseline 
+aligndrightimg srcdhttpiiqusimagesrostergif 
+widthd heightdtd
+                td widthdbfont facedverdana arial 
+helvetica sansserif sized colordavoids
+                  delays by ensuring that all information submitted is 
+correct and complete fontbtd
+              tr
+              tr
+                td widthd valigndbaseline 
+aligndrightimg srcdhttpiiqusimagesrostergif 
+widthd heightdtd
+                td widthdbfont sized facedverdana 
+arial helvetica sansserif colordeliminates
+                  the need for client visits and your need to obtain 
+original client signaturesfontbtd
+              tr
+              tr
+                td widthd valigndbaseline 
+aligndrightimg srcdhttpiiqusimagesrostergif 
+widthd heightdtd
+                td widthdbfont facedverdana arial 
+helvetica sansserif sized colordincreases
+                  your clients satisfaction with improved ease 
+accuracy and speed fontbtd
+              tr
+              tr
+                td widthd valigndbaseline 
+aligndrightimg srcdhttpiiqusimagesrostergif 
+widthd heightdtd
+                td widthdbfont facedverdana arial 
+helvetica sansserif sized colordhelps
+                  you deliver policies faster than the 
+competitionfontbtd
+              tr
+            table
+          td
+        tr
+        tr
+          td aligndcenter
+            font facedarial helvetica sansserif sizedb
+            dont delay call or a 
+hrefdmailtozapprosterfinancialcomemaila
+            us today for more informationbr
+            img srcdhttpiiqusimagesrosterbgif 
+widthd heightd altdxbr
+             or br
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont sized colordffffffplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sized colordnamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sized colordemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sized colordphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sized colordcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sized colordstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                        td rowspand aligndcenter 
+valigndmiddleimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedzapprosterfinancialcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedroster financial ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            br
+            a hrefdmailtocustomerservicerosterfinancialcomimg 
+srcdhttpwwwiiqusimagesrostergif widthd 
+heightd altdroster financial services llc 
+borderdabr
+            b
+            p aligndleftfont sizedbzapp is an online 
+preliminary
+              application available through the zurich life companies 
+and used
+              in conjunction with zurichs telelifereg process 
+replacement
+              forms required in some states not for use with the 
+general public
+              for agent use onlybfontp
+            fonttd
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptout
+        httpwwwinsuranceiqcomoptoutafontp
+    td
+  tr
+table
+center
+  a hrefdhttpwwwinsuranceiqcomlegalhtmfont facedarial 
+helvetica sansserif sized colordfflegal 
+noticefonta
+center
+body
+html
+
+nextpartcfcfaa
+

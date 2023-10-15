@@ -1,0 +1,27 @@
+on tue  oct   
+ben liblit libliteecsberkeleyedu wrote
+
+ ick  perhaps this is why red hat turned the bytecode interpreter off 
+ it may improve nonantialiased rendering but only at the expense of 
+ making a mess of antialiased rendering
+ 
+ this may come down to a matter of personal aesthetics but for my part 
+ im going back to red hats standard packages with the bytecode 
+ interpreter turned off
+yes confirmed but for my part im using mostly nonantialiased fonts
+and 
+they are true ugly without the bytecode interpreter enabled
+
+remember my stupid request about your rpm 
+
+
+
+  regards from germany
+                     matthias
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

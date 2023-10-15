@@ -1,0 +1,18 @@
+
+    paul i suspect the best answer is to make the dbm implementation
+    paul configurable via bayescustomizeini with the default being
+    paul anydbm
+
+i think you might want to specify the database open function instead of just
+the module  there are three ways to open db files with bsddb btopen
+hashopen rnopen  that will require a little more trickery in optionspy
+but not an insane amount
+
+skip
+
+
+spambayes mailing list
+spambayespythonorg
+httpmailpythonorgmailmanlistinfospambayes
+
+

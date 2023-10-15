@@ -1,0 +1,100 @@
+hi im trying to build sa under digital unix f and am receiving a
+compile error and many warnings for spamc  the perl makefilepl
+does ok but when i do the make i get this
+
+cc std fprm d ieee dintrinsics iusrlocalinclude dlanguagec
+o spamd
+spamcc  o spamdspamc lusrlocallib lbind ldbm ldb lm liconv
+lutil
+cc error spamdspamcc line  in this declaration inaddrt has
+no linka
+ge and has a prior declaration in this scope at line number  in file
+usrinc
+ludesystypesh nolinkage
+typedef unsigned long   inaddrt       base type for internet
+address 
+
+cc warning spamdspamcc line  in this statement the referenced
+type of
+the pointer value msgbuf is char which is not compatible with
+unsigned ch
+ar ptrmismatch
+  ifbytes  fullread in msgbuf maxsize maxsize 
+maxsize
+
+cc warning spamdspamcc line  in this statement the referenced
+type of
+the pointer value headerbuf is char which is not compatible with
+const un
+signed char ptrmismatch
+    fullwrite outheaderbufbytes
+
+cc warning spamdspamcc line  in this statement the referenced
+type of
+the pointer value headerbuf is char which is not compatible with
+const un
+signed char ptrmismatch
+    fullwrite outheaderbufbytes
+
+cc warning spamdspamcc line  in this statement the referenced
+type of
+the pointer value msgbuf is char which is not compatible with
+const unsig
+ned char ptrmismatch
+    fullwrite outmsgbufbytes
+
+cc warning spamdspamcc line  in this statement the referenced
+type of
+the pointer value buf is char which is not compatible with
+unsigned char
+ ptrmismatch
+          iffullread inbuf    r  buf  n 
+buf
+
+cc warning spamdspamcc line  in this statement the referenced
+type of
+the pointer value buf is char which is not compatible with
+unsigned char
+ ptrmismatch
+    whilebytesfullread inbuf   
+
+cc warning spamdspamcc line  in this statement the referenced
+type of
+the pointer value outbuf is char which is not compatible with
+const unsig
+ned char ptrmismatch
+      fullwrite out outbuf outindex
+
+cc warning spamdspamcc line  in this statement the referenced
+type of
+the pointer value msgbuf is char which is not compatible with
+const unsig
+ned char ptrmismatch
+      fullwrite stdoutfilenomsgbufamountread
+
+cc warning spamdspamcc line  in this statement the referenced
+type of
+the pointer value msgbuf is char which is not compatible with
+const unsig
+ned char ptrmismatch
+      fullwritestdoutfilenomsgbufamountread
+
+ exit 
+stop
+
+can anyone suggest a way to get around this   tia
+
+jim mccullars
+the university of alabama in huntsville
+
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

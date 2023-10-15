@@ -1,0 +1,30 @@
+this is a multipart message in mime format
+nsmailboundary
+contenttype texthtml
+
+
+body bgcolorwhite textteal vlinkteal center
+table width border cellpadding cellspacingtrtdfont size
+colorcococo faceverdanaarialfont
+table bgcolorffffff border width aligncentertd
+centerbfont size colorblue faceverdanaarialgeneric vagra 
+ per mg  generic vagrafontbra
+hrefhttpwwwwebmailtvsilagra  targetnewimg srchttpwwwwebmailtvsilagrasilagrajpg
+aligntop borderfontbrfont size colorblue
+faceverdanaarialonly the price  the packaging is
+differentfontbrpacenterpfontcenterfont size colorteal faceverdanaarialul
+typesquarep alignjustifyli shipping  handling  font size colorred
+faceverdanaarialfreefontlipp alignjustifyli no prescription
+required for shippinglipp alignjustifyli no consultation
+feelipfontul
+tdtablehr
+p alignjustifyfont size colorblack faceverdanaarial
+p alignjustifyif you do not  wish to receive mail from us please
+follow a hrefhttpwwwwebmailtvcgibinremovecgifont size
+colorblack faceverdanaarialthis linkfonta for removal and we will ensure
+that you never receive email from our system again p
+we apologise for any inconvenience we may have caused youbr
+fonttdtrtablebody
+nsmailboundary
+
+

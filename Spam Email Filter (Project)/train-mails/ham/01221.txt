@@ -1,0 +1,30 @@
+hi
+
+this has been hashed over a few times on various lists now i finally got 
+around to doing something about it you can now add
+rpm httpkotiwelhocompmatilai redhat task to your sourceslist 
+and after aptget update you can find out whats available with 
+aptcache search task
+
+these are generated directly from compsxml of rh so they contain 
+exactly the same packages as youll get by choosing the various categories 
+at install time i didnt bother including srpms for these as they are 
+rather uninteresting if you want you can regenerate the specs by 
+running httpkotiwelhocompmatilaicompstaskcompstaskpy
+
+btw the repository only contains the taskpackages youll need an 
+aptenabled mirror of rh in your sourceslist to actually do anything 
+with it
+
+ 
+	 panu 
+
+
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

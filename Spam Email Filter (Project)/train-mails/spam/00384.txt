@@ -1,0 +1,242 @@
+this is a multipart message in mime format
+
+nextpartcffee
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ pocket the newest  year annuity	 pocket the newest  year
+annuity	
+ 	 from safe harbor financial	
+ 	 guaranteed for  years effective yield	 
+ 	 year surrender period	  	 please fax back contracts with
+a copy of your insurance
+license to 
+click here to contract httpiiqusimagesshshmonyapppdf  	
+ 	issued to age 	 
+ 	a rated company	 
+ 	alternative  year guaranteed plan	 
+
+call today for more information
+ 
+ or 
+
+please fill out the form below for more information	 
+name	 	  	
+address	 	 
+city	       state       zip  	
+phone	       fax  	
+email	 	 
+ 	    	
+ 
+  
+we dont want anyone to receive our mailings who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsuranceiqcomoptout
+httpwwwinsuranceiqcomoptout 
+
+legal notice httpwwwinsiqcomlegalhtm 
+
+nextpartcffee
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+title guaranteed for eight yearstitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+font facedarial helvetica sansserif
+table widthd borderd aligndcenter cellpaddingd 
+cellspacingd bordercolord bgcolord
+  tr
+    td
+			table widthd cellpaddingd cellspacingd 
+borderd bgcolord
+        tr
+          tdimg 
+srcdhttpiiqusimagesshajpg altdpocket the 
+newest  year annuity widthd heightdtd
+					tdimg srcdhttpiiqusimagesshajpg 
+altdpocket the newest  year annuity widthd 
+heightdtd
+				tr
+				tr
+					tdimg srcdhttpiiqusimagesshajpg 
+widthd heightdtd
+					tdimg srcdhttpiiqusimagesshajpg 
+altdfrom safe harbor financial widthd heightdtd
+				tr
+			table
+			table widthd cellpaddingd cellspacingd 
+borderd bgcolord
+        tr
+          td
+						table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                td widthd aligndrightimg 
+srcdhttpiiqusimagesshgif widthd 
+heightdtd
+                td colspandfont colordffffff sized 
+guaranteed for  years font sizedeffective 
+yieldfontfonttd
+              tr
+              tr
+                td aligndrightimg 
+srcdhttpiiqusimagesshgif widthd 
+heightdtd
+                tdfont colordffffff sized year surrender 
+periodfonttd
+                tdnbsptd
+                td widthd rowspand aligndcenter
+                  font colordffffff sizedplease fax back 
+contracts withbr
+                  a copy of your insurancebr
+                  license to brfont
+                  a 
+hrefdhttpiiqusimagesshshmonyapppdfimg 
+srcdhttpiiqusimagesshgif altdclick here to 
+contract widthd heightd borderda
+                td
+              tr
+              tr
+                td aligndrightimg 
+srcdhttpiiqusimagesshgif widthd 
+heightdtd
+                td widthd colspandfont colordffffff 
+sizedissued to age fonttd
+              tr
+              tr
+                td aligndrightimg 
+srcdhttpiiqusimagesshgif widthd 
+heightdtd
+                td colspandfont colordffffff sizeda 
+rated companyfonttd
+              tr
+              tr
+                td aligndrightimg 
+srcdhttpiiqusimagesshgif widthd 
+heightdtd
+                td colspandfont colordffffff 
+sizedalternative  year guaranteed planfonttd
+              tr
+            table
+					td
+        tr
+				tr
+					td aligndcenterbr
+            bfont colordffffff sizedcall today for more 
+informationbr
+            img srcdhttpiiqusimagesshgif 
+widthd heightdbr
+             or fontbbr
+            table widthd borderd  aligndcenter 
+cellpaddingd cellspacingd bordercolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter 
+backgrounddhttpiiqusimagesshgif
+                      tr
+                        td heightd colspand 
+aligndcenterfont sized colordbplease fill out 
+the form below for more informationbfonttd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbnamebfonttd
+                        tdinput typedtext namedcontactname 
+sizedtd
+                        td widthd rowspand 
+aligndcenterimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbaddressbfonttd
+                        tdinput typedtext namedaddress 
+sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbcitybfonttd
+                        td font sizedb
+                          input typedtext namedcity 
+sized
+                          nbspnbspnbspnbsp state
+                          input typedtext namedstate 
+sized
+                          nbspnbspnbspnbspnbspzip
+                          input typedtext namedzip sized 
+maxlengthd
+                          bfonttd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbphonebfonttd
+                        tdfont sizedb
+                          input typedtext namedphone 
+sized
+                          nbspnbspnbspnbspnbspfax
+                          input typedtext namedfax sized
+                          bfonttd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbemailbfonttd
+                        tdinput typedtext namedemail 
+sizedtd
+                      tr
+                      tr
+                        td aligndcenternbsptd
+                        td
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          input typedhidden 
+namedhdnrecipienttxt valuedjbrantonsafeharborfinancialcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedsafeharbor ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            nbsptd
+				tr
+      table
+		td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+			pfont facedarial helvetica sansserif sizedwe dont 
+want anyone to receive our mailings who does not
+			wish to receive them this is a professional communication
+			sent to insurance professionals to be removed from this mailing
+			list bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptout
+			httpwwwinsuranceiqcomoptoutafontp
+    td
+  tr
+table
+center
+  a hrefdhttpwwwinsiqcomlegalhtmfont sized 
+facedarial helvetica sansseriflegal notice fonta
+center
+font
+body
+html
+
+
+nextpartcffee
+
+

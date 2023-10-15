@@ -1,0 +1,49 @@
+exmhp
+contenttype textplain charsetusascii
+
+ from  hal devore haldevoreacmorg
+ date  tue  oct   
+
+ one possibility that occurs to me would be a button or mouse
+ click that shrinks the sequences window to show only the
+ sequences in the always show list  and of course a way to 
+ expand it back
+
+thats a pretty good idea  im not sure ill get to it any time soon  i 
+already have a known bug reported on  that i havent been able to get to
+
+chris
+
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqemvubkbhriuirasxajgfxfvnldkpjauzyusrouwefqcfwpnm
+ppbfhfxicipbaruo
+tdi
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

@@ -1,0 +1,279 @@
+this is a multipart message in mime format
+
+nextpartbcffafb
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ youre invited
+ learn about our
+
+    
+ free annuity client seminar system	
+call us to reserve your space today
+
+ 	
+
+this is not just another seminar system
+ours works and its free
+
+ a group of insurmarks top financial planners have been dramatically
+growing
+ their incomes using our system in fact our agents earn  times the
+national
+ average plus insurmark is sharing in part or all of the seminar
+expenses if you
+ are currently selling using another seminar system stop now and call
+us
+ our formula for success will increase your income within  days 
+
+formula for success
+
+ avg of  rsvps per seminar	  avg annuity sale  	 
+  avg buying units  	  avg agent commission    
+
+  new client appointments  	  avg seminar commission 
+	 
+
+net profit from seminar is 
+if you host only  seminars
+you have increased your income by over 
+ million dollars 
+
+
+want to learn more about the successful annuity client seminar system
+hurry seating is limited to only  advisors 
+
+
+
+please fill out the form below for more information	 
+name	  	 	
+email	  	
+phone	  	
+city	  	state	  	
+ 	  	 	   	
+ 
+
+ 
+  
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet 
+
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartbcffafb
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titleyoure invitedtitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordccff textd
+font facedarial helvetica sansserif
+table widthd cellpaddingd cellspacingd 
+aligndcenter bgcolordffffff bordercolord 
+borderd
+  tr
+    td aligndcenter
+      img srcdhttpiiqusimagesinsurmarkbgif 
+widthd heightd altdyoure invitedbr
+      img srcdhttpiiqusimagesinsurmarkbgif 
+widthd heightd altdlearn about ourbr
+      centerimg 
+srcdhttpiiqusimagesinsurmarkajpg widthd 
+heightdimg 
+srcdhttpiiqusimagesinsurmarkajpg widthd 
+heightdimg 
+srcdhttpiiqusimagesinsurmarkajpg widthd 
+heightdimg 
+srcdhttpiiqusimagesinsurmarkajpg widthd 
+heightdcenter
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          td colspand aligndcenterimg 
+srcdhttpiiqusimagesinsurmarkbgif widthd 
+heightd altdfree annuity client seminar systemtd
+        tr
+      table
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          td aligndcenter
+            bfont sizedcall us to reserve your space 
+todayfontbbrbr
+            img srcdhttpiiqusimagesinsurmarkgif 
+widthd heightd altd
+          td
+        tr
+        tr
+          td
+            p aligndcenterbr
+              bfont sizedthis is not just another seminar 
+systembr
+              ours works and its font 
+colordfffreefontbfontp
+            pnbspa group of insurmarks top financial planners have 
+been dramatically growingbr
+              nbsptheir incomes using our system in fact our agents 
+earn  times the nationalbr
+              nbspaverage plus insurmark is sharing in part or all 
+of the seminar expenses if youbr
+              nbspare currently selling using another seminar system 
+bstop nowb and call usbr
+              nbspour formula for success will increase your income 
+within  days p
+            p aligndcenterfont sized 
+colordffbformula for successbfontp
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                td widthdbfont sizednbspavg of 
+ rsvps per seminarfontbtd
+                td widthdbfont sizednbspavg 
+annuity sale d fontbtd
+              tr
+              tr
+                td widthdbfont sizednbsp 
+avg buying units d fontbtd
+                td widthdbfont sizednbspavg 
+agent commission   d fontbtd
+              tr
+              tr
+                td widthdbfont sizednbsp 
+new client appointments d fontbtd
+                td widthdbfont sizednbspavg 
+seminar commission d fontbtd
+              tr
+            table
+            p aligndcenterbfont facedtimes new roman times 
+serif
+              net profit from seminar is font 
+colordfffontbr
+              if you host only  seminarsbr
+              you have increased your income by over br
+              u million dollarsu br
+              fontbp
+            p aligndcenterfont facedtimes new roman times 
+serifbwant
+              to learn more about the quotsuccessful annuity client 
+seminar systemquotbr
+              hurry seating is limited to only  advisors 
+bfontp
+          td
+        tr
+        tr
+          td aligndcenter br
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont sized colordffffffplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                        td rowspand valigndmiddle 
+aligndcenterimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedseminarannuitybizcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedinsurmark  ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            br
+            img srcdhttpiiqusimagesinsurmarkgif 
+widthd heightd
+            brnbsp
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+font
+body
+html
+
+nextpartbcffafb
+
+

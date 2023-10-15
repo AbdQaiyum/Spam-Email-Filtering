@@ -1,0 +1,30 @@
+in a message dated thu  aug   cdt
+ulises ponce said
+
+thanks paul
+that is the way i am doing right now but i would like to not use the mouse 
+for such things any other clue
+
+the best i can think of is to figure out what the command being 
+issued by exmh is that selects and inserts the sig and bind that to a 
+key sequence  that shouldnt be too difficult its just a matter 
+of figuring out the tcl something my perlbased brain isnt excited 
+about 
+ 
+
+seeya
+paul
+
+	it may look like im just sitting here doing nothing
+   but im really actively waiting for all my problems to go away
+
+	 if youre not having fun youre not doing it right
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+

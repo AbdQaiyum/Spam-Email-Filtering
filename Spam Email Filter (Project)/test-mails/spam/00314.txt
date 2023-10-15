@@ -1,0 +1,73 @@
+this is a multipart message in mime format
+badedeada
+contenttype texthtml charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+meta httpequivdcontenttype contentdtexthtml charsetd
+iso
+   
+titletitle
+head
+body bgcolordffffff
+table widthd borderd cellspacingd cellpaddingd
+  tr
+    tdfont facedverdana arial helvetica sansserif sized
+hibr
+      br
+      i visited a hrefd
+httpwwwtrafficmagnetnethttpwwwefiiea and 
+      noticed that youre not listed on some search engines i think we can 
+offer 
+      you a service which can help you increase traffic and the number of 
+visitors 
+      to your websitebr
+      br
+      i would like to introduce you to a hrefd
+httpwwwtrafficmagnetnettrafficmagnetneta we offer a unique 
+technology 
+      that will submit your website to over  search engines and 
+directories 
+      every monthbr
+      br
+      font 
+      table widthd borderd cellspacingd cellpaddingd 
+aligndcenter
+        trtda hrefdhttpwwwtrafficmagnetnetimg srcd
+httpimagetrafficmagnetnetimagelogogif widthd heightd
+ borderdatd
+          tda hrefdhttpwwwtrafficmagnetnetimg srcd
+httpimagetrafficmagnetnetimagenewscgemjpg widthd
+ heightd borderdatd
+          td valigndbottoma hrefdhttpwwwtrafficmagnetnetimg 
+srcdhttpimagetrafficmagnetnetimagesignupgif widthd 
+heightd borderdatd
+        tr
+      table
+      font facedverdana arial helvetica sansserif sizedbr
+      youll be surprised by the low cost and by how effective this website 
+promotion 
+      method can be br
+      br
+      to find out more about trafficmagnet and the cost for submitting your 
+website 
+      to over  search engines and directories visit a hrefd
+httpwwwtrafficmagnetnetwwwtrafficmagnetneta 
+      br
+      br
+      i would love to hear from you br
+      brbr
+      best regardsbrbr
+      christine hall br
+      sales and marketing br
+      email christinetrafficmagnetnet br
+      a hrefd
+httpwwwtrafficmagnetnethttpwwwtrafficmagnetneta 
+      font td
+  tr
+table
+body
+html
+
+badedeada

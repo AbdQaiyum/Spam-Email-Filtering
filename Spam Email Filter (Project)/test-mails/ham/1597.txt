@@ -1,0 +1,95 @@
+this is just an semieducated guess  if im wrong someone please correct
+me
+
+spamd setuids to the user running spamc since youre calling spamc from a
+global procmailrc file its being run as root most likely if called as
+root spamd wont open userprefs files
+
+from the spamc man page
+
+       u username
+           this argument has been semiobsoleted  to have spamd use
+           peruserconfig files run spamc as the user whose config
+           files spamd should load  if youre running spamc as some
+           other user though eg root mail nobody cyrus etc
+           then you can still use this flag
+
+
+the solution is to set dropprivsyes in etcprocmailrc just before running
+spamc from the procmailrc man page
+
+       dropprivs   if set to yes procmail will drop all privileges
+                   it might have had suid or sgid  this  is  only
+                   useful  if  you  want  to guarantee that the bottom
+                   half of the etcprocmailrc file is executed on
+                   behalf of the recipient
+
+
+i hope that helps and i also hope its right
+
+st
+
+
+ original message
+ from spamassassintalkadminexamplesourceforgenet
+ mailtospamassassintalkadminlistssourceforgeneton behalf of
+ cheryl l southard
+ sent tuesday september    pm
+ to spamassassintalkexamplesourceforgenet
+ subject satalk userprefs ignored
+
+
+ hi all
+
+ i am running spamassassin  with procmail as my local delivery agent
+ with sendmail  i use spamcspamd so that it runs sitewide from
+ etcprocmailrc
+
+ spamd is run as root with the flags d a c and spamc isnt run with
+ any flags
+
+ when i was testing the program i deployed spamc from my personal
+ procmailrc file my spamassassinuserprefs file was read each time
+ i can see this because i have a nondefault requiredhits value which
+ gets reported in every email on the xspamstatus line
+
+ now that i run spamc from the global etcprocmailrc file my
+ spamassassinuserprefs file is no longer being read or processed from
+ emails from outside computers  the requiredhits value gets set back
+ to the one in etcmailspamassassinlocalcf  however if i send local
+ email my userprefs file is read and processed correctly
+
+ does anyone know how to fix this problem  if this is a spamassassin or
+ procmail bug
+
+ thanks
+
+ cheryl
+
+ 
+ cheryl southard
+ cldastrocaltechedu
+
+
+ 
+ this sfnet email is sponsored bythinkgeek
+ welcome to geek heaven
+ httpthinkgeekcomsf
+ 
+ spamassassintalk mailing list
+ spamassassintalklistssourceforgenet
+ httpslistssourceforgenetlistslistinfospamassassintalk
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

@@ -1,0 +1,31 @@
+on wed  at  ville skytt wrote
+
+  the devices are there now thank gordon for reporting the problem and as i
+  said you were the only one any further comments are very welcome
+  
+  download  httpftpfreshrpmsnetpubfreshrpmstestingalsa
+  new spec  httpfreshrpmsnetbuildsalsadriveralsadriverspec
+ 
+ ahh wonderful  just tried out these and finally got sound working
+ with my abit thiiraids integrated audio  ive been pulling hair
+ together with the helpful opensound people for quite some time now
+ but weve failed to get sound to work either with the drivers included
+ in kernel or the commercial oss
+ 
+ thanks a lot   the rpms seem to be fine they worked for me out of
+ the box on vanilla valhalla wlatest errata
+
+except that i dont see an init script in the rpms a sample one
+designed for rh is supposed to be in utilsalsasound  could you take
+a look if it can be included
+
+cheers
+ 
+ille skytt
+villeskytta at ikifi
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

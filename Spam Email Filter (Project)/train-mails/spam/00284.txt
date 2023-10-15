@@ -1,0 +1,203 @@
+html
+
+head
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titlecheck the reports you would like to receivetitle
+meta httpequivcontenttype contenttexthtml charsetiso
+style
+acolornavy textdecorationnone fontweightbold fontfamilyarialhelveticasansserif
+ahovercolorred textdecorationnone fontweightbold fontfamilyarialhelveticasansserif
+aactivecolorffcc textdecorationnone fontweightbold fontfamilyarialhelveticasansserif
+avisitedcolorffcc textdecorationnone fontweightbold fontfamilyarialhelveticasansserif
+bodycolorblack fontfamilyverdana
+tdfontfamilyarialhelveticasansserif
+style
+
+head
+body bgcolorccc text
+div aligncentercenter
+
+form actionhttpwwwredlightemailcomsubmitsignupcfm methodpost nametest idtest targetblank
+	input typehidden namecompanyid value
+	input typehidden namegatherer valuebigemail
+	input typehidden namesitename value
+	input typehidden nameowner value
+	input typehidden namenexturl valuehttpwwwredlightemailcomthankyoucfmexitconsoleno
+	input typehidden namebackurl value
+
+	table border cellpadding width height
+		tr
+			td colspan height width
+                bfont color sizecheck the available reports you would like to receivefontb
+				hr width
+                font size colorbbnbspbkeep on top of the latest news get
+                great special deals now
+				brbnbspbit is complimentaryb it costs nothingb you can quit anytime font
+				hr width
+			td
+		tr
+		tr
+			td bgcolordarkred colspan aligncenter height width
+				font size colorffffffstrongfinancial  stocks  loans  mortgagestrongfont
+			td
+		tr
+		tr
+			td width alignleft height
+				input typecheckbox namelist valueyes
+			td
+			td width alignleft height
+				financial news  stock market
+			td
+		tr
+		tr
+			td width alignleft height
+				input typecheckbox namelist valueyes
+			td
+			td width alignleft height
+                government  politics  discussions
+			td
+		tr
+		tr
+			td width alignleft height
+			input typecheckbox namelist valueyes
+			td
+			td width alignleft height
+				credit cards   mortgage refinancing  loans
+			td
+		tr
+		tr
+			td bgcolordarkred colspan aligncenter height width
+				font size colorwhitestronghealth  fitness  holidays  travelstrongfont
+			td
+		tr
+		tr
+			td width alignleft height
+				input typecheckbox namelist valueyes
+			td
+			td width alignleft height
+				online pharmacies discounts  specials
+			td
+		tr
+		tr
+			td width alignleft height
+				input typecheckbox namelist valueyes
+			td
+			td width alignleft height
+				general health  fitness tips   secrets
+			td
+		tr
+		tr
+			td width alignleft height
+				input typecheckbox namelist valueyes
+			td
+			td width alignleft height
+				alternative medicine  health care
+			td
+		tr
+		tr
+			td width alignleft height
+				input typecheckbox namelist valueyes
+			td
+			td width alignleft height
+                under booked vacations  special travel discounts
+			td
+		tr
+		tr
+			td bgcolordarkred colspan aligncenter height width
+                font size colorwhitestrongmature intrestsnbsp  datingstrongfont
+			td
+		tr
+		tr
+			td width alignleft height
+				input typecheckbox namelist valueyes checked 
+			td
+			td width alignleft height
+				general interest
+			td
+		tr
+		tr
+			td width alignleft height
+				input typecheckbox namelist valueyes
+			td
+			td width alignleft height
+				adultwebmasters  general
+			td
+		tr
+		tr
+			td width alignleft height
+				input typecheckbox namelist valueyes
+			td
+			td width alignleft height
+				adultwebmasters  unrestricted sites
+			td
+		tr
+		tr
+			td width alignleft height
+				input typecheckbox namelist valueyes
+			td
+			td width alignleft height
+				adultwebmasters  content buyers
+			td
+		tr
+		tr
+			td width alignleft height
+				input typecheckbox namelist valueyes
+			td
+			td width alignleft height
+                cassinos  online gamblinng
+			td
+		tr
+		tr
+			td width alignleft height
+				input typecheckbox namelist valueyes
+			td
+			td width alignleft height
+				dating services nbsp personal ads
+			td
+		tr
+		tr	
+			td width alignleft height
+				input typecheckbox namesendpictures valueyes checked 
+			td
+			td width alignleft height
+				send me  uncensored pictures daily 
+			td
+		tr
+		tr
+			td colspan height width
+				input typehidden namename value
+				input typehidden nameemail valuewebmasterefiie
+				input typehidden namegender valuemale
+				input typehidden namepreference valuestraight
+			td
+		tr
+		tr
+			td colspan aligncenter height width
+				br
+				input typesubmit nameaction valueplease send me the reports now  stylebackgroundcolor ccc borderstyle outset borderwidth br
+				br
+			td
+		tr
+		tr
+			td colspan height width
+				hr width size	
+				centerfont faceverdana sizethis mail is never sent unsolicited got it by error br a targetblank hrefhttpwwwredlightemailcomremovecfmwebmasterefiieclick herea  to be removed from our subscribers list fontcenter
+				hr width size
+
+brbrbrbrbrbrbrbrbrbrbrbrbrbrbrbr
+brbrbrbrbrbrbrbrbrbrbrbrbrbrbrbr
+brbrbrbrbrbrbrbrbrbrbrbrbrbrbrbr
+			td
+		tr
+	table
+form
+center
+
+body
+html
+
+ndtxcpfjspwwtrkaxnxg
+
+

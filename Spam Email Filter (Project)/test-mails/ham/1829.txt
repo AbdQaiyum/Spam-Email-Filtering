@@ -1,0 +1,15 @@
+brad clements
+ just curious if subject line capitalization can be used as an indicator
+
+ either the percentage of characters that are caps
+
+ or percentage starting with a capital letter if number of words  xx
+
+supply a mod to tokenizerpy and ill test it eventually wink  note
+that the tokenizer already preserves case in subjectline words because
+experiment showed that this was better than folding case away in this
+specific context but experiment also showed against my
+expectations that preserving case everywhere didnt make a significant
+difference to either error rate  the subject line is a special case for
+this
+

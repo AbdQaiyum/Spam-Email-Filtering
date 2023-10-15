@@ -1,0 +1,214 @@
+this is a multipart message in mime format
+
+nextpartacedb
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ ann arbor annuity exchange  giveaway	
+ when you think annuitiesthink ann arbor	
+just a short list of the many companies we represent 	
+ 	
+ 	
+fill out this form for a free entry in our  giveaway	 
+name	  	
+email	  	
+phone	  	
+fax	  	
+city	  	state	  	 	
+ 	  	 	   	
+ 
+agent use only employees and family members of ann arbor annuity
+exchange and the 
+subsidiaries are ineligible
+
+we dont want anybody to receive our mailing who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+
+nextpartacedb
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+title giveawaytitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+
+body bgcolordffffff textd
+  table widthd borderd cellspacingd cellpaddingd 
+bordercolord aligndcenter
+    tr
+      td
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            tdimg srcdhttpiiqusimagesarbortopgif 
+widthd heightd altdann arbor annuity exchange  
+giveawaytd
+          tr
+          tr
+            tdimg srcdhttpiiqusimagesarborbottomjpg 
+widthd heightd altdwhen you think annuitiesthink ann 
+arbortd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td bgcolordffff aligndcenter
+              font facedverdana arial helvetica sansserif 
+sizedbjust a short list of the many companies we 
+representbfont
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenter
+              table widthd borderd cellspacingd 
+cellpaddingd
+                tr
+                  tdimg 
+srcdhttpiiqusimagesarborinsanigif widthd 
+heightd borderdtd
+                tr
+              table
+            td
+          tr
+          tr
+            tdimg srcdhttpiiqusimagesarborlogogif 
+widthd heightdtd
+          tr
+          tr
+            td
+              table widthd bgcolordffffff borderd 
+bordercolord
+                tr
+                  form methoddpost 
+actiondhttpresponseresponseasp
+                    td
+                      table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordffffff
+                        tr bgcolord
+                          td colspand aligndcenterbfont 
+colordffffff facedarial helvetica sansserif sizedfill 
+out this form for a free entry in our  giveawayfontbtd
+                        tr
+                        tr
+                          td widthd aligndrightbfont 
+sized facedarial helvetica sansserifnamefontbtd
+                          td colspand
+                            input typedtext namedcontactname 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightbfont 
+facedarial helvetica sansserif sizedemailfontbtd
+                          td colspand
+                            input typedtext namedemail 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightbfont 
+facedarial helvetica sansserif sizedphonefontbtd
+                          td colspand
+                            input typedtext namedphone 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightbfont 
+facedarial helvetica sansserif sizedfaxfontbtd
+                          td colspand
+                            input typedtext namedfax 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightbfont 
+facedverdana arial helvetica sansserif 
+sizedcityfontbtd
+                          td widthd
+                            input typedtext namedcity 
+sized
+                          td
+                          td widthd aligndrightfont 
+facedarial helvetica sansserif 
+sizedbstatebfonttd
+                          td widthd
+                            input typedtext namedstate 
+sized
+                          td
+                          td rowspand aligndcenter 
+valigndmiddleimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                        tr
+                        tr
+                          td widthd aligndrightnbsptd
+                          td widthd
+                            input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          td
+                          td widthd aligndrightnbsptd
+                          td widthd
+                            input typedhidden 
+namedhdnrecipienttxt valuedtlucasaxonlinecom
+                            input typedhidden 
+namedhdnsubjecttxt valuedax inquiry
+                          td
+                        tr
+                      table
+                    td
+                  input typedhidden namedsentto 
+valued
+form
+                tr
+              table
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td bgcolordffff aligndcenter
+              font sized facedverdana arial helvetica 
+sansserif colord
+              pagent use only employees and family members of ann 
+arbor annuity exchange and the br
+                subsidiaries are ineligiblep
+              pwe dont want anybody to receive our mailing who does 
+not wish
+                to receive them this is a professional communication 
+sent to
+                insurance professionals to be removed from this mailing 
+list
+                do not reply to this message instead go here
+                a 
+hrefdhttpwwwinsurancemailnethttpwwwinsurancemailnetabr
+
+                a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafont
+              p
+            td
+          tr
+        table
+      td
+    tr
+  table
+body
+html
+
+nextpartacedb
+
+

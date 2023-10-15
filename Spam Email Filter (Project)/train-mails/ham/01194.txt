@@ -1,0 +1,44 @@
+    info  gstxmlregistryrebuild plugin 
+    usrlibgstlibgstwincodecso failed to load error loading plugin 
+    usrlibgstlibgstwincodecso reason usrliblibaviplayso
+    
+    undefined symbol ztvncxxabivsiclasstypeinfoe
+  
+   are you using the same version of gcc to compile the plugin as its c
+   dependencies
+  
+  yes i am  everything is built inside a chroot  i think it isnt
+  linking to a lib somewhere im just not sure what lib it should
+  preloading here  anyway to find out which one it is 
+ 
+ looks like a problem with the avifile youve rebuilt ive been unable to
+ recompile successfully the latest version on  
+
+hm it is built inside the same chroot  aviplay works well it would if i 
+had xv i get x errors   but it doesnt complain about linker 
+problems  so i suppose my avifile library on itself is compiled ok
+
+sigh avifile is one of the worst packages out there in all aspects  
+naming of tarballs not ever releasing an actual package versioning of 
+libraries api stability 
+
+thomas
+
+  
+
+the davedina project  future tv today   httpdavedinaapestaartorg
+                      
+cos when i needed someone
+you left me floored
+the feeling is gone
+i cant let go
+you know that id change if i had the love it takes
+ thomasapestaartorg 
+urgent the best radio on the internet     httpurgentrugacbe
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

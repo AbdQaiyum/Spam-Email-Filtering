@@ -1,0 +1,24 @@
+hello all
+i get problems with the latest nightly build from spamassassin with
+vmailmgr  omailadmin 
+it scans the mail and gives it an 
+
+        xspamstatus no hits required
+
+can someone look at the code for it maybe because option f is gone
+
+
+greetings
+erik rudolfs
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+

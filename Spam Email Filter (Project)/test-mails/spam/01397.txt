@@ -1,0 +1,339 @@
+this is a multipart message in mime format
+
+nextpartbddbcaecda
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ 	 preferred nonsmoker
+ 	
+ just what the doctor ordered	
+ 	
+case study 	 
+male  
+ face
+good health
+ cigarettes a day 	
+issued preferred nonsmoker	 
+case study 	 
+female  
+ face
+good health
+social cigarette smoker	 
+issued preferred nonsmoker	 
+case study 	 
+male  
+ face
+good health
+ cigars a month	 
+issuedpreferred best nonsmoker	 
+case study 	 
+male  
+ face
+private pilot
+smokes cigars daily 	
+issued preferred nonsmoker
+without aviation flat extra	 
+click here to provide the details on your tobacco case
+httpsusflsiteusflicomformstnquestionfsmokehtml 
+call the doctor with your case details
+weve cured s of agents tough cases
+ 
+ or  	
+please fill out the form below for more information	 
+name	  	 	
+email	  	
+phone	  	
+city	  	state	  	
+ 	    	
+ 
+
+  tennessee brokerage agency
+we dont want anyone to receive our mailings who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsuranceiqcomoptout
+httpwwwinsuranceiqcomoptout 
+
+legal notice httpwwwinsiqcomlegalhtm 
+
+nextpartbddbcaecda
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlepreferred nonsmoker rates for smokerstitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolord textd
+font facedarial helvetica sansserif
+table widthd borderd aligndcenter cellpaddingd 
+cellspacingd bordercolord bgcolordffffff
+  tr
+    td aligndcenter
+			table widthd cellpaddingd cellspacingd 
+borderd
+        tr
+          tdimg 
+srcdhttpiiqusimagestbaajpg widthd 
+heightdtd
+          tdimg 
+srcdhttpiiqusimagestbagif altdpreferred 
+nonsmoker widthd heightdbr
+            img srcdhttpiiqusimagestbaagif 
+widthd heightdtd
+        tr
+        tr
+          td colspandimg 
+srcdhttpiiqusimagestbagif altdjust what 
+the doctor ordered widthd heightdtd
+        tr
+      table
+		td
+	tr
+	tr
+		td
+			table widthd borderd cellpaddingd 
+cellspacingd bgcolordfdb
+        tr aligndcenter
+          td heightd colspandimg 
+srcdhttpiiqusimagestbagif widthd 
+heightdtd
+				tr
+				tr
+					td widthd aligndcenter
+						table widthd cellpaddingd cellspacingd 
+borderd bordercolord
+              tr
+                td
+                  table widthd borderd cellpaddingd 
+cellspacingd bgcolordffffff
+                    tr
+                      td aligndcenter bgcolordfont 
+colordffffff sizedbcase study bfonttd
+                    tr
+                    tr
+                      td bgcolordccccccbfont sizedmale  
+br
+                         facebr
+                        good healthbr
+                         cigarettes a day fontbtd
+                    tr
+                    tr
+                      td aligndcenterfont sizedbissued 
+font colordffpreferred nonsmokerfontbfonttd
+                    tr
+                  table
+                td
+              tr
+            table
+          td
+          td widthd aligndcenter
+            table widthd cellpaddingd cellspacingd 
+borderd bordercolord
+              tr
+                td
+                  table widthd borderd cellpaddingd 
+cellspacingd bgcolordffffff
+                    tr
+                      td aligndcenter bgcolordfont 
+colordffffff sizedbcase study bfonttd
+                    tr
+                    tr
+                      td bgcolordccccccbfont sizedfemale 
+ br
+                         facebr
+                        good healthbr
+                        social cigarette smokerfontbtd
+                    tr
+                    tr
+                      td aligndcenterfont sizedbissued 
+font colordffpreferred nonsmokerfontbfonttd
+                    tr
+                  table
+                td
+              tr
+            table
+          td
+        tr
+        tr aligndcenter
+          td heightd valigndtop
+            table widthd heightd borderd 
+cellpaddingd cellspacingd bordercolord
+              tr
+                td
+                  table widthd borderd cellpaddingd 
+cellspacingd bgcolordffffff
+                    tr
+                      td aligndcenter bgcolordfont 
+colordffffff sizedbcase study bfonttd
+                    tr
+                    tr
+                      td heightd bgcolordccccccbfont 
+sizedmale  br
+                         facebr
+                        good healthbr
+                         cigars a monthfontbtd
+                    tr
+                    tr
+                      td aligndcenterbfont 
+sizedissuedfont colordffpreferred best 
+nonsmokerfontfontbtd
+                    tr
+                  table
+                td
+              tr
+            table
+          td
+          td valigndtop
+            table widthd cellpaddingd cellspacingd 
+borderd bordercolord
+              tr
+                td
+                  table widthd borderd cellpaddingd 
+cellspacingd bgcolordffffff
+                    tr
+                      td aligndcenter bgcolordfont 
+colordffffff sizedbcase study bfonttd
+                    tr
+                    tr
+                      td bgcolordccccccbfont sizedmale  
+br
+                         facebr
+                        private pilotbr
+                        smokes cigars daily fontbtd
+                    tr
+                    tr
+                      td aligndcenterbfont sizedissued 
+font colordffpreferred nonsmokerfontbr
+                        font sizedwithout aviation flat 
+extrafontfontbtd
+                    tr
+                  table
+                td
+              tr
+            table
+          td
+        tr
+        tr aligndcenter
+          td colspanda 
+hrefdhttpsusflsiteusflicomformstnquestionfsmokehtmlimg 
+srcdhttpiiqusimagestbaagif altdclick here 
+to provide the details on your tobacco case widthd 
+heightd borderdabr
+            bfont colordff sizedcall the doctor with 
+your case detailsfontbr
+            font sized colordffweve cured s of 
+agents tough casesfontbr
+            img srcdhttpiiqusimagestbagif 
+altd widthd heightdbr
+            font colord sized or fontb
+          td
+        tr
+        tr aligndcenter
+          td colspand
+            table widthd borderd cellpaddingd 
+cellspacingd bordercolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordeeeeee
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont colordffffff sizedplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                        td rowspand valigndmiddle 
+aligndcenterimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td colspand
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          input typedhidden 
+namedhdnrecipienttxt valuedimpairedrisktbacom
+                          input typedhidden namedhdnsubjecttxt 
+valuedtba smoker ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            br
+            nbspimg 
+srcdhttpiiqusimagestbagif altdtennessee 
+brokerage agency widthd heightdtd
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+			pfont facedarial helvetica sansserif sizedwe dont 
+want anyone to receive our mailings who does not
+			wish to receive them this is a professional communication
+			sent to insurance professionals to be removed from this mailing
+			list bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptout
+			httpwwwinsuranceiqcomoptoutafontp
+    td
+  tr
+table
+center
+  a hrefdhttpwwwinsiqcomlegalhtmfont sized 
+facedarial helvetica sansseriflegal notice fonta
+center
+font
+body
+html
+
+nextpartbddbcaecda
+
+

@@ -1,0 +1,229 @@
+this is a multipart message in mime format
+
+nextpartcfebbeee
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+
+ rising rates guaranteeda
+up your incomefirst sale bonus 
+ 	
+a new guaranteed annuity
+that keeps going up and up and up
+
+increasing rates  all guaranteed 	flexible or single premiums 
+nursing home waiver 	issue age  
+ rising interest rates graph
+ rex huffman  associatesa
+ ext a
+call today bonus
+
+please fill out the form below for more information	
+name	  	 insurance iq logo
+email	  
+phone	  
+city	  	state	  
+ 	  	 	   
+ 
+most states surrender charge varies for ages  in ct in md ok
+sc contracts issued by and bonus sponsored by usg annuity  life
+companyequitable life insurance company of iowa  locust street des
+moines ia  for agents only rates subject to change product and
+features not available in all states irasqualified plans are already
+tax deferred consider other annuity features we reserve the right to
+alter or end bonuses at any time minimum premium for bonus 
+ad 
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet
+legal notice httpwwwinsiqcomlegalhtm
+
+
+nextpartcfebbeee
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+title st annuity sale bonustitle
+body bgcolordffffff linkdffffff textd
+br
+table aligndcenter bgcolord cellpaddingd cellspacingd 
+widthd
+  tr
+    td valigndtop
+      table bgcolord borderd cellpaddingd 
+cellspacingd widthd
+        tr
+          td colspand valigndtopimg altdrising rates 
+guaranteedup your incomefirst sale bonus  heightd 
+srcdhttpimageshuffmanajpg 
+widthdtd
+        tr
+        tr
+          td colspand valigndtopnbsptd
+        tr
+        tr
+          td aligndcenter colspand
+            bfont colordffffff facedarial helvetica 
+sansserif sizeda new guaranteed annuitybr
+            that keeps going up and up and upbrfontb
+          td
+        tr
+        tr
+          td aligndcenter
+            bfont colordffffff facedarial helvetica 
+sansserif sized
+            increasing rates  all guaranteedfontb
+          td
+          td aligndcenter
+            bfont colordffffff facedarial helvetica 
+sansserif sizedflexible or single premiumsfontb
+          td
+        tr
+        tr
+          td aligndcenter
+            bfont colordffffff facedarial helvetica 
+sansserif sizednursing home waiverfontb
+          td
+          td aligndcenter
+            bfont colordffffff facedarial helvetica 
+sansserif sizedissue age fontb
+          td
+        tr
+        tr
+          td aligndcenter colspandimg altdrising interest 
+rates graph heightd 
+srcdhttpimageshuffmangif 
+widthdtd
+        tr
+        tr
+          td aligndcenter colspandimg heightd 
+srcdhttpimageshuffmangif widthd 
+altdrex huffman  associates ext call 
+today bonustd
+        tr
+        tr
+          td colspandtd
+        tr
+          td aligndcenter colspand
+            table bgcolord cellspacingd widthd
+              tr
+                form 
+actiondhttpresponseresponseasp methoddpost
+                  td
+                    table aligndcenter bgcolordffffff borderd 
+cellpaddingd cellspacingd widthd
+                      tr
+                        td aligndcenter bgcolorda 
+colspandbfont colordffffff facedverdana arial helvetica 
+sansserif sizedplease fill out the form below for more 
+informationfontbtd
+                      tr
+                      tr
+                        td aligndright widthdfont 
+facedarial helvetica sansserif sizedbnamebfonttd
+                        td
+                          input namedcontactname sized
+                        td
+                        td aligndcenter colspand 
+rowspandimg altdinsurance iq logo 
+srcdhttpimagesqgiftd
+                      tr
+                      tr
+                        td aligndright widthdfont 
+facedarial helvetica sansserif 
+sizedbemailbfonttd
+                        td
+                          input namedemail sized
+                        td
+                      tr
+                      tr
+                        td aligndright widthdfont 
+facedarial helvetica sansserif sizedbphonebfonttd
+                        td colspand
+                          input namedphone sized
+                        td
+                      tr
+                      tr
+                        td aligndright widthdfont 
+facedarial helvetica sansserif sizedbcitybfonttd
+                        td widthd
+                          input namedcity
+                        td
+                        td aligndright widthdfont 
+facedarial helvetica sansserif sizedbstatebfonttd
+                        td widthd
+                          input namedstate sized
+                        td
+                      tr
+                      tr
+                        td aligndright widthdnbsptd
+                        td widthd
+                          input namedbtnsubmit typedsubmit 
+valuedsubmit
+                        td
+                        td aligndright widthdnbsptd
+                        td widthd
+                          input namedhdnrecipienttxt 
+typedhidden valuedkevinrhanetcom
+                          input namedhdnsubjecttxt typedhidden 
+valuedhuffman insuranceiq ad inquiry
+                        td
+                      tr
+                    table
+                    nbsp td
+                form
+              tr
+            table
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td aligndcenter bgcolord widthd
+      font colordffffff facedarial helvetica sansserif 
+sizedmost states surrender charge
+      varies for ages  in ct in md ok sc contracts issued by and 
+bonus
+      sponsored by usg annuity amp life companyequitable life 
+insurance company
+      of iowa  locust street des moines ia  for agents only 
+rates
+      subject to change product and features not available in all 
+states irasqualified
+      plans are already tax deferred consider other annuity features 
+we reserve
+      the right to alter or end bonuses at any time minimum premium for 
+bonus
+       adfont
+    td
+  tr
+  tr
+    td aligndcenter bgcolord widthd
+      pfont colordffffff facedarial helvetica sansserif 
+sizedwe dont
+        want anyone to receive our mailings who does not wish to this 
+is professional
+        communication sent to insurance professionals to be removed 
+from this
+        mailing list bdo not replyb to this message instead go 
+here
+        a 
+hrefdhttpwwwinsurancemailnethttpwwwinsurancemailnetabr
+
+        a hrefdhttpwwwinsiqcomlegalhtmlegal 
+noticeafontp
+    td
+  tr
+table
+body
+html
+
+nextpartcfebbeee
+
+

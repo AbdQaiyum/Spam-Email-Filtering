@@ -1,0 +1,19 @@
+
+i have searched the list but did not find any info on this 
+
+how do i setup multiple spamd machines so that spamc load balances  or 
+anything similar 
+
+duane
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+
+

@@ -1,0 +1,19 @@
+it seems to only support pppoa and not pppoe you need one that supports
+pppoe if you want torun it in routed ip mode if you are using it as a
+bridge itll probably work but youd be left leaving the computer on
+which would defeat the purpose of getting a router
+
+the best router ive come accross is the zyxel  eircom supply this
+but if you have alook online you can probably find it cheaper to buy
+online from america or the uk
+
+hope this is useful
+joe
+
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

@@ -1,0 +1,54 @@
+
+begin pgp signed message
+hash sha
+
+your actual serial number is   from a dig ive just done
+
+try resetting the zone number to   some of your secondaries seem 
+to have a serial number below that so they clearly regard  as 
+being less than 
+
+that should enable them to pick up the new zonefile
+
+t
+
+at    ray dermody wrote
+hi all
+the serial number in our hosts files on our dns server has gone
+corrupt eg  should be 
+its okay to set this back to todays date but i understand that our
+secondary and terninary dns servers will only update from the master
+hosts file if the master host serial number is greater than the current
+serial number in the hosts file
+is there any way i can reset this on the secondary and terninary dns
+servers
+
+ray dermody
+computing services technician
+it carlow
+ 
+
+
+
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+via networks ireland is a wholly owned limited irish company
+although connected to the via global network via networks ireland
+is separate from and is not owned by via networks inc or any
+member of the via networks inc group
+begin pgp signature
+version pgpfreeware  for noncommercial use httpwwwpgpcom
+
+iqaawubpxnfowyzbxegeqlfnwcfaknapokbgjjqqqehgiwfdsaopj
+glbtgrkfzylnnrncftfst
+rurr
+end pgp signature
+
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

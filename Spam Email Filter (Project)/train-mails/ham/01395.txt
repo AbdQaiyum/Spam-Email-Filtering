@@ -1,0 +1,62 @@
+daniel quinlan wrote
+
+dq before we release itd be great if someone could test a few
+dq additional score ranges  maybe we can lower fps a bit more  
+
+i dont think theres much more room for lowering fps left which the ga can 
+achieve  remember also that the awl will reduce fps but its effects arent 
+factored in to the ga scores
+
+the work currently being done on the ga and comparing different methods of 
+doing the scoresetting is very worthwhile and extremely useful however we 
+really ought to get a release out since  is getting decreasingly useful as 
+time goes on
+
+the fpfn rate of  with pretty well any scoresetting mechanism will be 
+better than   we can continue with adjusting how the scores are set on the 
+ or  branches
+
+dq something like
+dq 
+dq   for low   low   low  
+dq     for high   high   high  
+dq       evolve
+
+you could just allow low and high to be evolved by the ga within ranges id 
+be enormously surprised if it didnt end up with low and high since 
+thatd give the ga the broadest lattitude in setting individual scores  the 
+issue with fixing low and high is not one of optimization but rather one of 
+humanbased concern that individual scores larger than about  are dangerous 
+and liable to generate fps and individual scores less than  are dangerous and 
+liable to be forged to generate fns
+
+dq maybe even add a nybias loop
+
+adding an nybias loop is not worthwhile  changing nybias scores will just 
+alter the evaluation functions idea of what the fpfn ratio should be
+
+dq  afaik theres nothing major hanging out waiting to be checked in 
+dq  on b is there
+dq 
+dq nope
+
+great
+
+dq  ill be on im most of today tomorrow and monday while cranking 
+dq  on the next deersoft product release should be a fun one  hit 
+dq  me at
+dq  
+dq  aim hughscr
+dq  icq 
+dq  msn craigstanfordalumniorg
+dq  yim hughescr
+dq 
+dq weve been hanging out on irc at ircrhizomaticnet on spamassassin
+dq the timezone difference gets in the way though
+
+ive been searching for that but i guess the details of where the channel was 
+got lost in the shuffle
+
+c
+
+

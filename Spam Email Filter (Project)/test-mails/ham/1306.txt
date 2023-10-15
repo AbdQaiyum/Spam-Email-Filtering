@@ -1,0 +1,43 @@
+once upon a time brian wrote 
+
+     yeah i need to work this out too i just learned my lesson about
+     living on the bleeding edge lesson learned  no more ximian under
+     any circumstances  man that was annoying
+
+we all learned that sooner or later right when i got down to that myself
+is when i started redhataldilorg now known as freshrpmsnet 
+
+     anyway i have returned to redhat  on my root filesystem saved my
+     home directories music and games on other partitions and while i
+     have the  stuff in the list everything i want to upgrade requires
+      rpms
+ 
+     im not opposed to this but apt is  aptget distupgrade dumps
+     core
+
+strange
+anyway although id easily recommend upgrading x to  using apt i
+wouldnt for x to  as they are c binary incompatible and apt is
+entirely written in c and dynamically linked 
+
+still that doesnt explain a core dump 
+
+     whats the inside secret here or do i just start searching mirrors
+     for the iso and get over it
+
+why search theres more than enough to choose from here 
+httpfreshrpmsnetmirrorspsychehtml
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

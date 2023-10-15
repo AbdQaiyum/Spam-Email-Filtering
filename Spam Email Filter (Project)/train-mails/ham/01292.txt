@@ -1,0 +1,21 @@
+once upon a time ville wrote 
+
+ not me but imho its kind of offtopic to put it in freshrpmsnet rpms 
+ upstream is the way to go
+
+agreed especially since my packages are primarily meant for the original
+red hat linux kernels and someone removing usb support from his kernel is
+probably not going to recompile alsa with all the drivers anyway 
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

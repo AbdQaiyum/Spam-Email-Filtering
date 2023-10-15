@@ -1,0 +1,24 @@
+checking build system type ipclinuxgnu
+checking host system type ipclinuxgnu
+checking target system type invalid configuration
+athalonredhatlinux machine athalonredhat not recognized
+configure error binsh adminconfigsub athalonredhatlinux failed
+error bad exit status from homedalerpmbuildtmprpmtmp
+prep
+
+
+rpm build errors
+    user jkeating does not exist  using root
+    group jkeating does not exist  using root
+    user jkeating does not exist  using root
+    group jkeating does not exist  using root
+    bad exit status from homedalerpmbuildtmprpmtmp prep
+dalegandalf dale
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

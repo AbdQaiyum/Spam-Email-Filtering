@@ -1,0 +1,29 @@
+hi
+
+how about applying this to the default aptconf shipped with the
+freshrpmsnet apt package  i found it a bit weird when the behaviour
+changed between the old x and the new x versions so that when
+doing a aptget upgrade it wouldnt tell me which packages were to
+be upgraded just that it was about to upgrade something
+
+ aptconf	  
+ aptconf	  
+   
+   get 
+   
+      downloadonly false
+     showupgraded true
+   
+   
+ 
+
+ 
+ille skytt
+villeskytta at ikifi
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

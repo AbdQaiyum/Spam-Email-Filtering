@@ -1,0 +1,20 @@
+    date        fri  aug   
+    from        robert elz kremunnariozau
+    messageid  munnariozau
+
+when i said 
+
+   this is from todays cvs
+
+that will translate as  yesterdays now of course before the most
+recent set of changes catchup speedups and so on
+
+kre
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

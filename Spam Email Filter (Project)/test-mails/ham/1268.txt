@@ -1,0 +1,34 @@
+in message gjpgfjfsckinternwaldnerprivat robert 
+wa
+ldner said
+ 
+ 
+ on wed  oct   edt kevin kenny writes
+    you can learn to use procmail
+ 
+ can this be done via forward
+ 
+ make your forward contain only the following line
+ usrbinprocmail
+  incl the quotes your procmail binary may be in another path
+ 
+check the procmail documentation  they actually recommend
+
+ifs ppathtoprocmailtest f pexec p fexit 
+uniquestring
+
+i dont know what this does but it is explained in the doc
+ 
+jim mcmaster
+mailtomcmasjctatankastortekcom
+
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

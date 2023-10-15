@@ -1,0 +1,77 @@
+htmlhead
+meta httpequivdcontenttype contentdtexthtml charsetdusascii
+
+head
+centerbr
+table cellspacingd cellpaddingd widthd borderd
+tbody
+tr valigndtop
+td bgcolordff rowspand
+table cellpaddingd widthd bgcolordffffff borderd
+tbody
+tr valigndtop
+tda hrefdhttpwwwinteractivemailingcombinsuranceimg
+heightd srcdhttpinfomatesinsuranceimageslogif
+ widthd borderd
+nosenddatd
+td aligndright widthd
+div aligndcentera
+hrefdhttpwwwinteractivemailingcombinsuranceimg
+heightd srcdhttpinfomatesinsuranceimagessagif
+ widthd borderd
+nosenddadivtdtr
+tr bgcolordffffff
+td colspand
+table heightd cellspacingd cellpaddingd widthd
+bgcolordff borderd
+tbody
+tr
+td heightdtdtrtbodytable
+table widthd aligndcenter bgcolordffffff borderd
+tbody
+tr
+td valigndcenter aligndleft
+pfont colordbfont
+facedarial helvetica sansserif sizedthree minutes
+nowbra lifetime of protectionfontbfontp
+pfont colordbfont
+facedarial helvetica sansserif sizedprotecting your
+familyit only takes a few minutes to get peace of mind you
+need to know that your family will be alright if something
+happens to youfontbfontp
+p aligndleftfont colordbfont
+facedarial helvetica sansserif sizedget afontfont
+facedarial helvetica sansserif sizedffordable quotes on
+thousands of plans from the nations strongest insurance
+companies visit quote advantage now to see how we make a
+hrefdhttpwwwinteractivemailingcombinsuranceterm
+life insurancea simplefontbfontptd
+td aligndright widthd rowspandimg heightd
+srcdhttpinfomatesinsuranceimagesfajpg widthd
+nosenddtdtr
+tr
+td valigndcenter aligndleft
+div aligndcenterfont colordbfont
+facedarial helvetica sansserif sizeda
+hrefdhttpwwwinteractivemailingcombinsuranceimg
+heightd srcdhttpinfomatesinsuranceimageschgif 
+widthd
+aligndmiddle borderd
+nosenddafontbfontdivtdtrtbodytabletd
+tr
+tr
+td aligndleftfont facedarial helvetica sansserif
+colord sizedcopyright jbm incfonttd
+trtbodytabletdtrtbodytablefont
+facedarial
+sized colordffccffbrbr
+brbrbrbr
+we search for the best offerings forbr
+you we do the research and you get only the superior resultsbr
+this  email is brought to you by jbm  to abnegatebr
+all future notices please a hrefdhttpwwwinteractivemailingcomb
+enter hereafont
+bodyhtml
+
+
+

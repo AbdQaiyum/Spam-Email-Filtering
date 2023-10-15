@@ -1,0 +1,29 @@
+htmlheadheadbody bgcolordblack
+table borderd cellspacingd cellpaddingd aligndcentertrth b
+gcolordfbc
+table borderd cellspacingd cellpaddingd aligndcentertrth b
+gcolord
+table borderd cellspacingd cellpaddingd aligndcenter
+tr
+tha hrefdhttppsychicrevenuecomcgibinrefercgipwssited
+pw
+img srcdhttpgiftedpsychiccomimagesrcjpg widthd heightd
+ borderdath
+tha hrefdhttppsychicrevenuecomcgibinrefercgipwssited
+pw
+img srcdhttpgiftedpsychiccomimagesrcgif widthd heightd
+ borderdath
+tr
+tr
+tha hrefdhttppsychicrevenuecomcgibinrefercgipwssited
+pw
+img srcdhttpgiftedpsychiccomimagesrcjpg widthd heightd
+ borderdath
+tha hrefdhttppsychicrevenuecomcgibinrefercgipwssited
+pw
+img srcdhttpgiftedpsychiccomimagesrcjpg widthd heightd
+ borderdath
+tr
+tablethtrtablethtrtablebodyhtml
+
+

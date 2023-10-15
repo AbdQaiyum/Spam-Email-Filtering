@@ -1,0 +1,52 @@
+tim
+ otoh my data subtree currently has more than  files slobbering
+ over  million bytes  even if i had a place to put that much stuff
+ im not sure my isp would let me email it in one msg wink
+
+skip
+ do you have a dialup or something more modern wink
+
+much more modern  a cable modem with a small upload rate cap  theres a
+reason the less modern uncapped home went out of business wink
+
+ mb of messages zipped would probably compress pretty well  under mb
+ id guess with all the similarity in the headers and such  you could zip
+ each of the  sets individually and upload them somewhere
+
+i suppose this could finish over the course of an afternoon  now wheres
+somewhere  i expect well eventually collect several datasets
+sourceforge isnt a good place for it they expect projects to distribute
+relatively small code files and complain if even those get big
+
+ 
+ how about random sampling lots of public mailing lists via gmane or
+ something similar manually cleaning it distributing that load over a
+ number of people and then relying on your clever code and your
+ rebalancing script to help further cleanse it
+
+what then are we training the classifier to do  grahams scoring scheme is
+based on an assumption that the hamvsspam task is easy and half of that
+is due to that the ham has a lot in common  it was an experiment to apply
+his scheme to all the complangpython traffic which is a lot broader than
+he had in mind clpy has long had a generous definition of on topic
+wink  i dont expect good things to come of making it ever broader
+unless your goal is to investigate just how broad it can be made before it
+breaks down
+
+ the problem with the ham is it tends to be much more tied to one person
+ not just intimate but unique than the spam
+
+which is a feature from grahams pov  the more clues the better this
+smoking guns only approach should work
+
+ i save all incoming email for ten days gzipped mbox format before it
+rolls
+ over and disappears  at any one time i think i have about 
+ messages  most of it isnt terribly personal which i would cull before
+ passing along anyway and much of it is machinegenerated so would be of
+ marginal use  finally its all hamnspam mixed together  do we call
+ that an omelette or a dennys grand slam
+
+unless youre volunteering to clean it tag it package it and distribute
+it id call it irrelevant wink
+

@@ -1,0 +1,30 @@
+this is my first time running razor heard a lot of good things about it so
+i thought id give it a shot  i also run spamassassin so id like to
+integrate the two
+
+im not sure if this problem is with spamassassin or razor so i though id
+shoot the message here first
+
+with a freshly installed spamassassin  and razor  im seeing these
+messages spit out from spamd
+
+razor check skipped no such file or directory cant call method log on
+unblessed reference at usrlibperlsiteperlrazorclientagentpm
+line  stdin line 
+
+any ideas  razor seems to run correctly over the command line
+
+thanks
+dave
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

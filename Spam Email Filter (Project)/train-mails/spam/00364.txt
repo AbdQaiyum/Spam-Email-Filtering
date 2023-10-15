@@ -1,0 +1,79 @@
+meta httpequivcontenttype contenttexthtmlcharsetiso
+doctype html public wcdtd html  transitionalen
+ saved from urlhttpinternetemail htmlheadtitlechasetitle
+meta contenttexthtml charsetiso httpequivcontenttype
+meta contentmshtml  namegenerator
+stylestyle
+head
+body bgcolorffffff
+table border cellpadding cellspacing width
+  tbody
+  tr
+    tdimg height srcimagesspacergif widthtd
+    tdimg height srcimagesspacergif widthtd
+    tdimg height srcimagesspacergif widthtd
+    tdimg height srcimagesspacergif widthtd
+    tdimg height srcimagesspacergif widthtdtr
+  tr
+    td rowspantd
+    td colspanimg height
+      srchttpadlinksynergycomfsbinshowidhjxrngxobidstype
+      widthtdtr
+  tr
+    td colspanimg height
+      srchttpadlinksynergycomfsbinshowidhjxrngxobidstype
+      widthtd
+    tdimg height
+      srchttpadlinksynergycomfsbinshowidhjxrngxobidstype
+      widthtdtr
+  tr
+    td colspanimg height
+      srchttpadlinksynergycomfsbinshowidhjxrngxobidstype
+      widthtd
+    td rowspanimg height
+      srchttpadlinksynergycomfsbinshowidhjxrngxobidstype
+      widthtdtr
+  tr
+    td colspanimg height
+      srchttpadlinksynergycomfsbinshowidhjxrngxobidstype
+      widthtdtr
+  tr
+    tda hrefhttptheadmanagercomservercaspadkeywbghfnquvetfextimg border height
+      srchttpadlinksynergycomfsbinshowidhjxrngxobidstype
+      widthatd
+    td colspana
+      hrefhttptheadmanagercomservercaspadkeywbghfnquvetfextimg
+      border height
+      srchttpadlinksynergycomfsbinshowidhjxrngxobidstype
+      widthatdtr
+  tr
+    td colspantdtr
+  tr
+    td colspana hrefhttptheadmanagercomservercaspadkeywbghfnquvetfextimg border height
+      srchttpadlinksynergycomfsbinshowidhjxrngxobids
+      widthatd
+    td rowspantdtr
+  tr
+    td colspana hrefhttptheadmanagercomservercaspadkeywbghfnquvetfext
+      onclickjavascript windowopen
+httpswwwmychasecardcomstudentsweepstakesstudentcardsweepsruleshtmlruleswidthheightresizableyesscrollbarsyesscrollingautostatusyeslocationnotoolbarnoimg
+      border height srchttpadlinksynergycomfsbinshowidhjxrngxobids widthatdtr
+  tr
+    td colspantdtrtbodytable
+
+img srchttpadmanmailcomservertaspadkeywbghfnquvetf width height hspace vspace border altt
+hr size noshade
+font facearial size color
+you are receiving this mailing because you are a
+member of mytotalemailcom and subscribed asjmnetnoteinccom
+to unsubscribe a hrefhttpadmanmailcomsubscriptionaspemjmnetnoteinccomlmte
+font facearial size colorclick herea
+httpadmanmailcomsubscriptionaspemjmnetnoteinccomlmte
+or reply to this email with remove in the subject line  you must
+also include the body of this message to be unsubscribed any correspondence about
+the productsservices should be directed to
+the company in the ad
+emjmnetnoteinccomem
+brfont body html
+
+

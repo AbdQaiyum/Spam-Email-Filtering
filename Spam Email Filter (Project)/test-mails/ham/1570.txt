@@ -1,0 +1,57 @@
+
+qbsmycufnq
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on sat sep   at pm  justin mason wrote
+ its probably that razor needs to be razorregisterd for each user
+ try creating a worldwritable home dir for razor and dcc et al to store
+ their files in that way spamd will share the razor server info etc
+ between all users
+
+uh no you dont want to make it worldwritable  worldreadable
+
+ then use spamd h pathtoworldwriteabledir 
+
+just remember that the razor and whatever dcc uses needs to be
+worldreadable as well  the solution is then to make a worldwritable
+log file for at least razor  i like symlinking devnull myself
+
+ imo this is more efficient than using spamd h which will use each
+ users own home dir for this data but its a matter of opinion 
+
+efficient  probably depends on the user base but it also takes
+the control away from the user which may or may not be a good thing
+depending again on the user base
+
+
+randomly generated tagline
+whats funny  id like to know  send me some email  prof farr
+
+qbsmycufnq
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqeggbauoquewasmralljakcfmnoinbjoxowbankngwsvqcgqzo
+veqxgbuflludauaadtya
+lm
+end pgp signature
+
+qbsmycufnq
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

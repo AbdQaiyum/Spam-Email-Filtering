@@ -1,0 +1,33 @@
+html
+
+head
+meta httpequivdcontentlanguage contentdenus
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+titlenew page title
+head
+
+body
+
+pfont facedarial sized colordyou can live a life o
+f luxury 
+only if you work for yourselffontp
+pnbspp
+pfont facedarial sized colordabsolutely
+a hrefdhttpxbusinessonlinenowcomclnewhomefont colord
+ff
+freefonta information on a home based businessfontp
+pnbspp
+pfont facedarial sized colordffjust
+a hrefdhttpxbusinessonlinenowcomclnewhomeclick
+font colordffherefontafontp
+
+body
+
+html
+
+
+
+

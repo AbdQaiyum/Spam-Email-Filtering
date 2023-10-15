@@ -1,0 +1,34 @@
+once upon a time brian wrote 
+
+      ok its now time to work out the pgp securing of apt repository
+      traffic ive never gotten anything but sitenamewhatever will not
+      be authenticated until running redhat  when i get something
+      about having no key for various files
+
+i dont think gpg signing my repositories will help anything as it will
+just ensure that my passphrase was typed to confirm the md signatures of
+all pgklists and srclists basically youll then just be sure that its me
+who generated the files and this will of course prevent automating the
+process of updating the apt repository when red hat updates show up
+
+in red hat linux  though the warnings about no key appear until you
+import the right gpg public keys directly with rpm for example 
+rpm import usrsharedocaptcncrpmgpgkey
+this will import my key which is used to sign all freshrpmsnet packages
+
+hopefully it is possible to the tell rpm to install only packages who
+verify against an imported gpg key this for me would be the optimal way to
+ensure integrity with the way things curently work
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel acpi
+load    
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

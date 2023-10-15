@@ -1,0 +1,335 @@
+
+html xmlnsvurnschemasmicrosoftcomvml
+xmlnsournschemasmicrosoftcomofficeoffice
+xmlnswurnschemasmicrosoftcomofficeword
+xmlnshttpwwwworgtrrechtml
+
+head
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta nameprogid contentworddocument
+meta namegenerator contentmicrosoft word 
+meta nameoriginator contentmicrosoft word 
+link relfilelist hrefillinoisflyerfilesfilelistxml
+titlethe convienence oftitle
+if gte mso xml
+ odocumentproperties
+  oauthordonald baeoauthor
+  otemplatenormalotemplate
+  olastauthordonald baeolastauthor
+  orevisionorevision
+  ototaltimeototaltime
+  olastprintedtzolastprinted
+  ocreatedtzocreated
+  olastsavedtzolastsaved
+  opagesopages
+  owordsowords
+  ocharactersocharacters
+  olinesolines
+  oparagraphsoparagraphs
+  ocharacterswithspacesocharacterswithspaces
+  oversionoversion
+ odocumentproperties
+xmlendifif gte mso xml
+ wworddocument
+  wdisplayhorizontaldrawinggrideverywdisplayhorizontaldrawinggridevery
+  wdisplayverticaldrawinggrideverywdisplayverticaldrawinggridevery
+  wusemarginsfordrawinggridorigin
+  wcompatibility
+   wfootnotelayoutlikeww
+   wshapelayoutlikeww
+   waligntablesrowbyrow
+   wforgetlasttabalignment
+   wlayoutrawtablewidth
+   wlayouttablerowsapart
+  wcompatibility
+ wworddocument
+xmlendif
+style
+
+  font definitions 
+fontface
+	fontfamilywingdings
+	panose         
+	msofontcharset
+	msogenericfontfamilyauto
+	msofontpitchvariable
+	msofontsignature     
+fontface
+	fontfamilytahoma
+	panose         
+	msofontcharset
+	msogenericfontfamilyswiss
+	msofontpitchvariable
+	msofontsignature     
+  style definitions 
+pmsonormal limsonormal divmsonormal
+	msostyleparent
+	marginin
+	marginbottompt
+	msopaginationwidoworphan
+	fontsizept
+	fontfamilytimes new roman
+	msofareastfontfamilytimes new roman
+h
+	msostylenextnormal
+	marginin
+	marginbottompt
+	msopaginationwidoworphan
+	pagebreakafteravoid
+	msooutlinelevel
+	fontsizept
+	msobidifontsizept
+	fontfamilytahoma
+	msofontkerningpt
+	fontweightnormal
+h
+	msostylenextnormal
+	marginin
+	marginbottompt
+	textaligncenter
+	msopaginationwidoworphan
+	pagebreakafteravoid
+	msooutlinelevel
+	fontsizept
+	msobidifontsizept
+	fontfamilytahoma
+	fontweightnormal
+h
+	msostylenextnormal
+	marginin
+	marginbottompt
+	textaligncenter
+	msopaginationwidoworphan
+	pagebreakafteravoid
+	msooutlinelevel
+	fontsizept
+	msobidifontsizept
+	fontfamilytahoma
+	fontweightnormal
+h
+	msostylenextnormal
+	marginin
+	marginbottompt
+	textaligncenter
+	msopaginationwidoworphan
+	pagebreakafteravoid
+	msooutlinelevel
+	fontsizept
+	msobidifontsizept
+	fontfamilytahoma
+	fontweightnormal
+h
+	msostylenextnormal
+	margintopin
+	marginrightin
+	marginbottomin
+	marginleftin
+	marginbottompt
+	msopaginationwidoworphan
+	pagebreakafteravoid
+	msooutlinelevel
+	fontsizept
+	msobidifontsizept
+	fontfamilytahoma
+	fontweightnormal
+h
+	msostylenextnormal
+	margintopin
+	marginrightin
+	marginbottomin
+	marginleftin
+	marginbottompt
+	textaligncenter
+	msopaginationwidoworphan
+	pagebreakafteravoid
+	msooutlinelevel
+	fontsizept
+	msobidifontsizept
+	fontfamilytahoma
+	fontweightnormal
+pmsoheading limsoheading divmsoheading
+	msostylenextnormal
+	marginin
+	marginbottompt
+	textaligncenter
+	msopaginationwidoworphan
+	pagebreakafteravoid
+	msooutlinelevel
+	fontsizept
+	msobidifontsizept
+	fontfamilytahoma
+	msofareastfontfamilytimes new roman
+pmsobodytext limsobodytext divmsobodytext
+	marginin
+	marginbottompt
+	msopaginationwidoworphan
+	fontsizept
+	msobidifontsizept
+	fontfamilytahoma
+	msofareastfontfamilytimes new roman
+alink spanmsohyperlink
+	colorblue
+	textdecorationunderline
+	textunderlinesingle
+avisited spanmsohyperlinkfollowed
+	colorpurple
+	textdecorationunderline
+	textunderlinesingle
+page section
+	sizein in
+	marginin in in in
+	msoheadermarginin
+	msofootermarginin
+	msopapersource
+divsection
+	pagesection
+  list definitions 
+list l
+	msolistid
+	msolisttypehybrid
+	msolisttemplateids        
+ 
+list llevel
+	msolevelnumberformatbullet
+	msoleveltextfb
+	msoleveltabstopin
+	msolevelnumberpositionleft
+	textindentin
+	fontfamilysymbol
+ol
+	marginbottomin
+ul
+	marginbottomin
+
+style
+if gte mso xml
+ oshapedefaults vextedit spidmax
+xmlendifif gte mso xml
+ oshapelayout vextedit
+  oidmap vextedit data
+ oshapelayoutxmlendif
+head
+
+body langenus linkblue vlinkpurple styletabintervalin
+
+div classsection
+
+h aligncenter styletextaligncenterthe convenience ofh
+
+hchicagoh
+
+heasy on your budgeth
+
+p classmsonormalspan stylefontsizeptmsobidifontsizeptif supportemptyparasnbsp
+endifopopspanp
+
+p classmsobodytextwhen planning your next chicago meeting consider the p
+
+p classmsobodytextspan stylefontsizeptmsobidifontsizeptif supportemptyparasnbsp
+endifopopspanp
+
+p classmsobodytext aligncenter styletextaligncenterspan
+stylefontsizeptmsobidifontsizeptradisson hotel
+chicagonorthshorespanp
+
+p classmsobodytext styletabstopsptif supportemptyparasnbspendifopopp
+
+p classmsonormal stylemarginleftintextindentinmsolistl level lfo
+tabstopslist inif supportlistsspan stylefontsizept
+msobidifontsizeptfontfamilysymbolmsobidifontfamilytahomaspan
+stylefontpt times new romannbspnbspnbspnbspnbsp spanspanendifspan
+stylefontsizeptmsobidifontsizeptfontfamilytahomagreat
+location just  miles north of downtown chicago off i expresswayopopspanp
+
+p classmsonormal stylemarginleftintextindentinmsolistl level lfo
+tabstopslist inif supportlistsspan stylefontsizept
+msobidifontsizeptfontfamilysymbolmsobidifontfamilytahomaspan
+stylefontpt times new romannbspnbspnbspnbspnbsp spanspanendifspan
+stylefontsizeptmsobidifontsizeptfontfamilytahoma state
+government rate with only  sales tax chicago  rosemont opopspanp
+
+p classmsonormal stylemarginleftintextindentinmsolistl level lfo
+tabstopslist inif supportlistsspan stylefontsizept
+msobidifontsizeptfontfamilysymbolmsobidifontfamilytahomaspan
+stylefontpt times new romannbspnbspnbspnbspnbsp spanspanendifspan
+stylefontsizeptmsobidifontsizeptfontfamilytahomaohare
+shuttle service availableopopspanp
+
+p classmsonormal stylemarginleftintextindentinmsolistl level lfo
+tabstopslist inif supportlistsspan stylefontsizept
+msobidifontsizeptfontfamilysymbolmsobidifontfamilytahomaspan
+stylefontpt times new romannbspnbspnbspnbspnbsp spanspanendifspan
+stylefontsizeptmsobidifontsizeptfontfamilytahomafree high
+speed internet accessopopspanp
+
+p classmsonormal stylemarginleftintextindentinmsolistl level lfo
+tabstopslist inif supportlistsspan stylefontsizept
+msobidifontsizeptfontfamilysymbolmsobidifontfamilytahomaspan
+stylefontpt times new romannbspnbspnbspnbspnbsp spanspanendifspan
+stylefontsizeptmsobidifontsizeptfontfamilytahomafree
+ample parkingopopspanp
+
+p classmsonormal stylemarginleftintextindentinmsolistl level lfo
+tabstopslist inif supportlistsspan stylefontsizept
+msobidifontsizeptfontfamilysymbolmsobidifontfamilytahomaspan
+stylefontpt times new romannbspnbspnbspnbspnbsp spanspanendifspan
+stylefontsizeptmsobidifontsizeptfontfamilytahomastate
+certified minority business enterprise mbe opopspanp
+
+p classmsonormal stylemarginleftintextindentinmsolistl level lfo
+tabstopslist inif supportlistsspan stylefontsizept
+msobidifontsizeptfontfamilysymbolmsobidifontfamilytahomaspan
+stylefontpt times new romannbspnbspnbspnbspnbsp spanspanendifspan
+stylefontsizeptmsobidifontsizeptfontfamilytahoma
+square feet of flexible meeting spaceopopspanp
+
+p classmsonormal stylemarginleftintextindentinmsolistl level lfo
+tabstopslist inif supportlistsspan stylefontsizept
+msobidifontsizeptfontfamilysymbolmsobidifontfamilytahomaspan
+stylefontpt times new romannbspnbspnbspnbspnbsp spanspanendifspan
+stylefontsizeptmsobidifontsizeptfontfamilytahoma rated
+hotel for customer service in entire radisson chain worldwideopopspanp
+
+p classmsonormal stylemarginleftintextindentinmsolistl level lfo
+tabstopslist inif supportlistsspan stylefontsizept
+msobidifontsizeptfontfamilysymbolmsobidifontfamilytahomaspan
+stylefontpt times new romannbspnbspnbspnbspnbsp spanspanendifspan
+stylefontsizeptmsobidifontsizeptfontfamilytahomagreat
+restaurants shopping amp activitiesopopspanp
+
+p classmsonormal stylemarginleftintextindentinmsolistl level lfo
+tabstopslist inif supportlistsspan stylefontsizept
+msobidifontsizeptfontfamilysymbolmsobidifontfamilytahomaspan
+stylefontpt times new romannbspnbspnbspnbspnbsp spanspanendifspan
+stylefontsizeptmsobidifontsizeptfontfamilytahomafema
+il and ada compliantopopspanp
+
+p classmsonormal stylemarginleftinspan stylefontsizept
+msobidifontsizeptfontfamilytahomaif supportemptyparasnbspendifopopspanp
+
+h aligncenter styletextaligncentercontact riz bhatti  
+ext  orh
+
+hdonald bae   ext h
+
+p classmsoheadingtake a virtual tour of our hotel  a
+hrefhttpwwwradissonchicagocomwwwradissonchicagocomap
+
+p classmsonormal aligncenter styletextaligncenterspan
+stylefontsizeptmsobidifontsizeptfontfamilytahomaif supportemptyparasnbspendifop
+opspanp
+
+p classmsonormal aligncenter styletextaligncenterspan
+stylefontsizeptmsobidifontsizeptfontfamilytahomaif supportemptyparasnbspendifop
+opspanp
+
+p classmsonormal aligncenter styletextaligncenterspan
+stylefontfamilytahomadecember  customer satisfaction surveyradisson
+worldwide hotels and resortsopopspanp
+
+div
+
+body
+
+html
+

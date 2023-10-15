@@ -1,0 +1,59 @@
+html
+
+body bgcolordffffff textd linkd vlinkd alin
+kd
+br
+center
+table widthd borderd cellpaddingd cellspacingd bgcolord
+
+tr
+td
+table borderd cellpaddingd cellspacingd bgcolordffffff backgr
+ounddhttpwebcreditimagesbackgroundarrowgif widthd
+
+tr
+            tda hrefdhttpwebcreditindexphpaffd
+img srcdhttpwebcreditimagesbanneremailgif borde
+rdabr
+img srcdhttpwebcreditimageslinegifbrbr
+a hrefdhttpwebcreditindexphpaffdimg srcdhtt
+pwebcreditimagesbodyemailgif altd borderd
+a
+br
+font facedverdana sizedthank youfontbr
+img srcdhttpwebcreditimagesthankyougif
+br
+td
+tr
+tr
+td
+img srcdhttpwebcreditimageslinegifbrbr
+font facedverdana sizedyour email address was obtained from a purch
+ased 
+list reference  nbspnbspif you wish to unsubscribe from t
+his list please
+a hrefdhttpremoveremovehtmlclick herea and e
+nter your
+name into the remove box if you have previously
+unsubscribed and are still receiving this message you may email our
+a hrefdmailtosolutionsrunsaacomsubjectdabuse reportabuse contr
+ol centera
+or call  or write us at nospam  coral way
+miami fl fontbr
+br
+img srcdhttpwebcreditimageslinegifbr
+font facedverdana sizedcopy  web credit inc all rights reser
+vedfontfont facedverdana sizedfonttd
+tr
+table
+td
+tr
+table
+center
+br
+body
+
+body
+html
+
+

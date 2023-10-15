@@ -1,0 +1,142 @@
+html
+head
+titledear homeownertitle
+meta httpequivdcontenttype contentdtexthtml charsetdiso
+
+head
+style typedtextcss
+main   fontfamily verdana arial helvetica sansserif fontsize 
+px color 
+footer   fontfamily verdana arial helvetica sansserif fontsize 
+px color 
+alink textdecoration none color edc
+avisited textdecoration none color edc
+aactive textdecoration none color fd
+ahover textdecoration none color 
+ayellowlink textdecoration none color ffffff
+ayellowvisited textdecoration none color ffffff
+ayellowactive textdecoration none color 
+ayellowhover textdecoration none color eee
+style
+
+body bgcolorddadada topmargind
+table widthd borderd cellspacingd cellpaddingd alig
+ndcenter bordercolord classdmain bgcolordfff
+  tr 
+    td
+      table widthd aligndcenter borderd cellspacingd
+ cellpaddingd
+        tr 
+          td
+          
+              
+            pbfont sizeddear fontfont sized colord
+cchomeownerfontbp
+           
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td bgcolord 
+      table widthd borderd cellspacingd cellpaddingd
+ classdmain
+        tr
+          td
+            p aligndcenterbfont colordffffff sizedinte
+rest rates are at their lowest point in  
+              yearsfontbp
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td
+      table widthd borderd cellspacingd cellpaddingd
+ classdmain
+        tr 
+          td widthd valigndtop
+            div aligndcenter bfont sizedlet us do the shopp
+ing for 
+              you and its freefontb 
+              pimg srcdhttppiximagesadgif widt
+hd heightdp
+            div
+          td
+          td widthd valigndtopfont sizedibr
+            our nationwide network of lenders have hundreds of different l
+oan 
+            programs to fit your current situationi b 
+            ul
+              lirefinanceli
+              lisecond mortgageli
+              lidebt consolidationli
+              lihome improvementli
+              lipurchase li
+            ulb
+            pp
+            pplease ba hrefdhttpwww
+pixmortgageformhtmclick hereab to fill out a quic
+k form your 
+              request will be transmitted to our network of mortgage speci
+alistspfont
+          td
+        tr
+      table
+     
+      table widthd borderd cellspacingd cellpaddingd
+
+        tr
+          td bgcolorddff font sized 
+            div aligndcenterbr
+            div
+            fonttd
+        tr
+      table
+      table widthd borderd cellspacingd cellpaddingd
+ classdmain
+        tr
+          td bgcolordcc 
+            div aligndcenter
+              div aligndcenterbfont sizedthis service is a
+ hrefdhttpwwwpixmo
+rtgageformhtm classdyellow 
+                freea to home owners and new home buyers without any ob
+ligationfontbdiv
+            div
+            td
+        tr
+      table
+    td
+  tr
+table
+table aligndcenter widthd cellspacingd cellpaddingd 
+borderd classdfooter
+  tr 
+    td colspandbr
+      font colordedcdid you receive an email advertisement in err
+orfont 
+      our goal is to only target individuals who would like to take advant
+age 
+      of our offers if youd like to be removed from our mailing list pl
+ease 
+      click on the link below you will be removed immediately and automat
+ically 
+      from all of our future mailingsbr
+      br
+    td
+  tr
+  tr 
+    tdwe protect all email addresses from other third parties thank you
+td
+    td aligndrighta hrefdhttpremoveremovehtm
+please remove meatd
+  tr
+table
+body
+html
+
+
+

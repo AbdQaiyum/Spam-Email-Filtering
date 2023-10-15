@@ -1,0 +1,48 @@
+
+amgykthdtj
+contenttype textplain charsetusascii
+contentdisposition inline
+
+justin mason jmjmasonorg   
+ well my point is more that we should aim our rescoring algorithm so that
+ a spam hits     any higher does us no good as it means an fp is
+ a lot harder to recover from using compensation rules
+
+agreed
+
+but i have always thought that the value  was not the best value  it
+should have been   i understand that initially only spammy scores
+were included  but i believe the algorithm should be purely
+symmetrical and nonspammy negative values should also have been
+balancing out the spammy positive values like they do in sa today
+then anything that was positive would be spam and anything negative
+would be nonspam  and i guess exactly zero is grey  todays
+choice of  just adds an offset  which i think cause people to assume
+things work differently than they do
+
+bob
+
+amgykthdtj
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+
+iddbqebkyprcoeulyrajiajwmoisiugxpvawcqpbcgcdcqcfepom
+cosyufmiflshhczkklxu
+ywm
+end pgp signature
+
+amgykthdtj
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

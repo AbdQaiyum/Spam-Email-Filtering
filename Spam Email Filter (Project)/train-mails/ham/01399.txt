@@ -1,0 +1,50 @@
+i know that i did this during the week that all the catalogues were
+hokey but after that i changed it back to discovery  so i can see why
+people are using honor
+
+original message
+from vipul ved prakash mailtomailvipulnet 
+sent thursday august    pm
+to razorusersexamplesourceforgenet
+subject razorusers honor is not in csl
+
+
+folks 
+
+some of you seem to have hardcoded honor as the default catalogue
+server there are three catalogue only servers running now and honor is
+acting as a nomination only server tonight we will be completely
+turning off catalogue support on honor so if you are specifying honor
+with the rs option please take it out and let the agents discover a
+closeby catalogue server
+
+cheers
+vipul
+
+
+ 
+
+vipul ved prakash             the future is here its just not 
+software design artist         widely distributed
+httpvipulnet                         william gibson
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old cell
+phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomraspr
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+

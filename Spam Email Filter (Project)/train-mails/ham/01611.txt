@@ -1,0 +1,42 @@
+this is happening due to insufficient write access to the
+razoragentlog file i was getting the same error but
+only as a nonroot user  as a quick workaround you can do
+chmod gow razoragentlog
+
+in agentpm when then the logger object is created it
+doesnt check whether the logfile is writable by the current
+user then when a write attempt is made it bails out with
+the unblessed reference error
+
+hope that helps
+michael
+
+ i just noticed the following log entries in my syslog with the latest
+ spamassassin cvs set up using spamcspamd and razoragents 
+
+ jul   timmy spamd razor check skipped no such file or
+ directory cant call method log on unblessed reference at
+ usrlocallibperlsiteperlrazorclientagentpm line 
+ stdin line 
+
+ i saw this after checking if my upgrade from razoragents  to  went
+ okay but the problem is still there after downgrading back to   i
+ dont really know when this started happening 
+
+ any ideas on the problem
+
+  robert
+
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+

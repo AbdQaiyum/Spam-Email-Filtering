@@ -1,0 +1,66 @@
+exmhp
+contenttype textplain charsetusascii
+
+jason rennie jrennieaimitedu writes
+
+ my sysadmins have told me that the sending mail client is supposed to 
+ escape lines begining with from   exmh  doesnt do this  should 
+ it  it appears that my mh is mh   does nmh fix this
+
+actually this issue used to escalate into a religious war the from  
+envelope is an artifact of the mbox mailbox format and from that 
+perspective it should be the mail server that stores its mailboxes in
+mbox format that should be responsible for escaping lines beginning with 
+from  on the other hand this breaks the assumption that the mail 
+transport only touches the message headers and leaves the message body 
+alone
+things like pgp signatures break when the mail server changes the message 
+body
+
+also strictly speaking the mbox format envelope or for us oldtimers 
+the uucp envelope isnt just any line beginning with from  its really 
+from a single space a valid email address two spaces and a valid 
+date
+for example
+
+    from ptardifnbnetnbca  sun jul   
+                           
+
+
+ 
+john abreau  executive director boston linux  unix 
+im jabrjabberbluorg  abreaujaim  abreaujyahoo  icq
+email jabrbluorg  www httpwwwabreaunet  pgpkeyid xdcbd
+pgpkeyfingerprint  fb  f c b d b e c a e f c be 
+
+   some people say the enemy of my enemy is my friend
+   i often respond when elephants fight its the grass
+   that gets trampled
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iqcvawubpasczlvarvxxzaqjlrgqayxnhxlayoaswtckqzprjhtamxms
+txrycztaakwduzqiocrjgxngmasvrlipetxafhdqpgw
+suzycxornmqvisyaqxmmirnsdqrarkhcuzqqxumxstircdwkk
+oyalefserw
+mvfx
+end pgp signature
+
+exmhp
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

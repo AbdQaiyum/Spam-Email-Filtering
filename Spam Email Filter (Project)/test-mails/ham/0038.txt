@@ -1,0 +1,33 @@
+folks
+ 
+my first time posting  have a bit of unix experience but am new to linux
+
+ 
+just got a new pc at home  dell box with windows xp added a second hard disk
+for linux partitioned the disk and have installed suse  from cd which went
+fine except it didnt pick up my monitor
+ 
+i have a dell branded efpp  lcd flat panel monitor and a nvidia geforce
+ti video card both of which are probably too new to feature in suses default
+set i downloaded a driver from the nvidia website and installed it using rpm
+then i ran sax as was recommended in some postings i found on the net but
+it still doesnt feature my video card in the available list what next
+ 
+another problem i have a dell branded keyboard and if i hit capslock twice
+the whole machine crashes in linux not windows  even the onoff switch is
+inactive leaving me to reach for the power cable instead
+ 
+if anyone can help me in any way with these probs id be really grateful 
+ive searched the net but have run out of ideas
+ 
+or should i be going for a different version of linux such as redhat opinions
+welcome
+ 
+thanks a lot
+peter
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

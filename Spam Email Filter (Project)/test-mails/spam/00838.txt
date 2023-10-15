@@ -1,0 +1,250 @@
+this is a multipart message in mime format
+
+nextpartcdccc
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ unbeatable productunbeatable commissions
+ legaliq  americas premier discount legal services program
+ no license requireda
+there are no startup feesa
+this is not multilevel
+marketing
+ first year commission a
+lifetime renewal commissions up to 
+
+
+dont forget to visit our web site httpwwwlegaliqinfo  
+ 	 please fill out the form below for
+contracting information and marketing supplies 
+first name	  
+last name	  
+email	  
+phone	  
+address	  
+address	  
+city	 	 state	 	 zip	 	  	
+ 	    
+
+ legaliq  part of the iq group of companies
+we dont want anybody to receive our mailing who does not wish to
+receive them this is professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+httpwwwinsurancemailnet
+legal notice httpwwwinsuranceiqcomlegalhtm
+
+
+nextpartcdccc
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+title lifetime renewals  unbeatable producttitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+
+body bgcolord textd linkdcc 
+vlinkdffcc
+p aligndcenter
+  table widthd borderd cellspacingd cellpaddingd 
+bordercolord
+    tr
+      td bgcolordffffff
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            tdimg srcdhttpiiqusimageslegaliqtopjpg 
+widthd heightd altdunbeatable productunbeatable 
+commissionstd
+          tr
+          tr
+            td aligndcenterimg 
+srcdhttpiiqusimageslegaliqlogojpg widthd 
+heightd altdlegaliq  americas premier discount legal 
+services programtd
+          tr
+          tr
+            td aligndcenterimg 
+srcdhttpiiqusimageslegaliqnogif widthd 
+heightd altdno license requiredthere are no startup 
+feesthis is not multilevel marketingtd
+          tr
+          tr
+            td aligndcenterimg 
+srcdhttpiiqusimageslegaliqanigif widthd 
+heightd altdfirst year commission lifetime renewal 
+commissions up to td
+          tr
+          tr
+            td bgcolordffffff aligndcenter
+              br
+              table widthd borderd cellspacingd 
+cellpaddingd heightd bordercolord
+                tr
+                  td bgcolord aligndcenter
+                    font facedverdana arial helvetica sansserif 
+colordffffffb
+                    dont forget to visit our a 
+hrefdhttpwwwlegaliqinfofont colordffweb
+                    sitefontabfont
+                  td
+                tr
+              table
+            td
+          tr
+          tr
+            td
+              table widthd bgcolordffffff
+                tr
+                  form methoddpost 
+actiondhttpresponseresponseasp
+                    td
+                      table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordffffff
+                        tr
+                          td widthd aligndrightnbsptd
+                          td colspand
+                            font facedverdana arial helvetica 
+sansserif sized colordb
+                            please fill out the form below forbr
+                            contracting information and marketing 
+suppliesbfont
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif sized 
+colordbfirst namebfonttd
+                          td colspand
+                            input typedtext namedfirstname 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif sized 
+colordblast namebfonttd
+                          td colspand
+                            input typedtext namedlastname 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif sized 
+colordbemailbfonttd
+                          td colspand
+                            input typedtext namedemail 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif sized 
+colordbphonebfonttd
+                          td colspand
+                            input typedtext namedphone 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif sized 
+colordbaddressbfonttd
+                          td colspand
+                            input typedtext namedaddress 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif sized 
+colordbaddressbfonttd
+                          td colspand
+                            input typedtext namedaddress 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif sized 
+colordbcitybfonttd
+                          td widthdinput typedtext 
+namedcity sizedtd
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif sized 
+colordbstatebfonttd
+                          td widthdinput typedtext 
+namedstate sizedtd
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif sized 
+colordbzipbfonttd
+                          td widthdinput typedtext 
+namedstate sizedtd
+                          td rowspand widthdnbsptd
+                        tr
+                        tr
+                          td widthd aligndrightnbsptd
+                          td widthd colspand
+                            input typedsubmit namedbtnsubmit 
+valuedsubmit
+                            input typedhidden 
+namedhdnrecipienttxt valuedtominsuranceiqcom
+                            input typedhidden 
+namedhdnsubjecttxt valuedlegaliq agent
+                          td
+                        tr
+                      table
+                    td
+                  input typedhidden namedsentto 
+valued
+form
+                tr
+              table
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            tdimg 
+srcdhttpimageslegaliqlogosmgif widthd 
+heightd altdlegaliq  part of the iq group of companiestd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td bgcolord
+              p aligndcenterfont facedverdana arial 
+helvetica sansserif sized colordffffffwe
+                dont want anybody to receive our mailing who does not 
+wish to
+                receive them this is professional communication sent to 
+insurance
+                professionals to be removed from this mailing list do 
+not reply
+                to this message instead go here a 
+hrefdhttpwwwinsurancemailnetfont 
+colordffhttpwwwinsurancemailnetfontabr
+                a hrefdhttpwwwinsuranceiqcomlegalhtmfont 
+colordfflegal noticefontafontp
+            td
+          tr
+        table
+      td
+    tr
+  table
+p
+body
+html
+
+nextpartcdccc
+
+

@@ -1,0 +1,36 @@
+i have failed dependencies in rpm database to i am unable to use
+aptget  i requests to run aptget f install to fix these
+dependencies however i get these errors when running aptget f
+install 
+
+rootlocalhost root aptget f install
+processing file dependencies done
+reading package lists done       
+building dependency tree done
+correcting dependencies done
+the following extra packages will be installed
+  libgcj 
+the following new packages will be installed
+  libgcj 
+ packages upgraded  newly installed  to removereplace and  not
+upgraded
+need to get kb of archives after unpacking kb will be used
+do you want to continue yn y
+get httpaptrpmtuxfamilyorg redhatiredhatos libgcj
+ kb
+fetched kb in s
+kbs                                                                                                                         
+executing rpm u
+preparing                
+
+   libgcj                 error unpacking of archive failed on file
+usrsharelibgcjzipcbe cpio md sum mismatch
+e subprocess binrpm returned an error code 
+rootlocalhost root 
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

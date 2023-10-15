@@ -1,0 +1,217 @@
+this is a multipart message in mime format
+
+nextpartacefadaab
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ life insurance settlements a unique dualincome opportunity
+ 
+a life settlement is the sale of a life insurance policy
+that gives the policy owner a significant cash settlement 
+ 
+ earn substantial referral feesa
+sell more producta
+renewal commissions of
+original policy stay intacta
+a valueadd to your existing business
+dont change your current way of doing business
+turn your existing book into an additional income stream
+with very little effort 
+ 
+please fill out the form below for more information	
+name	  
+email	  
+phone	  
+city	  	state	  	 
+ 	  	 	   
+
+call or email mailtoinfovbimailcom  us today
+ 
+or visit us online at wwwlifesettlementsonlinecom
+httpwwwlifesettlementsonlinecom
+ 
+we dont want anybody to receive our mailings who does not wish to
+receive them this is professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+httpwwwinsurancemailnet
+
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+
+nextpartacefadaab
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlea unique dual income opportunitytitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+table widthd cellpaddingd cellspacingd 
+bgcolord aligndcenter
+  tr
+    td
+      img srcdhttpimagesvbiejpg 
+widthd heightd altdlife insurance settlements a unique 
+dualincome opportunity
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          tdimg srcdhttpimagesvbispacergif 
+widthd heightdtd
+        tr
+        tr
+          td aligndcenter
+            font sized facedverdana arial helvetica 
+sansserif
+            a font colordblife settlementbfont is 
+the sale of a life insurance policy br
+            that gives the policy owner a significant cash 
+settlementfont
+          td
+        tr
+        tr
+          tdimg srcdhttpimagesvbispacergif 
+widthd heightdtd
+        tr
+        tr
+          td aligndcenterimg 
+srcdhttpimagesvbigif widthd 
+heightd altdearn substantial referral feessell more 
+productrenewal commissions of original policy stay intacta 
+valueadd to your existing businesstd
+        tr
+        tr
+          td aligndcenter
+            font facedverdana arial helvetica sansserif 
+sized
+            bfont colorddont change your current way of 
+doing businessfontbbr
+            turn your existing book into an badditional income 
+streamb br
+            with very little effortfont
+          td
+        tr
+        tr
+          tdimg srcdhttpimagesvbispacergif 
+widthd heightdtd
+        tr
+        tr
+          td aligndcenter
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont facedarial helvetica sansserif 
+sized colordffffffplease fill out the form below for more 
+informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+facedarial helvetica sansserif sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+facedarial helvetica sansserif sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+facedarial helvetica sansserif sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+facedarial helvetica sansserif sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+facedarial helvetica sansserif sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                        td rowspand aligndcenter 
+valigndmiddleimg srcdhttpimagesqgif 
+widthd heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedinfovbimailcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedinsuranceiq ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                form
+              tr
+            table
+            nbspbr
+            font facedarial helvetica sansserif 
+sizedbcall or a hrefdmailtoinfovbimailcomemaila us 
+todaybfontbr
+            img srcdhttpimagesvbigif 
+widthd heightd altdbbr
+            or visit us online at a 
+hrefdhttpwwwlifesettlementsonlinecomwwwlifesettlementsonli
+necomabr
+            nbsp b
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anybody
+        to receive our mailings who does not wish to receive them this 
+is professional
+        communication sent to insurance professionals to be removed 
+from this
+        mailing list bdo not replyb to this message instead go 
+here a hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal
+  noticea font
+center
+img heightd widthd borderd srcd
+body
+html
+
+nextpartacefadaab

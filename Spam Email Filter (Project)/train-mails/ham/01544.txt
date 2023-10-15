@@ -1,0 +1,30 @@
+
+craig hughes said
+
+     all headers are reproduced in full  some address obfuscation has
+    taken place hostnames in some cases have been replaced with
+    spamassassintaintorg which should have a valid mx record if i recall
+    correctly  in  most cases though the headers appear as they were
+    received
+ 
+ nope
+ 
+ craigbalam craig dig spamassassintaintorg mx
+
+i knew there was something about spamassassintaintorg 
+
+ah well thats probably just as good anyway
+
+j
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

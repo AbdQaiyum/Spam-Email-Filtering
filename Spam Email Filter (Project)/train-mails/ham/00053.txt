@@ -1,0 +1,27 @@
+john p looney stated the following on thu aug   at pm  
+  im not sure what exactly is wrong with this but i cant get a redhat
+  box to use ttys as a console
+ 
+  the relevant bits of bootgrubgrubconf are
+ 
+ serial unit speed
+ terminal timeout console serial
+ titlelinux
+    root hd
+    kernel bootbzimage ro rootdevmd consolettysn
+															     
+that  is unneeded and is probably whats upsetting your kernel
+
+we use consolettysn but the  is mainly cos we are a cisco
+shop and its to keepo everyhting the same
+
+colin
+ 
+design is like a religion  too much of it makes you inflexibly and unpopular
+		linus torvalds
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

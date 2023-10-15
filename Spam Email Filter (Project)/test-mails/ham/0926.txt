@@ -1,0 +1,47 @@
+
+over on arstechnica wwwarstechnicacom i saw mention of a wired article
+that goes into the many wonderfull ways apple is showing its love and
+respect for its users
+
+httpwwwwiredcomnewsmachtml
+
+there is a good rundown of all the whys and whatfores over at
+httparstechnicacomreviewsqmacosxmacosxhtml
+
+true to form industrious third party developers saw that they could gain
+a competitive advantage by supporting this more capable user interface in
+their applications apples private menu extras apis were reverse
+engineered and leveraged to great effect the architecture was so popular
+that an application for managing predefined sets of menu extras third
+party or otherwise was in development
+
+all of that changed with the release of jaguarbut not because the
+private apis had changed if they had third party developers would have
+updated their applications to work with the new apis as they have
+resigned themselves to doing by choosing to use private apis in the first
+place
+
+but what actually happened in jaguar was that apple added code to forcibly
+exclude all nonapple menu extras other parts of the api did not change
+but when a menu extra is loaded it is compared to a hardcoded list of
+known menu extras from apple if the menu extra is not on that list it
+is not allowed to load
+
+its easy to laugh at steve ballmers sweatsoaked gyrations as he chants
+developers developers developers but microsoft clearly understands
+something that apple is still struggling with it is in a platform
+vendors best interest to encourage development for its platform in
+apples case this doesnt mean that they have to bend over backwards to
+make every single system service and ui element pluggable via public
+apis thats clearly a lot of work and not something that needs to be the
+number one priority for an os in its infancy and in the meantime if
+third party developers want to sell into a market that requires the
+desired functionality to be added in unsupported ways then they must be
+prepared for the maintenance consequences of their decisions
+
+but for apple to go out of its wayto actually expend developer
+effortto stop these third party developers while still failing to
+provide a supported alternative is incredibly foolish 
+
+
+

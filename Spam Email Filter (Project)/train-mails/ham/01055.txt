@@ -1,0 +1,20 @@
+on thu sep   at am   angles  puglisi wrote
+ if i can use apt can i use it to get updates from these  different places
+  the null update redhat upgrades
+  the null files at freshrpmsnet
+  the regular rh files from freshrpmsnet
+
+you could build your own aptrepository just mirror the needed directories
+eg by using a wget cron job symlink the needed rpms and recreate the
+repository it is already worth the trouble if you have more than one
+installation
+
+in any case in order to acces the mentioned places somebody must keep such a
+repository up to date be it yourself or someone else
+ 
+axelthimmphysikfuberlinde
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

@@ -1,0 +1,93 @@
+this is a multipart message in mime format
+
+nextpart
+contenttype textplain charsetiso
+contenttransferencoding quotedprintable
+
+please visit wwwnoknoknet
+
+noknok  the ultimate in pc security and surveillance software
+
+noknok is an awardwinning security and surveillance software developed to
+monitor check record chronicle log supervise scrutinize examine and remotely
+observe every input and screen view on a standalone or networked pc using
+noknok allows you to be fully aware of everything that is done or seen on a
+monitored computer  safely securely and secretly noknok is the most powerful
+software in its class the easiest to use and the most discreet the same technology
+has been employed by businesses all over the world fortune  companies
+intelligence agencies public sector institutions universities libraries and schools and
+the military alike noknok is also ideal for many specialized tasks such as usability
+testing scientific studies of pc usage software training tools remote network security
+and much more
+
+has your confidential data been stolen manipulated or accidentally deleted are your
+employees sending out valuable company secrets are your children safe online is
+your spouse having an online affair is your computer being used to spy on you online
+or offline find out the answers with noknok  the ultimate in pc security and
+surveillance software noknok will alert you to exactly who is doing what on your pc
+and when noknok comes in two editions noknok home and small business
+edition and noknok enterprise server edition the noknok software has been
+developed to be windowsae platform independent it runs on windowsae
+mentxp a macintoshae compatible version will be available soon for
+the consumer market
+
+
+
+nextpart
+contenttype texthtml charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlenoknok  the ultimate in pc security and surveillance softwaretitle
+meta httpequivdcontenttype contentdtexthtml
+meta httpequivdimagetoolbar contentdno
+link reldstylesheet hrefdhttpwwwnoknokcoukemailbroadcastsjulyverandasmallcss typedtextcss
+head
+body bgcolord leftmargind 
+backgrounddhttpwwwnoknokcoukemailbroadcastsjulyimagesbkjpg 
+topmargind marginheightd marginwidthd
+table heightd cellspacingd cellpaddingd widthd borderd
+  tbody
+  tr
+    td
+      pnbspp
+      table cellspacingd cellpaddingd widthd aligndcenter borderd
+        tbody
+        tr
+          tda hrefdhttpwwwnoknoknet targetdblankimg heightd 
+            altdclick here to visit noknoknet 
+            srcdhttpwwwnoknokcoukemailbroadcastsjulyimagesnoknokrcjpg 
+            widthd borderd namednoknokrcatd
+          td
+            table cellspacingd cellpaddingd widthd borderd
+              tbody
+              tr
+                tda hrefdhttpwwwnoknoknet targetdblankimg 
+                  heightd altdclick here to visit noknoknet 
+                  srcdhttpwwwnoknokcoukemailbroadcastsjulyimagesnoknokrcjpg 
+                  widthd borderd namednoknokrcatdtr
+              tr
+                tda hrefdhttpwwwnoknoknet targetdblankimg 
+                  heightd altdclick here to visit noknoknet 
+                  srcdhttpwwwnoknokcoukemailbroadcastsjulyimagesnoknokrcjpg 
+                  widthd borderd 
+          namednoknokrcatdtrtbodytabletdtrtbodytable
+      table cellspacingd cellpaddingd widthd aligndcenter borderd
+        tbody
+        tr
+          td classdverandasmallfont colord this message is sent in 
+            compliance of the new email bill hr  under bill hr  passed 
+            by the th us congress on may   per section hr  if 
+            you wish to be removed from our mailing list please a 
+            hrefdhttpwwwnoknoknetmarketingexcludelistindexaspclick 
+            herea all removal requests are handled electronically and may 
+            take up to  hours to become in effectfonttdtrtbodytable
+      pnbspptdtrtbodytable
+body
+html
+
+
+nextpart
+
+

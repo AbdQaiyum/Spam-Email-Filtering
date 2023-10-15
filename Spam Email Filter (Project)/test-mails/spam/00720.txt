@@ -1,0 +1,40 @@
+html
+head
+titleuntitled documenttitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+body bgcolorffffff text
+table width border cellspacing cellpadding bordercolor aligncenter
+trtd
+table width border cellspacing cellpadding
+tr
+td colspana hrefhttpwwwtotalglobenetinkscgibinsubcginamejmnetnoteinccomimg srchttpwwwtotalglobenetinksbuygif width height borderatd
+trtr
+td colspana hrefhttpwwwtotalglobenetinkscgibinsubcginamejmnetnoteinccomimg srchttpwwwtotalglobenetinkssavegif width height borderatd
+trtr
+td valigntopa hrefhttpwwwtotalglobenetinkscgibinsubcginamejmnetnoteinccomimg srchttpwwwtotalglobenetinksleftnavgif width height borderatd
+td width valigntop
+p alignleftfont facearial sizebfont color sizethis is what are customers are sayingbr
+img srchttpwwwsaveoninkscomimagesemailopensgif width heightbr
+a hrefhttpwwwtotalglobenetinkscgibinsubcginamejmnetnoteinccomimg srchttpwwwtotalglobenetinkssatisfactiongif width height alignright borderafontbfontfont facearialifont sizei was shocked i cant believe how low the prices are and the quality of the product is great i will recommend your site  to everyone i know br
+br
+a hrefhttpwwwtotalglobenetinkscgibinsubcginamejmnetnoteinccomimg srchttpwwwtotalglobenetinksharvestercustjpg width height alignleft borderaquot
+cartridges were half of my lowest discount store prices delivery was in about   days
+cartridges work perfectly so far i will definitely order again   
+fontfont facearialifont sizebr
+fontifontfont sizebr
+the product is excellent ink refill kits easy to use and saving is substantial  my order came within three days  much faster than i expected definite savings over staplesfontfont facearial sizequotfontfont sizebr
+fontfont facearialifont sizefontifontbr
+font sizea hrefhttpwwwtotalglobenetinkscgibinsubcginamejmnetnoteinccomimg srchttpwwwtotalglobenetinksharvestercustjpg width height alignleft borderaquotcheaper than any place else in town why buy new cartridges when you can get perfectly good results with refills for about  of original cost  br
+bfont sizesavings are realfont bfontifontibr
+img srchttpwwwtotalglobenetinksspacergif width heightbr
+ifont sizeba hrefhttpwwwtotalglobenetinkscgibinsubcginamejmnetnoteinccomfont facearialclick herefontabfontp
+tdtr
+tabletd
+trtr
+tdfont facearial size
+to be removed from our mailing list click on the link below  and you will be removed from future mailings a hrefhttpwwwtotalglobenetinkscgibinremovecginamejmnetnoteinccomclick hereafonttd
+trtable
+bodyhtml
+
+

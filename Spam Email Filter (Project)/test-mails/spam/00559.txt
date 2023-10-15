@@ -1,0 +1,23 @@
+html
+head
+titlelearchtitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+body bgcolorcca
+div aligncentera hrefhttpmillceefdfcardimg srchttpmillceefdfcardadfcsemailjpg width height bordera 
+div
+table width border cellpadding cellspacing aligncenter
+  tr
+				td colspan alignleftbr
+			
+			font colorwhite size facearial
+			sincerelybr
+			your new offers staff
+			fonttd
+	tr
+table
+body
+html
+
+
+

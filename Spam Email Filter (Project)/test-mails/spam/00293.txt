@@ -1,0 +1,115 @@
+html
+
+body bgcolorffffff
+img srchttptrackoptinonlycomtevaspeid height width
+
+
+center
+table width border cellpadding cellspacing
+	tr
+		td colspan
+			img 
+srchttppolaroidvgif width 
+heighttd
+		td
+			img 
+srchttpspacergif width heighttd
+	tr
+	tr
+		td colspan
+			a 
+hrefhttptrackoptinonlycomclicktrackaspeidurlhttpaffstoreeyahooecomfcgidbinfclinkfemailshoppingnetworkbkeygysbfunehtml
+				img 
+srchttppolaroidvgif width 
+height borderatd
+		td
+			img 
+srchttpspacergif width heighttd
+	tr
+	tr
+		td colspan
+			img 
+srchttppolaroidvgif width 
+heighttd
+		td
+			img 
+srchttpspacergif width heighttd
+	tr
+	tr
+		td
+			img 
+srchttppolaroidvjpg width 
+heighttd
+		td colspan rowspan
+			img 
+srchttppolaroidvgif width 
+heighttd
+		td
+			img 
+srchttpspacergif width heighttd
+	tr
+	tr
+		td rowspan
+			img 
+srchttppolaroidvgif width 
+heighttd
+		td
+			img 
+srchttpspacergif width heighttd
+	tr
+	tr
+		td rowspan
+			img 
+srchttppolaroidvgif width 
+heighttd
+		td
+			a 
+hrefhttptrackoptinonlycomclicktrackaspeidurlhttpaffstoreeyahooecomfcgidbinfclinkfemailshoppingnetworkbkeygysbfunehtml
+				img 
+srchttppolaroidvgif width 
+height borderatd
+		td
+			img 
+srchttpspacergif width heighttd
+	tr
+	tr
+		td
+			img 
+srchttppolaroidvgif width 
+heighttd
+		td
+			a 
+hrefhttptrackoptinonlycomclicktrackaspeidurlhttpaffstoreeyahooecomfcgidbinfclinkfemailshoppingnetworkbkeygysbfunehtml
+				img 
+srchttppolaroidvgif width 
+height borderatd
+		td
+			img 
+srchttpspacergif width heighttd
+	tr
+table
+
+br
+brhr widthbr
+table width border cellspacing cellpadding
+   tr
+     td width
+       pfont size faceverdanayou are receiving this email
+       as a subscriber to the enetwork mailing list to remove yourself
+       from this and related email lists click herebr
+       a hrefmailtoremoveoptinonlycomunsubscribe my 
+emailafontp
+
+       pfont size faceverdanabr
+       under bills  title iii by the  us congress per section
+        paragraphaof s  a letter cannot be considered
+       spam if the sender includes contact information and a method
+       of quotremovalquotfont
+     td
+   tr
+table
+center
+
+
+body
+html

@@ -1,0 +1,37 @@
+update of cvsrootspamassassinspamassassin
+in directory uswprcvstmpcvsserv
+
+modified files
+      tag b
+	manifest 
+log message
+removed old evolver
+
+index manifest
+
+rcs file cvsrootspamassassinspamassassinmanifestv
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ manifest	 aug   	
+ manifest	 aug   	
+   
+ massescorpuspolicy
+ massescorpussubmit
+ massescraigevolvec
+massesevolvecxx
+ massesfreqdiff
+ masseshitfrequencies
+ masseslibmailarchiveiteratorpm
+
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassincommits mailing list
+spamassassincommitslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassincommits
+

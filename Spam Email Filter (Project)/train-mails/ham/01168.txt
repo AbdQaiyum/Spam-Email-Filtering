@@ -1,0 +1,52 @@
+exmhp
+contenttype textplain charsetusascii
+
+ from  anders eriksson aerikssonfastmailfm
+ date  thu  aug   
+
+ 
+ oooops
+ 
+ doesnt work at all got this on startup and on any attempt to change folde
+ r which fail
+
+sigh  id already found that and checked it inapparently i did so after 
+you checked it out and before you sent this maili hoped i was fast enough 
+that you wouldnt see it
+
+try again
+
+chris
+
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqezulvkbhriuirarlajmhzgwdfqiyqtmksuaqwcejxp
+jnavlrhhidrmvmpxnfzoe
+herg
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

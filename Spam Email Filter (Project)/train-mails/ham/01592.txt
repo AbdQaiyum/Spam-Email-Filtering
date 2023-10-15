@@ -1,0 +1,21 @@
+ i suggest that you use a normal user to start once you are familiar
+ enough with razor and understand how it works try the complex things
+ like integration with the mta and the like
+
+ok but do i have to launch that command as root or what
+
+thank you
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

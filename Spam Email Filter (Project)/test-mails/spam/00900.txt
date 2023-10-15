@@ -1,0 +1,137 @@
+doctype html public wcdtd html  transitionalen
+
+html
+head
+	titledouble the speed of your computertitle
+head
+
+body bgcolorffffff
+table width border cellspacing cellpadding height aligncenter
+	tr 
+		td colspan rowspan width heightimg src httpwwwbdcomdoublepcspeeddpstoplftgif width heighttd
+		td width height bgcolorimg src httpwwwbdcomdoublepcspeedspacergif width heighttd
+		td colspan rowspan width heightimg src httpwwwbdcomdoublepcspeeddpstoprtgif width heighttd
+	tr
+	tr 
+		td width heightimg src httpwwwbdcomdoublepcspeedspacergif width heighttd
+	tr
+	tr 
+		td rowspan width bgcolorimg src httpwwwbdcomdoublepcspeedspacergif width heighttd
+		td widthimg src httpwwwbdcomdoublepcspeedspacergif width heighttd
+		td width height aligncenter valignmiddlea hrefhttprmbnetscdxqeifsiimg src httpwwwbdcomdoublepcspeeddpshdrgif width height borderatd
+		td widthimg src httpwwwbdcomdoublepcspeedspacergif width heighttd
+		td rowspan width bgcolorimg src httpwwwbdcomdoublepcspeedspacergif width heighttd
+	tr
+	tr 
+		td colspan width height bgcolorimg src httpwwwbdcomdoublepcspeedspacergif width heighttd
+	tr
+	tr 
+		td widthimg src httpwwwbdcomdoublepcspeedspacergif width heighttd
+		td width alignleft valigntop height
+			table width border cellspacing cellpadding
+				tr 
+					td widtha hrefhttprmbnetscdxqeifsiimg src httpwwwbdcomdoublepcspeeddpsnogif width height borderatd
+					td widtha hrefhttprmbnetscdxqeifsiimg src httpwwwbdcomdoublepcspeeddpscomputerjpg width height borderatd
+				tr
+				tr
+					td alignleft valigntopa hrefhttprmbnetscdxqeifsiimg src httpwwwbdcomdoublepcspeeddpsclickgif width height borderatd
+					td alignleft valigntopa hrefhttprmbnetscdxqeifsiimg src httpwwwbdcomdoublepcspeeddpsurlgif width height borderatd
+				tr
+			table
+		td
+		td widthimg src httpwwwbdcomdoublepcspeedspacergif width heighttd
+	tr
+	tr 
+		td colspan rowspan width heightimg src httpwwwbdcomdoublepcspeeddpsbtnlftgif width heighttd
+		td width heightimg src httpwwwbdcomdoublepcspeedspacergif width heighttd
+		td colspan rowspan width heightimg src httpwwwbdcomdoublepcspeeddpsbtnrtgif width heighttd
+	tr
+	tr 
+		td width height bgcolorimg src httpwwwbdcomdoublepcspeedspacergif width heighttd
+	tr
+table
+br
+ insert unsub information 
+table width border cellspacing cellpadding
+	tr
+		td td
+	tr
+table
+body
+html
+
+html
+brbr
+center
+table width cellspacing cellpadding border
+form methodget actionhttpimbnetcgibinpmgsubscribepl
+tr
+  td bgcolordddddd
+  font facehelveticaarial size color
+    iremove yourself from this list by eitheri
+  font
+  td
+tr
+tr
+  td bgcoloreeeeee
+  font facehelveticaarial size color
+  entering your email address below and clicking removebr
+    center
+    input typehidden namelist valueebargains
+    input typehidden nameserveraction valueunsubscribe
+    input typetext nameemailaddress valuecypherpunkseinsteinsszcom sizefont
+    input typesubmit valueremove
+    center
+  font
+  td
+tr
+tr aligncenter
+  td
+  font facehelveticaarial size color
+    biorib
+  font
+  td
+tr
+tr
+  td bgcoloreeeeee
+  font facehelveticaarial size color
+  reply to this message with the word quotremovequot in the subject line
+  font
+  td
+tr
+form
+tr aligncenter
+  td bgcolorffffff aligncenter
+  font facehelveticaarial size color
+  this message was sent to address cypherpunkseinsteinsszcom
+  font
+  
+
+xpmgrecipient cypherpunkseinsteinsszcom
+xpmgmsgid 
+xpmguserid ebargains
+
+
+div aligncenter
+font facehelveticaarial size coloraaaaaapmguiddxqefsifontdivbr clearall
+img srchttprmbnetsodxqefsi width height border alignright altpmg
+
+td
+tr
+table
+center
+html
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

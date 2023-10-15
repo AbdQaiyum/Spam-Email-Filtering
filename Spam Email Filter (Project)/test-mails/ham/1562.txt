@@ -1,0 +1,119 @@
+this is a multipart message in mime format
+
+nextpartcbcfdb
+contenttype textplain
+	charsetiso
+contenttransferencoding quotedprintable
+
+i installed spamassassin  with razor v the other day and it has 
+been working great i decided to add pyzor last night and i got that 
+installed successfully i think no errors i am using spamd and i see 
+where it periodically spawns off a pyzor process however nothing has 
+been detected as spam by pyzor under spamassassin it has been running 
+for almost half a day now on a  user mail server  so to me the 
+odds of something being caught by it should be high i run spamd as 
+follows
+
+spamd d h
+
+and all my users home directories have a pyzor directory with the 
+server listed under it
+
+i setup a test procmail recipe that just invokes pyzor check and not 
+spamc to see if in fact pyzor alone catches any spam   i just set this 
+up so no results yet here is what i get when i check connectivity to 
+the pyzor server
+
+ pyzor d ping
+sending user anonymousntime nsig 
+cacfbbcdedffceafnnop pingnthread npv 
+nn
+received thread ncode ndiag oknpv nn
+    ok
+
+any helpexamples would be appreciated thanks btw keep up the great 
+work spamassassin team
+
+nick
+
+
+
+outgoing mail is certified virus free
+checked by avg antivirus system httpwwwgrisoftcom
+version   virus database   release date 
+
+nextpartcbcfdb
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+doctype html public wcdtd html  transitionalen
+htmlhead
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+meta contentdmshtml  namedgenerator
+stylestyle
+head
+body bgcolordffffff
+divfont facedarial sizedi installed spamassassin nbspwith 
+razor v
+the other day and it has been working great i decided to add pyzor last 
+night
+and i got that installed successfully i think no errors i am using 
+spamd and
+i see where it periodically spawns off a pyzor process however nothing 
+has been
+detected as spam by pyzor under spamassassin it has been running for 
+almost
+half a day now on a  user mail server  so to me the odds of 
+something
+being caught by it should be high i run spamd as followsfontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizedspamd d hfontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizedand all my users home directories have 
+a pyzor
+directory with the server listed under itfontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizedi setup a test procmail recipe that 
+just invokes
+pyzor check and not spamc to see if in fact pyzor alone catches any spam 
+
+nbspi just set this up so no results yet here is what i get when i 
+check
+connectivity to the pyzor serverfontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizednbsppyzor d pingbrsending user
+anonymousntime nsig
+cacfbbcdedffceafnnop pingnthread npv 
+
+nnbrreceived thread ncode ndiag oknpv
+nnbrnbspnbsp  okfontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizedany helpexamples would be appreciated 
+thanks
+btw keep up the great work spamassassin teamfontdiv
+divfont facedarial sizedfontnbspdiv
+divfont facedarial sizednickfontdiv
+divnbspdiv
+divfont facedarial sizedbrbroutgoing mail is certified 
+virus
+freebrchecked by avg antivirus system a
+hrefdhttpwwwgrisoftcomhttpwwwgrisoftcomabrversion 
+ 
+virus database   release date fontdivbodyhtml
+
+nextpartcbcfdb
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

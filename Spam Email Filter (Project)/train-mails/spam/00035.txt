@@ -1,0 +1,158 @@
+html
+head
+meta httpequivcontenttype contenttexthtml charseteuckr
+title   best     it      title
+meta namegenerator contentnamo webeditor v
+head
+body textblack vlinkpurple alinkred linkblue bgcolorwhite
+table cellspacing cellpadding width border
+tbody
+tr
+td width bgcolorffffffimg height
+srchttpimagehanmailnethanmailgeneraltransgif widthbrtd
+td valigntop width bgcolorffffffimg height
+srchttpimagehanmailnethanmailsimgrecruitsptopgif
+widthimg height
+srchttpimagehanmailnethanmailsimgrecruitsptopgif
+width
+table cellspacing cellpadding width border
+tbody
+tr
+td widthimg height
+srchttpimagehanmailnethanmailsimgrecruitgraoundgif
+widthbrtd
+td width bgcolorcbdtd
+td widthimg height
+srchttpimagehanmailnethanmailsimgrecruitgraoundgif
+widthbrtdtr
+tr
+td
+styleborderright abcc px solid bordertop abcc px solid borderleft abcc px solid borderbottom abcc px solid
+width colspan
+table cellspacing cellpadding width border
+tbody
+tr
+td
+stylepaddingright px paddingleft px paddingbottom px paddingtop pximg
+height
+srchttpimagehanmailnethanmailsimgrecruitgarrowgif
+width alignabsmiddle bfont color   best
+    it      fontb tdtr
+tr
+td
+backgroundhttpimagehanmailnethanmailsimgrecruitgjeumgiftdtr
+tr
+td
+stylepaddingright px paddingleft px paddingbottom px lineheight  paddingtop pxfont
+facespan stylefontsize pt    
+  it    spanfont
+pfont facespan stylefontsize pt  
+        it   
+        vj  
+         
+   spanfont
+pbfont facespan stylefontsize pt  
+          br 
+      spanfontb
+pfont facespan stylefontsize ptimg height
+srchttpimagehanmailnethanmailsimgrecruitgarrowgif
+width alignabsmiddle spanfontbfont facespan
+stylefontsize ptspanfontbfont
+facespan stylefontsize pt    imf   
+          
+           
+           
+spanfont
+pfont facespan stylefontsize pt  
+       fp
+frm          
+    img height
+srchttpimagehanmailnethanmailsimgrecruitgarrowgif
+width alignabsmiddle spanfonta
+hrefhttpjobdaumnetinfolacademylicelistaspofficekind
+targetnewfont facespan stylefontsize pt
+spanfonta
+pfont facespan stylefontsize ptimg height
+srchttpimagehanmailnethanmailsimgrecruitgarrowgif
+width alignabsmiddle spanfontbfont facespan
+stylefontsize ptitspanfontbfont
+facespan stylefontsize pt   it 
+            
+           
+spanfont
+pfont facespan stylefontsize ptit  
+              
+         img height
+srchttpimagehanmailnethanmailsimgrecruitgarrowgif
+width alignabsmiddle spanfonta
+hrefhttpwwwibdpekr targetnewfont facespan
+stylefontsize ptit spanfonta
+pfont facespan stylefontsize ptimg height
+srchttpimagehanmailnethanmailsimgrecruitgarrowgif
+width alignabsmiddle spanfontbfont facespan
+stylefontsize ptspanfontbfont
+facespan stylefontsize pt     
+ pd              
+          
+          img height
+srchttpimagehanmailnethanmailsimgrecruitgarrowgif
+width alignabsmiddle spanfonta
+hrefhttpjobdaumnetinfonewsnewsviewaspid
+targetnewfont facespan
+stylefontsize ptspanfonta
+pfont facespan stylefontsize pt  
+   mdmerchandiser img height
+srchttpimagehanmailnethanmailsimgrecruitgarrowgif
+width alignabsmiddle spanfonta
+hrefhttpjobdaumnetinfonewsnewsviewaspid
+targetnewfont facespan stylefontsize pt 
+md spanfonta
+pfont facespan stylefontsize ptimg height
+srchttpimagehanmailnethanmailsimgrecruitgarrowgif
+width alignabsmiddle spanfontbfont facespan
+stylefontsize ptspanfontbfont
+facespan stylefontsize pt       
+           
+           
+            
+            
+ img height
+srchttpimagehanmailnethanmailsimgrecruitgarrowgif
+width alignabsmiddle spanfonta
+hrefhttpjobdaumneteduindexhtml targetnewfont
+facespan stylefontsize pt
+spanfonta
+pfont facespan stylefontsize ptimg height
+srchttpimagehanmailnethanmailsimgrecruitgarrowgif
+width alignabsmiddle spanfontbfont facespan
+stylefontsize ptspanfontbfont
+facespan stylefontsize pt      
+      mbc      
+             
+img height
+srchttpimagehanmailnethanmailsimgrecruitgarrowgif
+width alignabsmiddle spanfonta
+hrefhttpjobdaumnetinfolacademyviewliceoffaspkind
+targetnewfont facespan stylefontsize pt
+spanfonta ptdtrtbodytabletdtr
+tr
+td width heighttd
+td width
+div aligncenterfont sizefont facefont sizespan
+stylefontsize pt           
+ br spanspan stylefontsize pt 
+memo    email       spanspan
+stylefontsize pt spanfontfontspan
+stylefontsize ptfont face size    
+nbspbrfontspanfont face sizespan
+stylefontsize ptfont facetimes new roman size
+fonta hrefmailtomasteribdpekrsubjectandyliaobigfootcom   ampbodyandyliaobigfootcom    font
+colorfont sizefont facetimes new romanfont
+colorff fontfontfontfontanbsp 
+      nbspspanfontfontfont
+sizefontdivtd
+td widthtdtrtbodytabletdtrtbodytable
+body
+html
+
+

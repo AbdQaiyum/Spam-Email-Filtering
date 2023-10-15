@@ -1,0 +1,54 @@
+exmhp
+contenttype textplain charsetusascii
+
+on wed  oct   edt j w ballantine jwbhomerattcom  said
+
+ first when i try and run exmh with wish from tk it seems to take
+ forever to start but with wish from tka it starts in a snap
+
+this sounds like something piggy in the flist code  im seeing flist
+in general taking  seconds  interesting that a different wish comes up
+fast there might be a borkedness in 
+
+ using the latest cvs when i open exmh and the folder im in has unseen
+ messages and i hit next exmh changes to the next folder with unseen messages
+ rather than to the first unseen in the current folder
+
+hmm weirdness
+
+ finally when i reach the end of the messages in a folder and go on to
+ the next unseen exmh always goes back to inbox which has no unseen
+ messages rather than the next folder with unseen messages  when i 
+ goto next from inbox it does go where i would think it should go
+
+ive been seeing this as well  usually with inbox but its gotten
+stuck on some other folders as well i have procmail do rcvstore into folders
+for me
+ 
+				valdis kletnieks
+				computer systems senior engineer
+				virginia tech
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqemwdcclwbttarasokakcezihypqnwbgyudyqzyuretguacfsms
+tuqindqstujqawvgsaik
+jbgx
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

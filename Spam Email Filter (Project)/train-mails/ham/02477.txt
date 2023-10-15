@@ -1,0 +1,37 @@
+
+paul moore
+    but lets walk before we run  after all we may end up
+    all using zodb in any case 
+
+id like this despite the additional installation burden  we can ship
+binaries for windows and mac and not only for technical reasons  as i
+understand it postx versions of the core bsddb code ship under the
+sleepycat license which demands that projects using it must be
+publishedsource  this is a problem if we want spambayes to be fully
+psflicensed  if someone wants to take the spambayes source and fund their
+addictions by creating a commercial closedsource spamfilter product the
+psf license allows that but not if the code relies on bsddb  not that im
+in favour of people making money from spambayes unless its me  but the
+psf license does allow for it  it should be all or nothing  or do i have
+this all wrong
+
+slightly ot this has concerned me since plabs announced that they were
+integrating bsddb into python   its going to make it very easy
+especially on windows for someone to write code that uses anydbm wrap it
+up with pyexe and ship it under a commercial license not knowing that
+theyre breaking the sleepycat license  theyve never heard of sleepycat
+software or even bsddb  as far as theyre concerned this bsddbpyd file
+that pyexe tells them they need to ship is just another part of python
+like socketpyd or selectpyd
+
+ 
+richie hindle
+richieentriancom
+
+
+
+spambayes mailing list
+spambayespythonorg
+httpmailpythonorgmailmanlistinfospambayes
+
+

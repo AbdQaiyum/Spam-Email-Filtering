@@ -1,0 +1,27 @@
+
+gary lawrence murphy said
+
+ i envy some of those posting to this list  ive been in business for
+  years and i havent yet had the luxury of writing every line of
+ code for any project we are always coerced by budgets and time to
+ maximize the amount of work done elsewhere  
+
+for consultancy integration or open source work sure perl python or
+java with free use of external libs makes a lot of sense imo
+
+i should note that normally when ive used c or c in the past its
+dictated by the fact that i would be working on a commercial product
+written from the ground up where the code youre generating is important
+ip for the company in this case using a thirdparty lib often is not an
+option or would be a pita licensingwise
+
+also cutting out thirdparty dependencies can reduce the risk of oops
+there goes the company that makes that library i depend on now to shop
+around for something vaguely similar figure out what bugs its got
+rewrite my code to use the new api and hope for the best
+
+this can be a very big deal for obvious reasons     open source
+knockers should note that this is not a problem when using lgpld libs 
+
+j
+

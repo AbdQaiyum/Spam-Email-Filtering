@@ -1,0 +1,33 @@
+
+
+hi i was just wondering if anyone experiening difficulty with eircom
+mail
+severi was trying to send mail from mozilla mail but it keeps coming
+up
+with this error
+sorrythat domain isnt in my list of allows rcpthosts
+please check the message recipients and try again
+
+what is this all about
+i am using maileircomnet as my smtp and my pop i can recieve mail
+but
+i cannot send mail is there any other open relay that i  can use
+
+i think youll find its at eircons end i occasionally have problems
+sending to a server i use whose admin said its a known bug for which
+he had to apply a patch youll probably want to tell eircons admins
+that they need to patch the server and to redo it if they think its
+already done
+
+sorry for the lame answer but its been so long ive forgotten the
+details
+
+have fun
+jim
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

@@ -1,0 +1,19 @@
+i noticed a drop in checks and did some tests  if i move truth up in
+my catalog list a check comes back postive but if i move fire up in
+the list then i dont get the positive check back  its almost like
+its not syncing up with hubris which is the one my reports are getting
+sent to
+
+bobby
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

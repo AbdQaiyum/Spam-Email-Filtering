@@ -1,0 +1,225 @@
+this is a multipart message in mime format
+
+nextpartccecfdc
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ work smarternot hardera
+ commission seminar sales system
+
+ learn the secrets to closing more salesa
+develop the master closer
+mindset with this system
+
+
+
+ 
+call or email mailtotlorigomhonet  us today
+ 
+ or  
+please fill out the form below for more information	
+name	  
+email	  
+phone	  
+city	  	state	  	 
+ 	  	 	   
+
+this is not a guarantee but and illustration of hypothetical results
+your income depends strictly upon your own efforts and thus could vary
+we dont want anybody to receive our mailing who does not wish to
+receive them this is professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+
+nextpartccecfdc
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titleclose  of your prospectstitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+
+body bgcolordffffff textd linkdff 
+vlinkd
+  table widthd borderd cellspacingd cellpaddingd 
+bordercolord bgcolordffffff aligndcenter
+    tr
+      td
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            tdimg srcdhttpiiqusimagesamericorpheaderjpg 
+widthd heightd altdwork smarternot 
+harder commission seminar sales systemtd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthd valigndtop heightd 
+aligndcenter
+              pimg 
+srcdhttpiiqusimagesamericorppersenranigif widthd 
+heightdbr
+                img 
+srcdhttpiiqusimagesamericorpsidecopygif widthd 
+heightd altdlearn the secrets to closing more 
+salesdevelop the master closer mindset with this systemp
+              td
+            td widthd valigndtop heightd 
+aligndleft
+              img srcdhttpiiqusimagesamericorptabgif 
+widthd heightdbr
+              img srcdhttpiiqusimagesamericorpbookgif 
+widthd heightdbr
+              img srcdhttpiiqusimagesamericorpbookbotgif 
+widthd heightd
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenter
+              font facedverdana arial helvetica sansserif 
+sized colordccb
+                call or a hrefdmailtotlorigomhonetemaila us 
+todaybfontbr
+                img srcdhttpiiqusimagesamericorpphonegif 
+widthd heightd altd
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenter
+              font facedverdana arial helvetica sansserif 
+sizedb or bfont
+            td
+          tr
+          tr
+            td
+              table widthd bgcolordffffff
+                tr
+                  form methoddpost 
+actiondhttpresponseresponseasp
+                    td
+                      table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordffffff
+                        tr
+                          td colspand aligndcenterfont 
+facedverdana arial helvetica sansserif sizedbplease fill 
+out the form below for more informationbfonttd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizedbnamebfonttd
+                          td colspand
+                            input typedtext namedcontactname 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizedbemailbfonttd
+                          td colspand
+                            input typedtext namedemail 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizedbphonebfonttd
+                          td colspand
+                            input typedtext namedphone 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizedbcitybfonttd
+                          td widthd
+                            input typedtext namedcity 
+sized
+                          td
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizedbstatebfonttd
+                          td widthd
+                            input typedtext namedstate 
+sized
+                          td
+                          td rowspand aligndcenter 
+valigndmiddleimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                        tr
+                        tr
+                          td widthd aligndrightnbsptd
+                          td widthd
+                            input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          td
+                          td widthd aligndrightnbsptd
+                          td widthd
+                            input typedhidden 
+namedhdnrecipienttxt valuedtlorigomhonet
+                            input typedhidden 
+namedhdnsubjecttxt valuedamericorp inquiry
+                          td
+                        tr
+                      table
+                    td
+                  input typedhidden namedsentto 
+valued
+form
+                tr
+              table
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td bgcolord
+              p aligndcenterfont facedverdana arial 
+helvetica sansserif sized colordffffffthis
+                is not a guarantee but and illustration of hypothetical 
+results
+                your income depends strictly upon your own efforts and 
+thus could
+                varybr
+                we dont want anybody to receive our mailing who does 
+not wish to
+                receive them this is professional communication sent to 
+insurance
+                professionals to be removed from this mailing list do 
+not reply
+                to this message instead go here a 
+hrefdhttpwwwinsurancemailnethttpwwwinsurancemailnetabr
+
+                a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafont
+              p
+            td
+          tr
+        table
+      td
+    tr
+  table
+body
+html
+
+nextpartccecfdc

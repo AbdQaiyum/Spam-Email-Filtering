@@ -1,0 +1,141 @@
+
+
+
+
+
+html
+head
+titleweb lettertitle
+link relstylesheet hrefhttpwwwsancristobalsanetletterstylescss typetextcss 
+style
+
+body
+
+backgroundimage
+urlhttpwwwsancristobalsanetletterimagesbggif
+backgroundrepeat repeaty
+backgroundposition top left
+
+
+style
+head
+body bgcolorffffff marginwidth marginheight topmargin leftmargin
+table alignleft cellpadding cellspacing border width
+ tr
+  td colspanimg srchttpwwwsancristobalsanetletterimagesheaderjpg width height border alttd
+ tr
+ tr
+  td alignleft width valigntopbr
+table alignleft cellpadding cellspacing border width
+ trtdimg srchttpwwwsancristobalsanetletterimagessetjpg width height border alttdtr
+ trtdimg srchttpwwwsancristobalsanetletterimagessetjpg width height border alttdtr
+table
+  td
+td alignleft width valigntopbr
+               div aligncenter
+                pbfont colordf size faceverdanatahomaarialhelveticasansseriftremendous investment opportunityfontbpdiv
+                div alignjustifyfont classtextpare you are fed up with the manipulation and erratic performance of the stock marketnbsp like most people are you looking for a stable investment that can provide a b taxfree annual cash flow returnnbsp if you answered yes to either question i have an exciting offering for youbp
+     pi represent a company that has a limited offering of emerging growth caribbean real estate that enjoins a tropical working farm which provides bsubstantial cash flow longterm wealth accumulationb and the proven bappreciation of caribbean real estatebp
+                phere are the detailsp
+                    table width border cellspacing cellpadding aligncenter
+                        tr
+                            td
+                                table idtable border cellspacing cellpadding width
+                                    tr
+                                        td width bgcolor
+ul
+                                           pimg srchttpwwwsancristobalsanetletterimagesstarfishgif width heightnbspnbspfont faceverdana arial size colorffffffa acre tract of waterfront caribbean real estate is only  including closing costs and dual residency status in a taxadvantaged countryfontp
+  font faceverdana arial size colorffffffpimg srchttpwwwsancristobalsanetletterimagesstarfishgif width heightnbspnbspthe investment will be totally private and protected from lawsuitspfont
+                                               font faceverdana arial size colorffffffpimg srchttpwwwsancristobalsanetletterimagesstarfishgif width heightnbspnbspthe plantation has a proven track recordpfont
+                                                font faceverdana arial size colorffffffpimg srchttpwwwsancristobalsanetletterimagesstarfishgif width heightnbspnbsptotal turnkey system is provided  you buy the real estate the management company plants maintains and harvests your cropnbsp you deposit the quarterly cash returnspfont
+                                            ul
+                                        td
+                                    tr
+                                table
+                            td
+                        tr
+                    tablebr
+pwe currently have several tracts of phase ii remaining and it is premier property that is planned to overlook the natural marina of an eco resort there is incredible demand for these tracts and i wanted to give you the first opportunity to participate in this exciting and lucrative projectp
+                pplease review the online powerpoint presentation and i can put you in touch with the principals of the project to answer any questions that you havep                pa hrefhttpwwwsancristobalsanetcustomerpptindexphpsiteidtomrealpropertymagazinecomclick here to view presentationap
+                pplease contact me as soon as possible so you dont miss out on this offeringp
+                psincerely yoursimg idpicture srchttpwwwsancristobalsanetimagesspacergif width height vspace hspace alignright border alt
+                pcorporate brreal property magazinebrmaster brokerbrsan cristobal land developmentbra hrefhttpwwwsancristobalsanetindexphpsiteidtomrealpropertymagazinecomfont size faceverdanatahomaarialhelveticasansserifhttpwwwsancristobalsanetindexphpsiteidtomrealpropertymagazinecomfontap
+                pbpsnbsp if huge returns rapid cash flow and the security of titled real estate interest you contact me todaybp
+                p
+telephone  brfax  bremailnbspa hrefmailtotomrealpropertymagazinecomtomrealpropertymagazinecomapbr
+please fill in the form below to request more informationbrbr
+
+table alignleft border cellpadding cellspacing width
+                    tr
+                      td
+table aligncenter bgcolorfff border cellpadding cellspacing width
+                    tr
+                      td width height valigntopimg srcimagesuplcorngif width heighttdtd valigntop width height bgcolorffftdtd  width height valigntopimg srcimagesuprcorngif width heighttd
+                    tr
+   trtd width height bgcolorffftdtd width height bgcolorfff
+
+form
+form methodpost actionthankyouphp targetblank
+table aligncenter border cellpadding cellspacing width
+	tr
+	 td alignrightbr
+font faceverdana arial helvetica sansserif colorda size
+bname nbspbfont
+	 td
+	 tdbr
+input typetext namenewname size classform
+	td
+	tr
+	tr
+	 td alignright
+font faceverdana arial helvetica sansserif colorda size
+bphone nbspbfont
+	 td
+	td
+input typetext namenewphone size classform
+	td
+	tr
+	tr
+	 td alignright
+font faceverdana arial helvetica sansserif colorda size
+bemail nbspbfont
+	 td
+	td
+input typetext namenewemail size classform
+	td
+	tr
+	tr
+	 td colspan aligncenterbr
+input typehidden nameemail valuetomrealpropertymagazinecom
+input typesubmit namesubmit valueenter stylebackgroundcolor fffbr
+
+	
+td
+tr
+table
+form
+
+   tdtd with height bgcolorffftdtr
+   tr
+                      td width height valignbottomimg srcimagesdwlcorngif width heighttdtd width height valignbottom bgcolorffftdtd width height valignbottomimg srcimagesdwrcorngif width heighttdtrtable
+pnbspptdtrtable
+fontdivpnbspppnbspp
+            tdtrtable
+body
+html
+
+to be removed reply with remove in the subject line  thank you
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

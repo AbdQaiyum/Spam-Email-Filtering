@@ -1,0 +1,29 @@
+matthias
+
+on mon sep   at am  matthias saou wrote
+ all freshrpmsnet is now set for the imminent release of red hat linux 
+
+thanks a lot for all your effords it is just great
+
+ ill probably post to the list once i open up ftpfreshrpmsnet so you can
+ be the first ones to get in and download although i doubt youll have
+ trouble finding access to at least one fast mirror using my mirror list
+
+you mean the mirror list for rh or do there exist mirrors for your apt
+repo
+
+on sat sep   at pm  matthias saou wrote 
+ ill keep you all posted on monday theyll even be a big aptrelated 
+ surprise  
+
+was this the surprise or will there be even more where are my heart pills 
+
+thanks matthias
+ 
+axelthimmphysikfuberlinde
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

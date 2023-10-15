@@ -1,0 +1,58 @@
+
+nextpartcaabb
+contenttype textplain charsetiso
+contenttransferencoding quotedprintable
+
+
+
+ original message 
+from joseph s barrera iii
+sent wednesday september    pm
+to fork
+subject dumb question x client behind a firewall
+
+lets say youre behind a firewall and have a nat address
+is there any way to telnet to a linux box out there in the world
+and set your display in some way that you can create
+xterms on your own screen
+
+ joe
+
+
+im in no way a pro but perhaps you could set your firewall to accept con
+nections from that linux box and then somehow set the linux box to transm
+it on a specific port then configure your router to forward all informat
+ion from that port to your box
+
+but then again that pretty much defeats the entire point of a firewall d
+pget more from the web  free msn explorer download  httpexplorerms
+ncom
+
+nextpartcaabb
+contenttype texthtml charsetiso
+contenttransferencoding quotedprintable
+
+htmlbody styledfontpt verdana bordernonedivnbspdiv 
+divnbspdiv blockquote styledpaddingright px paddingleft 
+px marginleft px borderleft  px solid marginright px
+ div styledfont pt arial original message div div 
+styledbackground eee font pt arial color blackbfromb
+ joseph s barrera iiidiv div styledfont pt arialbsentb
+ wednesday september    pmdiv div styledfont pt ar
+ialbtob forkdiv div styledfont pt arialbsubjectb
+ dumb question x client behind a firewalldiv divnbspdiv pl
+ets say youre behind a firewall and have a nat addressbris there any
+ way to telnet to a linux box out there in the worldbrand set your disp
+lay in some way that you can createbrxterms on your own screenbrbr
+ joep pnbspp pp pim in no way a pr
+o but perhaps you could set your firewall to accept connections from that
+ linux box and then somehow set the linux box to transmit on a specific p
+ort then configure your router to forward all information from that port
+ to your boxp pnbspp pbut then again that pretty much defea
+ts the entire point of a firewall dppblockquotebodyhtmlbr
+ cleardallhrget more from the web  free msn explorer download  a 
+hrefdhttpexplorermsncomhttpexplorermsncomabrp
+
+nextpartcaabb
+
+

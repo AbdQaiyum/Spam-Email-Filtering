@@ -1,0 +1,13 @@
+
+this function should print all numbers up to 
+
+void printnums
+
+  int i
+
+  fori   i  l i 
+    printfdni
+  
+
+
+

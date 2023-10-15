@@ -1,0 +1,29 @@
+
+ ns  neil schemenauer naspythonca writes
+
+    ns writing an imap server is a nontrivial task
+
+thats what ive been told by everyone ive talked to whos actually
+tried to write one
+    
+    ns alternatively perhaps there could be a separate protocol and
+    ns client that could be used to review additions to the training
+    ns set  each day a few random spam and ham messages could be
+    ns grabbed as candidates  someone would periodically startup the
+    ns client review the candidates reclassify or remove any
+    ns messages they dont like and add them to the training set
+
+i think people will be much more motivated to report spam than ham  i
+like the general approach that copies of random messages will be
+sequestered for some period of time before theyre assumed to be ham
+matched with a simple spam reporting scheme this could keep the
+training up to date with little effort  ive sketched out an approach
+a listserver like mailman could do along these lines and if i get some
+free time ill hack something together
+
+i like the idea of a pop proxy which is classifying messages as
+theyre pulled from the server  the easiest way for such a beast to
+be notified of spam might be to simply save the spam in a special
+folder or file that the pop proxy would periodically consult
+
+barry

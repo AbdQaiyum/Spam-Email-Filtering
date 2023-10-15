@@ -1,0 +1,16 @@
+justin mason jmjmasonorg writes
+
+ hmm also i think ive found some cases where its hitting on fetchmail
+ received hdrs  thats bad  so it could be fixed
+
+fetchmail adds received headers  that seems wrong  ill open a bug
+to investigate  can you attach some examples
+
+ yeah will do  somehow  pity the bugzilla doesnt allow email
+ submissions
+
+agreed  at least you can add information with email
+
+ dan
+
+

@@ -1,0 +1,12 @@
+
+     accordingly i wrote unheaderpy which is mostly a ripoff of
+     something someone else posted to pythondev or clpy within the last
+     week or so to strip out sagenerated headers
+
+    tim unless ive grown senile tonight you got it from anthony to begin
+    tim with  please check it in to project and add a short blurb to
+    tim readmetxt
+
+raring to go once i can write to cvs
+
+s

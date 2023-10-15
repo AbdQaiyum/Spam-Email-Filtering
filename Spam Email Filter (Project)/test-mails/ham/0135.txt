@@ -1,0 +1,36 @@
+ from paul linehan mailtoplinehanyahoocom 
+
+ there are two open alternatives that i can think of
+ that dont appear to have been mentioned 
+ elsewhere in this thread
+ 
+ 
+ one is firebird this is my personal favourite
+ it is httpfirebirdsqlorg and you can
+ purchase support contracts here
+ wwwibphoenixcom
+
+indeedy  i had never even heard of firebird until we started a new job
+last week with a client who uses it  so we popped it onto a box
+downstairs and wow  it is fast  comes with some lovely client tools
+also  supports all the db goodies transactions stored procedures
+triggers
+
+ its really amazing to think how much theyve got
+ out of a db that is only  mb in size  thats 
+ times smaller than the oracle client
+ 
+ 
+ having said all of the above oracle is really
+ a super product but ya pays ya money
+ 
+ibms db is another cheaper alternative to oracle  free single
+developer license downloadable from their website
+
+fergal
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

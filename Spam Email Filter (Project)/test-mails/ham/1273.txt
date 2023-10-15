@@ -1,0 +1,43 @@
+
+
+hi
+
+first you have to get the win files 
+then  you configure using  enablewin 
+
+on fri  at  axel thimm wrote
+ hi
+ 
+ has anyone an answer for me the mplayer documentation still suggests to use
+ them for x architectures
+ 
+ thanks 
+ 
+ regards axel
+ 
+ on sat jun   at pm  axel thimm wrote
+  are there perhaps licensing issues which forbid such a practice or any other
+  reasons
+  
+  the reason i ask is that i have seen performance and also some feature
+  differences fullscreen wo keeping aspect ratio visual artifacts on nvidia
+  comparing with or without the win codecs the mplayer authors seem to
+  recommend using them for x architectures
+  
+  beware i am no mplayercodecswhatever expert i may be totally lost 
+ 
+  
+ axelthimmphysikfuberlinde
+ 
+ 
+ rpmlist mailing list rpmlistfreshrpmsnet
+ httplistsfreshrpmsnetmailmanlistinforpmlist
+ 
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

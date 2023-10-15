@@ -1,0 +1,302 @@
+this is a multipart message in mime format
+
+nextpartfcbedee
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ outstanding
+ opportunities
+ for premier producers	
+ our clients search includes	
+ fulltime agents 	 sales managers	  general agents	 
+ cpa partners	  independent agents  brokers	 
+ 	 allow
+ their nationally acclaimed marketing intiatives and unbeatable
+product portfolio to double your income within  months	
+
+plus access to  other companies 	
+for a confidential phone interview please complete form  submit 	
+name 	 	
+email 	 	
+phone 	 	
+city	  	state	  	 	 
+area of interest	  	fulltime agent	  	sales manager
+general agent	 
+ 	  	cpa partner	  	independent agent	 
+ 	    	 	
+ 
+we dont want anybody to receive or mailing who does not wish to receive
+them this is professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsuranceiqcomoptout
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+
+
+nextpartfcbedee
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titleoutstanding opportunities for premier producerstitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+
+body bgcolordffffff textd
+p aligndcenter
+  table widthd borderd cellspacingd cellpaddingd 
+bordercolord
+    tr
+      td
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            tdimg srcdhttpiiqusimagesnlvoppstopjpg 
+widthd heightd altdoutstandingbr
+            img srcdhttpiiqusimagesnlvoppsmidjpg 
+widthd heightd altdopportunitiesbr
+            img srcdhttpiiqusimagesnlvoppsbotjpg 
+widthd heightd altdfor premier producerstd
+          tr
+          tr
+            td img srcdhttpiiqusimagesnlvoppssubgif 
+widthd heightd altdour clients search includestd
+          tr
+          tr
+            td aligndcenter
+                table widthd borderd cellspacingd 
+cellpaddingd
+                  tr
+                    tdbfont facedverdana arial helvetica 
+sansserifimg srcdhttpiiqusimagesnlvoppsbulletgif 
+widthd heightdfulltime agents fontbtd
+                    tdbfont facedverdana arial helvetica 
+sansserifimg srcdhttpiiqusimagesnlvoppsbulletgif 
+widthd heightdsales managersfontbtd
+                    tdbfont facedverdana arial helvetica 
+sansserifimg srcdhttpiiqusimagesnlvoppsbulletgif 
+widthd heightdgeneral agentsfontbtd
+                  tr
+                table
+                table widthd borderd cellspacingd 
+cellpaddingd
+                  tr
+                    td widthdbfont facedverdana arial 
+helvetica sansserifimg 
+srcdhttpiiqusimagesnlvoppsbulletgif widthd 
+heightdcpa quotpartnersquotfontbtd
+                    td widthdbfont facedverdana arial 
+helvetica sansserifimg 
+srcdhttpiiqusimagesnlvoppsbulletgif widthd 
+heightdindependent agents amp brokersfontbtd
+                  tr
+                table
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td widthd aligndrightimg 
+srcdhttpiiqusimagesnlvoppsguyjpg widthd 
+heightdtd
+            td widthdimg 
+srcdhttpiiqusimagesnlvoppsallowgif widthd 
+heightd altdallowbr
+              img srcdhttpiiqusimagesnlvoppsanidoublegif 
+widthd heightd altdtheir nationally acclaimed 
+marketing intiatives and unbeatable product portfolio to double your 
+income within  months td
+          tr
+        table
+        br
+        table widthd borderd cellspacingd 
+cellpaddingd bordercolord
+          tr
+            td bgcolord aligndcenter
+              font facedarial helvetica sansserif 
+colordffffffbplus access to  other companiesbfont
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td
+              table widthd borderd cellspacingd 
+cellpaddingd
+                tr
+                  td
+                    table widthd
+                      tr
+                        form methoddpost 
+actiondhttpresponseresponseasp
+                          td
+                            table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordffffff
+                              tr
+                                td colspand aligndcenterfont 
+facedverdana arial helvetica sansserif sized 
+colordb
+                                  for a confidential phone interview 
+please complete form amp submitbfont
+                                td
+                              tr
+                              tr
+                                td widthd aligndright
+                                  font facedarial helvetica 
+sansserif sized colordnamefont
+                                td
+                                td colspand
+                                  input typedtext 
+namedcontactname sized
+                                td
+                              tr
+                              tr
+                                td widthd aligndright
+                                  font facedarial helvetica 
+sansserif sized colordemailfont
+                                td
+                                td colspand
+                                  input typedtext namedemail 
+sized
+                                td
+                              tr
+                              tr
+                                td widthd aligndright
+                                  font facedarial helvetica 
+sansserif sized colordphonefont
+                                td
+                                td colspand
+                                  input typedtext namedphone 
+sized
+                                td
+                              tr
+                              tr
+                                td widthd aligndrightfont 
+facedarial helvetica sansserif sized 
+colordcityfonttd
+                                td colspand
+                                  input typedtext namedcity 
+sized
+                                td
+                                td widthd aligndrightfont 
+facedarial helvetica sansserif sized 
+colordstatefonttd
+                                td widthd
+                                  input typedtext namedstate 
+sized
+                                td
+                                td colspand aligndcenter 
+valigndmiddlenbsptd
+                              tr
+                              tr
+                                td widthd aligndrightfont 
+facedarial helvetica sansserif sized colordarea 
+of interestfonttd
+                                td widthd aligndright
+                                  input typedcheckbox 
+namedcategory valuedfulltimeagents
+                                td
+                                td widthdfont facedarial 
+helvetica sansserif sized colordfulltime 
+agentfonttd
+                                td widthd aligndright
+                                  input typedcheckbox 
+namedcategory valuedsalesmanagers
+                                td
+                                td widthdfont facedarial 
+helvetica sansserif sized colordsales 
+managerfonttd
+                                td aligndright valigndmiddle 
+widthd
+                                  input typedcheckbox 
+namedcategory valuedgeneralagents
+                                td
+                                td aligndleft valigndmiddle 
+widthdfont facedarial helvetica sansserif sized 
+colordgeneral agentfonttd
+                              tr
+                              tr
+                                 td widthd 
+aligndrightnbsptd
+                                 td widthd aligndright
+                                   input typedcheckbox 
+namedcategory valuedcpapartners
+                                 td
+                                 td widthdfont sized 
+facedarial helvetica sansserif colordcpa 
+quotpartnerquotfonttd
+                                 td widthd aligndright
+                                   input typedcheckbox 
+namedcategory valuedindependentagents
+                                 td
+                                 td widthd colspandfont 
+sized facedarial helvetica sansserif 
+colordindependent agentfonttd
+                              tr
+                              tr
+                                td widthd 
+aligndrightnbsptd
+                                td colspand
+                                  input typedsubmit namedsubmit 
+valuedsubmit
+                                  input typedhidden 
+namedhdnrecipienttxt valuednlvinsiqcom
+                                  input typedhidden 
+namedhdnsubjecttxt valuednlv recruit
+                                td
+                                td colspand aligndcenter 
+valigndmiddleimg srcdhttpimagesqgif 
+widthd heightdtd
+                              tr
+                            table
+                          td
+                        input typedhidden namedsentto 
+valued
+form
+                      tr
+                    table
+                  td
+                tr
+              table
+              table widthd borderd cellspacingd 
+cellpaddingd
+                tr
+                  td
+                    p aligndcenterfont facedverdana arial 
+helvetica sansserif sizedwe
+                      dont want anybody to receive or mailing who does 
+not wish
+                      to receive them this is professional 
+communication sent
+                      to insurance professionals to be removed from 
+this mailing
+                      list do not reply to this message instead go 
+here a 
+hrefdhttpwwwinsuranceiqcomoptouthttpwwwinsuranceiqcomopt
+outabr
+                      a 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafontp
+                  td
+                tr
+              table
+            td
+          tr
+        table
+      td
+    tr
+  table
+  br
+p
+body
+html
+
+nextpartfcbedee
+

@@ -1,0 +1,59 @@
+
+no i was just a little confused because im running procmail on a gateway
+and sits between the external sendmail box and internal exchange bridgehead
+server  so there isnt any delivery to the local system
+
+the only email it gets is inbound at the moment and were looking to get rid
+of complication and go back to two boxes  i did a test which looked like
+you guys are right about procmail but testing is very limited due to the
+config i currently have  its just confusing when set up as a gateway
+
+jason
+
+original message
+from stephane lentz mailtostephanelentzansfalcatelfr
+sent monday september    pm
+to spamassassintalkexamplesourceforgenet
+subject re satalk separate inbound and outbound
+
+
+on mon sep   at pm  jason qualkenbush wrote
+ 
+ is there is way to separate inbound and outbound email so that i only
+check
+ for spam on inbound mail and ignore the outbound
+ 
+ im using sendmail and running procmail on the gateway to call
+spamassassin
+ i know it more of a sendmail question but my google searches have only
+ turned up people trying to log all inbound and outbound email
+ 
+using procmail spamassassin doesnt get called for outgoing email
+messages sent to other machines 
+procmaillocal delivery agent  inbound traffic to local machine
+
+sl
+
+stephane lentz  alcanet international  internet services
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

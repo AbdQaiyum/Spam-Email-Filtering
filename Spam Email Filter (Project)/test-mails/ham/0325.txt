@@ -1,0 +1,27 @@
+zzzzexamplecom justin mason writes
+
+ devfd is stdin  filedescriptor   looks like the ps file wants
+ to know its filename but its being read from stdin thats my
+ guess  
+
+i dont think so it should be getting a stream of ps from stdin
+but its not the printingspooling system is executing gs but
+somehow failing to provide it with input
+
+ try tweaking the scripts to run gs with the ps file on
+ the command line instead of as 
+
+that might clarify that the later part of the system works but i
+suspect the problem is earlier
+
+b
+ 
+brendan halpin dept of government and society limerick university ireland
+tel w  f  h   room f x 
+mailtobrendanhalpinulie        httpwivenhoestaffuliebrendan
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

@@ -1,0 +1,152 @@
+this is a multipart message in mime format
+nsmailboundary
+contenttype texthtml
+
+
+htmlheadtitletitle
+meta httpequivcontenttype contenttexthtml charsetiso
+style typetextcss
+
+txt  fontfamily arial helvetica sansserif fontsize pt
+orng  fontfamily arial helvetica sansserif fontsize pt color
+ff fontweight bold
+red  fontfamily arial helvetica sansserif fontsize pt
+fontweight bold color 
+wh  fontfamily arial helvetica sansserif fontsize pt
+fontweight bold color ffffff
+gr  fontfamily arial helvetica sansserif fontsize pt
+fontweight bold color 
+
+style
+head
+body bgcolorccff leftmargin topmargin marginwidth
+marginheight
+table width border cellspacing cellpadding
+aligncenter bgcolor
+  tr valigntop 
+    td bgcolorffffff rowspan 
+      p classtxtspan classreddear sir or madamspanbr
+        br
+        we are glad to deliver cuttingedge solutions to your it challenges
+at 
+        a quality that is equivalent or superior to that offered by
+domestic companies 
+        but at a fraction of the cost of domestic developmentbr
+        br
+        we represent a number of wellestablished companies staffed with
+over 
+         qualified developers with a record of successfully completing
+hundreds 
+        of small and midsize projects and tens of widescale projects for
+fortune 
+         corporationsp
+      center
+        span classredfrom business analysis and consulting to web
+design from 
+        coding to testing and porting we provide a full cycle of it
+servicesbr
+        span br
+      center
+      p classtxtworking both onsite and offshore our specialists
+develop and 
+        integratep
+      ul classred
+        liinternetintranetextranet applicationsli
+        libusiness applicationsli
+        lierp crm systemsli
+        li ebusiness bb bc solutionsli
+        limobile and wireless applications 
+        lidesktop applications 
+        lidata warehouses 
+        lisecurity and cryptography systems 
+      ul
+      p alignright  classredand morep
+      p classtxtour quality is based on developed partnerships with
+leading 
+        it technology providers modern project and quality management and
+exclusive 
+        human resourcesp
+    td
+    td bgcolorffffff 
+      p aligncenterbr
+        span classorng rates only  an hourspanbr
+        br
+        span classtxtfont sizefor more infoba
+hrefmailtoraymondbtamailnetcnmrliberoitsubjectplease send more
+infoclick hereabfontspanbr
+		font sizeplease include your phone numberbrand we will be happy
+to call youfontbr
+      p aligncenterspan classorngfont coloror
+callfont br
+        br
+        cost effective it solutionsbr
+        experienced teams of specialistsbr
+        fair ratesspanp
+      
+    td
+  tr
+  tr valigntop 
+    td bgcolorffffff valigntop 
+      p classredhere is a list of some of the technologies 
+        and platforms that our specialists employ to bring you only the
+best 
+        most efficient and costeffective solutionbr
+      p
+      table width border cellspacing cellpadding
+classtxt
+        tr valigntop bgcolorffffff 
+          td width 
+            pb application platformsbr
+              b span classgr netbr
+               javaeebr
+               ibm websphere suitebr
+               lotus dominobr
+               bea weblogicbr
+               coldfusionbr
+               enhydraspanp
+          td
+          td width 
+            center
+              b operating systemsbr
+              b
+            center
+            span classgr all windows macbr
+            and unix platformsbr
+             epocbr
+             windows cebr
+             palm osbr
+             javamicroeditionspantd
+        tr
+        tr valigntop bgcolorffffff 
+          td widthbdatabasesbr
+            bspan classgr ms sqlbr
+             oraclebr
+             dbbr
+             foxprobr
+             informixbr
+             sybasespanb btd
+          td width 
+            pb b classtxtreal time embedded systemsbr
+              span classgr qnx rtbr
+               qnx neutrio rtspanbbp
+            pnbspp
+          td
+        tr
+      table
+    
+      p aligncenterspan classorngia
+hrefmailtoraymondbtamailnetcnmrliberoitsubjecti would like a free quotefree
+quotesaispanbr
+	  font sizeplease include your phone numberbrand we will be
+happy to call youfontbr
+    td
+  tr
+  tr valignmiddle aligncenter 
+    td bgcolorcc colspanspan classtxtif you received
+this letter 
+      by mistake please click a
+hrefmailtoremovepleasebtamailnetcnsubjectremoveunsubscribeaspan 
+    tdtrtablebodyhtml
+nsmailboundary
+
+

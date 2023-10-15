@@ -1,0 +1,37 @@
+url httpwwwaaronswcomweblog
+date t
+
+decss detractors have repeatedly claimed that decss needs to be stopped because 
+it makes perfect digital copies of dvds possible recently in private email 
+ernest miller claimed that doing so would be a violation of the dmca in this 
+indepth special report i show that using perfectly legal i assume 
+licensed offtheshelf consumer software copying dvds is easy and in many 
+ways encouraged 
+
+tools
+ powerbook g with slotloading dvd drive any model should work
+ monsters inc collectors edition dvd any dvd should work
+ copy of mac os x  jaguar 
+
+process
+ insert dvd into drive notice how jaguar helpfully loads the dvd player for 
+you
+ open the dvd it appears on the desktop and drag the videots folder to 
+your hard drive ejct the dvd
+ in dvd player select open videots folder from the file menu use the 
+dialog that appears to select the videots folder on your hard drive 
+
+now the dvd plays just like it would were the dvd in the drive by extension i 
+could also put the dvd up on my site for you to download and watch i could 
+share it via a pp network and i havent done anything to decrypt the dvd or 
+violate the dmca ive used only basic tools available to all normal computer 
+users on my i assume fullylicensed consumer laptop 
+
+disclaimer seth schoen whose opinion i highly respect on these matters 
+finds it unlikely that the dvd was cssencrypted if this was possible i am not 
+sure how to verify if the dvd is cssencrypted if someone has a suggestion 
+please let me know however if it is true then its very interesting that 
+disney has released such a major movie without encryption
+
+
+

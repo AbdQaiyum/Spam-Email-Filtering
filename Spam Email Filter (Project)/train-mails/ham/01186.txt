@@ -1,0 +1,27 @@
+once upon a time jesse wrote 
+
+ oh yeah i was following this thread in the sylpheedclaws list  very
+ interesting stuff  i might have to stick w  until aspell gets
+ updated in red hat
+
+then this may be  months or more since my guess after  beta releases is
+that the freeze on package versions for inclusion in the next stable
+release n has already happened thus youll have to wait at least for
+red hat linux n 
+
+this is why if it doesnt break anything ill maybe release recent
+aspell packages but to be sure ill need to do some testing 
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

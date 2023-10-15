@@ -1,0 +1,49 @@
+i just updated to the latest cvs  i had been running a build from june  
+hitting the flist button gives the following traceback
+
+syntax error in expression int
+    while executing
+expr intminlinemsgidminmsgmaxlineminlinemaxmsgminmsg
+    procedure ftocfindmsg line 
+    invoked from within
+ftocfindmsg i
+    procedure ftocshowsequences line 
+    invoked from within
+ftocshowsequences f
+    procedure scanfolder line 
+    invoked from within
+scanfolder inbox 
+    invoked from within
+time list scanfolder f adjustdisplay
+    procedure scanfolder line 
+    invoked from within
+scanfolder exmhfolder ftocshownew
+    procedure incpresortfinish line 
+    invoked from within
+incpresortfinish
+    invoked from within
+fopsflist invoke
+    uplevel body line 
+    invoked from within
+uplevel  list w invoke
+    procedure tkbuttonup line 
+    invoked from within
+tkbuttonup fopsflist
+
+    command bound to event
+
+
+it seems to only happen in a folder with no unseen messages
+
+chris is this related to your recent changes
+
+scott
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

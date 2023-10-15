@@ -1,0 +1,33 @@
+once upon a time ralf wrote 
+
+ matthias saou matthiasegwnnet wrote
+  my main concern is that when rebuilding the recent packages ive made
+  for psyche on valhalla id need to lower the release tag to keep
+  an upgrade working and that would fck up my cvs repository which is
+  on my valhalla box
+ 
+ sorry i dont get it whats wrong with a release tag of fr
+
+say you have installed synapticfr on your valhalla box package
+rebuilt for valhalla then you upgrade to psyche using the red hat cds
+hopefully with the compat libraries the package will still be there
+although i doubt that since c is binary incompatible so this is
+probably a bad example then you aptget update with the new psyche
+repository and theres where the problem will be  it will say that
+there are two synapticfr packages one installed the other
+available with the same version but different dependencies 
+thats why i always keep package versions lower for older distributions
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

@@ -1,0 +1,27 @@
+begin pgp signed message
+hash sha
+
+
+hi 
+   i am wondering if there are any techniques to make a cdkey of the like 
+unbreakable  either by giving it a cancelation date and a periodic renewal 
+from a server or just by using self md signature on the resulting 
+executable  i know it must not be easy because the whole software piracy 
+problem would be resolved but there must be some way to make it really hard 
+to break it  anyone have hints on this issue 
+
+thanks
+
+  
+yannick gingras
+network programer
+escwq
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqebpyzuvgdnfoqraqbhakchtekxwdzdmwfokakjxnnpknwacgtxz
+vbbabuevxuyfhnifs
+uwqj
+end pgp signature
+

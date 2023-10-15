@@ -1,0 +1,30 @@
+    date        mon  sep   
+    from        hal devore haldevoreacmorg
+    messageid  dimeboxbmccom
+
+   i vote for this being added to cvs any objections
+
+no but using pickmarkseen and pickids as an alternative to
+just doing
+
+	seqdel exmhfolder mhprofileunseensequence results
+
+seems unnecessary to me thats all that pickmarkseen does after all
+that can be done via busy
+
+of course the same is true of the badly named pickmarkseen which has
+nothing at all to do with pick except that it abuses the pickids var
+in the same way   its name would be hard to change unfortunately as it
+is known in appdefaults files for the catch up unseen menu item but
+its implementation could certainly be fixed
+
+kre
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

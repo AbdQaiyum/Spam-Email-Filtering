@@ -1,0 +1,24 @@
+    date        wed  oct   
+    from        hal devore haldevoreacmorg
+    messageid  dimeboxbmccom
+
+   restarting exmh was necessary
+
+probably not   next time try clicking on the folder name in the
+sequences window for the sequence   that is request that sequence
+be the one displayed in the ftoc   if the sequence doesnt exist
+it will be cleaned up then
+
+perhaps it would be nicer if flist would do it as well but this
+is effective enough
+
+kre
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

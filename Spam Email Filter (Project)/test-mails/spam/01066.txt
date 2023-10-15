@@ -1,0 +1,79 @@
+
+html
+head
+titlecopy your dvd moviestitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+
+body bgcolor text link vlink alink
+table width border cellspacing cellpadding aligncenter bordercolor bgcolorffffff
+  tr
+    td aligncenter valignmiddle height br
+      table width border cellspacing cellpadding aligncenter
+        tr 
+          td width alignleft valigntop height 
+            div aligncenter 
+              pimg srchttpimageconsumerpackagenetpromotionscopymydvddvdcopyplusboxjpg width heightbr
+                font faceverdana arial helvetica sansserif sizea hrefhttptrackconsumerpackagenetcgibindvdebr
+                bclick here forbr
+                font sizefreefontbr
+                softwarebafontp
+            div
+          td
+          td width alignleft valigntop height 
+            p aligncenterfont faceverdana arial helvetica sansserif sizebfont size colorcccopy 
+              dvd movies to cdrbr
+              right nowfontbfontp
+            blockquote 
+              pfont faceverdana arial helvetica sansserif sizefont sizeifont colornewfonti 
+                fontfont colorbfont sizedvdcopyplus fontbfontbr
+                all the software you need to copy your own dvd movies is included 
+                in dvdcopyplus fontp
+              pfont size faceverdana arial helvetica sansserifcopy 
+                your own dvd movies using nothing more than our software a dvdrom 
+                and your cdr burnerfontp
+              ul
+                lifont size faceverdana arial helvetica sansserifbbackup 
+                  your dvd movie collectionbfontli
+                lifont size faceverdana arial helvetica sansserifbplayback 
+                  on any home dvd playerbfontli
+                lifont size faceverdana arial helvetica sansserifbno 
+                  expensive dvd burner requiredbfontli
+                lifont faceverdana arial helvetica sansserif sizebfree 
+                  live tech supportbfontbfont faceverdana arial helvetica sansserif sizebr
+                  fontbli
+              ul
+              blockquote
+            td
+        tr
+        tr alignleft valigntop 
+          td colspan height
+            div aligncenterfont size faceverdana arial helvetica sansserifdvd 
+              player must support vcdsvcd format most dvd players include this 
+              featurefont div
+          td
+        tr
+      table
+    td
+  tr
+table
+pnbspp
+pnbspp 
+pfont facearial sizeyou received this email because you signed up at one of consumer medias websites or you signed up with a party that has contracted with consumer media to unsubscribe from our email newsletter please visit a hrefhttpoptoutconsumerpackagenetecdrlnecomhttpoptoutconsumerpackagenetecdrlnecoma font
+body
+html
+        
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

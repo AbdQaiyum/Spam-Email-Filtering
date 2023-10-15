@@ -1,0 +1,59 @@
+url httpdiveintomarkorgarchiveshtmlrssrevolt
+date t
+
+anil dash xml version  why isnt there a way to syndicate my 
+words without butchering the way they look several people protested 
+last week by changing their weblog templates to something like this jason 
+levine has more links to those involved i spoke with one of the people who 
+implemented it and she claims it wasnt a protest as such more of an inside 
+joke point taken the entire point of an aggregator and syndication in 
+general is to make everyones words look the same counterpoint the default 
+in most weblog systems is to only publish excerpts in rss feeds nobodys 
+forcing you to publish full posts this would probably be a good place to 
+insert a zen quote about attachment but my mind is too fuzzy to find it 
+
+timothy appnel more ffkar rdf and foaf ffkar is the format 
+formerly known as rss sam has already implemented it 
+
+nicholas avenell esf are you also fed up with the continuing war 
+between rss  and  and  and whatever else they invent today me too 
+so today i invented the epistula syndication format esf it isnt xml it 
+isnt rdf its just data sam would love it then but movable type 
+doesnt support outputting dates in unix timestamp format which could be an 
+impediment to mainstream acceptance 
+
+shelley powers consumer rights and rss im not buying into rss 
+x im not buying into rss  im not buying into rss  i changed my 
+rss  and rss  templates to read the following 
+
+    rss not supported here 
+
+    this weblog does not support rss x rss  or rss  if you wish to 
+    view entries may i suggest that you visit the weblog and save your fast 
+    skimming for the new york times and wall street journal 
+
+im sure this is some sort of dmca violation or something but here goes 
+
+    import urllib re print n title burningbird
+
+    n httpweblogburningbirdnetn enusn n  njointitle s
+
+    s  t for t in recompilerdctitlesdcidentifier 
+    redotallfindallurlliburlopenhttpweblogburningbirdnetread 
+      
+
+
+
+
+
+ httpwwwdashescomanilindexphparchivesphp
+ httpwwwdashescomanilxmlindexphp
+ httpqquesocomindexphparchivesphp
+ httpwwwmplodecomtimaarchiveshtml
+ httpwwwintertwinglynetbloghtml
+ httpwwwaquarionicscomnodesviewphpnameesf
+ httpwwwintertwinglynetblog
+ httpwwwmovabletypeorgdocsmtmanualtagshtmldate tag formats
+ httpweblogburningbirdnetarchivesphp
+
+

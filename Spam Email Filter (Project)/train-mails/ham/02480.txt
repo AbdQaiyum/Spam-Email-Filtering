@@ -1,0 +1,78 @@
+no you need to learn how declarations work in c  you have specified
+testbuff as an array of  pointers to characters  that means
+you have allocated an array big enough to store  pointers  on
+most machines thats  bytes per pointer which indeed would give you
+
+
+john
+
+on fri nov   at pm  ali saifullah khan wrote
+ here is a test done on the return of sizes by sizeof using pointers
+ 
+ include iostreamh
+ 
+ int mainvoid 
+  char testbuff
+ 
+  int len  sizeoftestbuff
+  cout  len  n
+  return 
+ 
+ 
+ cdebugtestbuff
+ 
+ 
+ the output from this is  but infact it should be returning 
+ apparently using a pointer has multiplied the value of the original size of
+ the testbuff buffer by the size of the  pointer  
+ 
+ char pointers have a size of  bytesas is shown when output is  bytes
+ using  int len  sizeofchartestbuff 
+ 
+ cdebugtestbuff
+ 
+ 
+ so sizeof is returning the size of the first entity passed to it that
+ being the size of the pointer   
+ 
+ whats confusing is when sizeof outputs the value for something like  char 
+ testbuff 
+ here the macro seems to be multiplying the sizes of entities passed to it
+ by considering the first entity as the pointer denoted by the asterisk
+ itself    and then taking this value of  and multiplying it with the
+ size of the buffer testbuff which is  to produce an output of 
+ 
+ rather strange behaviour 
+  original message 
+ from cdavisonnucleuscom
+ to secprogsecurityfocuscom
+ cc viegasecuresoftwarecom
+ sent tuesday november    am
+ subject re are bad developer libraries the problem with m software
+ 
+ 
+   original message 
+  from john viega
+  sent   pm
+  to cdavisonnucleuscom
+  cc secprogsecurityfocuscom
+  subject re are bad developer libraries the problem with m software
+ 
+   strlen does not work because he was trying to get at the allocated
+   size of a buffer not the actual size of the buffer
+ 
+  youre right i was looking at the safestrncpy code and it looks like
+ the author did use strlen
+ 
+   sizeof will return the size of the data type passed to it  so if you
+   declared mystr as char mystr it will return as the original
+   author wanted
+ 
+  it will not work with a char so if your strings are dynamically
+ allocated or passed to you as a pointer these macros will not work
+ 
+ 
+ 
+ 
+
+

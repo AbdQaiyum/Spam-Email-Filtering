@@ -1,0 +1,287 @@
+html
+
+head
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+titlesave up to title
+head
+
+body
+
+div aligndcenter
+  center
+  table styledbordercollapse collapse bordercolord cells
+pacingd cellpaddingd widthd bgcolordffffff borderd
+
+    tbody
+      tr
+        td widthd
+          p aligndcenterspan styledverticalalign bottombf
+ont colordff sizedsavefontbfont colordff
+          fontfont sizedbup tobfont bfont sized
+fontbfont sizedfontspanp
+        td
+      tr
+      tr
+        td valigndtop widthd
+          p aligndcenterbfont sizedonfontb bfont s
+izednbspdentalfontb
+          bfont sizednbspservicesfontbp
+        td
+      tr
+      tr
+        td widthd
+          hr widthd colord sized
+        td
+      tr
+      tr
+        td widthd
+          div aligndcenter
+            table styledbordercollapse collapse bordercolord
+ heightd cellspacingd cellpaddingd widthd bord
+erd
+              tbody
+                tr
+                  td valigndtop aligndmiddle widthd colspa
+ndbfont sizedonly
+                    font colordfffont per month per h
+ouseholdfontbtd
+                tr
+                tr
+                  td valigndtop aligndmiddle widthd colspa
+ndbfont sizedor
+                    font colordfffont per month for
+                    individualfontbtd
+                tr
+                tr
+                  td valigndbottom widthd heightdnbsp
+td
+                  td valigndbottom widthd heightd
+                    ul
+                      lifont sizedno waiting periodfont
+                      lifont sizedno limits on visits or services
+font
+                      lifont sizedorthodontics includedfont
+                      lifont sizedcosmetic dentistry includedfo
+ntli
+                    ul
+                  td
+                  td valigndbottom widthd heightd
+                    ul
+                      lifont sizedpre existing conditions convere
+dfont
+                      lifont sizedno deductiblesno claims form
+sfont
+                      lifont sizedno age limitsfont
+                      lifont sizedall specialist includedfont
+li
+                    ul
+                  td
+                tr
+                tr
+                  td widthd colspand heightd
+                    hr widthd colord sized
+                  td
+                tr
+                tr
+                  td widthd colspand heightd
+                    p aligndcenterbfont colord sized
+value
+                    added benefits free with your discount dental services
+fontbp
+                  td
+                tr
+                tr
+                  td widthd colspand heightd
+                    ul
+                      libfont colordff sizedfreefont
+font sized
+                        vision care plan  over  providers nationw
+idefontb
+                      libfont colordff sizedfreefont
+font sized
+                        discount prescription drug card  over  re
+tail
+                        pharmacy locationsfontb
+                      libfont colordff sizedfreefont
+font sized
+                        chiropractic care plan  over  participatin
+g
+                        doctors nationwidefontbli
+                    ul
+                  td
+                tr
+                tr
+                  td widthd colspand heightd
+                    hr widthd colord sized
+                  td
+                tr
+              tbody
+            table
+          div
+        td
+      tr
+      tr
+        td widthd
+          p aligndcenterbtell me more about how to save up to  
+on all
+          my dental servicesbp
+        td
+      tr
+      tr
+        td widthd
+          form actiondmailtobestserviceuexcitecom methoddpost
+ enctypedtextplain
+            div aligndcenter
+              table styledbordercollapse collapse bordercolord
+ cellspacingd cellpaddingd widthd borderd
+                tbody
+                  tr
+                    td aligndright widthdfont facedarial
+ sizedfirst
+                      namefonttd
+                    td widthdinput sized namedfirstnam
+etd
+                  tr
+                  tr
+                    td aligndright widthdfont facedarial
+ sizedlast
+                      namefonttd
+                    td widthdinput sized namedlastname
+td
+                  tr
+                  tr
+                    td aligndright widthdfont facedarial
+ sizedemail
+                      addressfonttd
+                    td widthdinput sized namedemailadd
+resstd
+                  tr
+                  tr
+                    td widthd colspandhow would you like to 
+receive
+                      the informationtd
+                  tr
+                  tr
+                    td aligndright widthdfont facedarial
+ sizedphonefonttd
+                    td widthdinput typedcheckbox valuedye
+s namedreachmebyphonefont facedarial sizedif
+                      so your phone  fontinput sized namedp
+honenumbertd
+                  tr
+                  tr
+                    td aligndright widthdfont facedarial
+ sizedemailfonttd
+                    td widthdinput typedcheckbox valuedye
+s namedreachmeusingemailtd
+                  tr
+                  tr
+                    td aligndright widthdfont facedarial
+ sizedfaxfonttd
+                    td widthdinput typedcheckbox valuedye
+s namedreachmeusingmyfaxif
+                      so your fax  input sized namedfaxnumber
+td
+                  tr
+                  tr
+                    td aligndright widthdfont facedarial
+ sizedsnail
+                      mailfonttd
+                    td widthdinput typedcheckbox valuedye
+s namedsendmeinformationbymailif
+                      yes then supply us with a mailing addresstd
+                  tr
+                  tr
+                    td aligndright widthdfont facedarial
+ sizedstreet
+                      addressfonttd
+                    td widthdinput sized namedstreetad
+dresstd
+                  tr
+                  tr
+                    td aligndright widthdfont facedarial
+ sizedcityfonttd
+                    td widthdinput sized namedcity f
+ont facedarialfont sizedstate
+                      fontinput sized namedstatefont sized
+ zipfontfont
+                      input sized namedzipcodetd
+                  tr
+                  tr
+                    td aligndright widthdnbsptd
+                    td widthdnbsptd
+                  tr
+                tbody
+              table
+            div
+            p aligndcenterinput typedsubmit valuedyes  send
+ me free information  namedbp
+          form
+          pnbspp
+        td
+      tr
+      tr
+        td widthdnbsptd
+      tr
+      tr
+        td widthdform
+        td
+      tr
+      tr
+        td widthdform
+        td
+      tr
+      tr
+        td widthdnbsptd
+      tr
+      tr
+        td widthd
+          p aligndcenterform
+          p
+        td
+      tr
+    tbody
+  table
+  center
+div
+div aligndcenter
+  center
+  table styledbordercollapse collapse bordercolord cells
+pacingd cellpaddingd widthd borderd
+    tbody
+      tr
+        td widthdtd
+      tr
+      tr
+        td widthdtd
+      tr
+      tr
+        td widthd
+          p aligndleftfont facedarial colord sized
+nbspwe
+          are sending this ad to people who have requested information abo
+ut
+          saving on their dental  vision care  prescription drugs 
+          chiropractic care needs if you have received this in errornbs
+p a styledcolor  hrefdmailtooutyahoocomsu
+bjectdremove me from your listclick
+          herea and we will remove you from our list and we apologize f
+or any
+          inconvenience to youfontp
+        td
+      tr
+    tbody
+  table
+  center
+div
+
+body
+
+html
+
+
+
+

@@ -1,0 +1,36 @@
+as the subject line indicates im sure these are stupid questions but
+im having trouble getting sa working like i understand it should work
+and have about given up on trying to figure it out myself
+
+if a user has a line like
+
+whitelistfrom yahoogroupscom
+
+in his spamassassinuserprefs file does that line not in effect
+tell the program to take no action at all against any mail coming in from
+yahoogroupscom or is there still checking being done against it  and if
+the latter what does he need to place in userprefs to cause such mail
+to be ignored  im testing sa here with a few users who happen to be on
+yahoogroups lists before deploying it systemwide and although the above
+line has been added to their userprefs files much of their list mail is
+still going to the spam folder due to all the usual things you would
+expect to trigger sa
+
+thanks in advance for any help
+
+
+ken scott
+adminshellworldnet
+
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

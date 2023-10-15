@@ -1,0 +1,110 @@
+html
+
+head
+meta httpequivdcontentlanguage contentdenus
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+titledo you have an epson or canon printertitle
+head
+
+body
+nbsp
+div aligndcenter
+  center
+  table borderd widthd heightd bordercolordffff 
+bordercolorlightdffff bordercolordarkd
+    tr
+      td widthd heightd aligndcenter bgcolordcc
+nbsp
+        div aligndcenter
+          center
+          table borderd widthd heightd
+            tr
+              td widthd heightd aligndcenter bgcolord
+ffff styledcolor ffffff fontsize pt fontweight boldb
+font facedverdana sized colordccdo
+        you have an inkjet or laser printerfontb
+              td
+            tr
+          table
+          center
+        div
+        pbfont facedverdana sized colordffffffyes the
+n we can fontfont facedverdana sized colordffffsave
+fontfont facedverdana sized colordffffff
+        you fontfont facedverdana sized colordffff
+fontfont facedverdana sized colordffffff moneyfont
+bp
+        pbfont sized colordfffffffont facedverdanaou
+r high quality ink  toner cartridges come
+        with a moneyback guaranteefont font facedverdanaa yea
+r
+        warranty and get fontfontifont facedverdana sized
+ colordffffufree shipping
+        on all ordersufontibp
+        pbfont facedverdana sized colordffffffand best
+ of allthey cost
+        fontfont facedverdana sized colordffff 
+ font iufont facedverdana colordffff sizedlessf
+ontui
+        font facedverdana sized colordffffff
+        than
+        retail pricefontbp
+        div aligndcenter
+          center
+          table borderd widthd heightd
+            tr
+              td widthd bgcolordffff aligndcenter styl
+edcolor ffffff
+        pbfont facedverdana sized colordcca style
+dcolor  hrefdhttpwwwpaylessinkcomclick here
+        to visit our websiteafontbp
+              td
+            tr
+          table
+          center
+        div
+        pbufont sized colordffffor call us tollfree 
+        fontub
+        pfont sized facedarial colordcccday warra
+nty on all remanufactured
+        cartridgesfonttd
+    tr
+  table
+  center
+div
+br
+pnbspp
+pnbspp
+div aligndcenter
+  center
+          table borderd widthd heightd
+            tr
+              td widthd heightd aligndcenter styledf
+ontfamily palatino linotype fontsize ptfont facedverdana size
+d colordyou
+                are receiving this special offer because you have provided
+                permission to receive email communications regarding speci
+al
+                online promotions or offers if you feel you have received
+ this
+                message in error or wish to be removed from our subscribe
+r
+                list a hrefdmailtoprintbtamailnetcn styledco
+lor ffclick herea
+                and you will be removed within less than three business da
+ys
+                thank you and sorry for any inconveniencefonttd
+            tr
+          table
+  center
+div
+
+body
+
+html
+
+
+

@@ -1,0 +1,97 @@
+
+
+
+    just cvs uped and nowadays catchup unseen is extremely slow on 
+    large  msgs unseen sequences anybody else having this problem
+   
+   ill take the blame
+   
+   the reason i suspect is that were needlessly reading the sequences file 
+   multiple times because of other sequences  i need to make the code much 
+   smarter about handling that file but first i have a few other fish to fry in 
+   my rather large patch thats on its way
+   
+  
+  no panic
+  
+  im all for cleaning things up before getting it optimized
+ 
+ okay this fix is now checked in
+ 
+im afraid it didnt help it still seems to be slower than  month 
+ago maybe slightly faster than yeasterday im still seeing an 
+unseen countdown in the log
+
+ writing homeandermaillistslkmhsequences
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ digits changed
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ listslk has  msgs in unseen
+ flistunseenfolder listslk
+ ok
+ folderchange listsexmh msgshow cur
+
+
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

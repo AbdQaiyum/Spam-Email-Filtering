@@ -1,0 +1,70 @@
+oh ok thanx alot i was puttin the entire rpm package name like
+phpplirpm
+thats why it wasnt working
+
+original message
+from rpmzzzlistadminfreshrpmsnet
+mailtorpmlistadminfreshrpmsneton behalf of matthias saou by way
+of matthias saou matthiasegwnnet
+sent friday february    pm
+to rpmzzzlistfreshrpmsnet
+subject re prob w installuninstall
+
+
+once upon a time brian wrote 
+
+ hey i have a problem
+ i have a rpms that i have installed that i want to uninstall i do it
+ like so
+ rpm e rpm package
+ and it gives the error package not installed so i install it like
+ so
+ rpm i rpm package
+ and it gives the error package already installed so i force it to
+ install like so
+ rpm i force rpm package
+ this installs it and then i try to uninstall it again and it still
+ gives me the same error package not installed
+
+ how can i get it to recognize that the package is indeed installed it
+ andor get it to unstall it
+
+youre a bit too vague on your rpm package here
+maybe this will help you 
+
+rootpython apg rpm e apg
+rootpython apg rpm ivh apgfrirpm
+preparing                
+   apg
+ rootpython apg rpm e
+apgrootpython apg rpm ivh apgfrirpm
+preparing                
+   apg
+ rootpython apg rpm e
+apgfrrootpython apg rpm ivh apgfrirpm
+preparing                
+   apg
+ rootpython apg rpm e
+apgfrirpm error package apgfrirpm is not
+installedrootpython apg
+
+you can just put the name of the name and version and even the release
+but the entire filename will not work
+
+matthias
+
+
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

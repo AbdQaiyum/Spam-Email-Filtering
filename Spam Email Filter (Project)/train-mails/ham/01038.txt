@@ -1,0 +1,32 @@
+once upon a time ville wrote 
+
+ ok some more nits alsaxmms doesnt work if i dont have
+ alsalibdevel installed but xmms dies on startup telling me
+ 
+    cannot load alsa library libasoundso cannot open shared object
+    file no such file or directory
+ 
+ libasoundso is part of alsalibdevel if i install it the alsa xmms
+ output plugins works fine
+
+ok will fix 
+
+ i cant install the xine stuff because xinelibs needs libglcoreso
+ which i cant find anywhere nvidia stuff  i have radeon 
+
+argh got bitten again 
+will fix too
+
+thanks a lot for pointing these out
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

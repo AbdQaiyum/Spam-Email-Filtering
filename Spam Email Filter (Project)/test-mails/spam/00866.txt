@@ -1,0 +1,97 @@
+html
+head
+titlegiveaway destinationstitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+
+body bgcolorffffff text
+table width border cellpadding bgcolor aligncenter
+  tr
+    td
+      table width border cellpadding bgcolorffffff
+        tr 
+          td colspanfont size facegeorgia times new roman times serif colorccvacationfontfont size facegeorgia times new roman times serif colorff 
+            font size bfont sizeregister for one of our giveaway 
+            destinationsfontbfont fonttd
+        tr
+        tr 
+          td width rowspan aligncenter valignmiddle
+            table width border cellpadding
+              tr 
+                td aligncenterfont size colorff f fonttd
+              tr
+              tr 
+                td aligncenterfont size colorffrfonttd
+              tr
+              tr 
+                td aligncenterfont size colorffefonttd
+              tr
+              tr 
+                td aligncenterfont size colorffefonttd
+              tr
+            table
+          td
+          td width 
+            div aligncenterfont sizeover  destinations to choose 
+              fromfontdiv
+          td
+        tr
+        tr 
+          td width aligncenterfont sizeba hrefhttpwwwwiildaccesscomformhtmclick 
+            here to registerabfonttd
+        tr
+        tr 
+          td width aligncenter 
+            table width border cellpadding
+              tr 
+                td 
+                  ul
+                    lifloridali
+                    lieastern united statesli
+                    liwestern united statesli
+                    licaribbeanli
+                    limexicoli
+                    lihawaiili
+                  ul
+                td
+              tr
+            table
+          td
+        tr
+        tr 
+          td width aligncenterfont sizeba hrefhttpwwwwiildaccesscomformhtmclick 
+            here to registerabfonttd
+        tr
+        tr 
+          td widthnbsptd
+        tr
+        tr aligncenter 
+          td colspanthis is a free notification service br
+            if you do not wish to be informed about our quotno obligationquot 
+            servicesbr
+            and products or if you received this in error please a hrefhttpwwwwiildaccesscomremovehtmclick 
+            herea to be removed 
+            pp
+          td
+        tr
+      table
+    td
+  tr
+table
+body
+html
+
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

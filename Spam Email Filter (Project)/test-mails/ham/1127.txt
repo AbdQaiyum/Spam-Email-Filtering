@@ -1,0 +1,157 @@
+this is a multipart message in mime format
+
+contenttype textplain charsetusascii formatflowed
+contenttransferencoding bit
+
+matthias saou wrote
+  i guesshope some other people from the list will try it out 
+ 
+  both problems you reported libasoundso and wrong xine dependency are now
+  fixed in the current packages
+ 
+  oh its maybe also worth pointing out  ive implemented at last sorting
+  by both last change date and alphabetically for my build list in the php
+  code  httpfreshrpmsnetbuilds
+ 
+  and yes i accept patchescommentssuggestions about all those spec files
+
+sure thing 
+
+ive added to the spec some flags to remove oss and isapnp support at
+build time if one wishes to so iss possible to do a
+
+	rpmbuild recompile rpm without oss without isapnp
+
+i havent included oss in my  because vt on my motherboard
+is not supported  yet and im too lazy to recompile the kernel 
+
+also having the kernel compiled by me i have no kernelsource package
+installed  ive added a flag kernsrc that also can be used
+without to remove the dependency for kernelsource at build time  it
+would be nice to check the correct kernel include files actually exist
+libmodulesuname rbuildincludelinuxh though however im
+a beginner in rpm building  is it possible to buildrequire for a file
+not provided by a package at all  ive googled a bit and found no way
+to do that
+
+i was also considering adding some sort of flag for the withcards
+option in alsas configure but dont know how to do that  only found
+out about without from your first alsadriverspec and existing rpm docs 
+dont help much
+
+
+oh and one more thing   at first ive installed the first version of
+alsadriver for  although i dont have that kernel to supply
+the dependency for the rest of the alsa rpms and compiled the modules
+from source  it created the dev files and all
+
+then wanted to make my own rpm for  so now im trying to rpmbuild
+the alsakernel package  removed all alsa rpms and tried my spec
+
+rpmbuild ba alsadriverspecmine without oss without isapnp
+without kernsrc
+
+but i get this
+
+long successful compile snipped
+warning file listed twice devadsp
+warning file listed twice devamidi
+finding  provides usrlibrpmfindprovides
+finding  requires usrlibrpmfindrequires
+prereq binsh binsh rpmlibpayloadfileshaveprefix  
+rpmlibcompressedfilenames  
+requiresinterp binsh binsh
+requiresrpmlib rpmlibpayloadfileshaveprefix  
+rpmlibcompressedfilenames  
+requirespost binsh
+requirespostun binsh
+requires alsakernel  rc sbindepmod
+processing files alsakernelrcfr
+finding  provides usrlibrpmfindprovides
+finding  requires usrlibrpmfindrequires
+prereq rpmlibpayloadfileshaveprefix  
+rpmlibcompressedfilenames  
+requiresrpmlib rpmlibpayloadfileshaveprefix  
+rpmlibcompressedfilenames  
+requires alsadriver  rc kernel  
+checking for unpackaged files usrlibrpmcheckfiles
+vartmpalsadriverrcroot
+error installed but unpackaged files found
+     etcmakedevdmacros
+     etcrcdinitdalsasound
+
+
+rpm build errors
+      file listed twice devadsp
+      file listed twice devamidi
+      installed but unpackaged files found
+     etcmakedevdmacros
+     etcrcdinitdalsasound
+
+
+like i said im a beginned with rpm building so i dont understand
+much of whats going on here  the macros file is from the makedev
+rpm and alsasound was supposed to be installed by alsadriver i think
+   it is not in the filesystem anyway
+
+ive looked in vartmpalsadriverrcroot they are there in
+etc  for macros i think the part that does it is this line
+in alsadriverspec
+
+cp a sysconfdirmakedevdmacros buildrootsysconfdirmakedevd
+
+and alsasound is installed by buildidrmakefile
+
+
+oh and i think ive forgot to mention im running betanull 
+
+  matthias
+
+silent
+
+ 
+ and on the seventh day god was arrested for tresspassing
+
+
+
+contenttype textplain
+ namealsadriverspecpatch
+contenttransferencoding bit
+contentdisposition inline
+ filenamealsadriverspecpatch
+
+a
+
+ define withoss               yes
+ withoutossdefine withoss no
+
+ define withisapnp    auto
+ withoutisapnpdefine withisapnp no
+
+ define kernsrc       
+ withoutkernsrcdefine kernsrc 
+
+
+a
+ if kernsrc
+a
+ else
+ buildrequires makedev
+ endif
+c
+ configure
+
+ configure withosswithoss withisapnpwithisapnp
+a
+  thu aug   daniel pavel danielpavelmyrealboxcom
+  added oss and isapnp buildtime flags
+  added kernelsource requirement flag
+
+
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

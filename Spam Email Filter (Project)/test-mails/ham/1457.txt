@@ -1,0 +1,43 @@
+robin lynn frank rlfrankparadigmomegacom writes
+
+ i may be dense but why would anyone want to utilize habeus  to me
+ it looks like a potential backdoor to anyones defenses against spam
+
+ if i were a spammer id simply set up a server send out my spam with
+ the habeus headers and continue till i was reasonably certain id been
+ reported  then id simply reconfigure the server and reconnect to a
+ different ip  as long as no one can establish my connection to the
+ web sites my spam is directing people to im home free
+
+here is the bug i opened
+
+  httpwwwhughesfamilyorgbugzillashowbugcgiid
+
+rbls have the same problem but there is no negative rbl header rule
+with a  score that can be forged so the problem is unique to habeas
+
+ since i can set up spamassassin to i dont lose any email what do i
+ gain by making it easier for spam to get through
+
+my primary issue is the magnitude of the negative score and that it was
+not determined empirically  i am also concerned that it was added after
+the rules freeze that such a major change was not discussed in advance
+etc
+
+theres also no evidence that the rule will actually reduce fps  people
+who are smart enough to use the rule are probably capable of writing
+email that doesnt look like spam im not counting spam mailing lists
+which you need to be exempted from spam filtering
+
+dan
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

@@ -1,0 +1,23 @@
+
+i am a tvtwm user when i snarf text into my mouse cut buffer and then
+attempt to inject it into the exmh input windows for comprepl the point
+is often an apparently random place in the text pane not where i think i
+have current flashing cursor 
+
+i usually wipe out any of tosubjectrandom body with the text its
+often not even beginning of line denoted ie its an unexplicable number
+of char spaces in to the text where it inserts 
+
+what am i doing wrong in either x wm shell exmh which is causing this
+
+cheers
+	george
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

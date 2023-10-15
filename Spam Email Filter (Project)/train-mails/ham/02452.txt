@@ -1,0 +1,11 @@
+nova nova wrote
+ bass and treble settings do not seem to have any affect on the sound
+
+look around for a tone toggle  toggle it
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

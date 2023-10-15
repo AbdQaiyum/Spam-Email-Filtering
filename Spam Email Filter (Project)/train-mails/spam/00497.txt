@@ -1,0 +1,73 @@
+html
+head
+titleuntitled documenttitle
+meta httpequivdcontenttype contentdtexthtml charsetdiso
+
+head
+
+body bgcolordffffff textd linkdffffff vlinkdffff
+ff alinkdcccccc
+pnbspp
+pnbspp
+table widthd borderd cellspacingd cellpaddingd bord
+ercolord aligndcenter
+  tr
+    td
+      table widthd borderd aligndcenter cellpaddingd
+ cellspacingd
+        tr 
+          tda hrefdhttpimg srcdhttp
+imagesmortgif widthd heightd borderd
+atd
+          tda hrefdhttpimg srcdhttp
+imagesmortgif widthd heightd borderd
+atd
+        tr
+      table
+    td
+  tr
+table
+table widthd borderd cellspacingd cellpaddingd alig
+ndcenter
+  tr
+    td bgcolord
+      div aligndcenterfont facedarial helvetica sansserif si
+zedbfont sized colordffffffa hrefdhttp
+let 
+        mortgage lenders compete for your businessafontbfont
+div
+    td
+  tr
+table
+table aligndcenter widthd cellspacingd cellpaddingd 
+borderd classdfooter
+  tr
+    td colspandfont facedverdana arial helvetica sansserif
+ sizedbr
+      font colordedcdid you receive an email advertisement in err
+orfont 
+      our goal is to only target individuals who would like to take advant
+age 
+      of our offers if youd like to be removed from our mailing list pl
+ease 
+      click on the link below you will be removed immediately and automat
+ically 
+      from all of our future mailingsbr
+      br
+      fonttd
+  tr
+  tr 
+    tdfont facedverdana arial helvetica sansserif sizedwe
+ protect 
+      all email addresses from other third parties thank youfonttd
+    td aligndrighta hrefdhttpremoveremovehtm
+font facedverdana arial helvetica sansserif sizedplease 
+      remove mefontatd
+  tr
+table
+body
+html
+
+
+
+

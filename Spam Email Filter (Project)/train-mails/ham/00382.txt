@@ -1,0 +1,132 @@
+
+
+original message
+from forkadminxentcom mailtoforkadminxentcomon behalf of
+robert harley
+sent monday september    am
+to forkspamassassintaintorg
+subject re java is for kiddies
+
+
+reza bfar wrote
+this thread kind of surprises me i started coding with c then c and
+moved on to java and i think that
+robert harley wrote
+looks like a case of my experience is comprehensive yours is
+anecdotal they dont know what theyre talking about
+
+well i sure dont claim that i think most people on fork probably have
+more programming knowledge than i do theres lots of experience out
+here
+
+reza bfar wrote
+  the people who pay the wages dont give a flyin heck what programming
+language you write things in they just want it to work
+robert harley wrote
+in my experience they do care  it has to work certainly and in
+particular it has to work with what theyve already got and it has to
+work on clients systems
+my limited experience of java started a few years ago when support on
+linux was so terrible that i ran away screaming and havent come back yet
+
+well i think until recently support for most things on linux was kind of
+shady things have got much better youre right in that the jdk used to
+suck on linux but then imho linux is still maturing or at least
+development tools for linux are maturing ive been developing a few
+server side apps that run on linux recently with jdk x and theyve had
+no problems with great performance
+
+robert harley worte
+microsoft has announced that they plan to remove java from windows
+they took it out of xp already and it has to be installed with a
+service pack  somehow i cant imagine them removing the ability to
+run c programs
+
+hmmm do you really think that ms is pulling out java because its a bad
+programming language or application platform  you dont think this has
+anything to do with net being a competitor to java do you  or that ms has
+basically copied java with some additional features and called it c
+isnt that alone an indication that they actually do think that a vm is the
+right way to go for most high level applications
+
+reza bfar wrote
+  c and c forces the developer to solve problems such as memory
+management over and over again
+robert harley wrote
+cant say i spend any noticeable amount of time on memory management
+issues apart from the fact that i frequently need   gb
+
+hmmm again youre telling me that youve never had a nasty bug that took
+you a couple of days to track down that had to do with a memory leak  i am
+not the best cc programmer not even close but ive known really
+good ones and even they have nasty bugs that have to do with memory
+management however occasional they may be
+
+its about design patterns architecture high level stuff
+robert harley wrote
+if your problem just requires application of a design pattern to solve
+then its trivial anyway irrespective of language
+
+wow  so youre telling me that unless the application involves
+bitcounting its trivial  what about the application itself  what about
+high level problems such as task distribution workflow etc  arent most
+high level problems solved with high level solutions like design patterns
+or do you solve high level problems by writing optimal cc code  for
+example do you think that most people working on collaboration frameworks
+there are lots of them on this list are working on writing an operating
+system with assembly that provides for a collaborative environment
+
+i am amazed by the amount of time wasted by people talking about low
+level problems that have been solved  million times over and over
+and over again
+robert harley wrote
+you appear to be gratuitously asserting that c programmers waste time
+on irrelevant lowlevel problems and java programmers dont  depends
+entirely on the programmer not the language
+
+i can see how you could infer this however what i believe to really be the
+case is that java is one of the best languages for writing large
+applications with many components that involves the collaboration of more
+than three programmers  in those cases its always very hard to get the
+programmers to agree on apis memory management techniques etc  with
+java the jcp takes care of the discussions so that you dont sit around in
+a long meeting trying to decide what api to use to hook up to a database
+jdbc or a messaging bus jms
+
+
+  java is not just a programming language its also a platform
+robert harley wrote
+buzzword
+
+yikes  have you written db code with cc for different databases just an
+example  tried porting a persistence layer from windows to unix  say you
+have informix running on solaris and you want to port to windows with ms sql
+bad ideabut for the sake of the example would you rather deal with
+jdbc port or cc port that uses informix drivers and now you have to use
+odbc
+
+
+a monolithic set of apis or a crap load of different apis slicing
+and dicing the same problems  different ways
+robert harley wrote
+unsupported assertion
+
+so are you saying that there is a standard set of apis for cc for
+everything aside to the minimal ansi stuff  is there a standard way of
+dealing with cc applications for various domain problems messaging
+database persistence etc that rivals java  id like to know if there is
+one accepted by everyone who writes cc in that case i claim
+ignorance
+
+not suggesting that java is the golden hammer just that cc is
+overkill for most things i even coded in vb but vb is a true disgrace
+to programming its just lame java is object oriented no
+flamemail from the antioo people please that is a religious
+discussion and relatively clean and i dont think that every kid
+can write a well designed java program  kids typically dont understand
+various design patterns and principles to my experience they actually
+tend to think more of the low level problems wanting to rewrite and
+reinvent the world a tendency that is much more possible imho in cc
+than in java due to existence of standard apis
+
+

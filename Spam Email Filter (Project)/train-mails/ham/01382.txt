@@ -1,0 +1,37 @@
+
+    danq i think it would make more sense to start habeas with a less
+    danq aggressive score one which will not give spammers a quick path
+    danq into everyones inbox and after weve seen evidence that the
+    danq system works then we can increase the magnitude of the score
+
+better yet let the ga figure out the correct score  that will obviously
+take awhile since youll have to acquire enough messages with it but it
+should give you a good idea if the presence of habeus headers are good spam
+indicators or not  if they are my guess is that habeus will probably not
+succeed
+
+taking things further offtopic does habeus charge a license fee to
+organizations who want to use their copyrighted material or is their sole
+revenue stream to come from legal judgements  on the one hand if they
+charge license fees id worry that when times got tough theyd be somewhat
+less critical of organizations wed call spammers today in order to generate
+license fees  if not id worry the pendulum would swing the other way and
+theyd go after legitimate businesses in an attempt to generate more
+revenues from judgements andor out of court settlements  either way it
+seems like they have an interesting tightrope to walk
+
+ 
+skip montanaro
+skippoboxcom
+consulting httpmanateemojamcomskipresumehtml
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

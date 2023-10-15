@@ -1,0 +1,37 @@
+once upon a time gary wrote 
+
+ on wed oct   at am  matthias saou wrote
+  well i dont really find it consistent at all to use an rpm package
+  built against something that wasnt installed through rpm 
+ 
+ following that reasoning ive been installing all my custombuilt
+ kernels through rpm recently i find it annoying though that 
+ alsakernel and similar packages will only build for the currently 
+ running kernel
+ 
+ so ive attached a patch to specify an alternate kernel by setting the
+ targetkernel environment variable before running rpmbuild you
+ still need to have the rpm for the specified kernel installed but at
+ least it doesnt have to be currently running its kinda hackish so
+ if someone has a better way to do this let me know
+
+that idea looks good although it maybe needs to be tweaked a bit more what
+you sent doesnt support packages named kernelsmp id also prefer a
+cleaner way than the env variable and preferrably not editing the spec
+probably define target xxxx with smp sound good enough
+the buildrequires on kernelsource will also need to be removed because
+it wont necessarily need to be true and that does bug me a bit 
+
+more ideas are welcome
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel acpi
+load    
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

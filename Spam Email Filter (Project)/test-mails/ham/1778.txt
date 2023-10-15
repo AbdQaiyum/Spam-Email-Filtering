@@ -1,0 +1,35 @@
+so then tim peters timonecomcastnet is all like
+
+ tim
+  my tests train on about  msgs and a binary pickle of the database is
+  approaching  million bytes
+ 
+ that shrinks to under  million bytes though if i delete all the wordinfo
+ records with spamprob exactly equal to unknownspamprob  such records
+ arent needed when scoring an unknown word gets a madeup probability of
+ unknownspamprob  such records are only needed for training ive noted
+ before that a scoringonly database can be leaner
+
+thats pretty good  i wonder how much better you could do by using some
+custom pickler  i just checked my little dbm file and found a lot of
+what i would call bloat
+
+   import anydbm hammie
+   d  hammiepersistentgrahambayeshamdb
+   db  anydbmopenhamdb
+   dbneale lendbneale
+  ccopyregnreconstructornqxcclassifiernwordinfonqxcbuiltinnobjectnqxntrqxgaxcexbcxfdxxbbokxkxkxgxexxxxxxtb 
+   dwordinfoneale lendwordinfoneale
+  wordinfo     
+
+ignoring the fact that there are too many zeros in there the pickled
+version of that wordinfo object is over twice as large as the string
+representation  so we could get a  decrease in size just by using
+the string representation instead of the pickle right
+
+something about that logic seems wrong to me but i cant see what it
+is  maybe pickling is good for heterogeneous data types but every
+value of our big dictionary is going to have the same type so theres a
+ton of redundancy  i guess that explains why it compressed so well
+
+neale

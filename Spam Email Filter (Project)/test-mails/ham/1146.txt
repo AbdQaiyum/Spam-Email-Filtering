@@ -1,0 +1,25 @@
+once upon a time rob wrote 
+
+  i dld gcc and libgcc but i still get the same error message when i 
+ try rpm rebuild or recompile i do this as root i dld as root also
+ 
+ thanks for the help any more idea whats going on
+
+ive never installed source rpms with apt but i suppose that if you get
+file not found its because the source rpm was installed to see if this
+is the case go to usrsrcredhatspecs and if you see mplayerspec
+youll just need to do rpm bb mplayerspec to get a binary build in
+usrsrcredhatrpmsi
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

@@ -1,0 +1,43 @@
+on wed  oct    matthias saou matthiasegwnnet wrote
+
+      anyway i have returned to redhat  on my root filesystem saved my
+      home directories music and games on other partitions and while i
+      have the  stuff in the list everything i want to upgrade requires
+       rpms
+
+   yeah but i try to take it easy on your server  the golden rule of the internet when you find a free resource dont pissem off    i really appreciate your work you get done the things i wish i could and i respect that
+
+ anyway although id easily recommend upgrading x to  using apt i
+ wouldnt for x to  as they are c binary incompatible and apt is
+ entirely written in c and dynamically linked 
+
+    ok ill search for the isos on the  one remaining site that isnt hammered  
+ 
+ still that doesnt explain a core dump 
+
+    sure this is a linking issue right  right now im still purevanilla  i have the stock version of rpmrpmlibpoptetc and the recommended version of apt that you gave me  no waittheres no new code getting loaded  i dont know either  its been a long day
+
+      whats the inside secret here or do i just start searching mirrors
+      for the iso and get over it
+ 
+ why search theres more than enough to choose from here 
+ httpfreshrpmsnetmirrorspsychehtml
+
+   the hunt continues with a new field  actually i checked there yesterday but its worth another shot
+
+    thanks
+  
+
+brian fahrlnder              linux zealot conservative and technomad
+evansville in                    my voyage httpwwwcountermooncom
+icq  
+
+just machines to make big decisions programmed by fellas with
+compassion and vision  well be clean when that work is done
+eternally free and eternally young  linux
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

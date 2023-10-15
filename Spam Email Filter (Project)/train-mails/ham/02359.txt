@@ -1,0 +1,8 @@
+url httpjeremyzawodnycomblogarchiveshtml
+date t
+
+if you like to live on the bleeding edge and play with code thats not yet 
+ready for primetime good news you can now get the mysql  source tree the 
+only real difference from the  and  trees
+
+

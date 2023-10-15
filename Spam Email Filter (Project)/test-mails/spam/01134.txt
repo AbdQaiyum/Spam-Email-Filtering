@@ -1,0 +1,56 @@
+html
+
+head
+meta httpequivcontentlanguage contentenus
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titlenew page title
+head
+
+body
+
+table border width
+  tr
+    td width bgcolornbsptd
+    td width bgcolorccc
+      p aligncenternbspp
+      p aligncenterbfont size colorffsick and tired of
+      email directories that dont deliver what they promisefontbp
+      pfont facearialthese days its almost getting to the point were you
+      need to buy every single email directory on the market and weed through
+      them to get some decent email addresses to bulk out tofontp
+      pfont facearialwell the buck stops here weve bought almost every
+      good directory on the market cleaned it up and compiled all  million
+      records on  cds for youfontp
+      pfont facearialplenty of targeted lists are also available in areas
+      likefontp
+      ul
+        lifont facearialstate and area codefontli
+        lifont facearialgamblingfontli
+        lifont facearialdiningfontli
+        lifont facearialgardeningfontli
+        lifont facearialhealthfontli
+        lifont facearialgolffontli
+        lifont facearialhome businessfontli
+        lifont facearialinvestmentfontli
+        lifont facearialoptinfontli
+        lifont facearialweb designfontli
+        lifont facearialtravelfontli
+      ul
+      pbfont colorffand many morefontbbr
+      br
+      font facearialcheck out this amazing new collection today get our a hrefmailtocloudhavenbtamailnetcnwebsitea
+      address now by sending a blank email to a hrefmailtocloudhavenbtamailnetcncloudhavenbtamailnetcnafontp
+      pfont facearialonce you send an email you will receive our website
+      url in your inbox within secondsfontp
+      pnbsptd
+    td width bgcolornbsptd
+  tr
+table
+
+body
+
+html
+
+

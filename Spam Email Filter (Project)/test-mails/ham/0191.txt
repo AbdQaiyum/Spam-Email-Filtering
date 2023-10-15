@@ -1,0 +1,21 @@
+quoting brendan kehoe brendanzenorg
+
+ as a workaround the various distributions could use a gpg singature
+ to verify correctness of the file  since the distributors secret key
+ is required to create that signature it would add a pretty
+ significant step that would have to be taken to make it possible to
+ replace both a rpm or apt file and its accompanying signature
+
+there are complex problems inherent in attempts to implement this
+httplinuxmafiacomricklinuxinfodebianpackagesigning
+
+ 
+cheers                        my pid is inigo montoya  you kill     
+rick moen                      my parent process  prepare to vi
+ricklinuxmafiacom
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

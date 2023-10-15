@@ -1,0 +1,73 @@
+
+html
+
+head
+meta httpequivcontenttype contenttexthtmlcharsetiso
+titletitle
+head
+
+body bgcolorwhite linkbc alinkffcc vlinkbc
+		center
+	table border cellpadding cellspacing width
+	tr valigntop
+	td width rowspan bgcolorbcimg height width srcemailshimgiftd
+	td width
+	table border cellpadding cellspacing width
+	tr
+	tdtd
+	tda hrefhttppsychicwebcompimg height width srchttpimagesgif borderimg height width srchttpimagesgif borderatd
+	tr
+	table
+	td
+	td width rowspan bgcolorbcimg height width srcemailshimgiftd
+	tr
+	tr
+	td
+	center
+
+		table border cellpadding cellspacing width
+		tr valigntop
+		td widthtd
+		tda hrefhttppsychicwebcompfont faceverdana size colorffbbr
+bfontafont faceverdana size colorblackno where else will you find the level of accuracy detail and conveniencefonta hrefhttppsychicwebcompfont faceverdana size colorffbbr
+		bfontaa hrefhttppsychicwebcompfont faceverdana size colorbcbbr
+act nowbfontafont faceverdana size colore fontfont faceverdana size colorblackyoull receive bunlimited accessb to our world famous psychics with bno per minute chargesbbr
+		fonta hrefhttppsychicwebcompfont faceverdana size colorffbbr
+		bfontafont faceverdana sizebbuts thats not allbfontfont faceverdana sizeyou also get unlimited tarot and rune readings realtime biorhythm charts full indepth numerology reports detailed daily amp monthly horoscopes realtime natal charts a love analyzer ouija board and much much morefonta hrefhttppsychicwebcompfont faceverdana size colorebbr
+		br
+		bfontafont faceverdana size colorblackyour future is waiting fonta hrefhttppsychicwebcompfont faceverdana size colorbcbclick herebfontafont faceverdana size colorblack br
+		brbr
+		fonttd
+		td widthtd
+		td widthfont faceverdana size colorffbr
+		fontfont faceverdana size colorbcfontfont faceverdana size colorffnbspfontfont faceverdana size colorblacklive psychics br
+		fontfont faceverdana size colorbcfontfont faceverdana size colorffnbspfontfont faceverdana size colorblacknumerologybr
+		fontfont faceverdana size colorbcfontfont faceverdana size colorffnbspfontfont faceverdana size colorblackhoroscopesbr
+		fontfont faceverdana size colorbcfontfont faceverdana size colorffnbspfontfont faceverdana size colorblackastrologybr
+		fontfont faceverdana size colorbcfontfont faceverdana size colorffnbspfontfont faceverdana size colorblackthe tarotbr
+		fontfont faceverdana size colorbcfontfont faceverdana size colorffnbspfontfont faceverdana size colorblackbiorhythmsbr
+		fontfont faceverdana size colorbcfontfont faceverdana size colorffnbspfontfont faceverdana size colorblacki chingbr
+		fontfont faceverdana size colorbcfontfont faceverdana size colorffnbspfontfont faceverdana size colorblackrunesbr
+		fontfont faceverdana size colorbcfontfont faceverdana size colorffnbspfontfont faceverdana size colorblackand so much morebr
+		fonttd
+		tr
+		table
+
+	center
+	td
+	tr
+	tr
+	td height bgcolorbctd
+	tr
+	table
+
+center
+
+pfont size colorblackthis email is not sent unsolicited you are opted in with cnnsi you are receiving it because you requested receive this email by optingin with our marketing partner you will receive notices of exciting offers products and other options however we are committed to only sending to those people that desire these offers if you do not wish to receive such offers 
+a hrefhttpperlunsubscribeplsbfont size color  blueclick herefontba or paste the following into any browserp httpperlunsubscribepls brbrp to remove your email name from our list you may contact our company by mail at  se th street suite number  ft lauderdale fl p 
+img srchttpperlropenplserialno
+
+body
+html
+
+

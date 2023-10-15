@@ -1,0 +1,436 @@
+this is a multipart mime message
+
+ multipart boundary 
+contenttype textplain
+	charsetiso
+contenttransferencoding bit
+
+
+
+
+
+
+
+
+need a professional looking  website
+custom website development
+we can create new web pages or give your existing pages a facelift to bring them up to the internets latest trends and standards  we are experienced at writing html and can provide custom programming in cgi javascripts java server pages active server pages and activex which we can use to give your site the dynamics and interactivity of a cutting edge web presence
+
+email and web hosting
+
+unlimited technical customer support via email
+web hosting mb storage
+ email accounts
+unlimited email forwards
+for  monthly
+first month free with purchase of new website
+
+
+ 
+
+from server setup to content development we offer the complete web solution which is further enhanced by the services of our carefully chosen strategic partners who provide everything from development tools to hosting services
+
+
+
+
+
+
+
+if you prefer not to receive future news and information on our technology solutions please reply to this message with unsubscribe in the subject
+
+
+ nw nd ave suite  
+miami fl 
+tel     
+fax   
+toll free compro
+web wwwcomprosyscom
+email infocomprosyscom
+web templates
+
+starting from just  
+ if your order is placed by 
+our web templates give you the way to get on the internet with a very professional look and feel while keeping the costs down contact us for your options
+
+how does it work easy as 
+ register on our site and select a username and password this will allow you to track your website development project start to finish
+ fill out the questionnaire this will help you to get all the materials needed for us to develop your site it is very important to fill out all the questions
+ we will then setup your website according to the information given to us thats it 
+
+
+if you would prefer a custom solution we will be happy to create a completely custom solution for you contact us for a free quote
+
+  
+
+
+
+
+
+sell your products online
+eshop is a multiplatform ecommerce solution for retailers wholesalers or any company wanting to sell on the internet  this ecommerce solution can be used as a businesstobusiness consumer solution  eshop will support any number of products since its data is stored in sql tables
+
+
+
+
+
+corporate profile
+compro systems inc founded in  is a successful information technology consulting firm providing products and services across several industries  compro systems goal is to become the leader in software development 
+csi will deliver the entire solution  by leveraging our relationships with companies like ibm microsoft compaq att cisco and others we bring you the best cross platform solutions to your hardware software and hosting needs
+  
+  copyright c  compro systems inc all rights reserved
+
+ multipart boundary 
+contenttype texthtml
+	charsetiso
+contenttransferencoding bit
+
+html
+head
+meta namegenerator contentmicrosoft dhtml editing control
+titletitle
+head
+body
+table cellspacing cellpadding width bgcolorffffff border
+  
+  tr
+    td width
+      table cellspacing cellpadding width border
+        
+        tr
+          td width bgcolorffffff heightimg height 
+            srchttpwwwcomprosyscomemailblanktallgif width 
+          bordertd
+          td width bgcolorffffff heightimg height 
+            srchttpwwwcomprosyscomemailblanktallgif width 
+          bordertd
+          td width bgcolorffffff heightimg height 
+            srchttpwwwcomprosyscomemailblanktallgif width 
+          bordertdtr
+        tr
+          td widtha hrefhttpwwwcomprosyscomimg height 
+            srchttpwwwcomprosyscomemailheaderaagif width 
+            borderatd
+          td widthimg height 
+            srchttpwwwcomprosyscomemailhomeffgif width 
+          bordertd
+          td width bgcolorffffffimg height hspace 
+            srchttpwwwcomprosyscomemailheaderccgif width 
+          bordertdtr
+        tr
+          td width bgcolora heightimg height 
+            srchttpwwwcomprosyscomemailblankgif width
+bordertd
+          td width bgcolora heightimg height 
+            srchttpwwwcomprosyscomemailblankgif width
+bordertd
+          td width bgcolora heightimg height 
+            srchttpwwwcomprosyscomemailblankgif width 
+        bordertdtr
+        tr
+          td widthimg height 
+            srchttpwwwcomprosyscomemailheaderbbgif width 
+          bordertd
+          td widthimg height 
+            srchttpwwwcomprosyscomemailhomegggif width 
+          bordertd
+          td width bgcolorffffffimg height 
+            srchttpwwwcomprosyscomemailheaderddgif width 
+          bordertdtr
+        tr
+          td width bgcolora heightimg height 
+            srchttpwwwcomprosyscomemailblankgif width
+bordertd
+          td width bgcolora heightimg height 
+            srchttpwwwcomprosyscomemailblankgif width
+bordertd
+          td width bgcolora heightimg height 
+            srchttpwwwcomprosyscomemailblankgif width 
+        bordertdtr
+        tr
+          td width bgcolorfffffffont colorffffff
+sizefonttd
+          td widthfont sizeimg height 
+            srchttpwwwcomprosyscomemailhomehhgif width 
+            borderfonttd
+          td width bgcolorfffffffont sizeimg height 
+            srchttpwwwcomprosyscomemailheadereegif width 
+            borderfonttdtr
+        tr
+          td width bgcolorffc heightimg height 
+            srchttpwwwcomprosyscomemailblankgif width
+bordertd
+          td width bgcolorffc heightimg height 
+            srchttpwwwcomprosyscomemailblankgif width
+bordertd
+          td width bgcolorffc heightimg height 
+            srchttpwwwcomprosyscomemailblankgif width 
+        bordertdtr
+        tr
+          td width bgcolorffc colspan height
+            p aligncenterbfont colorffffffneed a professional 
+            lookingnbsp websitefontbptdtrtable
+      table cellspacing cellpadding width border
+        
+        tr
+          td valigntop width
+            table cellpadding width bgcolorffffff border
+              
+              tr
+                td width bgcolorffffff
+                  pbfont faceverdana color sizecustom
+website 
+                  developmentfontbp
+                  pfont faceverdana sizewe can create new web pages
+or 
+                  give your existing pages a facelift to bring them up
+to the 
+                  internets latest trends and standardsnbsp we are 
+                  experienced at writing html and can provide custom
+programming 
+                  in cgi javascripts java server pages active server
+pages 
+                  and activex which we can use to give your site the
+dynamics 
+                  and interactivity of a cutting edge web presencebra 
+                  hrefhttpwwwcomprosyscomdevelopmentjsp 
+                  targetblankimg height 
+                 
+srchttpwwwcomprosyscomemailalexemailtaskmoregif 
+                  width borderafontp
+                  pbfont faceverdana color sizeemail and
+web 
+                  hostingfontbbrp
+                  table width border
+                    
+                    tr
+                      td valigntop alignmiddle widthfont 
+                        faceverdana arial helvetica sansserif 
+                        sizebfont classtitpeq 
+                        colorffgtfontbfonttd
+                      td widthfont faceverdana sizeunlimited 
+                        technical customer support
+vianbspemailfonttdtr
+                    tr
+                      td valigntop alignmiddle widthfont 
+                        faceverdana arial helvetica sansserif 
+                        sizebfont classtitpeq 
+                        colorffgtfontbfonttd
+                      td widthfont faceverdana sizeweb
+hosting 
+                        mb storagefonttdtr
+                    tr
+                      td valigntop alignmiddle widthfont 
+                        faceverdana arial helvetica sansserif 
+                        sizebfont classtitpeq 
+                        colorffgtfontbfonttd
+                      td widthfont faceverdana size email 
+                        accountsfonttdtr
+                    tr
+                      td valigntop alignmiddle widthfont 
+                        faceverdana arial helvetica sansserif 
+                        sizebfont classtitpeq 
+                        colorffgtfontbfonttd
+                      td widthfont faceverdana sizeunlimited 
+                        email forwardsfonttdtr
+                    tr
+                      td valigntop alignmiddle width colspan
+                        p alignleftfont faceverdana sizefor
+fontfont 
+                        faceverdana sizebbfontfont 
+                        faceverdana size monthlyfontptdtr
+                    tr
+                      td valigntop alignmiddle width colspan
+                        p alignleftfont faceverdana sizefirst
+month free 
+                        with purchase of new 
+                  websitefontptdtrtable
+                  pbrnbspbrp
+                  table idautonumber stylebordercollapse collapse 
+                  bordercolor cellspacing cellpadding
+width 
+                  border
+                    
+                    tr
+                      td valigntop width
+                        p aligncenterfont colorimg height 
+                       
+srchttpwwwcomprosyscomemailalexemailtaskpicjpg 
+                        width borderfontptd
+                      td valigncenter width
+                        p alignleftfont faceverdana sizefrom server 
+                        setup to content development we offer the
+complete web 
+                        solution which is further enhanced by the
+services of 
+                        our carefully chosen strategic partners who provide 
+                        everything from development tools to hosting 
+                        servicesfontptdtrtable
+                  pbrp
+                  hr colora size
+
+                  blockquote
+                    pbfont faceverdana color 
+                    sizebrfontfont faceverdana color
+sizeif 
+                    you prefer not to receive future news and information
+on our 
+                    technology solutions please reply to this message
+with a 
+                   
+hrefmailtounsubscribecomprosyscomsubjectunsubscribeunsubscribea 
+                    in the subjectfontfont faceverdana color 
+                    sizebrbrimg height 
+                    srchttpwwwcomprosyscomemailcsilogogif
+width 
+                    borderfontbfont faceverdana color 
+                    sizebr nw nd ave suite  brmiami fl 
+                    brtel   nbsp brfax   
+                    brtoll free
+comprobbrbwebb a 
+                    hrefhttpwwwcomprosyscomwebtemplatejspfont 
+                   
+colorffwwwcomprosyscomfontabfontbrfont 
+                    faceverdana sizeemailb a 
+                    hrefmailtoinfocomprosyscomfont 
+                   
+colorffinfocomprosyscomfontabfontpblockquotetd
+trtabletd
+          td width bgcolorffcimg height 
+            srchttpwwwcomprosyscomemailblankgif width
+bordertd
+          td valigntop width
+            table cellpadding width bgcolorffffff border
+              
+              tr
+                td width bgcolorfffffffont faceverdana 
+                  color sizebweb
+templatesbrbrbfontfont 
+                  faceverdana sizebstarting from just 
+                  strikestrike font colorffbr if
+your 
+                  order is placed by fontbfontfont 
+                  faceverdana sizebrour web templates give you the
+way to 
+                  get on the internet with a very professional look and
+feel 
+                  while keeping the costs down contact us for your 
+                  optionsbrbrhow does it work easy as br 
+                  register on our site and select a username and password
+this 
+                  will allow you to track your website development project
+start 
+                  to finishbr fill out the questionnaire this will
+help 
+                  you to get all the materials needed for us to develop
+your 
+                  site it is very important to fill out all the 
+                  questionsbr we will then setup your website
+according to 
+                  the information given to us thats it bra 
+                  hrefhttpwwwcomprosyscomwebtemplatejsp 
+                  targetblankimg height 
+                 
+srchttpwwwcomprosyscomemailalexemailtaskmoregif 
+                  width borderabrbrif you would prefer a
+custom 
+                  solution we will be happy to create a completely custom 
+                  solution for you contact us for a free
+quotefontbrfont 
+                  faceverdana sizea 
+                  hrefhttpwwwcomprosyscomcontactformjsp 
+                  targetblankimg height 
+                 
+srchttpwwwcomprosyscomemailalexemailtaskmoregif 
+                  width borderafontbrnbsp
+                  p aligncenterimg height 
+                  srchttpwwwcomprosyscomemailebizjpg width 
+                  borderbrp
+                  hr colora size
+
+                  p alignleftbfont faceverdana color
+sizesell 
+                  your products onlinefontbp
+                  table width border
+                    
+                    tr
+                      td widthfont faceverdana sizea 
+                        hrefhttpwwwcomprosyscomeshopjsp 
+                        targetblankimg height 
+                       
+srchttpwwwcomprosyscomemailalexemailtaskcsieshoplogogif 
+                        width alignright borderaeshop is a 
+                        multiplatform ecommerce solution for retailers 
+                        wholesalers or any company wanting to sell on the 
+                        internetnbsp this ecommerce solution can be
+used as 
+                        a businesstobusiness consumer solutionnbsp
+eshop 
+                        will support any number of products since its data
+is 
+                        stored in sql tablesfonttdtrtable
+                  pfont faceverdana sizea 
+                  hrefhttpwwwcomprosyscomeshopjsp
+targetblankimg 
+                  height 
+                 
+srchttpwwwcomprosyscomemailalexemailtaskmoregif 
+                  width 
+         
+borderafontbrbrptdtrtabletdtrtable
+      table stylebordertopwidth px height cellspacing
+cellpadding 
+      width border
+        
+        tr
+          td stylebordertop px solid bordercolorff 
+          bordercolorlightff width bgcolorffdf heightimg 
+            height srchttpwwwcomprosyscomemailblankgif width 
+            bordertd
+          td stylebordertop px solid valigntop bordercolorff 
+          bordercolorlightff width bgcolorffffff 
+            heightbfont faceverdana color sizecorporate 
+            profilefontfont faceverdana colora 
+            sizebrfontfont faceverdana color
+sizecompro 
+            systems inc founded in  is a successful information 
+            technology consulting firm providing products and services
+across 
+            several industriesnbsp compro systems goal is to become
+the 
+            leader in software developmentfontbfont faceverdana
+size 
+            font
+            pbfont faceverdana color sizecsi will deliver
+the 
+            entire solutionnbsp by leveraging our relationships with 
+            companies like ibm microsoft compaq atampt cisco and
+others we 
+            bring you the best cross platform solutions to your hardware 
+            software and hosting needsbrnbspfontbptd
+          td styleborderbottom px solid valigntop width 
+          bgcolorffffff heightnbsptdtr
+        tr
+          td stylebordertop px solid bordercolora 
+          bordercolorlighta width heightimg height 
+            srchttpwwwcomprosyscomemailblankgif width
+bordertd
+          td stylebordertop px solid bordercolora 
+          bordercolorlighta alignright width bgcolorffffff 
+          height
+            p alignleftfont coloranbspfont faceverdana
+size 
+            copyright c  compro systems inc all rights 
+            reservedfontfontptd
+          td stylebordertop px solid bordercolora 
+          bordercolorlighta alignright width bgcolorffffff 
+          heighta hrefmailtoinfocomprosyscomimg height 
+            srchttpwwwcomprosyscomemailemailgif width 
+            borderatdtrtabletdtrtable
+body
+html
+
+ multipart boundary 
+
+httpxentcommailmanlistinfofork
+
+

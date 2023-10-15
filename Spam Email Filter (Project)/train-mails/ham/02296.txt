@@ -1,0 +1,8 @@
+url httpwwwnewsisfreecomclick
+date t
+
+net news a devastating new computer virus is causing havoc around the world 
+as it crashes computers distributes confidential emails and steals credit 
+card details
+
+

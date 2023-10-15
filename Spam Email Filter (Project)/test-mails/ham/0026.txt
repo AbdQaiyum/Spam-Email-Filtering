@@ -1,0 +1,33 @@
+on thu aug   at pm  fergal moran mentioned
+ in a nutshell  solaris is suns own flavour of unix
+
+ though im sure that this nice person would like a bit more detail
+
+ solaris is quite different to linux though these days you can make
+solaris act a lot like linux with an extra cd of gnu tools sun ship with
+solaris it is based on the sysv unix family so its quite similar to
+other unixen like hpux and sco
+
+ suns hardware in general is more reliable and a lot more expensive one
+of the main bonuses you get by buying sun is that you are getting your
+hardware and software from one company so if you have a support contract
+they have to fix it they cant fob you off with thats a software
+problem talk to the software vendor etc
+
+ if you are set on linux you most likely can do your own support there
+is then a world of different hardware options you can run linux on sparc
+though some companies like redhat dont maintain a sparc port anymore
+
+ you can also buy your machine from linuxoriented companies like dnuk
+who do machines designed to run linux and their own version of linux
+that has a few extras for their machines or you can get a machine from a
+cheaper company like dell and itll most likely work most of the time
+
+john
+
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

@@ -1,0 +1,139 @@
+this is a multipart message in mime format
+it has been signed conforming to rfc
+youll need gpg or pgp to check the signature
+
+
+contenttype multipartmixed
+ boundarymultipartfrisep
+contenttransferencoding bit
+
+multipartfrisep
+contenttype textplain charsetusascii
+
+im a very happy user of exmh but im paranoid also 
+therefore im not too happy with exmh caching my pgp passphrases
+
+usually i use a relatively secure tool called quintuple agent 
+urlhttpwwwvibeattoolssecretagent to store my passphrases
+and ive just added the few lines of code to exmh which allow for such
+external caches
+
+the patch is attached it is against version  debian and the
+files modified are extrasinittcl and pgpexectcl
+
+ive added three new preferences in the general pgp section which
+allow everybody to use hisher favourite external tool to get the
+passphrase everything which spits out the phrase on stdout is ok
+
+id be happy if somebody with cvs access thinks that this stuff 
+is worth to be added and does so apart from that im happy for 
+suggestions comments or critique mind you im not exactly a special 
+friend of tcl so my code may leave things to be desired
+
+regards
+az
+
+
+multipartfrisep
+contenttype textplain charsetusascii
+contentdisposition attachment filenameexmhpatch
+contenttransferencoding bit
+
+ usrlibexmhextrasinittcl	sat mar    
+ extrasinittcl	fri sep   
+   
+     pgppasstimeout pgppasstimeout  minutes to cache pgp passphrase
+ exmh will clear its memory of pgp passphrases after
+ this time period in minutes has elapsed 
+pgpextpass pgpextpass off use external passphrase cache
+if this is enabled then exmh will use an external program to retrieve 
+your passphrase when needed pgpkeeppass and pgppasstimeout will 
+be ignored
+pgpgetextcmd pgpgetextcmd usrbinqclient get s method to query external passphrase cache
+this external program is used to retrieve the passphrase for your key
+if pgpextpass is active the passphrase is expected on stdout
+the key id is substituted with s using format 
+pgpdelextcmd pgpdelextcmd usrbinqclient delete s method to invalidate external passphrase cache
+this external program is used to delete the passphrase for your key
+from the external cache if pgpextpass is active 
+the key id is substituted with s using format 
+     
+ 
+      make sure we dont inherit a bad pgpversion from a previous setup
+ usrlibexmhpgpexectcl	sat mar    
+ pgpexectcl	fri sep   
+   
+ proc pgpgetpass  v key  
+     global pgp
+ 
+    if info exists pgpextpass  set pgpextpass 
+	     info exists pgpgetextcmd 
+	exmhdebug pgpgetpass v key external
+	set keyid lindex key 
+	set cmd format pgpgetextcmd keyid
+	while  
+	    exmhdebug running cmd cmd
+	    if  catch exec sh c cmd result  
+		exmhdebug error running cmd result
+		exmhstatus error executing external cmd warn
+		return 
+	     else 
+		if pgpexeccheckpassword v result key 
+		    return result
+		 else 
+		    exmhdebug bad passphrase
+		    if info exists pgpdelextcmd 
+			exmhdebug trying to invalidate bad passphrase
+			if catch exec sh c format pgpdelextcmd keyid 
+			    exmhdebug invalidation failed
+			    return 
+			
+		    
+		
+	    
+	
+     else 
+     exmhdebug pgpgetpass v key
+ 
+     if lsearch glob set pgpvprivatekeys lindex key    
+   
+             
+             return password
+         
+	
+     
+ 
+ 
+
+multipartfrisep
+contenttype textplain charsetusascii
+
+ 
+ alexander zangerl  azsnafuprivat  dsa bdd  rsa b
+kind of like my k fund wealth not found  shrox
+
+multipartfrisep
+
+
+contenttype applicationpgpsignature namesignatureng
+contentdisposition inline filenamesignatureng
+contenttransferencoding bit
+
+begin pgp signature
+version gnupg v gnulinux
+
+iddbqelfjbpybekzfraqajwlmyzxzsfgjkmvcmelgeweacbbwj
+oyccsywxynxrpvtcbdera
+tt
+end pgp signature
+
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

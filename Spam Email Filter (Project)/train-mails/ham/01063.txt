@@ -1,0 +1,48 @@
+lance wrote
+
+make sure you rebuild as root and youre in the directory that you
+downloaded the file  also it might complain of a few dependencies but
+you can get these at freshrpmsnet except for gcc which you can find
+on your red hat cd red hat ftp or rpmfindnet
+
+after you rebuild the source rpm it should install a binary rpm in
+usrsrcredhatrpmsi  with all dependencies met install mplayer
+with rpm ivh mplayerfrrpm and you should be good to go
+
+one last thing you will need the win codecs i found them on google
+create a directory usrlibwin and place the codecs in there
+
+good luck
+
+lance
+
+ i dld gcc and libgcc but i still get the same error message when i 
+try rpm rebuild or recompile i do this as root i dld as root also
+
+thanks for the help any more idea whats going on
+
+
+
+
+         i tried to just rpm rebuild mplayerfrsrcrpm 
+then i get  mplayerfrsrcrpm no such file or directory
+
+
+
+
+
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

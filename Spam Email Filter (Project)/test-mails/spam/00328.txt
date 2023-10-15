@@ -1,0 +1,92 @@
+html
+body
+div aligncenter
+center
+table cellspacing cellpadding width border
+tbody
+tr
+td alignmiddletd
+tr
+tr
+td alignleftfont facearial sizebshop hundreds of
+lendersbfonttd
+tr
+tr
+tdtd
+tr
+tr
+td alignrightfont facearial sizebwith just one clickbfonttd
+tr
+tbody
+table
+center
+div
+div aligncenter
+center
+table cellspacing cellpadding width border
+tbody
+tr
+td alignmiddle
+table cellspacing cellpadding width border
+tbody
+tr
+td alignleftfont facearial colorred sizebnbspnbspnbsp
+nbspstep bfontfont facearial colordarkblue sizenbsp
+nbspanswer a few questionsfonttd
+tr
+tr
+td alignleftfont facearial colorred sizebnbspnbspnbspnbspnbspnbspnbsp
+nbspstep bfontfont facearial colordarkblue sizenbsp
+nbsplenders compete for your businessfonttd
+tr
+tr
+td alignleftfont facearial colorred sizebnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp
+nbspstep bfontfont facearial colordarkblue sizenbsp
+nbspsee how much you can savenbsp nbspfonttd
+tr
+tbody
+table
+td
+tr
+tbody
+table
+center
+div
+div aligncenter
+center
+table cellspacing cellpadding width bgcoloreeeeee border
+tbody
+tr
+td widthnbsptd
+tdnbsptd
+tr
+tr
+td alignleft
+p aligncenterbfont faceverdana colorblack sizebr
+marquee scrolldelay border alignmiddlerefinance now while
+rates are still low you could save hundreds per monthmarquee
+br
+there is no obligation and this is a free quotep
+font
+p aligncenterbfont faceverdana colorff size
+debt consolidation nbsp home improvementbr
+ refinancing nbsp second mortgagebr
+ equity line of creditfontp
+font faceverdana size
+pfontbfont faceverdana color sizenbsp fontbfont faceverdana colorff size
+a hrefhttpwwwcombestratesclick
+here for short applicationafontp
+td
+tr
+tbody
+table
+center
+div
+pnbspp
+pfont faceverdanato be removed from our subscriber list
+a hrefhttpwwwcomremoveclick
+hereafontp
+
+body
+
+html

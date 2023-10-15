@@ -1,0 +1,100 @@
+guys the habeas infringers list hil exists explicitly to deal with
+spammers while were getting judgments against them and especially in
+other countries where those judgments are harder to get
+
+please note that nobody has ever had an incentive before to go after
+regular spammers  yes some attorneys general have prosecuted blatant
+pyramid schemes and isps have won some theft of service suits but the
+vast majority of spammers go forward with out any legal hassles  so i
+cant understand how daniel can assert that you cant track spammers
+down when its never really been tried  we can subpoena the records of
+the business they spammed on behalf of  we can subpoena the records of
+the isp that provided them service and of the credit card they used for
+the whackamole accounts  we can use private investigators  yes
+these people are often lowlifes chickenboners  but theyre not
+secret agents  theyre just trying to make a buck and habeas whole
+business is about finding them and putting them out of business
+
+habeas has the incentive to pursue spammers that use our warrant mark
+in a way that no one ever has had before  given that our whole business
+plan relies on habeas becoming synonymous with not spam i cant
+understand why you would assume ahead of time that we will be
+unsuccessful plan for that failure and in so doing remove the
+potential of success which is antispam filters like sa acting on the
+habeas warrant mark
+
+daniel its easy enough for you to change the habeas scores yourself on
+your installation  if habeas fails to live up to its promise to only
+license the warrant mark to nonspammers and to place all violators on
+the hil then i have no doubt that justin and craig will quickly remove
+us from the next release  but youre trying to kill habeas before it
+has a chance to show any promise
+
+at the end of the day spamassassin is like the club in that it
+encourages thieves spammers to just go after the next car those
+without sa rather than yours  habeas can play the role of lojack the
+transmitter in enabling the apprehension of thieves so that they dont
+steal any more cars  but only if were given a chance to succeed
+
+           dan
+
+dan kohn mailtodandankohncom
+httpwwwdankohncom  tel 
+
+original message
+from daniel quinlan mailtoquinlanpathnamecom 
+sent wednesday august   
+to matthew cline
+cc spamassassintalkexamplesourceforgenet
+subject re satalk ot habeus  why
+
+
+matthew cline mattnightrealmscom writes
+
+ there must be some way of tracking a spammer down since they are
+ planning on making money from the spam  what a court would consider
+ evidence of being the spammer is another question
+
+haha
+
+just a few notes
+
+  it will be difficult to find prosecute and win money from someone
+   in various nonfriendly countries where spam originates china is a
+   good example even if they do officially respect copyright law
+
+  law suits take time between now and conclusion of the first court
+   case we could have years of spam in our mail boxes
+
+  contact information can change phone numbers po boxes stolen
+   cell phones temporary email addresses etc
+
+  spammers do not always remember to include contact information  i
+   dont understand it either but nobody said they were bright  also
+   some spam is noncommercial or sent by a thirdparty for example
+   pump and dump stock scams so contact information is not strictly
+   required for the spammer to get their way
+
+dan
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

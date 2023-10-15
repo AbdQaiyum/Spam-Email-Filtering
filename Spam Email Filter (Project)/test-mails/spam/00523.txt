@@ -1,0 +1,44 @@
+html
+head
+titledear homeownertitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+style typetextcss
+main   fontfamily verdana arial helvetica sansserif fontsize px color 
+footer   fontfamily verdana arial helvetica sansserif fontsize px color 
+alink textdecoration none color edc
+avisited textdecoration none color edc
+aactive textdecoration none color fd
+ahover textdecoration none color 
+ayellowlink textdecoration none color ffffff
+ayellowvisited textdecoration none color ffffff
+ayellowactive textdecoration none color 
+ayellowhover textdecoration none color eee
+style
+body bgcolordadada topmargin
+table width border cellspacing cellpadding aligncenter bordercolor classmain bgcolorfff
+  trtdtable width aligncenter border cellspacing cellpaddingtrtd
+    pbfont sizedear fontfont size colorcchomeownerfontbp
+  tdtrtabletdtrtrtd bgcolortable width border cellspacing cellpadding classmaintrtd
+    p aligncenterbfont colorffffff sizeinterest rates are at their lowest point in  yearsfontbp
+  tdtrtabletdtr
+  trtdtable width border cellspacing cellpadding classmaintr td width valigntop
+    div aligncenter bfont sizelet us do the shopping for you and its freefontbpimg srchttppiximagesadgif width heightpdiv
+  tdtd width valigntop
+    font sizeibrour nationwide network of lenders have hundreds of different loan programs to fit your current situationibul
+    lirefinancelilisecond mortgagelilidebt consolidationlilihome improvementlilipurchase liulbpp
+    pplease ba hrefhttprdyahoocomdirhttpwwwpixmortgageformhtmclick hereab to fill out a quick form your request will be transmitted to our network of mortgage specialistspfont
+  tdtrtable
+  table width border cellspacing cellpaddingtrtd bgcolordffpnbspptdtrtable
+  table width border cellspacing cellpadding classmaintrtd bgcolorcc
+    div aligncenterbfont sizethis service is a hrefhttprdyahoocomdirhttpwwwpixmortgageformhtm classyellow freea to home owners and new home buyers without any obligationfontbdiv
+  tdtrtabletdtrtable
+  table aligncenter width cellspacing cellpadding border classfootertr td colspanbr
+    font coloredcdid you receive an email advertisement in errorfont our goal is to only target individuals who would like to take advantage of our offers if youd like to be removed from our mailing list please click on the link below you will be removed immediately and automatically from all of our future mailingsbr
+    brtdtrtr tdwe protect all email addresses from other third parties thank you
+  tdtd alignrighta hrefhttprdyahoocomdirhttpremoveremovehtmplease remove meatdtrtable
+body
+html
+
+
+

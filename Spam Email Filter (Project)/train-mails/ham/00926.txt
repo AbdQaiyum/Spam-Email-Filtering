@@ -1,0 +1,67 @@
+im fairly confused here with procmail 
+i know this isnt a procmail list perse feel free to answer my questions in 
+private email to rgilmanhunthotpcom  
+
+ive looked for webstuff to answer this question but i cant find anything 
+specific on this scenario
+
+heres the situation 
+i have a global etcprocmailrc file it works and when i insert stuff into 
+it for logging logfilerootprocmaillog verboseyeah logabstractall it 
+shows up where i expect it to the log in rootprocmaillog  at the end of 
+this file i use 
+ fw
+  spamc
+to call spamassassin
+
+also in it is a carboncopy recipe yes i know its one of the evils we do 
+for our corporate masters  at the top to their credit i am instructed 
+that they are not interested in the actual contents but are concerned about 
+future lawsuits and their culpability so they want a record made discussion 
+on this point is immaterial
+
+    test d archivedirdatedir  mkdir p mode archivedirdatedir
+   
+ c
+ saveat
+
+i have several users where i forward certain spams to devnull    their 
+procmailrc file homeuserprocmailrc looks like this
+
+   from spermfuncom
+  devnull
+
+now ive got a person who needs a copy of her inbound emails sent to another 
+email address outside the company so ive got this recipe in her 
+homeuserprocmailrc file
+ c
+  userdomaintld
+
+it almost looks like procmails not running a users copy recipe after a 
+global copy recipe except that i can replace that users one with 
+ 
+  subject test
+  procmailholder
+and get the same result
+
+the result to put it succinctly is nothing no forwards go out no files 
+are made if i try to log information no logs are set up ive modified the 
+usergroup and permissions to match knownworking recipes the spermfun 
+example above and still nothing  however i can redirect those other 
+messages  in other words just this users procmailrc file is not working 
+other users have no problems
+
+any suggestions would be helpful  
+
+russ
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

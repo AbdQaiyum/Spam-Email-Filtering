@@ -1,0 +1,113 @@
+html
+head
+titlemailvcgiftitle
+meta httpequivcontenttype contenttexthtml
+head
+body bgcolorffffff
+table aligncenter border cellpadding cellspacing
+width
+  tr
+   tdimg srchttptheadmanagercomadsbottomlineimgsspacergif
+width height bordertd
+   tdimg srchttptheadmanagercomadsbottomlineimgsspacergif
+width height bordertd
+   tdimg srchttptheadmanagercomadsbottomlineimgsspacergif
+width height bordertd
+   tdimg srchttptheadmanagercomadsbottomlineimgsspacergif
+width height bordertd
+   tdimg srchttptheadmanagercomadsbottomlineimgsspacergif
+width height bordertd
+  tr
+  tr
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   tdimg srchttptheadmanagercomadsbottomlineimgsspacergif
+width height bordertd
+  tr
+  tr
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcjpg
+width height bordertd
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   tdimg srchttptheadmanagercomadsbottomlineimgsspacergif
+width height bordertd
+  tr
+  tr
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   tdimg srchttptheadmanagercomadsbottomlineimgsspacergif
+width height bordertd
+  tr
+  tr
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   td colspanimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   tdimg srchttptheadmanagercomadsbottomlineimgsspacergif
+width height bordertd
+  tr
+  tr
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   td colspana
+hrefhttptheadmanagercomservercaspadkeyjwcoeycbfrdfimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height borderatd
+   tdimg
+srchttptheadmanagercomadsbottomlineimgsmailvcgif
+width height bordertd
+   tdimg srchttptheadmanagercomadsbottomlineimgsspacergif
+width height bordertd
+  tr
+table
+img srchttpadmanmailcomservertaspadkeyjwcoeycbfrdf
+width height hspace vspace border altt
+hr size noshade
+font facearial size color
+your are receiving this mailing because you are a
+member of sendgreatofferscom and
+subscribed asjmnetnoteinccom
+to unsubscribe a
+hrefhttpadmanmailcomsubscriptionaspemjmnetnoteinccomlsgo
+font facearial size colorclick herea
+httpadmanmailcomsubscriptionaspemjmnetnoteinccomlsgo
+or reply to this email with remove in the subject line  you must
+also include the body of this message to be unsubscribed any
+correspondence about
+the productsservices should be directed to
+the company in the adbrfont body html
+

@@ -1,0 +1,23 @@
+ forwarded message 
+date  sep   
+from perry e metzger perrypiermontcom
+to cryptographywasabisystemscom
+subject sun donates elliptic curve code to openssl
+
+
+according to this
+
+httpwwwsuncomsmipresssunflashsunflashhtml
+
+sun is donating some elliptic curve code to the openssl project does
+anyone know details that they would care to share on the nature of the
+donation
+
+ 
+perry e metzger		perrypiermontcom
+
+
+the cryptography mailing list
+unsubscribe by sending unsubscribe cryptography to majordomowasabisystemscom
+
+

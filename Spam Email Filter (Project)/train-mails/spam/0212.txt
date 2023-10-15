@@ -1,0 +1,212 @@
+this is a multipart message in mime format
+
+nextpartaaaccdda
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ well help you find and fund ltc alternatives	 	
+ mo marketing  the agents company	
+ place your ltc declines	
+
+alzheimers heart attacks diabetes parkinsons
+you can offer guaranteed issue disability benefits to these clients 
+with tax advantages and no underwriting
+
+well help you findand fundlong term care alternatives for your
+clients 
+you can make an additional upfront commission and a bonus
+along with the long term care sales youre making
+
+ask us for the ltc alternatives well give you multiple carriers and
+options for your clients
+ 
+ or  
+please fill out the form below for more information	 
+name	  	 	
+email	  	
+phone	  	
+city	  	state	  	
+ 	  	 	   	
+ 
+ 
+for agent use only 
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsuranceiqcomoptout
+httpwwwinsuranceiqcomoptout 
+
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartaaaccdda
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titleplace your ltc declines with ustitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordcc textd
+font facedarial helvetica sansserif
+table widthd borderd cellspacingd cellpaddingd 
+aligndcenter bordercolord
+  tr
+    td
+			table widthd cellpaddingd cellspacingd 
+aligndcenter bgcolordffffff
+        tr
+          td
+            table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+              tr
+                tdimg 
+srcdhttpiiqusimagesmandoltcgif 
+widthd heightd altdwell help you find and fund ltc 
+alternativestd
+                td rowspandimg 
+srcdhttpiiqusimagesmandoltcgif 
+widthd heightdtd
+              tr
+              tr
+                tdimg 
+srcdhttpiiqusimagesmandoltcgif 
+widthd heightd altdmampo marketing  the agents 
+companytd
+              tr
+              tr
+                td colspandimg 
+srcdhttpiiqusimagesmandoltcgif 
+widthd heightd altdplace your ltc declinestd
+              tr
+            table
+          td
+        tr
+        tr
+          td widthd aligndcenter
+            pfont sizedbr
+              bfont colordff sizedalzheimers heart 
+attacks diabetes parkinsonsfontbbr
+              you can offer bguaranteed issue disability benefits 
+bto these clients br
+              with tax advantages and no underwritingfontp
+            pfont sizedbwell help you findand 
+fundlong term care alternatives for your clientsb br
+              you can make an additional bupfront commission and a 
+bonusbbr
+              along with the long term care sales youre 
+makingfontp
+            pfont sizedask us for the ltc alternatives well 
+give
+              you multiple carriers and options for your clientsbr
+              img 
+srcdhttpiiqusimagesmandoltcgif widthd 
+heightd altdbr
+               or font
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont sized colordffffffplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                        td rowspand valigndmiddle 
+aligndcenterimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedmarketingmandomarketingcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedmo ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            nbspbr
+            font sizedfor agent use only font
+          td
+        tr
+      table
+		td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptout
+        httpwwwinsuranceiqcomoptoutafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+font
+body
+html
+
+nextpartaaaccdda
+

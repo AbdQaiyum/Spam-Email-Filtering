@@ -1,0 +1,246 @@
+this is a multipart message in mime format
+
+nextpartdcfdd
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ diversified underwriters services inc
+ impaired risk case of the month august 
+ male  nonsmoker
+ face amount 
+ history of arterial sclerotic heart disease
+ coronary artery disease
+ abnormal echocardiogram
+ increasing abnormal psa
+ currently on chelation therapy
+ competition rated table 
+
+ diversifieds answer
+ preferred
+
+brokers commission  
+
+ 
+let us turn your clients that have been declined rated or have current
+health problems into placeable life cases
+  
+ instaquotetm for impaired risk life quotes
+ call now for an instaquote on your client and we will get back 
+to
+you within  hours  ext  or 
+
+please fill out the form below for more information	
+name	 	  
+email	 	
+phone	 	
+city	 	 state	 	
+ 	    
+
+ httpwwwduscom 	
+for broker use only not for public dissemination	
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsuranceiqcomoptout
+httpwwwinsuranceiqcomoptout
+
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+nextpartdcfdd
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titleimpaired risk case of the monthtitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdwindows
+head
+body bgcolord textd
+font facedarial helvetica sansserif
+table widthd borderd aligndcenter cellpaddingd 
+cellspacingd bordercolord bgcolordffffff
+  tr
+    tdimg srcdhttpiiqusimagesdusauggif 
+altddiversified underwriters services inc widthd 
+heightdbr
+      img srcdhttpiiqusimagesdusauggif 
+altdimpaired risk case of the month widthd heightdimg 
+srcdhttpiiqusimagesdusaugjpg altdaugust 
+ widthd heightd
+      table widthd cellpaddingd cellspacingd 
+bgcolordffffff
+        tr
+          td valigndtop
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                td
+                  font sized
+                  img 
+srcdhttpiiqusimagesdusgif widthd 
+heightd aligndtexttopmale  nonsmokerbr
+                  img 
+srcdhttpiiqusimagesdusgif widthd 
+heightd aligndtexttopface amount br
+                  img 
+srcdhttpiiqusimagesdusgif widthd 
+heightd aligndtexttophistory of arterial sclerotic heart 
+diseasebr
+                  img 
+srcdhttpiiqusimagesdusgif widthd 
+heightd aligndtexttopcoronary artery diseasebr
+                  img 
+srcdhttpiiqusimagesdusgif widthd 
+heightd aligndtexttopabnormal echocardiogrambr
+                  img 
+srcdhttpiiqusimagesdusgif widthd 
+heightd aligndtexttopincreasing abnormal psabr
+                  img 
+srcdhttpiiqusimagesdusgif widthd 
+heightd aligndtexttopcurrently on chelation therapybr
+                  img 
+srcdhttpiiqusimagesdusgif widthd 
+heightd aligndtexttopcompetition rated table 
+                  p aligndcenterimg heightd 
+srcdhttpiiqusimagesdusgif widthd 
+altddiversifieds answerbr
+                    img 
+srcdhttpiiqusimagesdusgif altdstandard 
+widthd heightd altdpreferredbrbr
+                    ibbrokers commission  bip
+                  font
+                td
+                td aligndright valigndtopimg 
+srcdhttpiiqusimagesdusjpg widthd 
+heightdtd
+              tr
+            table
+          td
+        tr
+        tr
+          td aligndcenter
+            bfont colordlet us turn your clients that 
+have been
+            font colordffdeclined ratedfont or have 
+current
+            font colordffhealth problemsfont into font 
+colordffplaceable
+            life casesfontfontbbr
+            nbsp
+          td
+        tr
+        tr
+          td aligndcenter
+            font sizedbimg 
+srcdhttpiiqusimagesdusinstaquotegif 
+altdquotinstaquotequottm  for impaired risk life quotes 
+widthd heightdbrfont facedarial helvetica 
+sansserif
+            img srcdhttpiiqusimagesdusgif 
+widthd heightd altdcall now for an 
+quotinstaquotequot on your  client and we will get back to 
+you within  hours
+            img srcdhttpiiqusimagesdusgif 
+altd ext  widthd heightd
+             or bfontbr
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr bgcolord
+                        td colspand aligndcenterfont 
+colordffffff sizedbplease fill out the form below for more 
+informationbfonttd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbnamebfonttd
+                        td colspandinput typedtext 
+namedcontactname sizedtd
+                        td rowspand valigndmiddle 
+aligndcenterimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbemailbfonttd
+                        td colspandinput typedtext 
+namedemail sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbphonebfonttd
+                        td colspandinput typedtext 
+namedphone sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbcitybfonttd
+                        td widthdinput typedtext 
+namedcity sizedtd
+                        td widthd aligndrightfont 
+sizedbstatebfonttd
+                        td widthdinput typedtext 
+namedstate sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd colspand
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          input typedhidden 
+namedhdnrecipienttxt valuedrblancoduscom
+                          input typedhidden namedhdnsubjecttxt 
+valueddus ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+          td
+        tr
+        tr
+          td aligndcentera hrefdhttpwwwduscomimg 
+srcdhttpiiqusimagesdusgif widthd 
+heightd borderdatd
+        tr
+        tr
+          tdfont sizedfor broker use only not for public 
+disseminationfonttd
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter pfont 
+sized we dont
+        want anyone to receive our mailings who does not wish to this 
+is professional
+        communication sent to insurance professionals to be removed 
+from this
+        mailing list bdo not replyb to this message instead go 
+here a hrefdhttpwwwinsuranceiqcomoptout
+        httpwwwinsuranceiqcomoptoutafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+font
+body
+html
+
+nextpartdcfdd
+
+

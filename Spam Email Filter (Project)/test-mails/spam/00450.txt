@@ -1,0 +1,128 @@
+html
+
+head
+meta httpequivdcontentlanguage contentdenus
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+titlejob search title
+style
+
+ pmsonormal
+	msostyleparent
+	marginbottompt
+	fontsizept
+	fontfamilytimes new roman
+	marginleftin marginrightin margintopin
+h
+	marginbottompt
+	textaligncenter
+	pagebreakafteravoid
+	fontsizept
+	fontfamilyhelvetica
+	fontstyleitalic
+	textdecorationunderline
+	textunderlinesingle marginleftin marginrightin margintopin
+pmsobodytext
+	marginbottompt
+	fontsizept
+	fontfamilyhelvetica
+	fontweightbold marginleftin marginrightin margintopin
+
+style
+head
+
+body
+
+p classdmsonormalspan styledfontfamily helveticanbspspan
+p
+hspan styledfontsize ptjob search spanh
+p classdmsonormalspan styledfontfamily helveticanbspspan
+p
+p classdmsonormal aligndcenter styledtextaligncenterb
+span styledfontfamily helveticawe have done all the research for y
+ouspanbp
+p classdmsonormal aligndcenter styledtextaligncenterb
+span styledfontfamily helveticanbspspanbp
+p classdmsonormal aligndcenter styledtextaligncenterb
+span styledfontfamily helveticanbspspanbp
+p classdmsonormalbspan styledfontfamily helveticaare you o
+ut of 
+worknbsp thinking about making a job changenbsp having a hard time f
+inding a good 
+jobnbsp spanbp
+p classdmsonormalbspan styledfontfamily helveticanbsps
+panbp
+p classdmsonormalbspan styledfontfamily helveticajobs are 
+hard to 
+findnbsp learning how to find them is notnbsp the more you know abou
+t how to find a 
+job the easier the searchspanbspan styledfontfamily helvetic
+anbsp b
+font colordffjob search  what they did not teach you info
+nt
+font colordfffontb bis your link to a new jobnbsp
+ bspan
+p
+p classdmsonormalspan styledfontfamily helveticanbspspan
+p
+p classdmsonormal aligndcenter styledtextaligncenter
+font colordffb
+span styledfontsize pt fontfamily helveticathere is much mo
+respanbfontp
+p classdmsonormal aligndcenter styledtextaligncenter
+span styledfontsize pt fontfamily helveticanbspspanp
+
+p classdmsobodytextfind out why you are having a hard time finding a
+ job and 
+learn how to get the job you have been looking fornbsp this ebook will
+ give you a 
+genuine edge in todayffffffs competitive job marketnbsp you will get
+ tons of practical 
+advice on topics such as dealing with job loss resume writing networking
+ 
+techniques interviewing and negotiatingnbsp after you read this book 
+you will be 
+better prepared to launch a successful job search campaignp
+p classdmsonormalbspan styledfontfamily helveticanbsps
+panbp
+p classdmsonormalbspan styledfontfamily helveticaif you we
+re laid 
+off pushed out of your last job on an early retirement program or are si
+mply 
+dissatisfied with your current job and want to make a change you will ben
+efit 
+from job search nbsp this book will truly assist you in your employm
+ent questnbsp
+spanbp
+p classdmsonormalbspan styledfontfamily helveticanbsps
+panbp
+p classdmsonormalbspan styledfontfamily helveticawe have d
+one years 
+of research on how to find jobs and we are giving you the results of our 
+effortsnbsp so why waitnbsp do not waste any more valuable timenbs
+p do not delaynbsp get 
+going on your job search start working and making money nowspanb
+p
+p classdmsonormalspan styledfontfamily helveticanbspspan
+p
+p classdmsonormalspan styledfontfamily helvetica
+a hrefdhttpwwwwiildaccesscomfont sizedclick herefo
+ntanbsp
+bto learn more about font colordffjob search  what they d
+id not 
+teach you in fontbspanp
+p classdmsonormalnbspp
+p classdmsonormalif you do not wish to receive our job search mailin
+gs 
+please a hrefdhttpwwwwiildaccesscomremovehtmclick herea
+ to unsubscribe 
+from our mailing listp
+
+body
+
+html
+
+
+

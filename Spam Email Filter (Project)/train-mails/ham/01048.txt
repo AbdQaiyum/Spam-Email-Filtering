@@ -1,0 +1,34 @@
+once upon a time axel wrote 
+
+ i am now relaxed again  and pass this info on probably matthias saou
+ himself is dude and some package has hardwired a path in his build
+ directory it would be nice to find out which and fix it but i am using
+ too many of the freshrpm suite to narrow it down
+
+indeed my usual login is dude and has been since long before the big
+lebowsky came out  and it seems the some programs wrongly hard code
+my home directory when being compiled 
+for instance 
+
+dudepython dude strings usrbingentoo  grep dude
+homedude
+dudepython dude strings usrbinxine  grep dude
+homeduderedhattmpxinerootusrsharelocale
+
+these should probably be considered bugs in the programs build process
+especially for xine look at that ill report them upstream ifwhen i
+have some time
+
+thanks for noticing this
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

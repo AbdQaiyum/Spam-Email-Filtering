@@ -1,0 +1,33 @@
+on tue  at  joseph s barrera iii wrote
+
+ c is more reliable than java
+
+
+both are reliable  reliability is more a function of the software
+engineer  ive written complicated missioncritical server software in
+java that will run without a hiccup as long as the unix box it is
+sitting on is running  same with c  for processes that are running
+months at a time and in my case constantly touching databases and doing
+lots of lowlevel network stuff reliability is obtained by making sure
+every conceivable problem and problems you didnt conceive of recovers
+to a cleansafe process state so that things keep running ie it is a
+designprogramming issue
+
+that said we usually prototype serious systems in java and then
+reimplement them in c if we have time  java doesnt scale well as a
+language for server apps though not for the reasons usually offered 
+the problem is that for highend server apps you really need fairly
+detailed and lowlevel control of system resources to get around
+bottlenecks that show up relatively quickly in languages that dont give
+you access to it  you can squeeze several times the performance out of
+a c server program than a java one simply by being able to finely tune
+or more frequently bypass the system resource management 
+nonetheless this is not a significant factor for most applications you
+could conceivably develop in either language as most arent limited by
+raw performance scalability
+
+
+james rogers
+ jamesrbestcom
+
+

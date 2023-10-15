@@ -1,0 +1,383 @@
+update of cvsrootspamassassinspamassassin
+in directory uswprcvstmpcvsserv
+
+modified files
+      tag b
+	configure configurein 
+log message
+netbsd support patch from klaus heinz bug 
+
+index configure
+
+rcs file cvsrootspamassassinspamassassinconfigurev
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ configure	 aug   	
+ configure	 aug   	
+   
+                  cat  conftestacext eof
+ line  configure
+ include confdefsh
+include systypesh
+ include syssocketh
+int main 
+printf d shutrd return 
+ return  
+ eof
+if eval accpp conftestacext  
+  egrep shutrd devnull  then
+if  eval echo configure accompile  eval accompile   then
+   rm rf conftest
+   shutrdyes
+ else
+  echo configure failed program was 
+  cat conftestacext 
+   rm rf conftest
+   shutrdno
+ fi
+rm f conftest
+
+rm f conftest
+        
+ fi
+ 
+   
+ 
+ 
+ echo acn checking for socket in lsocket acc 
+echo configure checking for socket in lsocket 
+echo configure checking for socket in lsocket 
+ aclibvarecho socketsocket  sed yp
+ if eval test echo accvlibaclibvarset  set then
+   echo acn cached acc 
+   
+   acsavelibslibs
+ libslsocket  libs
+ cat  conftestacext eof
+line  configure
+line  configure
+ include confdefsh
+  override any gcc internal prototype to avoid an error  
+  we use char because int might match the return type of a gcc
+   
+ socket
+  return  
+ eof
+if  eval echo configure aclink  eval aclink    test s conftestacexeext then
+if  eval echo configure aclink  eval aclink    test s conftestacexeext then
+   rm rf conftest
+   eval accvlibaclibvaryes
+ else
+   
+ fi
+ 
+ echo acn checking for connect in linet acc 
+echo configure checking for connect in linet 
+echo configure checking for connect in linet 
+ aclibvarecho inetconnect  sed yp
+ if eval test echo accvlibaclibvarset  set then
+   echo acn cached acc 
+   
+   acsavelibslibs
+ libslinet  libs
+ cat  conftestacext eof
+line  configure
+line  configure
+ include confdefsh
+  override any gcc internal prototype to avoid an error  
+  we use char because int might match the return type of a gcc
+   
+ connect
+  return  
+ eof
+if  eval echo configure aclink  eval aclink    test s conftestacexeext then
+if  eval echo configure aclink  eval aclink    test s conftestacexeext then
+   rm rf conftest
+   eval accvlibaclibvaryes
+ else
+   
+ fi
+ 
+ echo acn checking for taccept in lnsl acc 
+echo configure checking for taccept in lnsl 
+echo configure checking for taccept in lnsl 
+ aclibvarecho nsltaccept  sed yp
+ if eval test echo accvlibaclibvarset  set then
+   echo acn cached acc 
+   
+   acsavelibslibs
+ libslnsl  libs
+ cat  conftestacext eof
+line  configure
+line  configure
+ include confdefsh
+  override any gcc internal prototype to avoid an error  
+  we use char because int might match the return type of a gcc
+   
+ taccept
+  return  
+ eof
+if  eval echo configure aclink  eval aclink    test s conftestacexeext then
+if  eval echo configure aclink  eval aclink    test s conftestacexeext then
+   rm rf conftest
+   eval accvlibaclibvaryes
+ else
+   
+ fi
+ 
+ echo acn checking for dlopen in ldl acc 
+echo configure checking for dlopen in ldl 
+echo configure checking for dlopen in ldl 
+ aclibvarecho dldlopen  sed yp
+ if eval test echo accvlibaclibvarset  set then
+   echo acn cached acc 
+   
+   acsavelibslibs
+ libsldl  libs
+ cat  conftestacext eof
+line  configure
+line  configure
+ include confdefsh
+  override any gcc internal prototype to avoid an error  
+  we use char because int might match the return type of a gcc
+   
+ dlopen
+  return  
+ eof
+if  eval echo configure aclink  eval aclink    test s conftestacexeext then
+if  eval echo configure aclink  eval aclink    test s conftestacexeext then
+   rm rf conftest
+   eval accvlibaclibvaryes
+ else
+   
+ for acfunc in socket strdup strtod strtol snprintf shutdown
+ do
+ echo acn checking for acfunc acc 
+echo configure checking for acfunc 
+echo configure checking for acfunc 
+ if eval test echo accvfuncacfuncset  set then
+   echo acn cached acc 
+ else
+   cat  conftestacext eof
+line  configure
+line  configure
+ include confdefsh
+  system header to define stub macros and hopefully few prototypes
+     which can conflict with char acfunc below  
+   
+ 
+  return  
+ eof
+if  eval echo configure aclink  eval aclink    test s conftestacexeext then
+if  eval echo configure aclink  eval aclink    test s conftestacexeext then
+   rm rf conftest
+   eval accvfuncacfuncyes
+ else
+   
+ 
+ 
+ echo acn checking for herrno acc 
+echo configure checking for herrno 
+echo configure checking for herrno 
+ if eval test echo herrnoset  set then
+   echo acn cached acc 
+ else
+   
+                 cat  conftestacext eof
+line  configure
+line  configure
+ include confdefsh
+ include netdbh
+ int main 
+ printf d herrno return 
+  return  
+ eof
+if  eval echo configure accompile  eval accompile   then
+if  eval echo configure accompile  eval accompile   then
+   rm rf conftest
+   herrnoyes
+ else
+   
+ 
+ 
+ echo acn checking for optarg acc 
+echo configure checking for optarg 
+echo configure checking for optarg 
+ if eval test echo haveoptargset  set then
+   echo acn cached acc 
+ else
+   
+                 cat  conftestacext eof
+line  configure
+line  configure
+ include confdefsh
+ include getopth
+ int main 
+ if optarg  char  l  return   return 
+  return  
+ eof
+if  eval echo configure accompile  eval accompile   then
+if  eval echo configure accompile  eval accompile   then
+   rm rf conftest
+   haveoptargyes
+ else
+   
+ 
+ 
+ echo acn checking for inaddrt acc 
+echo configure checking for inaddrt 
+echo configure checking for inaddrt 
+ if eval test echo inaddrtset  set then
+   echo acn cached acc 
+ else
+   
+                 cat  conftestacext eof
+line  configure
+line  configure
+ include confdefsh
+include systypesh
+ include netinetinh
+ int main 
+ inaddrt foo return 
+  return  
+ eof
+if  eval echo configure accompile  eval accompile   then
+if  eval echo configure accompile  eval accompile   then
+   rm rf conftest
+   inaddrtyes
+ else
+   
+ echo actinaddrt 
+ if test inaddrt  no  then
+   echo acn checking for inaddrt acc 
+echo configure checking for inaddrt 
+echo configure checking for inaddrt 
+ if eval test echo accvtypeinaddrtset  set then
+   echo acn cached acc 
+ else
+   cat  conftestacext eof
+line  configure
+line  configure
+ include confdefsh
+ include systypesh
+ if stdcheaders
+   
+ 
+ 
+ echo acn checking for inaddrnone acc 
+echo configure checking for inaddrnone 
+echo configure checking for inaddrnone 
+ if eval test echo haveinaddrnoneset  set then
+   echo acn cached acc 
+ else
+   
+                 cat  conftestacext eof
+line  configure
+line  configure
+ include confdefsh
+include systypesh
+ include netinetinh
+ int main 
+ inaddrt foo  inaddrnone return 
+  return  
+ eof
+if  eval echo configure accompile  eval accompile   then
+if  eval echo configure accompile  eval accompile   then
+   rm rf conftest
+   haveinaddrnoneyes
+ else
+   
+ 
+ 
+ echo acn checking for exmax acc 
+echo configure checking for exmax 
+echo configure checking for exmax 
+ if eval test echo haveexmaxset  set then
+   echo acn cached acc 
+ else
+   
+                 cat  conftestacext eof
+line  configure
+line  configure
+ include confdefsh
+ifdef havesysexitsh
+include sysexitsh
+endif
+ include errnoh
+ int main 
+ int foo  exmax return 
+  return  
+ eof
+if  eval echo configure accompile  eval accompile   then
+if  eval echo configure accompile  eval accompile   then
+   rm rf conftest
+   haveexmaxyes
+ else
+
+index configurein
+
+rcs file cvsrootspamassassinspamassassinconfigureinv
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ configurein	 aug   	
+ configurein	 aug   	
+   
+ 
+ accachecheckfor shutrd
+        shutrd 
+                 acegrepheadershutrd syssocketh
+                actrycompileinclude systypesh
+include syssocketh
+                        printf d shutrd return 
+                                         shutrdyes
+                                        shutrdno
+                                        shutrdno
+        
+ if test shutrd  yes  then
+   acdefinehaveshutrd
+   
+ 
+ accachecheckfor inaddrt
+         inaddrt 
+                actrycompileinclude netinetinh
+                actrycompileinclude systypesh
+include netinetinh
+                         inaddrt foo return 
+                                         inaddrtyes
+                                         inaddrtno
+   
+ 
+ accachecheckfor inaddrnone
+         haveinaddrnone 
+                actrycompileinclude netinetinh
+                actrycompileinclude systypesh
+include netinetinh
+                         inaddrt foo  inaddrnone return 
+                                         haveinaddrnoneyes
+                                         haveinaddrnoneno
+   
+ 
+ accachecheckfor exmax
+         haveexmax 
+                actrycompileinclude errnoh
+                actrycompileifdef havesysexitsh
+include sysexitsh
+endif
+include errnoh
+                         int foo  exmax return 
+                                         haveexmaxyes
+                                         haveexmaxno
+
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassincommits mailing list
+spamassassincommitslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassincommits
+

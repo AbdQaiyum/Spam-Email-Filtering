@@ -1,0 +1,46 @@
+html
+head
+titleuntitled documenttitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+
+body bgcolor text
+table width border cellspacing cellpadding
+  tr 
+    tda hrefhttpwwwforeclosureworldnetindexhtmimg srchttpwwwforeclosuretrainingcomhtmlemailfwbluebluefwheadergif width height borderatd
+  tr
+  tr 
+    td alignleft valigntop 
+      table width border cellspacing cellpadding
+        tr 
+          td alignleft valigntopa hrefhttpwwwforeclosureworldnetindexhtmimg srchttpwwwforeclosuretrainingcomhtmlemailfwbluebluefwpanelgif width height borderatd
+          tda hrefhttpwwwforeclosureworldnetindexhtmimg srchttpwwwforeclosuretrainingcomhtmlemailfwbluesplashimagesgif width height borderatd
+        tr
+      table
+    td
+  tr
+table
+ul
+  lili
+ul
+body
+html
+
+brbr
+table aligncenter border width cellspacing cellpaddingtrtd
+to unsubscribe or change subscriber options click
+a hrefhttpwwwawebercomzrzawstewmjjwmziwmclick hereabrbr
+tdtrtable
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

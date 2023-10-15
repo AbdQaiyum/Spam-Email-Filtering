@@ -1,0 +1,126 @@
+doctype html public wcdtd html  transitionalen
+htmlhead
+meta contenttexthtml charsetiso httpequivcontenttype
+meta contentmshtml  namegenerator
+stylestyle
+head
+body bgcolorffffff
+divfont facearial size
+table aligncenter width
+  tbody
+  tr
+    td
+      table width
+        tbody
+        tr
+            tdnbsptd
+          td alignmiddlefont facearial sizebmajor medical 
+            breakthroughbrhuge profit potentialbfonttdtrtbodytable
+      p alignjustifyfont facearialimagine yourself as part owner of the 
+      most interesting full service stateoftheart medical facility equipped 
+      with the most sophisticated and effective scanning diagnostic tools 
+      available todayfontp
+      p alignjustifyfont facearialelectron beam tomography is a 
+      cuttingedge diagnostic technology capable of providing a 
+      crystalballlike look into your medical future this technology has been 
+      featured on oprah larry king good morning america and usa 
+      todayfontp
+      p alignjustifyfont facearialebt scans are now covered by most health 
+      insurance companies and hmos causing an explosion in usership and 
+      exceptionally high demand for this procedurefontp
+      p alignjustifyfont facearialebt can identify heart disease years 
+      before a treadmill test would show an abnormality and many years before a 
+      heart attack might occurfontp
+      p alignjustifyfont faceariala tremendous improvement upon standard 
+      computerized tomography also known as ct or cat scan electron beam 
+      tomography provides images of a beating heart up to  times faster and 
+      clearer than other conventional scannersfontp
+      p alignjustifyfont facearialthe dramatic capabilities of this 
+      spectacular technology should provide an extraordinary investment 
+      opportunity for those establishing stateoftheart outpatient clinics in 
+      order to provide the ebt body scan procedures to health conscious 
+      americans projected year return of fontp
+      p alignjustifyfont faceariala fullbody scan using this technology 
+      can also be used to detect osteoporosis aneurisms emphysema gallstones 
+      hiatal hernia degenerative spine conditions as well as cancer of the 
+      lungs liver kidneys and colonfontp
+      p alignjustifyfont facearialimagine being instrumental in bringing 
+      the most revolutionary diagnostic and preventative medical device to the 
+      marketplacefontp
+      p alignjustifyfont facearialk minimum investment required 
+      serious inquiries onlyfontp
+      pfont facearialto recieve your free video fill out this form
+      centerform methodpost actionmailtopedrospanksphantasmocom
+              center
+                table
+                  tr 
+                    td 
+                      pfont facearial helvetica sansserifnamefontp
+                    td
+                    td 
+                      input typetext namename size
+                    td
+                  tr
+                  tr 
+                    td 
+                      pfont facearial helvetica sansserifphone numberbr
+                        including area codefontp
+                    td
+                    td valignmiddle 
+                      input typetext namephone size
+                    td
+                  tr
+                  tr 
+                    td 
+                      pfont facearial helvetica sansserifmailing addressfontp
+                    td
+                    td 
+                      input typetext namemailingaddress size
+                    td
+                  tr
+                  tr 
+                    td 
+                      pfont facearial helvetica sansserifprovince  
+                        statefontp
+                    td
+                    td 
+                      input typetext nameprovince size
+                    td
+                  tr
+                  tr 
+                    td height 
+                      pfont facearial helvetica sansserifpostal codefontp
+                    td
+                    td height 
+                      input typetext namepostalcode size
+                    td
+                  tr
+                  tr 
+                    td 
+                      pfont facearial helvetica sansseriffontp
+                    td
+                    tdnbsptd
+                  tr
+                  tr 
+                    td 
+                      pfont facearial helvetica sansserifemail addressfontp
+                    td
+                    td 
+                      input typetext nameemail size
+                    td
+                  tr
+                  tr 
+                    tdfont facearial helvetica sansseriffonttd
+                    tdnbsptd
+                  tr
+                table
+                br
+                input typesubmit value      ok       namesubmit
+              center
+            form
+        brbrbrfont sizeto be removed from this list please reply with unsubscribe  thank youfontcenterfonttdtrtbodytablefontdivbodyhtml
+
+
+httpxentcommailmanlistinfofork
+
+

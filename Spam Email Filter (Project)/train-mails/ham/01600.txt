@@ -1,0 +1,39 @@
+i just installed razor  on a freebsd release box and having
+problems with razorcheck  any time razorcheck is run with or without
+arguments i get this error
+
+cant use an undefined value as a symbol reference at
+usrlocallibperlsiteperlifreebsdrazorclientagentpm
+line 
+
+razoradmin runs just fine and the make test before the install was all
+ok
+
+has anyone seen this before
+
+module versions
+digesthmac
+digestmd
+digestnilsimsa
+digestsha
+mimebase
+netdns
+testsimple
+timehires
+uri
+
+
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

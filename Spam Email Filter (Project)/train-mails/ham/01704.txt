@@ -1,0 +1,79 @@
+ tp  tim peters timonecomcastnet writes
+
+  tp jeremy hylton
+   the total collections are  messages  i trained with 
+   messages
+
+  tp im reading this now as that you trained on about  spam and
+  tp about  ham  thats less than  of the sizes of the
+  tp training sets ive been using  please try an experiment train
+  tp on  of each and test once against the other  of each
+
+this helps a lot  here are results with the stock tokenizer
+
+training on mbox homejeremymailinbox   mbox homejeremymailspam 
+   hams   spams
+        
+         
+         
+training on mbox homejeremymailinbox   mbox homejeremymailspam 
+   hams   spams
+         
+         
+         
+training on mbox homejeremymailinbox   mbox homejeremymailspam 
+   hams   spams
+         
+         
+         
+training on mbox homejeremymailinbox   mbox homejeremymailspam 
+   hams   spams
+         
+         
+         
+total false pos  
+total false neg  
+
+and results from the tokenizer that looks at all headers except date
+received and xfrom
+
+training on mbox homejeremymailinbox   mbox homejeremymailspam 
+   hams   spams
+         
+         
+         
+training on mbox homejeremymailinbox   mbox homejeremymailspam 
+   hams   spams
+         
+         
+         
+training on mbox homejeremymailinbox   mbox homejeremymailspam 
+   hams   spams
+         
+         
+         
+training on mbox homejeremymailinbox   mbox homejeremymailspam 
+   hams   spams
+         
+         
+         
+total false pos  
+total false neg  
+
+is it safe to conclude that avoiding any cleverness with headers is a
+good thing
+
+  tp do that a few times making a random split each time it wont be
+  tp long until you discover why directories of individual files are
+  tp a lot easier to work  eg randomshuffle makes this kind
+  tp of thing trivial for me
+
+you havent looked at mboxtestpy have you  im using
+randomshuffle too  you dont need to have many files to make an
+arbitrary selection of messages from an mbox
+
+ill report some more results when theyre done
+
+jeremy
+
+

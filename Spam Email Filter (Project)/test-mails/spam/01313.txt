@@ -1,0 +1,123 @@
+
+bad msg
+
+pam  start spamassassin results 
+spam this mail is probably spam  the original message has been altered
+spam so you can recognise or block similar unwanted mail in future
+spam see httpspamassassinorgtag for more details
+spam 
+spam content analysis details    hits  required
+spam searchenginepromo  points  body discusses search engine listings
+spam html          points  body message is  html tags
+spam reallyunsafejavascript  points  body autoexecuting javascript code
+spam superlongline      points  body contains a line  characters long
+spam ctypejusthtml     points  htmlonly mail with no text version
+spam prioritynoname    points  message has priority setting but no xmailer
+spam msgidaddedbymta  points  messageid was added by a relay 
+spam awl                 points awl autowhitelist adjustment
+spam 
+html
+head
+titletitle
+meta httpequivcontenttype contenttexthtml charsetiso
+style typetextcss
+stbtm 
+	backgroundcolorcecbde borderbottom be px solid borderleft ffffff px solid borderright be px solid bordertop ffffff px solid color  fontsize pt height px width px clip        rect   
+stedit 
+	 backgroundcolorc whitespace nowrap border  borderbottom ffffff px solid borderleft ffffff px solid borderright ffffff px solid bordertop ffffff px solid fontsize pt color cccccc fontweight bold
+
+style
+head
+body leftmargin onload topmargin marginheight marginwidth bgcolorffffff
+  
+table width border cellspacing cellpadding
+  tr
+      
+    td height widthnbsptd
+      
+    td height colspan width 
+      table width border cellspacing cellpadding alignleft
+        tr 
+            
+          td width height 
+            table width border cellspacing cellpadding backgroundhttpimageseekercenternetletterbgjpg height
+                tr 
+                  
+                tdp 
+                  font facearial size
+                  font font facearial sizefont faceverdana arial helvetica sansserif colorhellobr
+                  br
+                  i have visited a hrefhttpwwwtaintorgwwwtaintorga and noticed that your website is not listed on some search engines
+                  i am sure that through our service the number of people who visit your website will definitely increase a targetblank hrefhttpwwwseekercenternetindexphpseekercentera 
+                  is a unique technology that instantly submits your website 
+                  to over  search engines and directories  
+                   a really lowcost and effective way to advertise your site 
+                  for more details please go to a targetblank hrefhttpwwwseekercenternetindexphpseekercenternetabr
+                  br
+                  give your website maximum exposure todaybr
+                  looking forward to hearing from youbr
+                  br
+                  table border widthtrtd width
+                  font faceverdana arial helvetica sansserif size colorbest 
+                  regardsbr
+                  vanessa lintnerbr
+                  sales amp marketing br
+                  a targetblank hrefhttpwwwseekercenternetindexphpwwwseekercenternetafontfontfont
+                  tdtd width
+                   div aligncenter valignmiddle
+                   form targetblank actionhttpwwwseekercenternet methodpost
+                          input typesubmit namesubmit valuesignup now classstbtm
+                   form
+                        div
+                  td
+                  tr
+                  table
+                  td
+                tr
+              table
+            td
+            
+          td width height valignbottom 
+            table width border cellspacing cellpadding
+              
+                tr
+                  td colspan heighttd
+                tr
+                tr 
+                  td colspan height 
+                    
+                  pimg srchttpimageseekercenternetlettertopjpg width heightp
+                    td
+                tr
+                tr 
+                  td colspanimg srchttpimageseekercenternetletterrightjpg width heighta targetblank href httpwwwtaintorgimg src httpimageseekercenternetimageimgjpg border width heightaimg srchttpimageseekercenternetletterleftjpg width heighttd
+                tr
+                
+              tr 
+                td colspan height backgroundhttpimageseekercenternetletterbottomjpg 
+                  table width border cellspacing cellpadding height
+                    tr
+                      td width heightnbsptd
+                      td width heightnbsptd
+                      td width heightnbsptd
+                    tr
+                    tr
+                      td width heightnbsptd
+                      td width heightnbsptd
+                      td width heightnbsptd
+                    tr
+                  table
+                  
+                td
+                tr
+                tr tr
+              table
+            td
+          tr
+        table
+      td
+    tr
+  table
+  body
+html
+

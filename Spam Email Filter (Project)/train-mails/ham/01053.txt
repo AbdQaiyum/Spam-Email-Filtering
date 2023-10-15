@@ -1,0 +1,109 @@
+
+boundaryoyoxhtvatxrsy
+contenttype textplain
+  charsetiso
+contenttransferencoding quotedprintable
+
+hi
+
+i made a spec file for it some weeks ago maybe it can be included in 
+fresh
+if not  at least you can use it
+
+im attaching it here
+
+hope it might be some use for you does the trick for me might be an old
+
+version though but should still work
+
+nick
+
+
+
+
+on wednesday  september   doug stewart wrote
+ ive noted that there are packaged versions of
+ blackbox and hackedbox available from freshrpms  what
+ about fluxbox httpfluxboxsfnet
+
+ id certainly enjoy a packaged version since its
+ creators seem hesitant to provide rpms debs yes
+ but no rpms
+
+ doug
+
+ 
+ do you yahoo
+ yahoo finance  get realtime stock quotes
+ httpfinanceyahoocom
+
+ 
+ rpmlist mailing list rpmlistfreshrpmsnet
+ httplistsfreshrpmsnetmailmanlistinforpmlist
+
+boundaryoyoxhtvatxrsy
+contenttype textplain
+  charsetiso
+  namefluxboxspec
+contenttransferencoding bit
+contentdisposition attachment filenamefluxboxspec
+
+summary blackbox derived window manager
+name fluxbox
+version 
+release nv
+license other
+group user interfacedesktops
+source httpprdownloadssourceforgenetfluxboxnameversiontargz
+url httpfluxboxsourceforgenet
+buildroot tmppathnameroot
+buildrequires xfreedevel libstdcdevel
+
+description
+
+
+fluxbox is yet another windowmanager for x
+its based on the blackbox  code fluxbox looks like blackbox and 
+handles styles colors window placement and similar thing exactly like 
+blackbox  themestyle compability
+many changes and improvements have been made to the code such as window tabs 
+iconbar native keygrabber gnome and kde support etc
+
+prep
+setup q
+
+
+build
+configure enablexinerama enablegnome enablekde
+make
+
+install
+rm rf buildroot
+makeinstall
+
+clean
+rm rf buildroot
+
+
+files
+defattr root root
+doc readme news copying authors install todo doccodingstyle
+bindir
+datadirname
+mandirman
+
+changelog
+ thu jul   nick verhaegen
+ update to 
+
+ tue jul   nick verhaegen
+ initial rpm release
+
+
+boundaryoyoxhtvatxrsy
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

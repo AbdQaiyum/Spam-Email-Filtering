@@ -1,0 +1,48 @@
+
+ijxijctaitrhr
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on thu sep   at pm  josh hildebrand wrote
+ if thats the case can someone please point me to something that explains
+ how to remove razor from my system  i dont see a point in envoking it
+ especially when it appears to error out on me
+
+ problem while trying to load razor permission denied  at
+ usrlocallibperlsiteperlmailspamassassindnspm line 
+ debug leaving helperapp run mode
+
+rm rf usrlocallibperlsiteperlrazor
+
+youll want to check that path first of course
+
+
+randomly generated tagline
+its a chicken finger device             theo looking at entree
+
+ijxijctaitrhr
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqedwdauoquewasmrasxtajzjezmtsuuiwqmmkzqayuyggcgtc
+iuyxaicdddewovzalk
+wz
+end pgp signature
+
+ijxijctaitrhr
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+

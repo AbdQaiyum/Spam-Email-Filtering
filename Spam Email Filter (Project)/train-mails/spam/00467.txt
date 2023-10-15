@@ -1,0 +1,194 @@
+this is a multipart mime message
+
+ multipart boundary 
+contenttype textplain
+	charsetiso
+contenttransferencoding bit
+
+html
+
+head
+head
+
+body
+
+p aligncenterspan stylefontsizeptfontfamilyarialcolorblackyou
+are receiving this email because you optedin to receive special offers from
+optindeals through one of our marketing partners if you feel you have received
+this email in error or do not wish to receive additional special offers please
+reply to this email with the word quotremovequot in the subject line or
+follow the unsubscribe instructions belowop
+op
+spanp
+pa hrefhttpwwwinkjetruscomcustomerhtmlimg border 
+srchttpwwwinkjetruscomcliparttoperjpg width heighta
+p
+div aligncenter
+  strongfont facearial sizeincredible deals on inkjet cartridges
+fontstrong
+div
+div aligncenter
+  strongfont facearial sizeour prices start as low as font
+strong
+div
+div aligncenter
+  strongfont facearial sizecheck out some of our dealsfontstrong
+div
+div aligncenter
+  nbsp
+div
+div aligncenter
+  a hrefhttpwwwinkjetruscomcustomerhtml
+  img border srchttpwwwinkjetruscomclipartspecsgif width 
+height
+  a
+div
+div aligncenter
+  nbsp
+div
+div aligncenter
+  font facearial sizestrongcheck our web site for all the incredible
+  dealsstrongfont
+div
+div aligncenter
+  nbsp
+div
+div aligncenter
+  a hrefhttpwwwinkjetruscomcustomerhtml
+  img border srchttpwwwinkjetruscomclipartclicknowgif 
+width height
+  a
+div
+div aligncenter
+  nbsp
+div
+div aligncenter
+  strongfont facearialwe have been selling only the best generic printer
+  cartridges for over  years and all of our cartridges come with a  month
+  guaranteefontstrong
+div
+div aligncenter
+  nbsp
+div
+p aligncenternbspfor your best price on cartridges shop at a 
+hrefhttpwwwinkjetruscomcustomerhtml eudoraautourl
+httpwwwinkjetruscomcustomerhtmlap
+p aligncenterspan stylefontsizeptfontfamilyverdanamsobidifont
+familytahoma
+colorblackhow to unsubscribebr
+you received this email because you are registered at one of our web sitesbr
+or at one of our partners sites or are listed in one of several list
+subscriptionsbr
+if you do not want to receive email offers or any email marketing from usbr
+please a hrefmailtoremoveacsmsuppliescomsubjectpleaseremoveme 
+targetblankclick
+hereaspanp
+
+body
+
+html
+
+ multipart boundary 
+contenttype texthtml
+	charsetiso
+contenttransferencoding bit
+
+html
+
+head
+head
+
+body
+
+p aligncenterspan
+stylefontsizeptfontfamilyarialcolorblackyou
+are receiving this email because you optedin to receive special offers from
+optindeals through one of our marketing partners if you feel you have
+received
+this email in error or do not wish to receive additional special offers
+please
+reply to this email with the word quotremovequot in the subject line or
+follow the unsubscribe instructions belowop
+op
+spanp
+pa hrefhttpwwwinkjetruscomcustomerhtmlimg border 
+srchttpwwwinkjetruscomcliparttoperjpg width
+heighta
+p
+div aligncenter
+  strongfont facearial sizeincredible deals on inkjet cartridges
+fontstrong
+div
+div aligncenter
+  strongfont facearial sizeour prices start as low as
+font
+strong
+div
+div aligncenter
+  strongfont facearial sizecheck out some of our
+dealsfontstrong
+div
+div aligncenter
+  nbsp
+div
+div aligncenter
+  a hrefhttpwwwinkjetruscomcustomerhtml
+  img border srchttpwwwinkjetruscomclipartspecsgif
+width 
+height
+  a
+div
+div aligncenter
+  nbsp
+div
+div aligncenter
+  font facearial sizestrongcheck our web site for all the
+incredible
+  dealsstrongfont
+div
+div aligncenter
+  nbsp
+div
+div aligncenter
+  a hrefhttpwwwinkjetruscomcustomerhtml
+  img border srchttpwwwinkjetruscomclipartclicknowgif 
+width height
+  a
+div
+div aligncenter
+  nbsp
+div
+div aligncenter
+  strongfont facearialwe have been selling only the best generic
+printer
+  cartridges for over  years and all of our cartridges come with a  month
+  guaranteefontstrong
+div
+div aligncenter
+  nbsp
+div
+p aligncenternbspfor your best price on cartridges shop at a 
+hrefhttpwwwinkjetruscomcustomerhtml eudoraautourl
+httpwwwinkjetruscomcustomerhtmlap
+p aligncenterspan
+stylefontsizeptfontfamilyverdanamsobidifont
+familytahoma
+colorblackhow to unsubscribebr
+you received this email because you are registered at one of our web
+sitesbr
+or at one of our partners sites or are listed in one of several list
+subscriptionsbr
+if you do not want to receive email offers or any email marketing from
+usbr
+please a
+hrefmailtoremoveacsmsuppliescomsubjectpleaseremoveme 
+targetblankclick
+hereaspanp
+
+body
+
+html
+
+ multipart boundary 
+
+

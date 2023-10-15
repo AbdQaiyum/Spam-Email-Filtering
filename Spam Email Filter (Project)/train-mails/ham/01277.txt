@@ -1,0 +1,24 @@
+on mon  oct   
+matthias saou matthiasrpmforgenet wrote
+
+ ive never heard of any cdrom or dvdrom drive having problems with
+ dma although there probably is since red hat decided to default
+ disabling it a few releases back 
+
+when i worked as a pc repair tech for a computer store chain i did
+run across quite a few dvd drives that would lock up if dma was
+enabled  its more of a chipsetdrive problem than a drive by itself
+
+ 
+jesse keating
+jsolutionsnet
+mondo devteam wwwmondorescueorg
+
+was i helpful  let others know
+ httpsvcsafferonetrmphprjkeating
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

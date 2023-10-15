@@ -1,0 +1,60 @@
+ matthias saou matthiasegwnnet wrote
+ as red hat does i really dont recommend trying to upgrade between betas
+ or from a beta to a final release either simply backup your home etc
+ and root andor usrlocal if needed then reinstall cleanly itll
+ probably save a few hassles and youll get the cleanest possible system 
+ 
+ i think this is probably the best way because i think maybe with upgrading you
+ do not always automatically get the latest feature enabled in some config file
+ because rh would rather take it easy and not update that config file you get a
+ rpmnew instead of rpmsaved file so they get less calls to support that way
+
+if you dislike red hat why use it  this was a really bad argument 
+against using red hat that makes no sense at all  i for one am glad that 
+they 
+a dont overwrite your config files on a whim be glad they dont do some 
+sort of autodetection and changing crap
+b tell you on rpm upgrade what config files you should look at because 
+formats have changed
+
+red hat is not taking it easy on this its putting control in the hands 
+of you the maintainer of the machine  dont be lazy
+
+ anyway i have tons of media files in home probably  to  gigs at least my
+ laptops cdrom takes mb at a time obviously and compressing media files is
+ dumb because they are already compressed dumb question how to backup huge data
+ network backup to another box i do not have a box with a tape drive but maybe box
+ with a large hd with much free space could take the backup oops i do not have a
+ space computer with a large hd with much free space
+
+you dont need to backup home if you are careful enough  you did put 
+home on a separate partition no  just install rh and tell it to use 
+the same partition as home and tell it to not format it but keep the 
+data as is
+
+if you didnt put home on a separate partition then you really do need 
+to make backups  use an nfs or smb mount from another machine to backup 
+and rsync straight to the mount or if thats not possible rsync over 
+ssh  its the best way to make backups
+
+ these media files are backed up  on the cds they came from 
+
+its the other way around  your media files are backups of the cds they 
+came from 
+
+good luck
+thomas
+ 
+
+the davedina project  future tv today   httpdavedinaapestaartorg
+                      
+you know the shape my breath will take before i let it out
+ thomasapestaartorg 
+urgent the best radio on the internet     httpurgentrugacbe
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

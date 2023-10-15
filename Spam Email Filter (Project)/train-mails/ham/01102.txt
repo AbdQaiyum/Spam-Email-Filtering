@@ -1,0 +1,32 @@
+on thu feb   at am  peter peltonen wrote
+ about aptconf there are these lines
+ snip
+ rpm 
+ 
+     leave list empty to disable
+    allowedduppkgs kernel kernelsmp kernelenterprise 
+    holdpkgs kernelsource kernelheaders 
+ 
+ snip
+ 
+ how do i tell apt hold all kernel packages can i use syntax like 
+ kernel  
+ 
+ and i dont quite understand what the part kernel means
+
+you could read about regular expressions
+kernel matches kernel and nothimg more
+kerne kernelsmp and kernelenterprise are the kernel packages you
+might be running in a rh system packages like kernelheaders
+kernelboot and kerneldoc arent matched if it just said kernel it
+would match all those packages
+
+ 
+you were good with that recorder nokkahuilu
+soitit hyvin sit mankkaa
+	 suomennos men behaving badly
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

@@ -1,0 +1,128 @@
+this is a multipart message in mime format
+
+nextpartrfkindysadvnqwnerasdf
+contenttype textplain charsetiso
+contenttransferencoding quotedprintable
+
+httpwwwrebackeecomcursoscontraloriahtm
+
+nextpartrfkindysadvnqwnerasdf
+contenttype texthtml charsetiso
+contenttransferencoding quotedprintable
+contentbase httpwwwrebackeecomcursos
+contentlocation httpwwwrebackeecomcursos
+
+html
+headbase hrefdhttpwwwrebackeecomcursos
+titleuntitled documenttitle
+meta httpequivdcontenttype contentdtexthtml charsetdiso
+head
+
+body bgcolordffffff textd
+div aligndcenter  pfont sizedbfont colord sized facedarial helvetica sansserifquality    training de meacutexicofontbfont sized facedarial helvetica sansserif    lo invita al extraordinario seminario que tendraacute lugar en bfont colordvillahermosafontbfont colord    btabascobfont los font colordbdiacuteas  y  de    agosto de bfontfontfontp
+  hr
+  pimg srcdwwwimagesjuliocontraloriajpg widthd heightd
+  hr
+  div aligndleft    pfont sized facedarial helvetica sansserifeste es un seminario      sobre los maacutes efectivos conceptos y maneras concretas para mejorar      la funcioacuten de contraloriacutea y gerencia administrativaiquest      que medidas debe tomar para enfrentar la falta de liquidez reduccioacuten      de ventas aumento en los costos conflictos laboralesiquest coacutemo      anticiparse a un colapso en la empresa  fontp
+    p font sized facedarial helvetica sansserifbfont colordiexcliexcl      no espere a que sea demasiado tarde fontbfontp
+    pfont sized facedarial helvetica sansserifse discutiraacute      ampliamente sobre la situacioacuten actual de las empresas en eacutepocas      de crisis iquestque estaacuten haciendo para salir adelante asiacute      como estrategias contables actuales pronoacutesticos de presupuestos      modelos abc y otras alternativas de flujo de informacioacuten como controles      y cumplimientos informacioacuten administrativa reportes de gasto creacutedito      y cobranza anaacutelisis financiero y personal aspectos claves dentro      del programa fontp
+    pfont sized facedarial helvetica sansserif colordb      como organizar su aacuterea y hacerla altamente competitivabfontp
+    pbfont sized facedarial helvetica sansserif colord      renueve su manera de utilizar los informes financierosfontbp
+    pbfont sized facedarial helvetica sansserif colord      predictores de quiebraacciones inmediatas a considerar br
+      br
+       casos histoacutericosfontbp
+    pfont sized facedarial helvetica sansserifbr
+      br
+      font facedtimes new roman times serif sizedbfont sized facedarial helvetica sansserif colordiexcliexclla      importancia de capacitarse con los liacutederes fontbfont sized facedarial helvetica sansserif colordbr
+      br
+      bexperiencia calidad y eacutexitobbr
+      br
+      quality training de meacutexico le ofrece los maacutes aclamados consultores      y seminarios ejecutivos disponibles en el mercadocon los temas de mayor      impacto en las empresasfontfontfontp
+    pfont sized facedarial helvetica sansserifsony de meacutexico      hewlett packard casa cuervo cerveceriacutea modelo pemex mexicana      molex y maacutes de  empresas en meacutexico y latinoameacuterica      conocen nuestros exclusivos programas de capacitacioacutenfontp
+    pfont sized facedarial helvetica sansseriffont facedtimes new roman times serif sizedfont sized facedarial helvetica sansserif colordbr
+      bfont colordiexcl un experto estaraacute con usted en este      seminario fontbfontfontbr
+      font p
+    pfont sized facedarial helvetica sansserifbr
+      font sized colordbfont sized colordtemariofontbfontbr
+      br
+      font colordb el nuevo papel del gerente administrativo en      las empresas modernasbfontbr
+       funciones responsabilidades y resultadosbr
+       trampas en la planeacioacutenbr
+       el plan de contingenciafontp
+    pfont sized facedarial helvetica sansserifbfont colord      la gerencia administrativa y el anaacutelisis de procesos poliacuteticas      y procedimientos para controlar las operaciones de su empresafontbbr
+       conocimiento de la empresa base para el anaacutelisis de procesosbr
+       establecimiento de planes de operacioacutenfont p
+    pfont sized facedarial helvetica sansserif anaacutelisis de      funciones baacutesicas abastecimientos produccioacuten ventas recursos      humanosbr
+       bases para implementar poliacuteticas y procedimientosfont p
+    pfont sized facedarial helvetica sansserifbfont colord      control y administracioacuten de ingresos el creacutedito y la cobranzafontbbr
+       organizacioacuten del departamento de creacutedito y su manual de      poliacuteticas y procedimientosbr
+       determinacioacuten de poliacuteticas de apertura y autorizacioacuten      de creacuteditobr
+       gestioacuten de cobranzabr
+       concentracioacuten de fondos cobranza electroacutenica y factorajefontp
+    pfont sized facedarial helvetica sansserifbfont colord      control de costos en la empresafontbbr
+       los costos en la administracioacuten empresarialbr
+       reduccioacuten de costos  alcances br
+       presupuestos de costosbr
+       control de rentabilidad y costosfontp
+    pfont sized facedarial helvetica sansserifbfont colord      renueve su manera de utilizar informes financierosfontbbr
+       problemas en la manera de elaborar informes financierosbr
+       tipos usos y elementos en los informesbr
+       criterios para los informes importancia relevancia prontitud y presentacioacuten      fontp
+    pfont sized facedarial helvetica sansserifbfont colord      reportes financieros para evaluar la productividadfontbbr
+       herramientas de diagnoacutestico del resultado financierobr
+       valor econoacutemico agregado eva como herramienta para medir la productividadbr
+       enlace entre la estrategia global de la empresa y la informacioacuten      financiera y administrativabr
+       informacioacuten para medir y mejorar la competitividad ventajas y      desventajas competitivasbr
+       concepto de los gapsfontp
+    pfont facedarial helvetica sansserifbr
+      br
+      font colordbfont sizedprogramafontbbr
+      font sizedb y  de agosto de bfontfontbr
+      horario  a  y de  a  hrsbr
+      br
+      font colord sizedbincluyebfontbr
+      font colordinformacioacuten estrateacutegica material de      trabajo reconocimiento con valor oficial coffee break y la exposicioacuten      de un prestigiado consultorfontbr
+      br
+      font colord sizedbforma de inscripcioacutenbfontbr
+       llenar debidamente la solicitud de inscripcioacutenbr
+      br
+       cheque a nombre de bquality training corporation scbbr
+      br
+       depoacutesito en bbanamex cuenta   sucursal b centro      financiero paseo br
+      br
+       enviar por fax la ficha de su depoacutesito selladabr
+      br
+       debido al cupo limitado uacutenicamente se garantizaraacuten las      inscripciones en el orden en que efectuaron su pagofontp
+    div
+  div aligndleft
+    pbfont facedarial helvetica sansserif colord sizedinversioacuten        fontbfont facedarial helvetica sansserif colord sizedmas      ivafontp
+    pfont facedarial helvetica sansserif sized colordbfont sizedpronto      pago  fontb mas ivafont font facedarial helvetica sansserif sized colordantes      del  de julio de font p
+    pfont facedarial helvetica sansserif sized colordbfont colordinformes      e inscripciones font sized    fontfontbfont colord      con  liacuteneasfontfontphr
+    p aligndcenterimg srcdwwwimagesjuliobotondesolicituddeinscripcionjpg widthd heightd usemapdmap borderd      map namedmap
+        area shapedrect coordsd hrefdvillahermosasolhtm
+      map
+    p
+    hr
+    pfont facedarial helvetica sansserif si usted no desea recibir mas      emails sobre nuestros exclusivos programas de capacitacioacuten o prefiere      que lo enteremos por otro medio favor de hacernos llegar sus comentarios      a a hrefdmailtovillahermosabajasrebackeecomvillahermosabajasrebackeecomafontp
+    pfont facedarial helvetica sansserifif you dont want to receive      our information write us an electronic mail indicating it to fontfont facedarial helvetica sansserifa hrefdmailtovillahermosabajasrebackeecomvillahermosabajasrebackeecomafontbr
+    p
+    pnbspp
+    pbfont colord sized facedarial helvetica sansserifiexcliexcliexcl      solicite mayor informacioacuten de nuestros exclusivos programas fontbp
+    pfont sized facedarial helvetica sansserif colordbquality      training de meacutexicobfontp
+    pfont sized facedarial helvetica sansserifdireccioacuten de      proyectos villahermosabr
+      conmutador       con  liacuteneasfontfont sized facedarial helvetica sansserifbr
+      a hrefdmailtovillahermosarebackeecomvillahermosarebackeecomabr
+      font colorda hrefdhttpwwwrebackeecomwwwrebackeecomafontbr
+      fontfont facedarial helvetica sansserifbr
+      font p
+    div
+div
+body
+html
+
+nextpartrfkindysadvnqwnerasdf
+
+to unsubscribe send mail to majordomowirelessorgau
+with unsubscribe melbwireless in the body of the message
+
+

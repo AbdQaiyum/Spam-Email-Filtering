@@ -1,0 +1,30 @@
+once upon a time peter wrote 
+
+ i started wondering how does apt react when it finds a newer kernel in
+ the bunch of to be updated files
+
+it skips it see the etcaptaptconf file for this
+
+ and has anyone ever tried to do a distupgrade say from  to  
+ should it work if not why
+
+ive done a distupgrade from  to a quite broken rawhide release it
+was a mess still it went much faster and smoother than if i had done it
+manually with rpm u or f i think that updates between stable releases
+should still be done with the installer since iirc sometimes a few
+twitches are done by anaconda to migrate configurations to new formats it
+should work though i still prefer backuping config files and
+reinstalling a clean system when i have the time
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

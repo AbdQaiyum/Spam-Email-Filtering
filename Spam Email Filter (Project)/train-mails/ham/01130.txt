@@ -1,0 +1,78 @@
+exmhp
+contenttype textplain charsetusascii
+
+ from  scott lipcon slipconmerceanet
+ date  mon  sep   
+
+ oops  turns out i wasnt careful installing it so the exmhlibrary
+ variable was pointing at my old installation  im surprised it worked
+ as well as it did
+ 
+ in any case i removed the old library directory and edited exmh
+ exmhbg exmhstrip etc to point at the right one  now im getting
+ another traceback on startup
+ 
+ cant read mhprivpubseqfamilycur no such variable
+     while executing
+ mhseq folder seq add mhprivpubseqfolderseq mhseqexpand
+ folder msgids
+     procedure mhreadseqs line 
+     invoked from within
+ mhreadseqs folder seqs
+     procedure mhsequences line 
+     invoked from within
+ mhsequences folder
+     procedure flistunseenupdate line 
+     invoked from within
+ flistunseenupdate folder
+     procedure folderchange line 
+     invoked from within
+ folderchange family msgshow cur
+     invoked from within
+ time list  folderchange folder msgshowproc
+     procedure folderchange line 
+     invoked from within
+ folderchange exmhfolder
+     procedure exmh line 
+     invoked from within
+ exmh
+     after script
+ 
+ 
+ family is the folder i was in when i quit exmh
+
+that shouldnt have been able to happen but ive just made the code slightly 
+more bullet proof
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqejykbhriuirajoajtoakejhiecvekoqceinj
+nvtrcjdwirgvwarzzkqk
+wtav
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

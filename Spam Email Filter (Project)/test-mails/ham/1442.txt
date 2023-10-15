@@ -1,0 +1,21 @@
+ok guys  i reckon its now good enough modulo some minor score
+tweaking or commenting of some more brokenhighfping rules
+
+what do you all think  are we ready to go  anyone run into any trouble
+with the new autoconf code or found a bug from the merge of that spamc
+bsmtpsupport patch
+
+i expect there will be a  btw
+
+j
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+

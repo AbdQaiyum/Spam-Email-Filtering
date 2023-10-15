@@ -1,0 +1,57 @@
+exmhp
+contenttype textplain charsetusascii
+
+ from  anders eriksson aerikssonfastmailfm
+ date  tue  aug   
+
+ just one more info i measured the time spent wrapping the stuff in 
+ ftocnext with time  so the data is for real one difference 
+ between mine and valdis setup judging from his trace is that i use 
+ the address book ive been doing that for ages so that cant be the 
+ problem
+
+assuming its my fault which it probably is since nobody else has really been 
+in there its most likely related to the number of sequences in a folder  
+id guess that something is either being called that shouldnt be or is being 
+called more times than it should be
+
+ is there a way to get the log to print time with higher granularity
+
+not that im aware of  if you look in the code there are various places 
+where the time function is called in order to see how long it took to do 
+things  youll probably want to borrow that technique
+
+chris
+
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqeaqvkbhriuirakzrajucznjjlaqhdeeovbmzlsatqwcdgoz
+gypxymprraajkwhrwmm
+fgbe
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

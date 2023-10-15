@@ -1,0 +1,41 @@
+this is my netscape  review
+
+o they finally got the email search speed back up to
+   where it was in x
+o setting up user mail accounts doesnt have that really
+   odd sometimes it lets me sometimes it doesnt problem that
+   previous versions had
+o i still have to manually update all my address books by
+   hand but at least it lets me import them as netscape x
+   address books theres not x import as they just assume
+   it workswhich it doesnt
+o the mail filters are still broken and have the same problem that
+   ive tried to report since  where you cant store a mail
+   filter of the type age in days is greater than  or some number
+   gawd id really wish theyd fix that freakin bug its the single
+   biggest annoyance that i have with netscape as its one of the
+   most effective antispam tools that i have
+o webex doesnt support netscape  and the plugin doesnt
+   work which causes problems when you want to use webex to
+   work on something with someone remotely
+
+ive given up trying to report bugs and any changes to the
+source i send always get lost
+
+greg
+
+
+ 
+gregory alan bolcer cto   work 
+gbolcer at endeavorscom   httpendeavorscom
+endeavors technology inc cell 
+
+
+
+
+
+
+
+
+
+

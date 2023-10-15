@@ -1,0 +1,57 @@
+thanks for this im going to give them another try  one question how
+do i switch between digital out and analog out with alsa  with
+emuktools its easy enough emuconfig d for digital emuconfig a
+for analog  is there a similar method with alsa
+
+lance
+
+on wed  at  matthias saou wrote
+ followup to the story 
+ 
+ ive now made a subpackage of alsadriver called alsakernel which
+ contains only the kernel modules and alsadriver contains everything else
+ from the original package device entries include files and docs
+ 
+ this should allow installation of a single alsadriver package and
+ multiple alsakernel if you have more than one kernel installed right
+ now the dependencies make it mandatory to have kernels installed through
+ rpm people who install from source can still install the alsa modules
+ from the source though 
+ 
+ the devices are there now thank gordon for reporting the problem and as i
+ said you were the only one any further comments are very welcome
+ 
+ download  httpftpfreshrpmsnetpubfreshrpmstestingalsa
+ new spec  httpfreshrpmsnetbuildsalsadriveralsadriverspec
+ 
+ if you arent running kernel for i simply rebuild the
+ alsadriver source rpm and youll get a package for your running kernel
+ 
+ matthias
+ 
+  
+ clean custom red hat linux rpm packages  httpfreshrpmsnet
+ red hat linux release  valhalla running linux kernel 
+ load     ac online battery charging  
+ 
+ 
+ rpmlist mailing list rpmlistfreshrpmsnet
+ httplistsfreshrpmsnetmailmanlistinforpmlist
+ 
+
+ linux one stanza tip lost 
+
+sub  finding out files larger than given size       lost 
+
+to find out all files in a dir over a given size try
+find pathtodiroffile type f size nk
+where n is a number like  for mb and multiples thereof 
+
+discussions on lih   jul 
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

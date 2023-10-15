@@ -1,0 +1,56 @@
+
+yclugpppggzosl
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on thu sep   at pm  eugene chiu wrote
+ razor check skipped bad file descriptor insecure dependency in open whi
+le runn
+ ing setuid at usrlocallibperlsiteperlrazorclientconfigp
+m line
+  gen line 
+ from infoznioncom  thu sep    
+  subject spam computer maintenance
+   folder homeeugenecaughtspam                                        
+  
+
+it looks like youre running via procmail  what are the permissions
+on procmail  insecure dependency screams im in taint mode which
+is a typical problem when procmail is setuidsetgid the permissions
+should be 
+
+if this is in fact the problem an easy solution is to put dropprivsdyes
+in the procmailrc 
+
+
+randomly generated tagline
+the bus had no heat blew over in the wind and used the drivers legs
+ as its first line of defense in an accident  unknown about the vw bus
+
+yclugpppggzosl
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqedcauoquewasmrahasajaxnypfikigxostaulojwgcgnb
+hpwiusxyeaqfgebzmgc
+acu
+end pgp signature
+
+yclugpppggzosl
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

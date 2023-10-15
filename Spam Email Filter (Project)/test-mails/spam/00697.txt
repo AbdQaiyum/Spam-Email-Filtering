@@ -1,0 +1,141 @@
+
+doctype html public wcdtd html  transitionalen
+html
+body bgcolorffffff marginwidth marginheight topmargin leftmargin
+center
+table width cellspacing cellpadding border
+tr
+td
+table cellspacing cellpadding border
+tr
+tda hrefhttpwwwdivlcomindexasplcidimg srchttpwwwdivlcomimagestopflaggif width height borderatd
+tdimg srchttpwwwdivlcomimagesmailtopbluegif width height bordertd
+tr
+table
+td
+tr
+tr
+td
+table cellspacing cellpadding border
+tr
+tda hrefhttpwwwdivlcomapplicationasplcidimg srchttpwwwdivlcomimagesbtnapplygif width height borderatd
+tda hrefhttpwwwdivlcomgeneralasplcidimg srchttpwwwdivlcomimagesbtnrequirementsgif width height borderatd
+tda hrefhttpwwwdivlcomfaqasplcidimg srchttpwwwdivlcomimagesbtnfaqgif width height borderatd
+tdimg srchttpwwwdivlcomimagesmailtopredgif width height bordertd
+tr
+tr
+td colspanimg srchttpwwwdivlcomimagestransgif width height bordertd
+tr
+table
+td
+tr
+tr
+td
+table width cellspacing cellpadding border
+tr
+td bgcolor
+table bgcolorffffff width height cellspacing border
+tr
+td valigntop
+table cellspacing cellpadding border
+tr
+tdimg srchttpwwwdivlcomimagesmaillangspacergif width heighttd
+tda hrefhttpwwwdivlcomindexasplcidimg srchttpwwwdivlcomimagesmaillangengif width height borderatd
+tda hrefhttpwwwdivlcomindexasplcidimg srchttpwwwdivlcomimagesmaillangesgif width height borderatd
+tda hrefhttpwwwdivlcomindexasplcidimg srchttpwwwdivlcomimagesmaillangdegif width height borderatd
+tda hrefhttpwwwdivlcomindexasplcidimg srchttpwwwdivlcomimagesmaillangitgif width height borderatd
+tda hrefhttpwwwdivlcomindexasplcidimg srchttpwwwdivlcomimagesmaillangfrgif width height borderatd
+tda hrefhttpwwwdivlcomindexasplcidimg srchttpwwwdivlcomimagesmaillangsegif width height borderatd
+tda hrefhttpwwwdivlcomindexasplcidimg srchttpwwwdivlcomimagesmaillangdkgif width height borderatd
+tdimg srchttpwwwdivlcomimagesmaillangspacergif width heighttd
+tr
+table
+table cellspacing cellpadding border
+tr
+td rowspanimg srchttpwwwdivlcomimagestransgif width heighttd
+td colspanimg srchttpwwwdivlcomimagestransgif width heighttd
+tr
+tr
+td width valigntop
+font faceverdana arial helvetica size color
+img srchttpwwwdivlcomimagesmailtxtwingif width height border
+br
+a hrefhttpwwwdivlcomapplicationasplcidimg srchttpwwwdivlcomimagesbtnapplytodaygif width height bordera
+brbr
+img srchttpwwwdivlcomimagestxttheofficialgif width height borderbr
+the united states has a program called diversity immigrant visa
+lottery better known as the green card lottery making available
+each year by random selection  permanent residence visas
+green cards to people from around the world the objective of the
+program is to issue green cards to individuals born in countries with
+historically low levels of immigration to the united states
+brbr
+img srchttpwwwdivlcomimagestxtwhatisgif width height borderbr
+a green card is a permanent residence visa of the usa a green card
+will give you legal right to work and live permanently in the united
+states green card holders receive health education and several other
+benefits if you win a green card you can apply for us citizenship at
+a later time the green card does not affect your present citizenship
+you and your family could be lucky winners
+brbr
+a hrefhttpwwwdivlcomapplicationasplcidimg srchttpwwwdivlcomimagesbtnapplytodaygif width height bordera
+font
+td
+td width
+img srchttpwwwdivlcomimagestransgif width height border
+td
+td width valigntop
+img srchttpwwwdivlcomimagesmailhappypeoplegif width height border
+td
+tr
+tr
+td colspan
+img srchttpwwwdivlcomtransviewaspcid width height border
+td
+tr
+table
+td
+tr
+table
+td
+tr
+table
+td
+tr
+tr
+td aligncenter
+table width cellspacing cellpadding border
+tr
+td
+font faceverdana arial helvetica size color
+brbr
+your email address was obtained from a purchased list reference    if you wish to unsubscribe
+from this list please a hrefhttpwwwdivlcomunsubscribeaspcidclick herea
+if you have previously unsubscribed and are still receiving this message you may email our
+a hrefmailtonospamwsyahoocomsubjectabuse reportabuse control centera or call 
+or write us at nospam  coral way miami fl brbr
+brbr
+font
+td
+tr
+table
+td
+tr
+table
+center
+body
+html
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

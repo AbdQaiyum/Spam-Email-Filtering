@@ -1,0 +1,24 @@
+ id prefer to strip html tags from everything but last time i tried
+ that it still had bad effects on the error rates in my corpora
+
+your corpora are biased in this respect though  newsgroups have a
+strong social taboo on posting html but in many peoples personal
+inboxes it is quite abundant
+
+getting a good ham corpus may prove to be a bigger hurdle than i
+though  my own saved mail doesnt reflect what i receive since i
+save and throw away selectively much more so than in the past 
+
+    multipartmixed
+        textplain        brief text plus urls
+        texthtml         long html copied from website
+ 
+ ah  that explains why the html tags didnt get stripped  id again
+ offer to add an optional argument to tokenize so that theyd get
+ stripped here too but if it gets glossed over a third time that
+ would feel too much like a loss wink
+
+ill bite  sounds like a good idea to strip the html in this case
+id like to see how this improves the fp rate on this corpus
+
+guido van rossum home page httpwwwpythonorgguido

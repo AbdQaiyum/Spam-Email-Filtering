@@ -1,0 +1,53 @@
+
+ they werent partitioned in any particular scheme  i think ill write a
+ reshuffler and move them all around just in case fwiw im using mh 
+ style folders with numbered files  means you can just use mh tools to 
+ manipulate the sets
+
+freak show obviously there was some sort of patterns to the data
+
+training on datahamset  dataspamset   hams   spams
+         
+         
+         
+         
+training on datahamset  dataspamset   hams   spams
+         
+         
+         
+         
+training on datahamset  dataspamset   hams   spams
+         
+         
+         
+         
+training on datahamset  dataspamset   hams   spams
+         
+         
+         
+         
+training on datahamset  dataspamset   hams   spams
+         
+         
+         
+         
+total false pos  
+total false neg  
+
+before the shuffle i was seeing
+total false pos  
+total false neg  
+
+
+for sake of comparision heres what i see for partitioned into  sets
+
+training on datahamset  dataspamset   hams   spams
+         
+training on datahamset  dataspamset   hams   spams
+         
+total false pos  
+total false neg  
+
+more later
+
+anthony

@@ -1,0 +1,408 @@
+meta httpequivdcontenttype contentdtexthtmlcharsetdiso
+
+doctype html public wcdtd html  transitionalen
+html xmlnsvdurnschemasmicrosoftcomvml
+xmlnsodurnschemasmicrosoftcomofficeoffice
+xmlnswdurnschemasmicrosoftcomofficeword
+xmlnsdhttpwwwworgtrrechtml
+
+head
+meta httpequivdcontenttype contentdtexthtml charsetdiso
+
+meta namedprogid contentdworddocument
+meta namedgenerator contentdmicrosoft word 
+meta namedoriginator contentdmicrosoft word 
+link reldfilelist hrefdalarmsnewhoursfilesfilelistxml
+titlealarms new hours htmtitle
+if gte mso xml
+ odocumentproperties
+  oauthortgsweloauthor
+  olastauthortgswelolastauthor
+  orevisionorevision
+  ototaltimeototaltime
+  ocreatedtzocreated
+  olastsavedtzolastsaved
+  opagesopages
+  owordsowords
+  ocharactersocharacters
+  ocompanywcsocompany
+  olinesolines
+  oparagraphsoparagraphs
+  ocharacterswithspacesocharacterswithspaces
+  oversionoversion
+ odocumentproperties
+xmlendif
+style
+
+  style definitions 
+pmsonormal limsonormal divmsonormal
+	msostyleparent
+	marginin
+	marginbottompt
+	msopaginationwidoworphan
+	fontsizept
+	fontfamilytimes new roman
+	msofareastfontfamilytimes new roman
+p
+	fontsizept
+	fontfamilytimes new roman
+	msofareastfontfamilytimes new roman
+page section
+	sizein in
+	marginin in in in
+	msoheadermarginin
+	msofootermarginin
+	msopapersource
+divsection
+	pagesection
+
+style
+if gte mso xml
+ oshapedefaults vextdedit spidmaxd
+xmlendifif gte mso xml
+ oshapelayout vextdedit
+  oidmap vextdedit datad
+ oshapelayoutxmlendif
+head
+
+body bgcolordwhite langdenus styledtabintervalin
+
+div classdsection
+
+p classdmsonormalnbspp
+
+div aligndcenter
+
+table borderd cellspacingd cellpaddingd widthd bgcolord
+e
+ styledwidthmsocellspacinginbackgroundemsopaddinga
+lt
+ in in in in
+ tr
+  td widthd styledwidthpaddingin in in in
+  p aligndcenter styledtextaligncenterbspan styledfontsiz
+ept
+  fontfamilyarialcolorredus homeownersspanbp
+  p aligndcenter styledtextaligncenterbspan styledfontsiz
+ept
+  colorwhitecall today to qualify for spanbp
+  p aligndcenter styledtextaligncenterbspan styledfontsiz
+ept
+  colorwhitea free home security systemspanbp
+  p aligndcenter styledtextaligncenterbspan styledfontsiz
+ept
+  colorredspanbp
+  pnbspp
+  td
+ tr
+table
+
+div
+
+p classdmsonormal aligndcenter styledtextaligncenterspan
+styledcolorblackdisplaynonemsohideallif supportemptyparas
+nbspendifopopspanp
+
+div aligndcenter
+
+table borderd cellspacingd cellpaddingd widthd styledw
+idth
+ msocellspacinginmsopaddingaltin in in in
+ tr
+  td widthd styledwidthbackgroundepaddingin i
+n in in
+  p classdmsonormalnbspp
+  td
+  td widthd styledwidthpaddingin in in in
+  p aligndcenter styledtextaligncenterbspan styledfontfam
+ilyarial
+  colorbcfeamericas most trustedspanb p
+  p aligndcenter styledtextaligncenterbspan styledfontfam
+ilyarial
+  colorbcfesecurity system spanbp
+  p aligndcenter styledtextaligncenterbspan styledfontfam
+ilyarial
+  colorbcfethe most spanbp
+  p aligndcenter styledtextaligncenterbspan styledfontfam
+ilyarial
+  colorbcfecomprehensive spanbp
+  p aligndcenter styledtextaligncenterbspan styledfontfam
+ilyarial
+  colorbcfesecurity package spanbp
+  p aligndcenter styledtextaligncenterbspan styledfontfam
+ilyarial
+  colorbcfeever offered freespanbp
+  td
+  td widthd styledwidthpaddingin in in in
+  p aligndcenter styledtextaligncenternbspp
+  p aligndcenter styledtextaligncenterbspan styledfontsiz
+ept
+  fontfamilyarialover  spanbp
+  p aligndcenter styledtextaligncenterbspan styledfontsiz
+ept
+  fontfamilyarialfamilies made spanbp
+  p aligndcenter styledtextaligncenterbspan styledfontsiz
+ept
+  fontfamilyarialthe right spanbp
+  p aligndcenter styledmarginbottompttextaligncenterbs
+pan
+  styledfontsizeptfontfamilyarialchoicespanbp
+  td
+ tr
+table
+
+div
+
+p classdmsonormal aligndcenter styledtextaligncenterspan
+styledcolorblackdisplaynonemsohideallif supportemptyparas
+nbspendifopopspanp
+
+div aligndcenter
+
+table borderd cellspacingd cellpaddingd widthd styledw
+idth
+ msocellspacinginmsopaddingaltin in in in
+ tr
+  td widthd styledwidthbackgroundepaddingin i
+n in in
+  p classdmsonormalnbspp
+  td
+  td widthd styledwidthpaddingin in in in
+  p aligndcenter styledtextaligncenternbspp
+  pbspan styledfontsizeptfontfamilyarialcolorei
+n these
+  troubled times your familys safety is more important than ever span
+bspan
+  styledfontsizeptfontfamilyarialcolorblackdefend your fam
+ily
+  against the threat of home invasion and forced entry make sure youre
+  prepared to get help in the event of an emergency spanbspan
+  styledfontsizeptfontfamilyarialcoloretake advantag
+e of
+  the following special offerspanbp
+  pspan styledfontsizeptfontfamilyarialfor a limited time
+ you
+  can receive our strongspan styledcolorehome security syst
+em spanstrongthe
+  most comprehensive home security package ever offeredstrongspan
+  styledcolore for freenbsp you must call the toll free num
+ber
+  below to qualify for this special offerspanstrongspanp
+  pbspan styledfontsizeptfontfamilyarialcolorey
+ou
+  dont have to be a victimspan styledmsospacerun yesnbsp spa
+nspanbspan
+  styledfontsizeptfontfamilyarialintelligent homeowners are
+  awakening to one undeniable fact studies show burglars will commit crim
+es
+  somewhere else when confronted with a monitored security systemnbspou
+r
+  home security system provides ultimate protection for your family and ho
+me
+  hours each and every day the bad guys will have to go elsewhere to f
+ind
+  their victimspanp
+  pbspan styledfontsizeptfontfamilyarialcolores
+tateoftheart
+  wireless technology span styledmsospacerun yesnbspspansp
+anbspan
+  styledfontsizeptfontfamilyarialour security system is adva
+nced
+  wireless technology which enables a clean installation in approximately 
+one hour
+  no holes to drill no unsightly wires to runspanp
+  pspan styledfontsizeptfontfamilyarialreplacement parts
+  probably never needed are bspan styledcolorealso free
+spanb
+  with your bspan styledcolorelifetime guaranteed parts
+  replacement warrantyspanb for as long as your home is monitored by
+ our
+  authorized ul listed monitoring facility that tells you the confidence 
+we
+  place in our products qualityspanp
+  pspan styledfontsizeptfontfamilyarialcolorblackwe are
+  absolutely confident our security system spanstrongspan
+  styledfontsizeptfontfamilyarialcoloreprovides the
+  necessary deterrence and detectionspanstrongspan styledfontsi
+ze
+  ptfontfamilyarial your home needs to prove it bspan
+  styledcolorethe company will pay your insurance deductible 
+up to
+  spanb in the unlikely event you suffer a loss from an unwa
+nted
+  intrusionbspan styledcolore you also may be eligible for
+ up to
+   in insurance premium discountsspanbspanp
+  pstrongspan styledfontsizeptfontfamilyarialcolorblack
+to
+  see if you qualify for this exciting offer simply phone the toll free n
+umber
+  below answer a few simple questions andnbsppossibly have your new ho
+me
+  security system installedspanstrong strongspan styledfonts
+ize
+  ptfontfamilyarialcolorblackin your home within  hourssp
+anstrongp
+  td
+ tr
+table
+
+div
+
+p classdmsonormal aligndcenter styledtextaligncenterspan
+styledcolorblackdisplaynonemsohideallif supportemptyparas
+nbspendifopopspanp
+
+div aligndcenter
+
+table borderd cellspacingd cellpaddingd widthd styledw
+idth
+ msocellspacinginmsopaddingaltin in in in
+ tr
+  td widthd styledwidthbackgroundepaddingin i
+n in in
+  p classdmsonormalnbspp
+  td
+  td widthd styledwidthpaddingin in in in
+  p aligndcenter styledtextaligncenterstrongspan styledfon
+tsize
+  ptfontfamilyarialcolorredcall now nbspnbsp spanstr
+ongp
+  p aligndcenter styledtextaligncenterstrongspan styledfon
+tsize
+  ptfontfamilyarialcolorredspanstrongp
+  p aligndcenter styledtextaligncenterstrongspan styledfon
+tsize
+  ptfontfamilyarialcoloreoperators are on duty span
+strongstrongspan
+  styledfontsizeptfontfamilyarialcolorespanstr
+ongstrongspan
+  styledfontsizeptfontfamilyarialcolore am to 
+ pm
+  edt mondayfridayopopspanstrongp
+  p aligndcenter styledtextaligncenterstrongspan styledfon
+tsize
+  ptfontfamilyarialcolore am to  pm edt on satur
+dayopopspanstrongp
+  pif supportemptyparasnbspendifopopp
+  pif supportemptyparasnbspendifopopp
+  td
+ tr
+table
+
+div
+
+p classdmsonormal aligndcenter styledtextaligncenterspan
+styledcolorblackdisplaynonemsohideallif supportemptyparas
+nbspendifopopspanp
+
+div aligndcenter
+
+table borderd cellspacingd cellpaddingd widthd styledw
+idth
+ msocellspacinginmsopaddingaltin in in in
+ tr
+  td widthd styledwidthbackgroundepaddingin i
+n in in
+  p classdmsonormalnbspp
+  td
+  td widthd styledwidthpaddingin in in in
+  p aligndcenter styledtextaligncenterstrongspan styledfon
+tsize
+  ptfontfamilyarialcolorblackyour system will include the follo
+wingspanstrongp
+  pstrongspan styledfontsizeptfontfamilyarialcolorred
+spanstrongstrongspan
+  styledfontsizeptfontfamilyarialcolorblack no connection 
+fee spanstrongstrongspan
+  styledfontsizeptfontfamilyarialcolorredspanstrong
+strongspan
+  styledfontsizeptfontfamilyarialcolorblack  doorswindo
+ws
+  protected spanstrongstrongspan styledfontsizeptfontf
+amily
+  arialcolorred spanstrongstrongspan styledfontsize
+pt
+  fontfamilyarialcolorblacklifetime warranty spanstrongstrong
+span
+  styledfontsizeptfontfamilyarialcolorred spanstrong
+strongspan
+  styledfontsizeptfontfamilyarialcolorblackwirelessno dri
+lling
+  no mess spanstrongstrongspan styledfontsizeptfontfam
+ily
+  arialcolorredspanstrongstrongspan styledfontsizep
+t
+  fontfamilyarialcolorblackyou own the system spanstrongstro
+ngspan
+  styledfontsizeptfontfamilyarialcolorredspanstrong
+strongspan
+  styledfontsizeptfontfamilyarialcolorblackpages you when 
+the
+  kids get home spanstrongstrongspan styledfontsizept
+  fontfamilyarialcolorredspanstrongstrongspan styledfon
+tsize
+  ptfontfamilyarialcolorblackrechargeable battery backup span
+strongstrongspan
+  styledfontsizeptfontfamilyarialcolorred spanstrong
+strongspan
+  styledfontsizeptfontfamilyarialcolorblackyard signs and 
+window
+  decalsspanstrongp
+  pstrongspan styledfontsizeptfontfamilyarialcolorblack
+remembernbsp
+  the system is free and could save you as much as  on your homeowners
+  insurancenbsp this is a spanstrongstrongspan styledfonts
+ize
+  ptfontfamilyarialcolornavylimited time offerspanstrong
+strongspan
+  styledfontsizeptfontfamilyarialcolorblack so call now t
+o
+  qualify for your spanstrongstrongspan styledfontsizept
+
+  fontfamilyarialcolorredfree home security systemspanstrong
+p
+  p aligndcenter styledtextaligncenterstrongspan styledfon
+tsize
+  ptfontfamilyarialcolorredcall today spanstrongp
+  p aligndcenter styledtextaligncenterstrongspan styledfon
+tsize
+  ptfontfamilyarialcolorespanstrongstrongspan
+  styledfontsizeptfontfamilyarialcolorespanstr
+ongstrongspan
+  styledfontsizeptfontfamilyarialcolore am to 
+ pm
+  edt mondayfridayopopspanstrongp
+  p aligndcenter styledtextaligncenterstrongspan styledfon
+tsize
+  ptfontfamilyarialcolore am to  pm edt on satur
+dayopopspanstrongp
+  p aligndcenter styledtextaligncenterif supportemptyparas
+nbspendifopopp
+  p aligndcenter styledtextaligncenterstrongspan styledfon
+tsize
+  ptfontfamilyarialcolorredspanstrongp
+  p aligndcenter styledtextaligncenterstrongspan styledfon
+tsize
+  ptfontfamilyarialcolorgrayto be removed from future mailings
+  click reply typenbspremove as your subject and sendspanstr
+ongstrongspan
+  styledfontsizeptfontfamilyarialcolorrednbspnbspspa
+nstrongp
+  td
+ tr
+table
+
+div
+
+p classdmsonormalif supportemptyparasnbspendifopop
+p
+
+div
+
+body
+
+html
+
+
+

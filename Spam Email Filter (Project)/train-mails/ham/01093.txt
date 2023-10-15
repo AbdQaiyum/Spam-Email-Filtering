@@ -1,0 +1,34 @@
+two issues
+
+snip
+sorry but the following packages have unmet dependencies
+  openssh depends openssl  a but b is installed
+  phppgsql depends postgresql but it is not installed
+             depends libpqso
+e unmet dependencies try using f
+snip
+
+ i have the following openssl packages installed
+
+snip
+opensslperlb
+opensslb
+opensslaa
+openssldevelb
+snip
+
+the openssla package should provide the openssla compatibility 
+but apt doesnt think so 
+
+ i have postgresql installed from the source so thats why i need 
+phppgsql is there a way to tell apt about packages i dont want it to 
+complain about
+
+ 
+peter
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

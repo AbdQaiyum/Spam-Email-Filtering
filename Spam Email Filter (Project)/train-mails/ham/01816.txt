@@ -1,0 +1,44 @@
+use perl daily newsletter
+
+in this issue
+     security hole found in the safe module
+
+
+ security hole found in the safe module                             
+   posted by rafael on sunday october   modules          
+   httpuseperlorgarticleplsid              
+
+
+rafael writes a security hole has been discovered in safepm when a
+safe compartment has already been used theres no guarantee that its
+safe any longer because theres a way for code executed within the safe
+compartment to alter its operation mask thus programs that use a safe
+compartment only once arent affected by this bug read below for the
+fixes
+
+this story continues at
+    httpuseperlorgarticleplsid
+
+discuss this story at
+    httpuseperlorgcommentsplsid
+
+links
+     httpuseperlorgrafael
+
+
+
+copyright  pudge  all rights reserved
+
+
+
+
+you have received this message because you subscribed to it
+on use perl  to stop receiving this and other
+messages from use perl or to add more messages
+or change your preferences please go to your user page
+
+	httpuseperlorgmymessages
+
+you can log in and change your preferences from there
+
+

@@ -1,0 +1,11 @@
+
+    anthony they werent partitioned in any particular scheme  i think
+    anthony ill write a reshuffler and move them all around 
+
+hmmm   how about you create empty datahamset stuff all your
+files into a datahamreservoir folder then run the rebalpy script to
+randomly parcel messages out to the various real directories
+
+i suspect you can pull the same stunt for your dataspam stuff
+
+skip

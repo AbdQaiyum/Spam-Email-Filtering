@@ -1,0 +1,68 @@
+i know this is simple but do you have usrsrclinux and
+usrsrclinux symlinked to your kernel source directory  also is
+there a config in usrsrcyourkernelsourceconfig  
+
+on fri  at  ben liblit wrote
+ i am trying to rebuild the recently posted alsa driver package for my 
+ kernel  although i run red hat  i am not using a red hat kernel 
+ package my kernel is lovingly downloaded configured and built by 
+ hand  call me old fashioned
+ 
+ sadly the rpm rebuild fails part way through
+ 
+       rpm rebuild alsadriverrcfrsrcrpm
+ 
+      gcc dalsabuild dkernel dmodule 
+      iusrsrcredhatbuildalsadriverrcinclude 
+      ilibmodulesbuildinclude o 
+      mpreferredstackboundary marchi dlinux wall 
+      wstrictprototypes fomitframepointer pipe   dexportsymtab 
+      c soundc
+ 
+      soundc sndhackusbsetinterface undeclared here not in a 
+      function
+ 
+      soundc initializer element is not constant
+ 
+      soundc near initialization for 
+      ksymtabsndhackusbsetinterfacevalue
+ 
+      make  soundo error 
+ 
+ the line in question looks like this
+ 
+ 	 usb workaround 
+ 	if linuxversioncode  kernelversion  
+ 	if definedconfigsndusbaudio  
+ 	definedconfigsndusbaudiomodule  
+ 	definedconfigsndusbmidi  
+ 	definedconfigsndusbmidimodule
+  
+ exportsymbolsndhackusbsetinterface
+ 	endif
+ 	endif
+ 
+ any suggestions
+ 
+ 
+ 
+ rpmlist mailing list rpmlistfreshrpmsnet
+ httplistsfreshrpmsnetmailmanlistinforpmlist
+ 
+
+ linux one stanza tip lost 
+
+sub  finding out files larger than given size       lost 
+
+to find out all files in a dir over a given size try
+find pathtodiroffile type f size nk
+where n is a number like  for mb and multiples thereof 
+
+discussions on lih   jul 
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

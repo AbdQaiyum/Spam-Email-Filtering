@@ -1,0 +1,38 @@
+in article etstzdrds you write
+ patrick salsbury writes
+
+  patrick one of the features i really like about exmh is the
+  patrick ability to see which folders have unseen messages in
+  patrick them but recently it seems to have vanished into the
+  patrick bowels of my window manager in a place i cant get
+  patrick to it claims to be running but doesnt appear
+  patrick anywhere onscreen im using enlightenment with a x
+  patrick virtual desktop ive tried dropping it to only 
+  patrick screen no help
+  patrick
+
+this may not helpwork but ive discovered recently that
+altmiddlemouse pops up a list of all of my windows  if i leave
+my mouse on the background it lists altmiddlemouse as display
+task list menu
+
+hth
+
+ bill
+	when i do that it just moves my mouse to the very edge of a window
+probably trying to center it on the offscreen window in question 
+
+	ill have to try it with another window manager and see if i can
+get exmh to put it back inside of sane boundaries i dont have this
+problem with any other windows though just the exmhunseen window
+
+pat
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

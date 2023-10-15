@@ -1,0 +1,16 @@
+when i try to use aptget upgrade
+it wants to install libusb while i got it
+same version
+and all collapse because of this
+
+roi
+
+
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

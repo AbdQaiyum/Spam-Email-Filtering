@@ -1,0 +1,106 @@
+
+vnylrclldrimb
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+for everyones benefitedification regardless of razor usage
+
+jordan
+
+original message
+from internap backbone status reports mailtonocinternapcom
+sent thursday october    am
+to internap backbone status reports
+subject event notification uunet north american backbone problems
+ pdt tix fwd
+
+
+hello
+
+i have just spoken with an uunet technician at  pdt and he was unable
+to provide me with any new information regarding the outage  he did
+confirm that problems had spread beyond the east coast and are now seen
+nationwide through out their network  they are currently working with
+their hardware vendor to try and isolate the issue
+
+a large number of internaps connections to uunet remain shutdown and
+traffic is being routed over alternate providers  the scale of this
+outage is causing a large number of peering points with uunet and other
+providers to be flooded due to the large traffic shifts
+
+if you have problems reaching specific sites please send an email to
+nocinternapcom containing a traceroute and sourcedestination ip
+addresses and we will investigate  if it is possible will will attempt to
+move specific prefixes onto an alternate provider leaving an internap pnap
+if that will provide better performance
+
+regards
+andrew
+
+
+andrew dul                                 network operations center
+internap network services                   email nocinternapcom
+andrewinternapcom                      theinoc
+
+the contents of this email message are confidential and proprietary
+
+ forwarded message 
+date thu  oct    pdt
+from andrew dul andrewinternapcom
+subject event notification uunet north american backbone problems
+    tix
+
+
+uunet is currently experiencing a large number of problems in their north
+american backbone  internap has been aware of these problems since approx
+ pst  most of the problems appear to be concentrated on the east
+coast but we have reports of problems from other geographic regions
+
+this is being tracked under internap ticket  and uunet master ticket
+
+
+uunet currently does not have any eta for a fix for this event
+
+if you have issues reaching a specific site please send an email to
+nocinternapcom with a traceroute showing the path which has a problem
+
+internap has shutdown peerings to uunet is various cities to help reduce
+the number of problems that customers will experience
+
+regards
+andrew
+
+
+andrew dul                                 network operations center
+internap network services                   email nocinternapcom
+andrewinternapcom                      theinoc
+
+the contents of this email message are confidential and proprietary
+
+
+vnylrclldrimb
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+
+iddbqenipwqdavebuorapajwleugdqufihyyyowiaidgcfxd
+moxgkrlqqmzhaywtfl
+esv
+end pgp signature
+
+vnylrclldrimb
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

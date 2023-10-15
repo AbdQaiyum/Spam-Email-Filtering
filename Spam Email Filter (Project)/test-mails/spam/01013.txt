@@ -1,0 +1,218 @@
+html
+    head
+    style typetextcss
+    body  fontsize px fontfamily arial helvetica sansserif 
+    h  margintop px fontweight bold fontsize px marginbottom px fontfamily arial helvetica sansserif 
+	h  margintop px fontweightbold fontsize px marginbottom px fontfamily arial helvetica sansserif  
+	h  margintop px fontweight bold fontsize pxmarginbottom px fontfamily arial helvetica sansserif  
+	td  fontsize px fontfamily arialhelvetica sansserif 
+	p  fontsize px fontfamily arial helvetica sansserif  
+	ahover  color ff  
+	aactive  color ff  
+   	hr  height px 
+	style
+    head
+    body rightmargin leftmargin topmargin marginwidth marginheight
+        
+table width border cellspacing cellpadding
+  tr
+                td
+                    ha nameenah
+                    hwith artprice the world leader in art market information enhance your
+                        website content br
+                        make the most valuable information on artist available to your customers
+                        and get high commissions
+                    h
+                    posez sur votre site la barre de recherche artprice et bnficiez immdiatement
+                    de revenus supplmentairesnbspa hreffren franccedilaisabr
+                    br
+ search artprice 
+                table border idtableen aligncenter cellpadding cellspacing
+        tr 
+          form methodget actionhttpwebartpricecomenartistsearchaspx
+            td a hrefhttpwebartpricecomimg srchttpwebartpricecomimgbartpricegif alignabsmiddle border altartpricea 
+              input typetext namesearcharti size
+              input typesubmit valuesearch this artist stylecursor hand
+              input typehidden namel valueen
+            td
+          form
+        tr
+      table
+ search artprice 
+
+                    hpaying right from the moment the link is available to your visitors
+                        
+                         search artprice 
+                    h
+                    table width border cellspacing cellpadding aligncenter
+                        tr
+                            td
+                                hfont colorffby becoming an artprice affiliate each
+                                        month youll get from  to  in revenue share for all purchases
+                                        at wwwartpricecom by customers coming from your sitefonth
+                            td
+                        tr
+                        tr
+                            td
+                                table width border cellspacing cellpadding bgcolor
+                                    tr bgcoloredfde alignmiddle
+                                        td font sizetotal monthly purchasefonttd
+                                        td font sizecommission ratefonttd
+                                        td font sizemonthly revenue sharefonttd
+                                    tr
+                                    tr bgcolorffff valignbaseline
+                                        td nowrapbfrom usd to usd btd
+                                        td nowrap bgcolorfffbefbbtd
+                                        td nowrap bgcolorfffdebup to usd btd
+                                    tr
+                                    tr bgcolorffff valignbaseline
+                                        td nowrap bgcolorfffaeabfrom usd to usdbtd
+                                        td nowrap bgcolorfffdefont sizebfont sizefontbfonttd
+                                        td nowrap bgcolorffefcebfrom usdfont sizefont
+                                                to usdfont sizefontbtd
+                                    tr
+                                    tr bgcolorffebd valignbaseline
+                                        td nowrap bgcolorfffddbfrom usd to usd b
+                                        td
+                                        td nowrap bgcolorffefcefont sizebfont sizefontbfonttd
+                                        td nowrapbfrom usdfont sizefont sizefontfont
+                                                to usdfont sizefontbtd
+                                    tr
+                                    tr bgcolorffff valignbaseline
+                                        td nowrap bgcolorffefcebover usd  btd
+                                        td nowrap bgcolorfeeba font sizebfont sizefontbfonttd
+                                        td nowrap bgcolorffdfabover usdfont sizefontbtd
+                                    tr
+                                table
+                            td
+                        tr
+                    table
+                    ul
+                        
+        li
+          pmore information on our affiliation programnbspa hrefmailtomarketingartpricecomsubjectaffiliationmarketingartpricecoma 
+            br
+            tel      or    br
+          p
+        li
+                    ul
+                    pa hrefhttplistartmarketcomdefaultaspxeforkxentcomlto be removed from our mailing listap
+                    br
+      br
+      br
+      br
+      br
+      br
+      br
+      br
+      br
+					br
+                    br
+                    a namefraa hrefenin englisha
+                    havec artprice le leader mondial de linformation sur le marcheacute
+                        de lart enrichissez votre contenu en offrant aux visiteurs de votre
+                        site la barre de recherche artistes artprice h
+ search artprice 
+    table border idtablefr aligncenter cellpadding cellspacing
+        tr
+          form methodget actionhttpwebartpricecomfrartistsearchaspx
+		  td
+            a hrefhttpwebartpricecomimg srchttpwebartpricecomimgbartpricegif alignabsmiddle border altartpricea 
+            input typetext namesearcharti size
+            input typesubmit valuechercher cet artiste stylecursor hand
+            input typehidden namel valuefr
+			td
+        form
+                          tr
+                    table
+                    het bnficiez immdiatement de revenus supplmentaires comme dj
+                        des centaines dautres affilis 
+                         search artprice 
+                    h
+                    table width border cellspacing cellpadding aligncenter
+                        tr
+                            td
+                                hfont colorffartprice vous reverse tous les mois de 
+                                          sur les achats effectus par les clients venant de votre site
+                                        fonth
+                            td
+                        tr
+                        tr
+                            td
+                                table width border cellspacing cellpadding bgcolor
+                                    tr bgcoloredfde alignmiddle
+                                        td font sizetranche de ca mensuel htfonttd
+                                        td font sizetaux de reversionfonttd
+                                        td font sizemontant de la reversion mensuellefonttd
+                                    tr
+                                    tr bgcolorffff valignbaseline
+                                        td nowrapbnbspde    eurosbtd
+                                        td nowrap bgcolorfffbefbbtd
+                                        td nowrap bgcolorfffdebjusqu  eurosbtd
+                                    tr
+                                    tr bgcolorffff valignbaseline
+                                        td nowrap bgcolorfffaeabnbspde    eurosbtd
+                                        td nowrap bgcolorfffdefont sizebfont sizefontbfonttd
+                                        td nowrap bgcolorffefcebde font sizefont 
+                                                font sizefont eurosbtd
+                                    tr
+                                    tr bgcolorffebd valignbaseline
+                                        td nowrap bgcolorfffddbnbspde    eurosbtd
+                                        td nowrap bgcolorffefcefont sizebfont sizefontbfonttd
+                                        td nowrapbdefont size font sizefontfont
+                                                 font sizefont eurosbtd
+                                    tr
+                                    tr bgcolorffff valignbaseline
+                                        td nowrap bgcolorffefcebnbspau dessus de   eurosbtd
+                                        td nowrap bgcolorfeeba font sizebfont sizefontbfonttd
+                                        td nowrap bgcolorffdfabplus de font sizefont
+                                                eurosbtd
+                                    tr
+                                table
+                            td
+                        tr
+                    table
+                    ul
+                        li
+                            pplus dinformations sur notre programme daffiliation  a hrefmailtomarketingartpricecomsubjectaffiliation
+                                    marketingartpricecoma br
+                                tl      ou    p
+                        li
+                    ul
+                    pa hrefhttplistartmarketcomdefaultaspxeforkxentcomlse dsinscrireap
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+                        br
+    td
+            tr
+        table
+    body
+html
+
+
+
+httpxentcommailmanlistinfofork
+
+

@@ -1,0 +1,499 @@
+this is a multipart message in mime format
+
+nextpartccdaf
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ if your broker dealer isnt giving you fresh crisp new leads
+ fire them and hire us
+ allmerica financial a system for success	
+ lead generation	
+
+	through established sponsored market programs with cpa firms
+banks credit unions and property and casualty firms youll receive the
+kind of leads you need to grow your client base and meet their longterm
+financial needs 
+
+ marketing  business planning	
+
+	allmerica experts will help you map a strategy for selecting and
+penetrating the right market or markets to grow your practice well
+also give you the ongoing support to make sure that you stay ontarget
+
+ client  advisor services	
+
+	allmerica gives you an edge by providing you with webbased new
+business technology and customer service programs designed for
+responsiveness and convenience 
+
+ ongoing local support	
+
+	your local office will provide proven innovative marketing and
+sales support programs brought to you by your fieldbased associates
+
+investment products and services 	
+ 	brokerage services	  	private money managers	 
+ 	individual securities	  	automatic account rebalancing
+
+ 	mutual funds	  	individual retirement accounts	 
+ 	proprietary and nonproprietary variable and fixed annuities
+asset allocation models and investment planning	 
+ 	wrap programs 	 	 plans	 
+other personal financial services 	
+ 	financial planning 	 	tax planning	 
+ 	retirement planning 	 	comprehensive planning software
+
+ 	education planning 	 	risk management  insurance
+planning	 
+ 	estate planning 	 	 
+business services 	
+ 	business planning 	 	business insurance buysell
+keyperson	 
+ 	business continuation 	 	executive compensation 	
+ 	qualified plans pensions profitsharing k	  	group
+insurance life disability medical etc	 
+ 	
+please fill out the form below for more information	 
+name	  	
+email	  	
+phone	  	
+city	  	state	  	 	
+ 	  	 	   	
+ 
+
+we dont want anybody to receive our mailing who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+
+nextpartccdaf
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlefresh crisp leads from allmerica financialtitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+
+body bgcolordcccccc textd
+p aligndcenter
+  table widthd borderd cellspacingd cellpaddingd 
+bordercolordffffff bgcolordffffff
+    tr
+      td
+        table widthd borderd cellspacingd 
+cellpaddingd heightd bordercolord 
+bgcolordffffff
+          tr
+            td
+              table widthd borderd cellspacingd 
+cellpaddingd
+                tr
+                  td
+                    img 
+srcdhttpiiqusimagesallmericaheadergif widthd 
+heightd altdif your broker dealer isnt giving you fresh 
+crisp new leadsbr
+                    img 
+srcdhttpiiqusimagesallmericaimagejpg widthd 
+heightd altdfire them and hire usbr
+                    img srcdhttpiiqusimagesallmericataggif 
+widthd heightd altdallmerica financial a system for 
+success
+                  td
+                tr
+                tr
+                  tdimg 
+srcdhttpiiqusimagesallmericaleadgif widthd 
+heightd altdlead generationtd
+                tr
+                tr
+                  td
+                    blockquote
+                      pfont facedarial helvetica sansserif 
+sizedthrough
+                        established sponsored market programs with cpa 
+firms
+                        banks credit unions and property and casualty 
+firms
+                        youll receive the kind of leads you need to 
+grow your
+                        client base and meet their longterm financial 
+needs
+                        fontp
+                    blockquote
+                  td
+                tr
+                tr
+                  tdimg 
+srcdhttpiiqusimagesallmericamarketgif widthd 
+heightd altdmarketing  business planningtd
+                tr
+                tr
+                  td
+                    blockquote
+                      pfont facedarial helvetica sansserif 
+sizedallmerica
+                        experts will help you map a strategy for 
+selecting and
+                        penetrating the right market or markets to grow 
+your practice
+                        well also give you the ongoing support to make 
+sure
+                        that you stay ontargetfontp
+                    blockquote
+                  td
+                tr
+                tr
+                  tdimg 
+srcdhttpiiqusimagesallmericaclientgif widthd 
+heightd altdclient  advisor servicestd
+                tr
+                tr
+                  td
+                    blockquote
+                      pfont facedarial helvetica sansserif 
+sizedallmerica
+                        gives you an edge by providing you with 
+webbased new
+                        business technology and customer service 
+programs designed
+                        for responsiveness and convenience fontp
+                    blockquote
+                  td
+                tr
+                tr
+                  tdimg srcdhttpiiqusimagesallmericaongif 
+widthd heightd altdongoing local supporttd
+                tr
+                tr
+                  td
+                    blockquote
+                      pfont sized facedarial helvetica 
+sansserifyour
+                        local office will provide proven innovative 
+marketing
+                        and sales support programs brought to you by 
+your fieldbased
+                        associatesfontp
+                    blockquote
+                  td
+                tr
+              table
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd bordercolord
+          tr
+            td bgcolord aligndcenter
+              font sized facedverdana arial helvetica 
+sansserif colordffffffb
+                investment products and servicesbfont
+            td
+          tr
+        table
+        table widthd borderd cellspacingd
+          tr
+            td widthd aligndrightimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedbrokerage servicesfonttd
+            td widthdimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedprivate money managersfonttd
+          tr
+          tr
+            td widthd aligndrightimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedindividual securitiesfonttd
+            td widthdimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedautomatic account rebalancingfonttd
+          tr
+          tr
+            td widthd aligndrightimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedmutual fundsfonttd
+            td widthdimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedindividual retirement accountsfonttd
+          tr
+          tr
+            td widthd aligndrightimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedproprietary and nonproprietary variable and 
+fixed annuitiesfonttd
+            td widthd valigndtopimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedasset allocation models and investment 
+planningfonttd
+          tr
+          tr
+            td widthd aligndrightimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedwrap programs fonttd
+            td widthdimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sized plansfonttd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd bordercolord
+          tr
+            td bgcolord aligndcenter
+              bfont facedverdana arial helvetica sansserif 
+colordffffff
+                other personal financial servicesfontb
+            td
+          tr
+        table
+        table widthd borderd cellspacingd
+          tr
+            td widthd aligndrightimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedfinancial planning fonttd
+            td widthdimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedtax planningfonttd
+          tr
+          tr
+            td widthd aligndrightimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedretirement planning fonttd
+            td widthdimg 
+srcdhttpimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedcomprehensive planning softwarefonttd
+          tr
+          tr
+            td widthd aligndrightimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizededucation planning fonttd
+            td widthdimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedrisk management amp insurance 
+planningfonttd
+          tr
+          tr
+            td widthd aligndrightimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedestate planning fonttd
+            td colspandnbsptd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd bordercolord
+          tr
+            td bgcolord aligndcenter
+              bfont facedverdana arial helvetica sansserif 
+colordffffff
+                business services fontb
+            td
+          tr
+        table
+        table widthd borderd cellspacingd
+          tr
+            td widthd aligndrightimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedbusiness planning fonttd
+            td widthdimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedbusiness insurance buysell 
+keypersonfonttd
+          tr
+          tr
+            td widthd aligndrightimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedbusiness continuation fonttd
+            td widthdimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedexecutive compensation fonttd
+          tr
+          tr
+            td widthd aligndrightimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedqualified plans pensions profitsharing 
+kfonttd
+            td widthd valigndtopimg 
+srcdhttpiiqusimagesallmericabulletgif widthd 
+heightdtd
+            td widthdfont facedarial helvetica 
+sansserif sizedgroup insurance life disability medical 
+etcfonttd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            tdimg srcdhttpiiqusimagesallmericaphonegif 
+widthd heightd altdtd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td
+              table widthd bgcolordff
+                tr
+                  form methoddpost 
+actiondhttpresponseresponseasp
+                    td
+                      table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordffffff
+                        tr
+                          td colspand aligndcenterfont 
+facedverdana arial helvetica sansserif sizedbplease fill 
+out the form below for more informationbfonttd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizednamefonttd
+                          td colspand
+                            input typedtext namedcontactname 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizedemailfonttd
+                          td colspand
+                            input typedtext namedemail 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizedphonefonttd
+                          td colspand
+                            input typedtext namedphone 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizedcityfonttd
+                          td widthd
+                            input typedtext namedcity 
+sized
+                          td
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif 
+sizedstatefonttd
+                          td widthd
+                            input typedtext namedstate 
+sized
+                          td
+                          td rowspand aligndcenter 
+valigndmiddleimg srcdhttpimagesqgif 
+widthd heightdtd
+                        tr
+                        tr
+                          td widthd aligndrightnbsptd
+                          td widthd
+                            input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          td
+                          td widthd aligndrightnbsptd
+                          td widthd
+                            input typedhidden 
+namedhdnrecipienttxt valuedjaoliverallmericacom
+                            input typedhidden 
+namedhdnsubjecttxt valuedallmerica ad inquiry
+                          td
+                        tr
+                      table
+                    td
+                  input typedhidden namedsentto 
+valued
+form
+                tr
+              table
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td
+              p aligndcenterfont facedverdana arial 
+helvetica sansserif sizedfontfont facedverdana 
+arial helvetica sansserif sizedbr
+                we dont want anybody to receive our mailing who does 
+not wish
+                to receive them this is a professional communication 
+sent to
+                insurance professionals to be removed from this mailing 
+list
+                do not reply to this message instead go here a 
+hrefdhttpwwwinsurancemailnethttpwwwinsurancemailnetabr
+
+                a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafont
+              p
+            td
+          tr
+        table
+      td
+    tr
+  table
+p
+body
+html
+
+nextpartccdaf
+
+

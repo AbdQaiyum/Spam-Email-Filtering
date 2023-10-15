@@ -1,0 +1,121 @@
+url httpdiveintomarkorgarchiveshtmlmygoodeasy
+date t
+
+joe gregorio my next pet project trying to recreate the good 
+easy on a windows machine i have also made halfhearted attempts in 
+this direction as i am forced to use windows during the day i say 
+halfhearted because im still applicationcentric and i dont go as far with 
+keyboard shortcuts as i could but i dont use the desktop at all never have 
+on any system and i dont use ctrl alt keyboard shortcuts because i 
+personally find them awkward ymmv if you must use windows the first step 
+towards a productive system is managing your start menu 
+
+i use the main level of the start menu with numbered shortcuts to my most 
+common programs  control panel  mozilla  emacs  dos 
+home  dos work  dos incoming each of which gives me a command line 
+but in different directories  python  ie also  explorer home 
+ explorer work  explorer incoming which open explorer windows in 
+various useful directories the same directories as the dos shortcuts only 
+with the shift key held down and yes i intentionally set it up so that  went 
+to my work folder lessused programs are taken out of their useless submenus 
+as installed and moved directly into the programs submenu and given unique 
+first letters as needed adaware excel im netscape  
+paint shop pro query tool odbc vmware word all other 
+submenus except startup are removed from the programs menu yes delete 
+accessories do you honestly ever use it if so its probably a sign of a 
+larger productivity problem things which never need to be run manually like 
+winzip and quicktime are removed from the programs menu maintaining a clean 
+programs menu is an ongoing struggle but well worth it 
+
+on most modern keyboards there is a key next to your left alt key that opens 
+the start menu which you can press with your left thumb without taking your 
+fingers off the home keys otherwise ctrl esc always works menu  gives me a 
+new command prompt in my work directory menu p n runs netscape  for 
+compatibility testing in my day job ugh mozilla and emacs are almost always 
+open but i quit lesserused applications as soon as im done using them 
+mostly because my laptop doesnt have a lot of memory 
+
+i install cygwin so that the command line is actually useful cygwin is a 
+collection of windows ports of all your favorite unix utilities including mv 
+cp scp ssh man tar less grep patch ncftp cvs and many others and 
+bash which i dont use because i dislike how it handles windows pathnames i 
+also set the properties of my command line shortcuts to set the window size to 
+ x  almost full screen at  x  and screen buffer size to  x 
+ set window position at  x  and dont let the system position the 
+window 
+
+in mozilla i set my home page to aboutblank set internet search to search 
+with google use tabbed browsing open tabs instead of windows in all possible 
+cases always show the tab bar and load links in the background essential for 
+weblog surfing you can ctrl click links to open them in new tabs in the 
+background under scripts  plugins i do not allow scripts to open 
+unrequested windows i turn off the sidebar turn on the site navigation bar 
+delete all preinstalled bookmarks and create two bookmarks one which takes 
+me to my webmail and another which takes me to my internal site search 
+from which i can find all other bookmarks i need 
+
+in internet explorer i set my home page to the page to edit my weblog since 
+thats the only thing i do in internet explorer alt tab back and forth between 
+mozilla and ie is easier than ctrl pguppgdown between tabs within mozilla 
+since textareas in mozilla lose focus when you switch tabs making copying and 
+pasting weblog entries virtually impossible 
+
+i use emacs locally and vi remotely because the default behavior of emacs is 
+so heinous as to render it unusable for instance editing a cgi script named 
+foocgi on a web server with emacs would generate a foocgi backup file which 
+is worldreadable and is sent as plain text to any browser that asks try this 
+sometime on your favorite web site among other things my emacs file which 
+is actually called emacs on windows instructs emacs to store all backup files 
+in a single directory dbackup to treat all xml files as docbook all cgi 
+scripts as python and all sql scripts as plsql to use cygwins bash shell 
+for mxshell to use a single maximized frame with no menubar titled as the 
+name of the current file to show column numbers to accept y and n for 
+yesno questions not to blink not to beep and to close the current file when 
+i press mw i use some weird registry hacks and a hacked notepadexe to get 
+all text files to open in emacs i got this idea from ultraedit my 
+emacs file is my second most backedup possession 
+
+i dont use windows useless directory structure for user home directories on 
+my d drive i have dhome contains directories for my books and other personal 
+projects each under cvs controlalso set as my home directory using the 
+home environment variable dwork contains directories for each work 
+project also under cvs dincoming set as default download directory for 
+all programs that download things and dbackup used by emacs and for 
+temporary storage for instance for storing originals when checking out newly 
+created cvs projects i dont know or care whats where on my c drive 
+
+i have tried many many address books and still store all my contacts email 
+addresses snail mail addresses phone numbers and other vital personal 
+information in a text file called phone stored in dhomephone it is not in 
+any particular format other than being plain text and usually including blank 
+lines between entries i categorize people with simple keywords in parentheses 
+after their name and use mxoccur in emacs to search by keyword this file is 
+my single most backedup possession 
+
+other essential free windows utilities i use in no particular order tweakui
+ cygwin guidescope zonealarm
+
+
+
+  httpbitworkingorgocthtmlx
+  httpwwwwinterspeakcomcolumnshtml
+  httpwwwannoyancesorgexecshowarticle
+  httpwwwmozillaorg
+  httpwwwgnuorgsoftwareemacswindowsntemacshtml
+  httpwwwactivestatecomproductsactivepython
+  httpwwwlavasoftusacom
+  httpwwwopenofficeorg
+  httpsillydogorgnarchive
+ httpgpoulosehomeattnet
+ httpwwwvmwarecom
+ httpwwwopenofficeorg
+ httpwwwcygwincom
+ httpdiveintomarkorgmtmtsearchcgi
+ httpwwwultraeditcomdownloadsindexhtmlnotepad
+     replacing notepad with ultraedit
+ httpwwwmicrosoftcomntworkstationdownloadspowertoysnetworkingnttweakuiasp
+ httpwwwcygwincom
+ httpwwwguidescopecom
+ httpdownloadcomcomhtmlpartzonealarmsubjdlpage
+
+

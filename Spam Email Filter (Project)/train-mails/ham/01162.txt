@@ -1,0 +1,72 @@
+exmhp
+contenttype textplain charsetusascii
+
+ from  anders eriksson aerikssonfastmailfm
+ date  thu  aug   
+
+ 
+ 
+ 
+     just cvs uped and nowadays catchup unseen is extremely slow o
+ n 
+     large  msgs unseen sequences anybody else having this proble
+ m
+    
+    ill take the blame
+    
+    the reason i suspect is that were needlessly reading the sequence
+ s file 
+    multiple times because of other sequences  i need to make the code m
+ uch 
+    smarter about handling that file but first i have a few other fish t
+ o fry in 
+    my rather large patch thats on its way
+    
+   
+   no panic
+   
+   im all for cleaning things up before getting it optimized
+  
+  okay this fix is now checked in
+  
+ im afraid it didnt help it still seems to be slower than  month 
+ ago maybe slightly faster than yeasterday im still seeing an 
+ unseen countdown in the log
+
+okaycatchup unseen is something that i dont use often but i can 
+certainly reproduce this  ill dig into it  its probably simple
+
+chris
+
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqezrakbhriuiraubakcesxzqfirlxhrttwlreqeucacejgm
+ydhaayockvlkywstizlu
+xhoq
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

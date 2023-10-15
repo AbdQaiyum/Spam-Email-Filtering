@@ -1,0 +1,155 @@
+html
+head
+  titlesecured investements
+  title
+head
+bodyfont facedtimes new roman
+p
+center
+table widthd borderd
+  tbody
+  tr
+    td aligndcenterbfont colord sizedearn  i
+nterest on your moneybfontbr
+  font colordff sizedbguaranteedb by the government
+  fontcentertabletbodytrtd
+p
+table widthd borderd
+  tbody
+  tr
+    td aligndcenterfont colord sizedbugovernment s
+ecured tax cerificates provideu
+    ptrtdfontb
+p
+table widthd borderd
+  tbody
+  tr
+    td aligndleftfont colord sized
+lithe highest guaranteed interest returns compared to any other investme
+nt
+lia return up to  times your money backed by government secured prope
+rty
+lisecurity in your investment that the stock market cannot compare to
+lireal estate for pennies on the dollar
+ptabletbodytrtdfontli
+p
+table widthd borderd
+  tbody
+  tr
+    td aligndleftfont colord sizedbamericas largest
+ single source
+  of informationeducation for the government tax industry  celebrating o
+ver
+   years of providing quality leading edge education for the serious en
+trepreneur  investor
+ptabletbodytrtdfontb
+p
+center
+table widthd borderd
+  tbody
+  tr
+    td aligndmiddlefont colord sizedbreceive yourf
+ontbfont colordff sized
+  bfreebfontfont colord sizedb video of bfont 
+colordff sizedinsider secrets of investing
+  in government secured tax certificatesfontbr 
+  font sized colordover  min of inside strategies a 
+ valuefontbtbodytrtable
+br
+p aligndcenter
+table widthd borderd
+  tbody
+  tr
+    td aligndcenterfont colordbfill out the ino oblig
+ationi form below for more information
+    tabletbodytrtdfontbp
+p
+table widthd borderd
+  tbody
+  tr
+    td aligndcenterfont colord sizedrequired input fie
+ldfontfont colordff 
+    sizedfontptdtrtbodytable
+p
+table cellspacingd bordercolordarkd cellpaddingd widthd
+ 
+bordercolorlightdffffcc
+  tbody
+  tr
+    td aligndmiddle
+      form actiondmailtoinbockstgyahoocomsubjectdinvestmentinq
+uiry 
+      methoddpost enctypedtextplain
+      table widthd
+        tbody
+        tr
+          td aligndright widthdfont facedtimes new roman
+ 
+            colord sizednamefont
+            font colordff sizedfonttd
+          tdinput namednametdtr
+        tr
+          td aligndright widthdfont facedtimes new roman
+ 
+            colord sizedstatefont
+            font colordff sizedfonttd
+          tdinput sized namedstatetdtr
+        tr
+          td aligndright widthdfont facedtimes new roman
+ 
+            colord sizedday phonefont
+            font colordff sizedfonttd
+          tdinput namedday phonetdtr
+        tr
+          td aligndright widthdfont facedtimes new roman
+ 
+            colord sizednight phonefonttd
+          tdinput namednight phonetdtr
+	tr
+          td aligndright widthdfont facedtimes new roman
+ 
+            colord sizedbest time to contactfonttd
+          td widthdfont colordselect sized named
+best time to contact 
+              option selectedoption option 
+              valuedmorningmorningoption option valuedafternoona
+fternoonoption 
+              option valuedeveningeveningoption
+              selectfonttdtr
+        tr
+          td aligndright widthdfont facedtimes new roman
+ 
+            colord sizedemail addressfont
+            font colordff sizedfonttd
+          tdinput namedemail addresstdtr
+        tr
+          td widthd
+          div aligndrightfont facedtimes new roman 
+            colord sizedobjectivefontdivtd
+          td widthdfont colordselect sized named
+objective 
+              option selectedoption option 
+              valuedsecuredinvestmentssecured investmentsoption op
+tion valuedbusinessoppbusiness oppoption 
+              option valuednewcareernew careeroptionoption valued
+alloftheaboveall of the aboveoption
+              selectfonttdtrtbodytable
+      pinput typedsubmit valuedsubmit information namedsubmit
+    formptdtrtbodytable
+brbr
+p
+table widthd borderd
+  tbody
+  tr
+    td aligndmiddlefont colord sizedball tax liens and
+ deeds directly support local
+      fire departments police departments schools roads and hospitals
+  thank you for your interest and supportbbr
+      to be removed please  
+      a hrefdmailtodleteeudoramailcomsubjectdremoveinvestmen
+tclick 
+      hereafontfonttdtrtbodytablepcenter
+bodyhtml
+
+
+

@@ -1,0 +1,36 @@
+
+i dont know how one can expect better and more secure code from the
+community when this being a security list some post like this shows
+clearly no knowledge of c
+
+on fri nov   at pm  ali saifullah khan wrote
+ here is a test done on the return of sizes by sizeof using pointers
+ 
+ include iostreamh
+ 
+ int mainvoid 
+  char testbuff
+   
+
+read it like this new array with  elements of type pointer to char
+as a pointer occupies the natural word size  bits or bits no wonder
+you get  sizeofchar   numerofelements
+
+  int len  sizeoftestbuff
+  cout  len  n
+  return 
+ 
+
+ using  int len  sizeofchartestbuff 
+sizeof returns the size of types you can use it with vars and then the
+normal form is sizeof var not sizeofvar but if youre changing the
+type with the var with a cast of course youll get the size of that new
+type
+
+regards
+luciano rocha
+
+ 
+consciousness that annoying time between naps
+
+

@@ -1,0 +1,37 @@
+btw ive been thinking a little about the rpms and other packages
+already the pld guys are distributing  rpms
+
+   perlmailspamassassin
+
+          the perl modules
+
+   spamassassin
+
+          the spamassassin and spamd scripts
+          spamd rcfile etc
+
+   spamassassintools
+
+          masscheck masses directory stuff etc
+          for generating rescore data from corpora
+
+this seems like a good way to do it this way stuff which just needs
+the perl modules doesnt need to require the full rpm be installed
+with rc files in initd etc
+
+its been adopted in the distributed spec file anyway
+
+theo btw whats the eval test you add in the tvd version of the rpm
+
+j
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

@@ -1,0 +1,278 @@
+this is a multipart message in mime format
+
+nextpartaacfbe
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ who do you trust
+ jakes bonafide nonguaranteed ul universal life with ironclad
+guarantees
+
+ guaranteed universal life portfolio	
+ 	 guaranteed death benefit to age 	 
+ 	 single or survivorship options available	 
+ 	 guaranteed return of premium	 
+ 	 death benefit available for ltc	 
+ 	 single premium option for capital 
+ transferrescue plans	 
+ 	 a rated carrier	 
+ 	 
+call or email one of our regional officers today
+
+northeast
+
+mike mcintire mailtomickaolcom 	 southeast
+
+jerry cantrell mailtojmcatlantaaolcom 	 midwest
+
+scott freeman mailtoscottfreemanaolcom 	 west
+
+dick lankow mailtorwlaolcom 	 
+ or 
+
+please fill out the form below for more information	 
+name	  	
+email	  	
+phone	  	
+city	  	state	  	 	
+ 	  	 	   	
+ 
+  
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet 
+
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartaacfbe
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlewho do you trusttitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+font facedarial helvetica sansserif
+table widthd cellpaddingd cellspacingd 
+aligndcenter bgcolordffffff
+  tr
+    td
+      img srcdhttpiiqusimagesachgrpgif 
+widthd heightd altdwho do you trustbr
+      img srcdhttpiiqusimagesachgrpgif 
+widthd heightd altdjakes bonafide nonguaranteed 
+ulimg srcdhttpiiqusimagesachgrpgif 
+widthd heightd altduniversal life with ironclad 
+guaranteesbr
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          td aligndcenterimg 
+srcdhttpiiqusimagesachgrpagif widthd 
+heightd altdguaranteed universal life portfoliotd
+        tr
+        tr
+          td aligndcenter
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                td widthd aligndright heightd 
+valigndmiddleimg 
+srcdhttpiiqusimagesachgrpgif widthd 
+heightdtd
+                td widthdbfont sizednbspguaranteed 
+death benefit to age fontbtd
+              tr
+              tr
+                td widthd aligndright heightd 
+valigndmiddleimg 
+srcdhttpiiqusimagesachgrpgif widthd 
+heightdtd
+                td widthdbfont sizednbspsingle or 
+survivorship options availablefontbtd
+              tr
+              tr
+                td widthd aligndright heightd 
+valigndmiddleimg 
+srcdhttpiiqusimagesachgrpgif widthd 
+heightdtd
+                td widthdbfont sizednbspguaranteed 
+return of premiumfontbtd
+              tr
+              tr
+                td widthd aligndright heightd 
+valigndmiddleimg 
+srcdhttpiiqusimagesachgrpgif widthd 
+heightdtd
+                td widthdbfont sizednbspdeath 
+benefit available for ltcfontbtd
+              tr
+              tr
+                td widthd aligndright heightd 
+valigndtopimg srcdhttpiiqusimagesachgrpgif 
+widthd heightdtd
+                td widthdbfont sizednbspsingle 
+premium option for capital br
+                  nbsptransferrescue plansfontbtd
+              tr
+              tr
+                td widthd aligndright heightd 
+valigndmiddleimg 
+srcdhttpiiqusimagesachgrpgif widthd 
+heightdtd
+                td widthdbfont sizednbspa rated 
+carrierfontbtd
+              tr
+            table
+          td
+        tr
+        tr
+          tdnbsptd
+        tr
+        tr
+          td aligndcenter
+            bfont sizedcall or email one of our regional 
+officers todayfontbbr
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr aligndcenter
+                td widthd heightdbfont 
+colordnortheastfontbr
+                  font sized 
+colordfontbbr
+                  font sizeda 
+hrefdmailtomickaolcommike mcintireafonttd
+                td widthd heightdbfont 
+colordsoutheastfontbr
+                  font sized 
+colordfontbbr
+                  font sizeda 
+hrefdmailtojmcatlantaaolcomjerry cantrellafonttd
+                td widthd heightdbfont 
+colordmidwestfontbr
+                  font sized 
+colordfontbbr
+                  font sizeda 
+hrefdmailtoscottfreemanaolcomscott freemanafonttd
+                td widthd heightdbfont 
+colordwestfontbr
+                  font sized 
+colordfontbbr
+                  font sizeda 
+hrefdmailtorwlaolcomdick lankowafonttd
+              tr
+            table
+          td
+        tr
+        tr
+          td aligndcenterfont sizedb or 
+bfontbr
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont sized colordffffffplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                        td rowspand aligndcenter 
+valigndmiddleimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedscottfreemanaolcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedachievement grp ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            nbsptd
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+font
+body
+html
+
+nextpartaacfbe
+
+

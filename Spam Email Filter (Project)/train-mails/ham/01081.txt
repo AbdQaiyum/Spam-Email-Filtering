@@ -1,0 +1,42 @@
+sorry about that  
+
+didnt think before sending so i didnt realize that replyto was to 
+the list and not to the sender as it usually is 
+
+anyawy i was asking harri if he could point me a few advices on how to 
+build my own apt repositry for rh updates there is a tutorial of somekind 
+at httpaptrpmtuxfamilyorg which im following right now but if 
+there is some other good advices let me know
+
+regards
+peter
+
+
+on mon feb   at pm  peter peltonen wrote
+ on fri feb   at pm  harri haataja wrote
+  i have a local one for the main and upgrades from somewhere plus my own
+  at orkplace
+ 
+ olen ajatellut pystytt itselleni lokaalin aptvaraston kun suomesta ei 
+ tunnu lytyvn julkista peili osaisitko avittaa hiukan asiassa eli 
+ kuinka lhte liikkeelle ensin kannattanee peilata varsinainen rhn rpmt 
+ jostain vaan mill softalla rsync ja mist funet tuo kannattaa 
+ tehd ajatuksia
+ 
+  
+ peter
+ 
+ 
+ 
+ rpmlist mailing list rpmlistfreshrpmsnet
+ httplistsfreshrpmsnetmailmanlistinforpmlist
+ 
+
+ 
+peter
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

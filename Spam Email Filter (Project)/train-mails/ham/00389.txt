@@ -1,0 +1,45 @@
+exmhp
+contenttype textplain charsetusascii
+
+ from  chris garrigues cwgexmhdeepeddycom
+ date  thu  aug   
+
+ okaycatchup unseen is something that i dont use often but i can 
+ certainly reproduce this  ill dig into it  its probably simple
+
+try it now
+
+chris
+
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqezsqkbhriuiratbajlzwvyvrhgosrotodojpjkdwcfusw
+veiluehrayoqtftnpidg
+ao
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

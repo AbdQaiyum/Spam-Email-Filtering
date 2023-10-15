@@ -1,0 +1,30 @@
+once upon a time harri wrote 
+
+  you cant get the file index from here either
+  httpaptnixianoaptfiles
+ 
+ the requested url aptfiles was not found on this server
+
+very strange then  it works fine from here even shiftreloading and with
+no proxy whatsoever
+
+  during the past few days ive experienced connection problems with
+  that site from time to time but for me right now its working
+ 
+ maybe its temporary 
+
+if you need another apt repository with red hat linux  files there are
+a few others see  httpfreshrpmsnetapt
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

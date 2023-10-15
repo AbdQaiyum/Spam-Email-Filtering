@@ -1,0 +1,95 @@
+html
+
+body
+
+font size ptsize
+table height cellspacing cellpadding width border styleborderstyledouble bordercolorffffff bordercollapsecollapse paddingleft paddingright paddingtop paddingbottom bordercolor bordercolorlightffffff bordercolordarkffffff bgcolorffffff
+  tr
+    td width heightnbsptd
+    td valigntop alignleft width height styleborderstyle solid borderwidth 
+    table cellspacing cellpadding width border bgcolorffffff styleborderstyledouble borderwidth bordercollapse collapse bordercolorff
+      tr
+        td valigntop alignright height
+        table cellspacing cellpadding width border
+          tr
+            td bgcolora
+            div aligncenter
+              font faceverdana stylefontsize pt fontweight  colorffffff
+              nbspfontbfont faceverdana colorffffff sizeirs tax 
+              problemsfontbdiv
+            div aligncenter
+              nbspdiv
+            div alignleft
+              font colorffffffspan stylefontweight 
+              font faceverdana stylefontsize ptnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp
+              fontspanfont
+              font colorffffff faceverdana sizenbspnbspnbsp font
+              font colorffffff faceverdana sizeits time tofontdiv
+            div alignleft
+              font faceverdana size colorffffffnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp
+              fontfont faceverdana colorffffff sizeeliminatefontdiv
+            div alignleft
+              font faceverdana size colorffffffnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+              your irs tax problemsfontdiv
+            div alignleft
+              bfont faceverdana colorffffff stylefontsize ptnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+              nowfontbdiv
+            div alignleft
+              nbspdiv
+            div aligncenter
+              font colorffffffb
+              font faceverdana stylefontsize ptnbspnbsp font
+              bfontspan stylefontweight 
+              font faceverdana arial helvetica sansserif stylefontsize pt colorffffff
+              let our qualified people help youfontspandiv
+            div aligncenter
+              nbspdiv
+            div aligncenter
+              b
+              font faceverdana arial helvetica sansserif colorffffff size
+              we can settle your back taxes for pennies on the dollarfontbdiv
+            div aligncenter
+              nbspdiv
+            td
+          tr
+          table
+        table cellspacing cellpadding width border
+          tr
+            td colspan height bgcolora width
+            b
+            font faceverdanaarialhelveticasansserif size
+            table cellspacing cellpadding width border height
+              tr
+                td width height styleborderstyle solid borderwidth 
+                font size colorffffffrespondfontfontfont faceverdanaarialhelveticasansserif size colorffffff 
+                now and one of our debt pros will get back to you within  
+                hoursfonttd
+                td width bgcolorff height styleborderleftstyle solid borderleftwidth 
+                p aligncenterbfont colorffffff size
+                a styletextdecoration none hrefhttpirshelpindexhtmidt
+                font colorffffffclick herefontafontbtd
+              tr
+            table
+            font
+            btd
+          tr
+        table
+        td
+      tr
+    table
+    td
+  tr
+table
+pif you wish to be removed from future mailings please quota hrefhttpfinalindexremoovhtmlidtclicking 
+hereaquot  br
+br
+br
+br
+br
+br
+br
+nbspfontp
+
+body
+
+html

@@ -1,0 +1,34 @@
+once upon a time ville wrote 
+
+ i assume that you wont ghost or remove these and the modulesconf
+ change on uninstall though  so people who are installing this rpm and
+ are unfortunate enough to have a dvd drive or just an ordinary cd
+ nondvd drive that doesnt support dma will be left with a system
+ without a working cd drive even after removing the rpm  and without
+ ever knowing what struck them  you cant remove the dma setting from
+ modulesconf either unless youre sure that ogle added it there and
+ nothing else needs it
+
+ive never heard of any cdrom or dvdrom drive having problems with dma
+although there probably is since red hat decided to default disabling it a
+few releases back 
+normally even if you try to enable dma and your device doesnt support it
+it simply dont be able to make the change and thats it the problem iirc
+is with crappy hardware that is supposed to support dma but doesnt work as
+expected when its enabled maybe chris could confirm this 
+
+i guess ill settle for the devdvd link change as described and putting
+the dma tip in the description 
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel acpi
+load    
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

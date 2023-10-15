@@ -1,0 +1,26 @@
+greetings 
+
+ ps yup im back from my holidays 
+	i hope you did not miss us at all  
+
+  i think ill use this with whatever switch more and more where
+  possible
+	mmm great stuff  now to get the redhat samba packager to do the same 
+thing 
+
+	i have used there spec file and fun a few problems in it and one of them 
+was just hashing out things for other use 
+
+	now to get to grips with the kernel  still have not found and easy way to 
+rebuild the kernel without having to wait and hour for it to generate the 
+headers for all arch  arrrrhhhh 
+
+mailed
+lee
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

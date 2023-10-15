@@ -1,0 +1,113 @@
+   tp im reading this now as that you trained on about  spam and
+   tp about  ham  thats less than  of the sizes of the
+   tp training sets ive been using  please try an experiment train
+   tp on  of each and test once against the other  of each
+
+jeremy
+ this helps a lot
+
+possibly  i checked in a change to classifierpy overnight getting rid of
+mincount that gave a major improvement in the fn rate too independent of
+tokenization
+
+ here are results with the stock tokenizer
+
+unsure what stock tokenizer means to you  for example it might mean
+tokenizertokenize or mboxtestmytokenizertokenize
+
+ training on mbox homejeremymailinbox   mbox
+ homejeremymailspam 
+    hams   spams
+         
+          
+          
+ training on mbox homejeremymailinbox   mbox
+ homejeremymailspam 
+    hams   spams
+          
+          
+          
+ training on mbox homejeremymailinbox   mbox
+ homejeremymailspam 
+    hams   spams
+          
+          
+          
+ training on mbox homejeremymailinbox   mbox
+ homejeremymailspam 
+    hams   spams
+          
+          
+          
+ total false pos  
+ total false neg  
+
+note that those rates remain much higher than i got using just  of ham
+and  of spam  that remains a mystery
+
+ and results from the tokenizer that looks at all headers except date
+ received and xfrom
+
+unsure what that means too  for example looks at might mean you enabled
+anthonys countthem gimmick andor that youre tokenizing them yourself
+andor 
+
+ training on mbox homejeremymailinbox   mbox
+ homejeremymailspam 
+    hams   spams
+          
+          
+          
+ training on mbox homejeremymailinbox   mbox
+ homejeremymailspam 
+    hams   spams
+          
+          
+          
+ training on mbox homejeremymailinbox   mbox
+ homejeremymailspam 
+    hams   spams
+          
+          
+          
+ training on mbox homejeremymailinbox   mbox
+ homejeremymailspam 
+    hams   spams
+          
+          
+          
+ total false pos  
+ total false neg  
+
+ is it safe to conclude that avoiding any cleverness with headers is a
+ good thing
+
+since i dont know what you did exactly i cant guess  what you seemed to
+show is that you did something clever with headers and that doing so
+helped the after numbers are better than the before numbers right
+assuming that what you did was override whats now
+tokenizertokenizertokenizeheaders with some other routine and didnt
+call the base tokenizertokenizeheaders at all then youre missing
+carefully tested treatment of just a few header fields but adding many
+dozens of other header fields  theres no question that adding more header
+fields should help tokenizertokenizertokenizeheaders doesnt do so only
+because my testing corpora are such that i cant add more headers without
+getting major benefits for bogus reasons
+
+apart from all that you said youre skipping received  by several
+accounts that may be the most valuable of all the header fields  im
+meaning tokenizertokenizertokenizeheaders skipping them too for the
+reason explained above  offline a week or two ago neil schemenauer
+reported good results from this scheme
+
+    ipre  recompilerdddd
+
+    for header in msggetallreceived 
+        for ip in iprefindallheader
+            parts  ipsplit
+            for n in range 
+                yield received  joinpartsn
+
+this makes a lot of sense to me i just checked it in but left it disabled
+for now
+

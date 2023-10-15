@@ -1,0 +1,32 @@
+on sun  sep  vernon webb wrote
+
+ im getting these messages and im not sure what they mean can anyone clear 
+ this up for me thanks
+ 
+ sep   linux mailscanner rbl check ordbrbl timed out and 
+ was killed consecutive failure  of 
+ sep   linux mailscanner spamassassin timed out and was 
+ killed
+
+your running mailscanner and the timeout used got to check ordbrbl is too 
+low and your timing out  mailscanner will count up to seven timeouts and 
+then automatically disable these checks until it restarts itself within  
+hours
+
+ 
+gerry
+
+the lyfe so short the craft so long to learne  chaucer
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

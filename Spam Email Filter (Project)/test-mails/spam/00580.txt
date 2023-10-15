@@ -1,0 +1,191 @@
+
+html
+
+head
+head
+
+body
+div
+  font facearialnbspfont
+div
+div
+  
+div
+div
+  strongfont colorff size facearialdirect email blasterfontstrong 
+div 
+font size 
+pfont facearialbfont colorithe program will send mail at the  
+rate of over   emails per minutenbspifontbr 
+legal and fast sending bulk emailsnbspbr 
+font coloribuilt in smtp servernbspifontbr 
+have return pathnbspbr 
+can check mail addressnbspbr 
+font colorimake error send address list remove or send againnbspifontbr 
+support multithreadsnbspbr 
+support multismtp serversnbspbr 
+manages your optin email listsnbspbr 
+offers an easytouse interfacenbspbr 
+easy to confige and usenbspbfontp 
+pfont faceariala hrefhttpwwwwldinfocombjdownloadedebsetzipstrongdownload  
+nowstrongafontp 
+pstrongfont colorff size facearialmaillist verifyfontstrongp 
+pfont facearialmaillist verify is intended for email addresses and mail  
+lists verifying the main task is to determine which of addresses in the mail  
+list are dead the program is oriented basically on programmers which have  
+their own mail lists to inform their users about new versions of their programsfontp 
+pfont facearialthe program works on the same algorithm as isp mail  
+systems do mail servers addresses for specified address are extracted from dns  
+the program tries to connect with found smtpservers and simulates the sending  
+of message it does not come to the message nobrsending nobrgt emv  
+disconnect as soon as mail server informs does this address exist or not emv  
+can find about  of dead addresses nobrgt some mail systems receive  
+all messages and only then see their addresses and if the address is dead send  
+the message back with remark about itnobrfontp 
+nobr 
+pa hrefhttpwwwwldinfocombjdownloadbemvsetzipstrongfont size facearialdownload  
+nowfontstrongap 
+pstrongfont colorff size facearialexpress email blasternbspfontstrongp 
+pfont facearialexpress email blasternbsp is a very fast powerful yet  
+simple to use email sender utilizing multiple threadsconnections and multiple  
+smtp servers your emails will be sent out fast and easily there are user  
+information attach files address and mail logs four tabbed area for the  
+emails details for sending about  smtp servers come with the demo version  
+and users may add and delete smtp servers about font colorbbfont  
+emails will be sent out per hourquotfontp 
+pstronga hrefhttpwwwwldinfocombjdownloadbeebsetzipfont size facearialdownload  
+nowfontastrongp 
+pstrongfont colorff size facearialexpress email address  
+extractorfontstrongp 
+font size 
+pfont facearialstrongfont size colorthis program is the  
+most efficient easy to use email address collector available on the internet fontfont color sizebeijing  
+express email address extractor expresseae is designed to extract email  
+addresses from webpages on the internet using http protocols expresseae  
+supports operation through many proxyserver and works very fast as it is able  
+of loading several pages simultaneously and requires very few resourcesfontstrongfontp 
+pfont facearialstrongfont color facearialfont sizewith  
+it you will be able tofontfont size fontfont sizeuse targeted  
+searches to crawl the world wide web extracting thousands of clean fresh email  
+addresses ably email address extractor is unlike other address collecting  
+programs which limit you to one or two search engines and are unable to do auto  
+searches huge address most of them collect a high percentage of incomplete  
+unusable addresses which will cause you serious problems when using them in a  
+mailingnbspfontfontstrongfont 
+ul 
+  lifont facearialstrongfont color size facearialeasier  
+    to learn and use than any other email address collector program availablefontstrongfont 
+  lifont facearialstrongfont color size facearialaccesses  
+    eight search enginesnbspfontstrongfont 
+  lifont facearialstrongfont color size facearialadd  
+    your own urls to the list to be searchedfontstrongfont 
+  lifont facearialstrongfont size facearialfont colorsupports  
+    operation through fontfont colorffffa lot offontfont color  
+    proxyserver and works very fast http proxyfontfontstrongfont 
+  lifont facearialstrongfont color size facearialable  
+    of loading several pages simultaneouslyfontstrongfont 
+  lifont facearialstrongfont color size facearialrequires  
+    very few resourcesfontstrongfont 
+  lifont facearialstrongfont color size facearialtimeout  
+    feature allows user to limit the amount of time crawling in dead sites and  
+    trapsfontstrongfont 
+  lifont facearialstrongfont size facearialfont coloreasy  
+    to make fontfont colorffffhugefontfont color  
+    address listfontfontstrongfont 
+  lifont facearialstrongfont color size facearialpausecontinue  
+    extraction at any timefontstrongfont 
+  lifont facearialstrongfont color size facearialauto  
+    connection to the internetfontstrongfontli 
+ul 
+div 
+  stronga hrefhttpwwwwldinfocombjdownloadeeaesetzipfont size color facearialdownload  
+  nowfontastrong 
+div 
+div 
+  strongfont colorff facearialexpress email address downloaderfontstrong 
+div 
+ul 
+  lifont facearialstrongfont color sizeexpresseadnbsp  
+    fontfont color sizeis a  bit windows program for email  
+    marketing it is intended for easy and convenient search large email  
+    address lists from mail servers the program can be operated on windows  
+    me and ntfontstrongfont 
+  lifont facearialstrongfont color sizeexpresseadnbsp  
+    fontfont color sizesupport multithreads up to   
+    connectionsfontstrongfont 
+  lifont facearialstrongfont color sizeexpresseadnbsp  
+    fontfont color sizehas the abilitynbsp to reconnect to  
+    the mail server if the server has disconnected and continue the searching at  
+    the point where it has been interruptedfontstrongfont 
+  lifont facearialstrongfont color sizeexpresseadnbsp  
+    fontfont color sizehas an ergonomic interface that is  
+    easy to set up and simple to usefontstrongfontli 
+ul 
+div 
+  font facearialnbspfont 
+div 
+pfont facearialstrongfont color size facearialfeaturesfontstrongfont 
+ul typedisc 
+  lifont facearialstrongfont size facearialsupport  
+    multithreadsfontstrongfont 
+  lifont facearialstrongfont size facearialauto get smtp  
+    server addresssupport multismtp serversfontstrongfont 
+  lifont facearialstrongfont size facearialauto savenbsp  
+    email listsfontstrongfont 
+  lifont facearialstrongfont size facearialoffers an  
+    easytouse interfacefontstrongfontli 
+ul 
+div 
+  stronga hrefhttpwwwwldinfocombjdownloadeeadsetzipfont size color facearialdownload  
+  nowfontastrong 
+div 
+div 
+  font facearialnbspfont 
+div 
+div 
+  strongfont colorff facearialexpress maillist managerfontstrong 
+div 
+div 
+  font facearialnbspfont 
+div 
+div 
+  font size 
+  pfont facearialfont colorblack sizethis program was designed  
+  to be a complement to the fontfont color sizedirect email  
+  blasternbsp fontfont colorblack sizeand fontfont color sizeemail  
+  blaster fontfont colorblack sizesuite of bulk email software  
+  programs its purpose is to organize your email lists in order to be more  
+  effective with your email marketing campaign some of its features includefontfontp 
+  pbfont color facearialfont sizecombine several  
+  lists into one filefontbr 
+  font sizesplit up larger lists to make them more manageablefontbr 
+  font sizeremove addresses from filefontbr 
+  font sizemanual editing adding and deleting of addressesfontbr 
+  font sizeability to auto clean lists that is remove any  
+  duplicate or unwanted addressesfontbr 
+  font sizemaintain all your address lists within the program so  
+  you nonbsp longer need to keep all your lists saved as separate text filesfontfontbp 
+  pstronga hrefhttpwwwwldinfocombjdownloadbemmsetzipfont size color facearialdownload  
+  nowfontastrongp 
+  pfont facearialnbspfontp 
+  pp
+  div
+    font facearialif you want to remove your email please send email to a hrefmailtotargetemailremovalbtamailnetcntargetemailremovalbtamailnetcnafont 
+  div 
+  div 
+    font facearialnbspfont 
+  div 
+  div 
+    font facearialnbspfont 
+  div 
+  div 
+    
+  div
+  font
+div
+fontnobrfont
+
+body
+
+html
+htmlbodybrbrbr                                          bra href                                                                                                abr                                         bodyhtml

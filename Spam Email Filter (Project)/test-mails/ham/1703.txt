@@ -1,0 +1,27 @@
+what does this mean  i set up procmailrc for a spamtrap but im getting
+an error  i also am reporting to pyzor and dcc and they arent
+registering an error  whats weird is that it works sometimes
+
+
+oct   report   honorcloudmarkcom  
+oct   report   response to sent
+res
+err
+
+oct   report   mail  origemail special
+case eng  server accept
+ed report
+oct   report   mail  eng  err  
+server wants mail
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

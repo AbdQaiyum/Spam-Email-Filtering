@@ -1,0 +1,121 @@
+this is a multipart message in mime format
+
+nextpart
+contenttype textplain
+	charsetusascii
+contenttransferencoding bit
+
+doctype html public wcdtd html  transitionalen
+htmlheadtitlepennies a daytitle
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta contentmshtml  namegeneratorhead
+body text bgcolorffffff
+
+div aligncenterdiv
+centertable cellspacing cellpadding width border
+tbody
+tr
+td alignmiddle bgcolor heighta hrefhttp targetfont facetahomaarial colorwhite sizeblegal services for less than a penny per daybfonta tdtrtbodytablecenter
+
+centertable cellspacing cellpadding width border
+tbody
+tr
+td valigntop bgcolordfdfffont facearial helvetica sansserif sizeyou can have a btop law firmb in your area produce a will for you babsolutely freeb with your membershipbrbrfont
+
+table cellspacing cellpadding width border
+tbody
+tr valigncenter
+td widthbfont facearial helvetica sansserif color sizeul
+linbspunlimited legal consultationsbr
+linbspunlimited phone conversationsbr
+linbsptraffic ticket defensebr
+linbspcontract amp document reviewbr
+linbspletters and calls made on your behalfbr
+linbspirs audit protectionbr
+linbsptrial defensebr
+linbspbusiness amp family protectionbr
+linbspmuch more fontbul
+tdtrtbodytable
+
+font facearial helvetica sansserif sizebrbwhy pay  or moreb an hourb when you can get the sameb first rate serviceb for less than  per daybbrbrfont colorbget your free information by clicking on the link belowbfontbrbrfonttdtrtbodytable
+
+centertable cellspacing cellpadding width border
+tbody
+tr
+td alignmiddle bgcolor heighta hrefhttp targetfont facetahomaarial colorwhite sizebget your free information nowbfonta tdtrtbodytablecenter
+pp
+centerbrhr width sizecenter
+
+p aligncenterfont faceverdanaarial sizefor no further notice at no cost and to be  disolved from all of our databases simply  r e p l y  to this message with the word d i s c o n t i n u e in the subject linefontp
+img height 
+srchttpblankgif width
+bodyhtmliz
+
+
+nextpart
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+doctype html public wcdtd html  transitionalen
+htmlheadtitlepennies a daytitle
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+meta contentdmshtml  namedgeneratorhead
+body textd bgcolordffffff
+
+div aligndcenterdiv
+centertable cellspacingd cellpaddingd widthd borderd
+tbody
+tr
+td aligndmiddle bgcolord heightda hrefdhttp 
+targetdfont facedtahomaarial colordwhite sizedblegal services for 
+less than a penny per daybfonta tdtrtbodytablecenter
+
+centertable cellspacingd cellpaddingd widthd borderd
+tbody
+tr
+td valigndtop bgcolorddfdfffont facedarial helvetica sansserif 
+sizedyou can have a btop law firmb in your area produce a will for you 
+babsolutely freeb with your membershipbrbrfont
+
+table cellspacingd cellpaddingd widthd borderd
+tbody
+tr valigndcenter
+td widthdbfont facedarial helvetica sansserif colord 
+sizedul
+linbspunlimited legal consultationsbr
+linbspunlimited phone conversationsbr
+linbsptraffic ticket defensebr
+linbspcontract amp document reviewbr
+linbspletters and calls made on your behalfbr
+linbspirs audit protectionbr
+linbsptrial defensebr
+linbspbusiness amp family protectionbr
+linbspmuch more fontbul
+tdtrtbodytable
+
+font facedarial helvetica sansserif sizedbrbwhy pay  or 
+moreb an hourb when you can get the sameb first rate serviceb for 
+less than  per daybbrbrfont colordbget your free 
+information by clicking on the link below
+bfontbrbrfonttdtrtbodytable
+
+centertable cellspacingd cellpaddingd widthd borderd
+tbody
+tr
+td aligndmiddle bgcolord heightda hrefdhttp 
+targetdfont facedtahomaarial colordwhite sizedbget your free 
+information nowbfonta tdtrtbodytablecenter
+pp
+centerbrhr widthd sizedcenter
+
+p aligndcenterfont facedverdanaarial sizedfor no further notice at no 
+cost and to be  disolved from all of our databases simply  r e p l y  to 
+this message with the word d i s c o n t i n u e in the subject line
+fontp
+img heightd 
+srcdhttpblankgif widthd
+bodyhtmliz
+
+nextpart
+

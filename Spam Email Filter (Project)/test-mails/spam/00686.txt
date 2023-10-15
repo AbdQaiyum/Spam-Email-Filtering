@@ -1,0 +1,97 @@
+
+html
+body bgcolorffffff
+table cellspacing cellpadding width bgcolor border
+  tbody
+  tr
+    td bgcolorimg height srchttpimageconsumerpackagenetpromotionsfmimagescpixgif width 
+      border 
+      div aligncenter
+      center
+      table width bgcolorffffff border
+        tbody
+        tr
+          td width bgcolorffffff
+            table cellspacing cellpadding width bgcolorffffff 
+            border
+              tbody
+              tr
+                td alignmiddle width bgcolorffffff colspan 
+                heightimg height 
+                  srchttpimageconsumerpackagenetpromotionsfmimagesisthisyoursgif width 
+                  borderbra hrefhttptrackconsumerpackagenetcgibinaeimg 
+                  height srchttpimageconsumerpackagenetpromotionsfmimagescheckjpg width 
+                  borderabrimg height 
+                  srchttpimageconsumerpackagenetpromotionsfmimagescpixgif width borderbrimg 
+                  height srchttpimageconsumerpackagenetpromotionsfmimagesitcouldbegif width 
+                  bordertdtr
+              tr
+                td valigntop width bgcolorffffff
+                  p alignjustifyfont colorbfont 
+                  colormarketingontargetcomfontb has teamed up 
+                  with fonta hrefhttptrackconsumerpackagenetcgibinaebfont 
+                  colorfoundmoneyfontbafont 
+                  color to help you locate and claim your lost cash
+                  the amount on that check or more literally be yours for 
+                  the claiming 
+                  nbsp fontptd
+                td valigntop width bgcolorffffff
+                  p alignjustifyfont colorthis is not a contest or a promotion fonta hrefhttptrackconsumerpackagenetcgibinaebfont 
+                  colorfoundmoneyfontbafont 
+                  color is a search service dedicated to putting 
+                  unclaimed money together with its rightful 
+                ownersfontptdtr
+              tr
+                td alignmiddle width bgcolorffffff colspan 
+                heightimg height srchttpimageconsumerpackagenetpromotionsfmimagescpixgif 
+                  width borderbra hrefhttptrackconsumerpackagenetcgibinaeimg 
+                  height srchttpimageconsumerpackagenetpromotionsfmimagesfeaturedgif width 
+                  borderatdtr
+              tr
+                td valigntop width bgcolorffffff
+                  p alignjustifyfont colorthere are b 
+                  millionb north american people eligible right now to claim unknown 
+                  cash windfalls the search is fast easy and gauranteednbspfontptd
+                td valigntop width bgcolorffffff
+                  p alignjustifyfont colorover b billionb is 
+                  sitting in our database alone which contains bank and government accounts wills and estates insurance settlements etcfontptdtr
+              tr
+                td alignmiddle width bgcolorffffff colspan 
+                heightimg height srchttpimageconsumerpackagenetpromotionsfmimagescpixgif 
+                  width borderbra hrefhttptrackconsumerpackagenetcgibinaeimg 
+                  height srchttpimageconsumerpackagenetpromotionsfmimagesoutofgif width 
+                  borderatdtr
+              tr
+                center
+                td valigntop width bgcolorffffff
+                  p alignjustifyfont colorsince  our web site 
+                  has reunited millions upon millions of dollars with thousands 
+                  of rightful owners  bwho didnt even knownbspb they 
+                  had money waiting for themnbspfont 
+                  centercentertd
+                td valigntop width bgcolorffffff
+                  p alignjustifya hrefhttptrackconsumerpackagenetcgibinaebfont 
+                  colorclick herefontbafont color 
+                  now or on the link below to find out  in seconds  if there 
+                  is money waiting to be claimed in your family name or that of 
+                  somebody you know the initial search is 
+freefontptdtr
+              tr
+                td width bgcolorffffff colspan height
+                  p aligncenterfont color sizebyou have nothing 
+                  to lose nbspbrtry 
+                  foundmoney todaynbspbfontp
+                  p aligncentera hrefhttptrackconsumerpackagenetcgibinaefont 
+                  colorbclick here nowbfontap
+                  pfont colorsincerelybrconsumerpackagecom  
+                  foundmoneyfontp
+                  p 
+      ptdtrtbodytablecentertdtrtbodytablecenterimg 
+      height srchttpimageconsumerpackagenetpromotionsfmimagescpixgif width border 
+  divtdtrtbodytable
+pnbspp
+pnbspp
+pfont facearial sizeyou received this email because you signed up at one of consumer medias websites or you signed up with a party that has contracted with consumer media to unsubscribe from our email newsletter please visit a hrefhttpoptoutconsumerpackagenetejmnetnoteinccomhttpoptoutconsumerpackagenetejmnetnoteinccoma font
+body
+html
+	

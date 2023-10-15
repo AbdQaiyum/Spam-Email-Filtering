@@ -1,0 +1,153 @@
+html
+
+head
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titlenew page title
+head
+
+body bgcolorffffff
+
+table border width height cellspacing cellpadding
+  tr
+    td width valignmiddle aligncenter
+      table border width cellspacing cellpadding height
+        tr
+          td width heightfont facecourier new sizehibr
+            br
+            want to increase your chances of winning a big jackpot in those
+            internet contestsbr
+            br
+            michael khalili the famous programmer who you may have read about
+            in usa today and other newspapers came up with a method that makes
+            it buhundreds of times easier to win onlineubbr
+            br
+            he recently wrote a program that will automatically enter you in
+            online contestsover and over until you win or tell it to stop
+            we at grabcom are so excited by this system that were putting it
+            online for our members to usebr
+            br
+            br
+            the prize is yours  guaranteedbr
+            br
+            if you win a contest using this program the prize is legally yours
+            to keepguaranteed our lawyers assured us that michaels program
+            is legal and online contest sponsors have confirmed that it doesnt
+            violate their rules buso if you win a prize youll receive it
+            if you dont receive it well pay you ourselves guaranteedubbr
+            br
+            br
+            free to usebr
+            br
+            best of all this service is free to use all you pay for is related
+            network expenseswhich only cost  for  days of the service
+            thats dozens of entries for what youd usually pay to get a single
+            lottery ticketbr
+            br
+            as a member in good standing of this mailing buweve already
+            set up the automatic entry system for youub all thats left
+            is for you to turn it on once you do you can sit back and watch it
+            enter you into contest after contest after contest after contestbr
+            br
+            br
+            fonta hrefhttprmbnetscdxqbmiafsifont facecourier new sizeclick
+            here to beginfontafont facecourier new sizebr
+            br
+            ps this system will continue to enter you into hundreds of free
+            contests until you win or cancel itbr
+            br
+            pps all the prizes you win are yours to keepguaranteedbr
+            br
+            br
+            br
+            br
+            br
+            br
+            br
+            font facearial helvetica size colorcenterc
+            copyright grabcom centerfontfonttd
+        tr
+      table
+    td
+  tr
+table
+
+body
+
+html
+html
+brbr
+center
+table width cellspacing cellpadding border
+form methodget actionhttpimbnetcgibinpmgsubscribepl
+tr
+  td bgcolordddddd
+  font facehelveticaarial size color
+    iremove yourself from this list by eitheri
+  font
+  td
+tr
+tr
+  td bgcoloreeeeee
+  font facehelveticaarial size color
+  entering your email address below and clicking removebr
+    center
+    input typehidden namelist valueebargains
+    input typehidden nameserveraction valueunsubscribe
+    input typetext nameemailaddress valuecypherpunkseinsteinsszcom sizefont
+    input typesubmit valueremove
+    center
+  font
+  td
+tr
+tr aligncenter
+  td
+  font facehelveticaarial size color
+    biorib
+  font
+  td
+tr
+tr
+  td bgcoloreeeeee
+  font facehelveticaarial size color
+  reply to this message with the word quotremovequot in the subject line
+  font
+  td
+tr
+form
+tr aligncenter
+  td bgcolorffffff aligncenter
+  font facehelveticaarial size color
+  this message was sent to address cypherpunkseinsteinsszcom
+  font
+  
+
+xpmgrecipient cypherpunkseinsteinsszcom
+xpmgmsgid 
+xpmguserid ebargains
+
+
+div aligncenter
+font facehelveticaarial size coloraaaaaapmguiddxqbmfsifontdivbr clearall
+img srchttprmbnetsodxqbmfsi width height border alignright altpmg
+
+td
+tr
+table
+center
+html
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

@@ -1,0 +1,52 @@
+this is a multipart message in mime format
+it has been signed conforming to rfc
+youll need pgp or gpg to check the signature
+
+
+contenttype textplain charsetusascii
+
+
+on mon  sep   cdt hal devore writes
+		scan mhpath fxmhcache
+
+shouldnt that read
+               scan mhpath fxmhcache
+ 
+
+and jic something else changed the context in the background it 
+ doesnt hurt to explicitly state the folder
+               scan f mhpath fxmhcache
+ 
+
+cheers
+rw
+ 
+ the problem with the ibm keyboards i have is that when you
+ use them to beat lusers the caps come off the keys
+ no real damage but still a nuisance    martijn berlage
+
+
+
+
+contenttype applicationpgpsignature namesignatureng
+contentdisposition inline filenamesignatureng
+contenttransferencoding bit
+
+begin pgp signature
+version gnupg v gnulinux
+
+iddbqefzyenzsjroiralxqajsgdkaxbxbbgzzvdsakxuiqcdgpj
+sjufuutkazxbjyoxa
+rfa
+end pgp signature
+
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

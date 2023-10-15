@@ -1,0 +1,44 @@
+ forwarded message 
+from vernon schryver vjscalciterhyolitecom
+to dcccalciterhyolitecom
+date mon  aug    mdt
+subject version  of the dcc
+
+ersion  of the dcc source is in
+httpwwwrhyolitecomantispamdccsourcedccdtarz and
+httpwwwdccserversnetdccsourcedccdtarz
+
+httpwwwrhyolitecomantispamdccdcctreechanges and
+httpwwwdccserversnetdccdcctreechanges start with
+
+    fix dccm bugs with handling a nonresponsive server
+    change mischackmc to modify sendmailcf to reject unauthorized relay
+	attempts with a temporary failure when they are supposed to be sent
+	to the dcc but dccm is not running  this prevents leaking relay
+	relay spam  you must use the new hackmc script to install this
+	change in sendmailcf
+    remove  whitelisted from cdcc stats output to give more room
+	for totals
+    prevent empty dccproc log files as noted by krzysztof snopek
+    even fatal errors should cause dccproc to exit with  to avoid
+	rejecting mail as noted by krzysztof snopek
+    when server hostnames have common ip addresses prefer the server
+	with the nonanonymous clientid noted by krzysztof snopek
+
+
+vernon schryver    vjsrhyolitecom
+
+dcc mailing list      dccrhyolitecom
+httpwwwrhyolitecommailmanlistinfodcc
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

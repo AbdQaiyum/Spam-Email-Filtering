@@ -1,0 +1,25 @@
+i received a spam email that had apparently forged the from header with
+my own email address after reviewing the message i forwarded it with
+the rest of a batch of spam ti the database with razorreport now of
+course my own email address is listed int he razor database how do i
+go about getting it removed
+
+i have seen this ploy forged from headers several time since then
+perhaps the razorreport need to detect this and emit a warning
+
+dave
+
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

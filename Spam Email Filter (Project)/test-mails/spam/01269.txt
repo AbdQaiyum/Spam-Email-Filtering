@@ -1,0 +1,373 @@
+this is a multipart message in mime format
+
+nextpartdfcbffeae
+contenttype textplain
+	charsetiso
+contenttransferencoding quotedprintable
+
+we attempted to deliver this message to you with html formatting 
+however your email program does not support htmlenhanced messages 
+please go to your email settings for this group and change your email 
+preference to text only
+httpgroupsmsncomoneincomelivingemailsettingsmsnw
+
+msn groups
+
+
+nextpartdfcbffeae
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+  html
+head
+  meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff leftmargind rightmargind 
+bottommargind topmargindbasefont facedarial helvetica 
+sans serif sized
+style typedtextcss
+
+ foreground colors 
+thmfgcolumnheader aframelink aheaderlink afooterlink algtcmd 
+amsnlink colorffffff
+thmfgtitlelightbk colorff
+thmfgnavlink anavlink achildlinkhover color
+thmfginactivetext asystemlink color 
+thmfgframetitle color ffffcc
+thmfgtitledarkbk anavlinkhover atitlelink color cc
+thmfgmisctext acat asubcat color 
+thmfgcommand acommand alargecommand amsglink color 
+thmfgheader color 
+thmfgstandard asystemlinkhover asublink achildlink astdlink 
+selectstandard color 
+thmfgdivider color cccccc  primarily for hr tags 
+
+ background colors 
+thmbgstandard backgroundcolor ffffff
+thmbgunknown backgroundcolor ff
+thmbgframing backgroundcolor 
+thmbgunknown backgroundcolor 
+thmbghighlightdark backgroundcolor ffffcc
+thmbghighlightlight idtoolbar backgroundcolor ffffe
+thmbgtitledarkbk backgroundcolor fff
+thmbgalternate backgroundcolor ecff
+thmbgunknown backgroundcolor ccccff
+thmbgdivider backgroundcolor cccccc
+thmbgheader backgroundcolor cc
+thmbglinks backgroundcolor c
+thmbgsharkbar backgroundcolor c
+style
+img borderd widthd heightd 
+srcdhttpcmsncomcgifncdnadpsdpiddid
+tpdhttpgroupsmsncomtable borderd cellpaddingd 
+cellspacingd widthd classdthmbgalternate
+  tr valigndmiddle
+    tdimg aligndmiddle borderd 
+srcdhttpsccommunitiesmsncomthemespbyimgmailmlstargiftd
+
+    td widthdfont facedarial helvetica sans serif 
+classdthmfgtitlelightbk sizednew message on a 
+hrefdhttpgroupsmsncomoneincomelivingone income 
+livingafonttd
+  tr
+  tr classdthmbgdividertd colspand widthd heightd 
+colspandimg borderd 
+srcdhttpsccommunitiesmsncomimgcgif widthd 
+heightdtdtr
+
+table
+br
+blockquote
+      a 
+hrefdhttpgroupsmsncomoneincomelivingnotificationsmsnwtyped
+msgactiondshowdiscussionparentditemdbfont 
+facedarial helvetica sans serif classdthmfgtitlelightbk 
+sizedmake some extra money fast read how here it is real simple i 
+am totaly seriousfontbabr
+    br
+    table classdthmbgalternate borderd cellspacingd 
+cellpaddingd
+      tr classdthmbgalternatetd aligndcenter 
+backgrounddhttpsccommunitiesmsncomthemespbyimgmbreplybggi
+f nowrapa 
+hrefdmailtooneincomelivinggroupsmsncomsubjectdreamakeso
+meextramoneyfastreadhowhereitisrealsimple
+iamtotalyserious titledsend a reply to this 
+messagefont facedverdanaarialhelveticasans serif 
+classdthmfgcommand sizedbreplybfontabrimg 
+borderd widthd heightd 
+srcdhttpsccommunitiesmsncomimgcgiftdtd widthd
+          table borderd cellpaddingd cellspacingd
+            tr
+               tdnbsptd
+               td aligndleft widthdfont sized
+		          a 
+hrefdmailtotristawittycomsubjectdreamakesomeextram
+oneyfastreadhowhereitisrealsimpleiamtota
+lyserious titledsend a reply to the sender of this 
+messagefont facedverdanaarialhelveticasans serif 
+classdthmfgcommand sizedbreply to senderbfonta
+		          nbspnbspfonta 
+hrefdhttpgroupsmsncomoneincomelivingnotificationsmsnwtyped
+msgactiondrecommendparentditemd titledincrease the 
+number of recommendations for this messageimg aligndmiddle 
+borderd heightd hspaced widthd 
+srcdhttpsccommunitiesmsncomthemespbyimgmbrecommendgiffont
+ facedverdanaarialhelveticasans serif classdthmfgcommand 
+sizedbrecommendbfonta
+			      td
+                  td aligndright nowrapfont sizedmessage  in 
+discussionfont
+               td                                
+		    tr
+		  table
+        td
+      trtr        	   
+        td colspandtable borderd cellpaddingd 
+cellspacingd widthd
+		    trtd classdthmbghighlightlight
+		      font facedarial helvetica sans serif 
+classdthmfginactivetext sizedfrom font
+			  a 
+hrefdhttpgroupsmsncomoneincomelivingprofileuserdtrista 
+titledview member information of senderfont facedarial 
+helvetica sans serif classdthmfgmisctext 
+sizedtristafonta
+			tdtr
+			trtd classdthmbgstandard
+			  br
+              div divreading this message will change your life 
+forever br please read this all br not a scam 
+br i repeat not a scam brthis only cost you  cash 
+investment it does work bri found this on a bulletin board and 
+decided to try it a little while back i was browsing through 
+newsgroups just like you are now and came across an article similar to 
+this that said you could make thousands of dollars within weeks with 
+only an initial investment of  so i thought yeah right this must 
+be a scam but like most of us i was curious so i kept reading 
+anyway it said that you send  to each of the  names and address 
+stated in the article you then place your own name and address in the 
+bottom of the list at  and post the article in at least  
+newsgroups there are thousands no catch that was it so after 
+thinking it over and talking to a few people first i thought about 
+trying it i figured what have i got to lose except  stamps and 
+ right then i invested the measly  well guess what 
+within  days i started getting money in the mail i was shocked i 
+figured it would end soon but the money just kept coming in in my 
+first week i made about  by the end of the second week i had 
+made a total of over  in the third week i had over  
+and its still growing this is how my fourth week and i have made a 
+total of just over  and its still coming in rapidly its 
+certainly worth  and  stamps i have spent more than that on the 
+lotterythis is not me but i amnbspalso making alot of 
+moneynbspbrbrlet me tell you how this works and most importantly 
+why it works also make sure you print a copy of this article now so 
+you can get the information off of it as you need it i promise you 
+that if you follow the directions exactly that you will start making 
+more money than you thought possible by doing something so easy 
+suggestion read this entire message carefully print it out or 
+download it follow the simple directions and watch the as money comes 
+in its easy its legal and your investment is only  plus 
+postage brbrimportant this is not a ripoff it is not indecent 
+it is not illegal and it is  no risk  it really works if all of 
+the following instructions are adhered to you will receive 
+brextraordinary dividends brbrplease note brplease follow 
+these directions exactly and  or more can be yours in  to  
+days this program remains successful because of the honesty and 
+integrity of the participants please continue its success by carefully 
+adhering to the instructions you will be part of the mail order 
+business in this business your product is not solid and tangible its 
+a service you are in the business of developing mailing lists many 
+large corporations are happy to pay big bucks for quality lists 
+however the money made from the mailing lists is secondary to the 
+income which is made from people like you and me asking to be included 
+in that list here are the  easy steps to success brbrstep  get 
+ separate pieces of paper and write the following on breach piece of 
+paper please put me on your mailing list now brget  us  bills 
+and place one inside each of the  pieces of paper so the bill will not 
+be seen through the envelope to prevent thievery next place one 
+paper in each of the  envelopes and seal them you should now have  
+sealed envelopes each with a piece of paper stating the above phrase 
+your name and address and a  bill what you are doing is creating 
+a service this is absolutely legal you are requesting a legitimate 
+service and you are paying for it like most of us i was a little 
+skeptical and a little worried about the legal aspects of it all so i 
+checked it out with the us post office  and they 
+confirmed that it is indeed legal mail the  envelopes to the following 
+addresses brbr mike gordon  south maple st winchester 
+ky br jeff waldrop a lucy rd laurel ms  br 
+brian thompson  briggs pond wy sharon ma  br a guy  
+ seabree ln ft wayne in  br wes armstrong  
+butternut rd shavertown pa  br trista friend po box 
+ long beach wa  brbrstep  now take the  name off the 
+list that you see above move brthe other names up  place  becomes 
+  becomes  etc and add your name and address as number  on 
+the list brbrstep  change anything you need to but try to keep 
+this article as brclose to original as possible now post your 
+amended article to at least  newsgroups i think there are close to 
+ groups all you need is  but remember the more you post the 
+more money you make you wont get very much unless you post like crazy 
+this is perfectly legal if you have any doubts refer to brtitle  
+sec  amp  of the postal lottery laws keep a copy of these 
+steps for yourself and whenever you need money you can use it again 
+and again brbrplease remember that this program remains successful 
+because of the honesty and integrity of the participants and by their 
+carefully adhering to the directions look at it this way if you are of 
+integrity the program will continue and the money that so many 
+brothers have received will come your way brnote you may want to 
+retain every name and address sent to you either on a computer or hard 
+copy and keep the notes people send you this verifies that you are 
+truly providing a service also it might be a good idea to wrap the  
+bill in dark paper to reduce the risk of mail theft so as each post 
+is downloaded and the directions carefully followed six members will be 
+reimbursed for their participation as a list developer with one dollar 
+each your name will move up the list geometrically so that when your 
+name reaches the  position you will be receiving thousands of dollars 
+in cash what an opportunity for only   for each of the 
+first six people listed above send it now and add your own name to the 
+list and youre in business brbrdirections  for how to 
+post to newsgroups brstep  you do not need to retype 
+this entire letter to do your own posting simply put your cursor at the 
+beginning of this letter and drag your cursor to the bottom of this 
+document and select copy from the edit menu this will copy the 
+entire letter into the computers memory brbrstep  open a blank 
+notepad file and place your cursor at the top of the blank page from 
+the edit menu select paste this will paste a copy of the letter 
+into notepad so that bryou can add your name to the list brbrstep 
+ save your new notepad file as a txt file if you want to do your 
+postings in different settings youll always have this file to go back 
+to brbrstep  use netscape or internet explorer and try searching 
+for various newsgroups online forums message boards chat sites 
+discussions brbrstep  visit these message boards and post this 
+article as a new message by highlighting the text of this letter and 
+selecting paste from the edit menu fill in the subject this will 
+brbe the header that everyone sees as they scroll through the list of 
+postings in a particular group click the post message button youre 
+done with your first one congratulationsthats it all you have to 
+do is jump to different newsgroups and post away after you get the hang 
+of it it will take about  seconds for each newsgroup 
+brbrremember the more newsgroups you post in the more money you 
+will make but you have to post a minimum of  brbrthats it 
+you will begin receiving money from around the world within days you 
+may breventually want to rent a po box due to the large amount of 
+mail you will receive if bryou wish to stay anonymous you can invent 
+a name to use as long as the postman will deliver it just make sure 
+all the addresses are correct  brbrnow each of the  persons who 
+just sent me  make the minimum  postings each with my name at 
+ and only  persons respond to each of the original  that is another 
+ for me now those  each make  minimum posts with my name at 
+ and only  replies each i will bring in an additional  now 
+those  persons turn around and post the minimum  with my name at 
+ and only receive  replies each i will make an additional  
+ok now here is the fun part each of those  persons post a minimum 
+ letters with my name at  and they each only receive  brreplies 
+that just made me  those  persons will all deliver this 
+message to  newsgroups with my name at  and if still  persons per 
+ newsgroups react i will receive  with an original 
+investment of only  amazing when your name is no longer on the 
+list you just take the latest posting in the newsgroups and send out 
+another  to names on the list putting your name at number  again 
+and start posting again do you turn  six dollars into  or even 
+ easy and honestly brbrthe thing to remember is do you 
+realize that thousands of people all brover the world are joining the 
+internet and reading these articles everyday just like you are now 
+so can you afford  and see if it really works i think so 
+people have said what if the plan is played out and no one sends you 
+the money so what what are the chances of that happening when there 
+are tons of new honest users and new honest people who are joining the 
+internet and newsgroups everyday and are willing to give it a try 
+estimates are at  to  new users every day with thousands 
+of those joining the actual internet remember play fairly and honestly 
+and this will really workdivdivtdtr
+		  table
+		td
+      tr
+          table
+  br
+    a hrefdhttpgroupsmsncombrowsecatiddview other 
+groups in this categorya
+  br
+  br
+      wsstrippablebegin
+    a 
+hrefdhttpgmsncomadwuitdamptargetiddampc
+txiddamppiddampand targetdtopimg 
+srcdhttpglobalmsadsnetadswbcmonlggif 
+altdclick here heightd widthd borderd a    
+wsstrippableend
+wsstrippablebeginpstyle
+admsmlnkfontfamilyverdanasystemcolortextdecorationnone
+admsmlnkhovercolorfftextdecorationunderline
+style
+
+
+table cellspacingd cellpaddingd widthd borderd
+tbody
+tr
+tdfont facedverdana colord sizedbalso on 
+msnbfontbra classdadmsmlnk 
+hrefdhttpgmsncomgrenusfont facedverdana 
+colord sizedstart chattingfontanbspfont 
+facedverdana colord sizedfontnbspa 
+classdadmsmlnk hrefdhttpgmsncomgrenusfont 
+facedverdana colord sizedlisten to musicfontafont 
+facedverdana colord sizedfontnbspfont 
+facedverdana colord sizedfontnbspa 
+classdadmsmlnk hrefdhttpgmsncomgrenusfont 
+facedverdana colord sizedhouse amp homefontafont 
+facedverdana colord sizedfontnbspfont 
+facedverdana colord sizedfontnbspa 
+classdadmsmlnk hrefdhttpgmsncomgrenusfont 
+facedverdana colord sizedtry online 
+datingfontafont facedverdana colord 
+sizedfontnbspfont facedverdana colord 
+sizedfontnbspa classdadmsmlnk 
+hrefdhttpgmsncomgrenusfont facedverdana 
+colord sizeddaily horoscopesfontafont facedverdana 
+colord sizedfont
+tdtdtrtbodytablepwsstrippableendblockquote
+wsstrippablebegin
+table borderd cellpaddingd cellspacingd widthd
+  tr classdthmbgdividertd widthd heightdimg 
+borderd srcdhttpsccommunitiesmsncomimgcgif 
+widthd heightdtdtr
+  tr
+    td widthd classdthmbgalternate
+      blockquote
+      font facedarial helvetica sans serif classdthmfgstandard 
+sized
+        br
+                  to stop getting this email or change how often it 
+arrives go to your a 
+hrefdhttpgroupsmsncomoneincomelivingemailsettingsmsnwfont 
+classdthmfgmisctextemail settingsfonta          brbr
+		                  need help if youve forgotten your password please 
+go to a 
+hrefdhttpgroupsmsncompassportredirmsnwppmpropdhelpfont 
+classdthmfgmisctextpassport member servicesfonta          br
+		                  for other questions or feedback go to our a 
+hrefdhttpgroupsmsncomcontactfont 
+classdthmfgmisctextcontact usfonta page          brbr
+		                  if you do not want to receive future email from 
+this msn group or if you received this message by mistake please click 
+the remove link below on the preaddressed email message that opens 
+simply click send your email address will be deleted from this 
+groups mailing list
+          br
+            a hrefdmailtooneincomelivingremovegroupsmsncom 
+titledsend a request to have your email removed from this 
+groupfont classdthmfgmisctextremove my email address from one 
+income livingfonta
+		      blockquote
+    td
+  td
+table
+wsstrippableend
+body
+html
+
+nextpartdfcbffeae
+
+

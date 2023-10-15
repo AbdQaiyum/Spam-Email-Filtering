@@ -1,0 +1,269 @@
+this is a multipart message in mime format
+
+nextparteacb
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+get a free edition of full disclosure httpwwwfulldisclosurecom
+
+do you run into competition
+do you need life insurance policy information
+do you search for the best policy for each customer
+do you ever have to defend against replacement 	
+ you need full disclosure
+full disclosure is easytouse policy research software it covers
+universal life whole life variable life and all types of survivorship
+life insurance fd is the third party source companies brokers and
+financial professionals have at their fingertips when they need to know
+the facts regarding cash value life insurance contracts 	
+full disclosure is not an illustration system it is a comprehensive
+analytical and benchmarking tool that gives you appletoapple
+comparisons of illustrated values historical performance
+specifications features current and guaranteed policy costs and more
+
+to celebrate the introduction of our newest easytouse software
+platform we are offering you afree edition 	
+order any edition of full disclosure and take one free write down your
+offer code    then click below to go to our website and order
+online
+
+there is nothing else like full disclosure
+subscribe online today
+
+  wwwfulldisclosurecom httpwwwfulldisclosurecom
+
+
+
+please fill out the form below for more information	 
+name	  	
+email	  	
+phone	  	
+city	  	state	  	
+ 	  	 	   	
+ 
+  
+we dont want anybody to receive our mailings who does not wish to
+receive them this is professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+httpwwwinsurancemailnet 
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+
+nextparteacb
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titleyou need full disclosuretitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+table widthd cellpaddingd cellspacingd 
+bgcolordffffff aligndcenter
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          td  valigndtopa 
+hrefdhttpwwwfulldisclosurecomimg 
+srcdhttpimagesbleaseheadergif widthd 
+heightd borderd altdget a free edition of full 
+disclosureatd
+        tr
+        tr
+          td aligndcenter bgcolordffffccfont facedarial 
+helvetica sansserif sizedb
+            do you run into competitionbr
+            do you need life insurance policy informationbr
+            do you search for the best policy for each customerbr
+            do you ever have to defend against replacementbfont
+          td
+        tr
+        tr
+          td bgcolordffffccimg 
+srcdhttpimagesbleaseneedgif widthd 
+heightd altdyou need full disclosure
+            center
+              table widthd borderd cellspacingd 
+cellpaddingd bgcolordffffff
+                tr
+                  tdfont facedarial helvetica sansserif 
+colordb
+                    full disclosure is easytouse policy research 
+software it covers universal
+                    life whole life variable life and all types of 
+survivorship
+                    life insurance fd is the third party source 
+companies brokers
+                    and financial professionals have at their fingertips 
+when
+                    they need to know the facts regarding cash value 
+life insurance
+                    contractsbfont
+                  td
+                tr
+                tr
+                  tdfont facedarial helvetica sansserif 
+colordb
+                    full disclosure is not an illustration system it is 
+a comprehensive
+                    analytical and benchmarking tool that gives you 
+appletoapple
+                    comparisons of illustrated values historical 
+performance
+                    specifications features current and guaranteed 
+policy costs
+                    and morebfont
+                  td
+                tr
+                tr
+                  tdfont facedarial helvetica sansserif 
+colordb
+                    to celebrate the introduction of our newest 
+easytouse software
+                    platform we are offering you afont 
+colordfffree editionfontbfont
+                  td
+                tr
+                tr
+                  td
+                    pfont facedarial helvetica sansserif 
+colordb
+                      order any edition of font colordfffull 
+disclosurefont
+                      and take one font colordfffreefont 
+write down
+                      your offer code  font 
+colordfffont  then
+                      click below to go to our website and order 
+onlinebfontp
+                  td
+                tr
+              table
+            center
+          td
+        tr
+        tr
+          td heightd bgcolordffffcc aligndcenter
+            pfont facedarial helvetica sansserif 
+sizedb
+                there is nothing else like full disclosurebr
+                font colorddsubscribe online 
+todayfontbfontp
+          td
+        tr
+        tr
+          tda hrefdhttpwwwfulldisclosurecomimg 
+srcdhttpimagesbleasephonegif widthd 
+heightd borderd altd  
+wwwfulldisclosurecomatd
+        tr
+        tr
+          td aligndcenter bgcolordffffccbr
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordffffff
+                      tr
+                        td colspand aligndcenter 
+bgcolordacbfont facedverdana arial helvetica 
+sansserif sized colorddplease fill out the form below 
+for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sized facedarial helvetica sansserif 
+colorddnamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sized facedarial helvetica sansserif 
+colorddemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sized facedarial helvetica sansserif 
+colorddphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sized facedarial helvetica sansserif 
+colorddcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sized facedarial helvetica sansserif 
+colorddstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedcustsrvfulldisclosurecom
+                          input typedhidden namedhdnsubjecttxt 
+valuedblease insuranceiq ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            nbsptd
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anybody
+        to receive our mailings who does not wish to receive them this 
+is professional
+        communication sent to insurance professionals to be removed 
+from this
+        mailing list bdo not replyb to this message instead go 
+here a hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetabr
+        a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafontp
+    td
+  tr
+table
+body
+html
+
+nextparteacb

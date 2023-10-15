@@ -1,0 +1,95 @@
+
+html
+body
+
+table widthd aligndcenter
+tr
+
+td bgcolordffff
+p aligndcenter
+b
+font facedwebdings colordff sized
+h
+font
+b
+p
+td
+
+td bgcolordffff
+p aligndcenter
+bfont sized facedarial colordff fixed ratef
+ontb
+p
+td
+
+td bgcolordffff
+p aligndcenter
+b
+font facedwebdings colordff sized
+h
+font
+b
+p
+td
+
+tr
+table
+
+br
+
+table widthd aligndcenter
+tr
+
+td aligndcenter
+p aligndcenter
+bfont facedarial sized colordffrates have fallen aga
+infontb
+p
+p aligndcenter
+bfont facedarial sized colordffdo not miss outfo
+ntb
+p
+p aligndcenter
+bfont sized facedarial colordlet banks compete for
+ your
+businessfontb
+p
+p aligndcenter
+bfont sized facedarialall credit welcomefont
+p
+
+p aligndcenter
+font sized facedarial colordff
+a hrefdhttpmorhtmclick here now for details
+a
+p
+font
+
+brbrbrbrbrbrbrbr
+
+p aligndcenter
+font sized facedarial colord
+br
+a hrefdmailtogoodhrtaolcomclick herea to unsubscribe from t
+his mailing list
+br
+p
+font
+
+brbrbrbrbrbrbrbrbrbrbrbrbrbrbrbr
+
+body
+pppppppppp
+
+
+
+
+
+
+bodypppppppp
+body
+html
+
+
+
+

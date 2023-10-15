@@ -1,0 +1,10 @@
+htmlheadtitlefree card searchtitle
+meta httpequivcontenttype contenttexthtml charsetiso
+headbody bgcolordiv aligncenter
+a hrefhttpmbfceefdfcard
+img srchttpmbfceefdfcardadnewfcardjpg width height bordera 
+divtable width border cellpadding cellspacing aligncenter
+trtd colspan alignleftbrfont colorwhite size facearial
+sincerelybrbyour new offers staffbbrfont
+font sizea hrefmailtomontagebtamailnetcnsubjectremoveremoveafont
+tdtrtablebodyhtml

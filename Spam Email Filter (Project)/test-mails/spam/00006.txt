@@ -1,0 +1,388 @@
+cpurf
+
+html
+
+head
+meta httpequivdcontenttype contentdtexthtml charsetdbig
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+					
+					
+					
+					
+					
+					
+					
+titletitle
+head
+
+body backgrounddsmartbafahgif
+
+form methoddpost actiondhttpwwwxlinecomtwfmfmphpfd
+  methoddpost
+input typedhidden namedsob  valuedabaqbv
+p aligndcenterifont facedbsbdafacebspan sty
+ledletterspacing ptfont colordff sizedbzcda
+bacefontfont colordff sizeduspan langdenus
+font facedbsbdaface colordff sizedf
+ontspanufontspan langdenusfont colordff sized
+aabaabhaceadbdc     
+fontfont colordff sizednbspfontspanspan
+bfontip
+p aligndcenterbspan styledmsoasciifontfamily times new ro
+manfont facedbsbdaface sized colordffb
+saqbvancvfontfont facedbsbdaface colord
+ff sizedaecanadccofontspanbp       
+     
+  p aligndcenterspan styledmsoasciifontfamily times new rom
+anfont sized facedbsbdafacebnbspbfont
+spanbspan styledmsoasciifontfamily times new romanfont fa
+cedbsbdaface colord sizedadabeb
+cfccbfontspanfont facedbsbdaface colord
+ sizedspan langdenus             
+  x spanspan styledmsoasciifontfamily times new romanabha
+ceadaqbvspanspan langdenus                              
+                                     
+  x  d auspanspan styledmsoasciifontfamily times new 
+romanaddaebaqaeaavboacespanfontbp        
+          
+  p classdmsonormal aligndcenter styledtextaligncenterfo
+nt facedbsbdafacefont colordspan styled
+msobidifontsize pt msofareastfontfamily bcdbace
+ letterspacing ptnbspnbspnbspnbspnbspnbspnbspb
+  font sized 
+   xfontb                  
+  spanfontbspan styledmsobidifontsize pt msofareast
+fontfamily bcdbace letterspacing pt langdenus
+ifont colord sizedfontispanfont colord
+ sized facedbsbdafacespan styledmsobi
+difontsize pt msofareastfontfamily bcdbace color
+ black letterspacing pt langdenus 
+  span langdenus styledfontsizept                
+msobidifontsizeptmsofareastfontfamilybcdbacecolo
+rblackletterspacing            
+pt x dspanspanfontfont colordffispan la
+ngdenus styledmsobidifontsize pt msofareastfontfamily
+ bcdbace letterspacing ptfont sizedfon
+tspanifont sizedspan styledmsobidifontsize pt 
+msofareastfontfamily bcdbace letterspacing pt langd
+enusop            
+  span langdenus styledmsobidifontsize pt msofareastf
+ontfamily bcdbace letterspacing pt             
+  akaaaeaqaea                  
+  spanspanfontfontbfontbspan langdenus styled
+msobidifontsize pt msofareastfontfamily bcdbace
+ color black letterspacing pt            
+  font colord facedbsbdaface            
+  op            
+  font            
+  spanbp            
+p aligndcenterbspan styledmsobidifontsize pt msofar
+eastfontfamily bcdbace letterspacing pt msofontker
+ning pt msoansilanguage enus msofareastlanguage zhtw msob
+idilanguage arsafont facedbsbdafacefont colord
+ x   
+fontfont  font facedbsbdaface colord s
+ized   
+ii ispan langdenus styledmsobidifontsize pt fon
+tfamily times new roman msofareastfontfamily bcdbace l
+etterspacing pt msofontkerning pt msoansilanguage enus 
+msofareastlanguage zhtw msobidilanguage arsaspanifont
+ spanspan langdenus styledmsobidifontsize pt fontf
+amily times new roman msofareastfontfamily bcdbace colo
+r black letterspacing pt msofontkerning pt msoansilangua
+ge enus msofareastlanguage zhtw msobidilanguage arsa font 
+facedbsbdaface colord x dfontspan
+bfont facedbsbdaface sized colordff
+bspan langdenus styledfontsize pt msobidifontsize 
+pt msofareastfontfamily bcdbace letterspacing pt
+ispan styledmsobidifontsize pt msofareastfontfamily bc
+dbace letterspacing ptspanispanbfonts
+pan styledmsobidifontsize pt msofareastfontfamily bcdb
+
+ ace letterspacing pt msof
+tkerning pt msoansilanguage enus msofareastlanguage zhtw 
+msobidilanguage arsabfont facedbsbdaface colord
+ff sizedakabbaeaqaeafontbspanp class
+dmsonormal aligndcenterbfont facedbsbdaface
+span styledmsoasciifontfamily times new romanbdfaauaac
+afaaecfboacbaedadeancvaafcbaa   
+ spanfontbp               
+p classdmsonormal aligndcenterspan styledmsoasciifontfam
+ily times new romanbfont facedbsbdafaceaynbsp
+nbspnbsp 
+fontbspanbfont facedbsbdafacespan styled
+msobidifontsize pt msofareastfontfamily bcdbace
+ letterspacing pt msofontkerning pt msoansilanguage enus
+ msofareastlanguage zhtw msobidilanguage arsafont colord
+ xfontspanfontbfont facedbsbdafa
+cebfont facedbsbdaface colord sized
+span styledmsobidifontsize pt msofareastfontfamily bc
+dbace letterspacing pt msofontkerning pt msoansi
+language enus msofareastlanguage zhtw msobidilanguage arsa
+     
+ spanfont sizedspan styledmsobidifontsize pt msof
+areastfontfamily bcdbace letterspacing pt msofontk
+erning pt msoansilanguage enus msofareastlanguage zhtw mso
+bidilanguage arsa 
+ii ispan langdenus styledmsobidifontsize pt fon
+tfamily times new roman msofareastfontfamily bcdbace l
+etterspacing pt msofontkerning pt msoansilanguage enus 
+msofareastlanguage zhtw msobidilanguage arsaspanispan
+fontfontfont sizedspan styledmsobidifontsize pt
+ msofareastfontfamily bcdbace letterspacing pt mso
+fontkerning pt msoansilanguage enus msofareastlanguage zh
+tw msobidilanguage arsaspan langdenus styledmsobidifont
+size pt fontfamily times new roman msofareastfontfamily bc
+dbace color black letterspacing pt msofontkerning 
+pt msoansilanguage enus msofareastlanguage zhtw msobidilan
+guage arsa
+spanspanfontspan langdenus styledmsobidifontsize 
+pt fontfamily times new roman msofareastfontfamily bcdba
+ce color black letterspacing pt msofontkerning pt mso
+ansilanguage enus msofareastlanguage zhtw msobidilanguage ar
+safont colorddfontspanfont colordff siz
+edspan langdenus styledfontsize pt msobidifontsi
+ze pt msofareastfontfamily bcdbace letterspacing 
+ptispan styledmsobidifontsize pt msofareastfontfam
+ily bcdbace letterspacing ptspanispan
+fontbfontp             
+p classdmsonormal aligndcenterbispan styledmsobidifon
+tsize pt msofareastfontfamily bcdbace letterspaci
+ng pt langdenusfont facedbsbdaface colord
+ sizeddfontspanibp         
+   
+p classdmsonormal aligndcenterfont colordff facedb
+sbdafacebspan langdenus styledfontsize pt 
+msobidifontsize pt msofareastfontfamily bcdbace 
+letterspacing ptispan styledfontsize pt msobidifont
+size pt msofareastfontfamily bcdbace letterspacin
+g ptbcaaddaebayaicbbzacdauabsp
+anispanbfontp            
+p classdmsonormal aligndcenterspan styledmsospacerun yes
+ langdenusbfont colordfffont facedbsbdafa
+ce sizedancvaqbuabaaabeaqaadaddaeba
+caebbccaccbcbaacbfontfont facedbsbdafac
+e sizedfontfont facedbsbdaface sized
+abfontfontbspanp            
+p classdmsonormal aligndcenterspan styledmsospacerun yes
+ langdenusbfont facedbsbdaface colord
+ sizedatabbahcubfbmaedadbzbfefbedc
+fontbspanp            
+p classdmsonormal aligndcenterspan styledmsospacerun yes
+ langdenusfont facedbsbdaface colordbd
+dbfabauacaaedaeeaafontspanfont colord
+ facedbsbdafaceadaadccbnacbbzbhaa
+fafbdbdaabeaaecaceadbddaedbbbz
+ainbspnbspnbspnbsp fontp            
+p aligndcenterfont facedbsbdaface sizedfon
+t colordffnbspnbspnbspfontb
+ acebqacabmadfbnbspnbsp bafapajb
+fontp                                                                
+
+  div aligndcenter            
+    center            
+    input typedhidden valued abaqbv namedsob
+    table heightd cellspacingd cellpaddingd widthd
+ bgcolord borderd
+      tbody
+        tr bgcolordffffff
+          td widthd heightd
+            table widthd borderd
+              tbody
+                tr
+                  td widthdfont sizedbamawagb
+fonttd
+                  td widthdbfont facedbsbdaface
+input sized namednamefontbtd
+                  td widthdfont sizedbacaao b
+fonttd  
+                  td widthdfont facedbsbdaface
+nbspinput typedradio checked valuedak namedraknbs
+pnbspnbspnbspnbspnbspnbspnbspnbsp   
+                    input typedradio valuedak namedra
+knbspnbspfonttd
+                tr
+                tr
+                  td widthdfont sizedbafont faced
+bsbdafacecdagfontbfonttd
+                  td widthdfont facedbsbdaface
+input sized namedagenbspnbspnbspfonttd
+                  td widthdfont facedbsbdaface
+bfont sized
+  cbebfont bfonttd   
+                  td widthdfont facedbsbdaface
+input sized namedoccfonttd
+                tr
+                tr
+                  td widthdfont sizedbnbspemailag
+bfonttd
+                  td widthdfont facedbsbdaface
+input sized namedmailfonttd
+                  td widthdfont sizedbbqbdcagb
+fonttd
+                  td widthdfont facedbsbdaface
+webbot
+                    botdvalidation sdatatypednumber
+                    snumberseparatorsdx input sized name
+dtelfonttd
+                tr
+                tr
+                  td widthdfont sizedbaaaagb
+fonttd
+                  td widthd colspandfont facedbsbd
+afaceinput sized nameduemailfonttd
+                tr
+                tr
+                  td widthd colspandfont facedbsbd
+aface sizedbabhaceadcbibccagbfontn
+bsp   
+                    font facedbsbdafaceselect sized
+ namedd            
+    option valued  biabhacead selectedabaeab
+biabhaceadoption            
+    option valued  biabhaceadabaeabbiabha
+ceadoption            
+    option valued  biabhaceadabaeabbiabha
+ceadoption            
+    option valuedbiabhaceadahawabbiabhacea
+dahawoption            
+  selectfonttd
+                tr
+                tr
+                  td widthd colspandfont facedbsbd
+aface sizedbadabfabhaceadaacbabdb
+ccbaaacbagnbspnbsp   
+                    bfontfont facedbsbdafacesel
+ect sized namedd                                              
+                  
+    option valuedcbabdaebu selectedcbabdaba
+eabbuoption            
+    option valuedcbabdaebucbabdabaeab
+buoption            
+    option valuedcbabdaebucbabdabaeab
+abbuoption            
+    option valuedcbabdaebucbabdababae
+ababbuoption            
+    option valuedcbabdaebucbabdababae
+ababbuoption            
+    option valuedcbabdbuahawcbabdababbu
+ahawoption            
+  selectfonttd
+                tr
+                tr
+                  td widthd colspandfont facedbsbd
+aface sizedb
+  bfdancvaafcb bfontfont facedbsbdaface
+select sized namedd                                        
+                           
+    option valuedcvcdaebu selectedcvcdaba
+eabbuoption            
+    option valuedcvcdaebucvcdabaeab
+buoption            
+    option valuedcvcdaebucvcdabaeab
+abbuoption            
+    option valuedcvcdaebucvcdababae
+ababbuoption            
+    option valuedcvcdaebucvcdababae
+ababbuoption            
+    option valuedcvcdbuahawcvcdababbu
+ahawoption            
+  selectfonttd
+                  td widthd colspandfont facedbsbd
+aface sizedb cpbbbzbccaceaecbaag
+bfontfont facedbsbdafaceselect sized named
+d                                
+    option valuedbaaiah selectedbaaiahoption    
+        
+    option valuedawacawacoption            
+    option valuedauacauacoption           
+    option valuedbdfawbdfawoption            
+  selectfonttd
+                tr
+                tr
+                  td widthd colspandfont facedbsbd
+afacebfont sizedacoabbfbfecblancvnbsp
+nbsp       
+  input typedradio valuedno namedraabbf nbspnbsp
+nbspnbspnbspnbspnbsp 
+                    input typedradio valuedyes namedrbbf
+bfecbl webbot
+                    botdvalidation sdatatypednumber
+                    snumberseparatorsdx input sized name
+dbkbbcaefontbnbspnbspfont
+                  td
+                tr
+                tr
+                  td widthdfont sizedbbcbfag
+bfonttd
+                  td widthd colspandfont facedbsbd
+afacewebbot
+                    botdvalidation sdatatypednumber
+                    snumberseparatorsdx input sized name
+dpsfont
+                  td
+                tr
+                tr
+                  td widthd colspand
+                    p aligndcenterfont facedbsbdafac
+einput typedreset valuedadabbf namedadabbf
+nbspnbspnbspnbspnbspnbsp 
+                    input typedsubmit valuedadabfanafa
+i namedsmartabhacead 
+                    fonttd
+                tr
+              tbody
+            table
+            p aligndcenterfont facedbsbdafacefo
+nt colordff sizednbspnbspnbspnbspnbsp           
+    
+            fontfont sizedubaxbfont colordff
+bcbeabaafontaaayaaedadcaaabhaxco
+bufontfontp
+          td
+        tr
+        form
+      tbody
+    table
+    center            
+  div            
+form            
+pap
+script            
+script            
+script languagedjavascript                                         
+                                  
+function norightclickevnt                                             
+                               
+if navigatorappnametouppercasematchnetscape d null        
+                                                                    
+if evntwhich dd alertadnbladabbdbacvaac r
+eturn falseelse                                                       
+                    
+if eventbuttonddalertadnbladabbdbacvaac  
+                                                                         
+ 
+documentonmousedown d norightclick                                   
+                                        
+script            
+            
+p               
+            
+body            
+            
+html
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

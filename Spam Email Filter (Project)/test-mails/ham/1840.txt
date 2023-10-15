@@ -1,0 +1,14 @@
+ tp  tim peters timonecomcastnet writes
+
+   first test results using tokenizertokenizertokenizeheaders
+   unmodified    second test results using
+   mboxtestmytokenizertokenizeheaders  this uses all headers
+   except received data and xfrom  
+
+  tp try the latter again but call the base tokenizeheaders too
+
+sorry  i havent found the time to try any more test runs  perhaps
+later today
+
+jeremy
+

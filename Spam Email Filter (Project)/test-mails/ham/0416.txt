@@ -1,0 +1,13 @@
+ for example take the recent cbc olympics site i needed to roll
+ together a telnet client with a tokenizer perlregex preprocessing a
+ stream to produce parseable xml project that xml into relational
+ databases using only the dtd to generate the rdbms schema and open an
+ xmlrpc interface to read and post items into the news stream  where
+ can i find c libs for those components
+
+you open sourced the new components you developed for this project so the
+next person who comes along wont have to reimplement them right
+
+ jim
+
+

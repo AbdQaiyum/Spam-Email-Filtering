@@ -1,0 +1,189 @@
+jeremy
+ the total collections are  messages  i trained with 
+ messages
+
+while thats not a lot of training data i picked random subsets of my
+corpora and got much better behavior this is ratespy output fp rate per
+run in left column fn rate in right
+
+training on datahamset  dataspamset   hams   spams
+         
+         
+         
+         
+training on datahamset  dataspamset   hams   spams
+         
+         
+         
+         
+training on datahamset  dataspamset   hams   spams
+         
+         
+         
+         
+training on datahamset  dataspamset   hams   spams
+         
+         
+         
+         
+training on datahamset  dataspamset   hams   spams
+         
+         
+         
+         
+total false pos  
+total false neg  
+
+another full run with another randomly chosen but disjoint  of each in
+each set was much the same  the score distribution is also quite sharp
+
+ham distribution for all runs
+   items
+    
+       
+       
+       
+     
+     
+      
+      
+      
+     
+     
+     
+      
+     
+     
+     
+      
+     
+     
+     
+     
+     
+     
+      
+     
+     
+     
+      
+     
+     
+     
+     
+     
+     
+     
+      
+     
+      
+     
+      
+
+spam distribution for all runs
+   items
+      
+      
+       
+       
+     
+      
+      
+      
+      
+      
+     
+      
+     
+      
+     
+     
+     
+     
+      
+      
+     
+     
+     
+     
+      
+     
+      
+      
+      
+     
+      
+     
+      
+      
+      
+      
+      
+      
+      
+   
+
+its hard to say whether you need better ham or better spam but i suspect
+better spam wink   of the  most powerful discriminators here were
+htmlrelated spam indicators the top  overall were
+
+        font  
+        contenttypetextplain  
+        body  
+        html  
+        click  
+        html  
+        wrote  
+        skip   
+        python  
+        contenttypetexthtml  
+
+the html tags come from nonmultipartalternative html messages from which
+html tags arent stripped and there are lots of these in my spam sets
+
+that doesnt account for it though  if i strip html tags out of those too
+the rates are only a little worse
+
+raining on datahamset  dataspamset   hams   spams
+        
+        
+        
+        
+raining on datahamset  dataspamset   hams   spams
+        
+        
+        
+        
+raining on datahamset  dataspamset   hams   spams
+        
+        
+        
+        
+raining on datahamset  dataspamset   hams   spams
+        
+        
+        
+        
+raining on datahamset  dataspamset   hams   spams
+        
+        
+        
+        
+otal false pos  
+otal false neg  
+
+the thstrongest discriminator still finds another html clue though
+
+        subjectpython  
+        money  
+        contenttypetextplain  
+        charsetusascii  
+        im  
+        contenttypetexthtml  
+        nbsp  
+        wrote  
+        python  
+        click  
+
+heh  i forgot all about nbsp
+

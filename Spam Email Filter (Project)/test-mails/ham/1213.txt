@@ -1,0 +1,118 @@
+exmhp
+contenttype textplain charsetusascii
+
+ from  scott lipcon slipconmerceanet
+ date  mon  sep   
+
+ chris 
+ 
+ im home now and this copy of exmh is pretty bad   im running from
+ cvs on sunday night  the only change since then was the one you made
+ this morning for bulletproofing in mhreadseqs
+ 
+ i run exmh and i can visably see it count up the number of unseen
+ messages as it looks through the folders  i have about  unseen
+ messages in maybe  or  folders    it takes a few seconds for all
+ of the folders in the fcache to turn blue  
+
+this is trueits now looking at more than just unseen so it takes a little 
+while in the background to build the sequences window  there is probably 
+some tuning possible in this area
+
+ in inbox i have  unread messages  they arent blue they are
+ white background with a normal colored font
+
+i changed the default display of unseen messages from a foreground of blue to 
+a background of white to make it possible to see what other sequences unseen 
+messages may be in  i did ask brent before i did it  if you like the old 
+behavior the old lines are still in appdefaultscolor but commented out
+
+ if i click on a message i get the following traceback
+ 
+ invalid command name mhmarkseen
+     while executing
+ mhmarkseen exmhfolder msgid
+     procedure hookmsgshowupdateunseen line 
+     invoked from within
+ cmd mhprofilepathexmhfoldermsgid mimehdr
+     procedure msgshow line 
+     invoked from within
+ msgshow msgid
+     procedure msgchange line 
+     invoked from within
+ msgchange  show
+     invoked from within
+ time list msgchange msgid show
+     procedure msgchange line 
+     invoked from within
+ msgchange msgnum show
+     procedure msgpick line 
+     invoked from within
+ msgpick lineno show
+     procedure ftocrangeend line 
+     invoked from within
+ ftocrangeend lindex split ftoct index current   
+     command bound to event
+
+this is because of your hookmsgshowupdateunseen which is calling a function 
+which no longer exists
+
+i suspect you need
+	seqdel exmhfolder unseen msgid
+now instead of 
+	mhmarkseen exmhfolder msgid
+
+ it appears that the message does get marked as seen though as it
+ loses the white background and nmh reports the same  
+ 
+ if i click the flist button it zeros the unseen count and then
+ there is again a visible delay as it counts up all the unseen 
+ messages  maybe  seconds
+ 
+ i really think my installation is ok now but if this behavior is just
+ really strange ill blow everything away and reinstall  im happy to
+ spend some time helping to track this down i dont really need exmh
+ im comfortable enough using nmh
+ 
+ scott
+ 
+ 
+ 
+ 
+ exmhworkers mailing list
+ exmhworkersredhatcom
+ httpslistmanredhatcommailmanlistinfoexmhworkers
+
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqejopkbhriuiraqayajtyutitfvpsdodixdacfyxbp
+vbkpoyrqjdmqmxewcm
+yk
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

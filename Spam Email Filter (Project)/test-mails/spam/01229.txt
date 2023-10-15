@@ -1,0 +1,75 @@
+html
+head
+titlepack your bagstitle
+head
+body bgcolor
+div aligncentercenter
+table border width bgcolorffffff bordercolor cellpadding
+cellspacing
+  tr
+    td width bgcolorfffftable border width bordercolor cellspacing cellpadding bgcolorffffff
+      tr
+        td width bgcolorffffp aligncenterfont faceverdanaembigbigbigmarquee
+        border behavioralternate scrollamount scrolldelaycongratulationsmarqueebigbigbigemfonttd
+      tr
+    table
+    td
+  tr
+table
+centerdiv
+hr
+div aligncentercenter
+table border width cellspacing cellpadding bordercolor
+bgcolorffffff
+  tr
+    td width bgcolorebatable border width bgcolorff
+    cellspacing cellpadding
+      tr
+        td width bgcolorffffffp aligncenterfont facecourier newstrongbigbigbigofficial
+        notificationbigbigbigstrongfonttd
+      tr
+    table
+    p aligncenterbigstrongfont faceverdanabigfont colorffhpshumhotmailcomfontbigbr
+    you have been specially selected to register for abr
+    floridabahamas vacationfontstrongbigp
+    table border width cellspacing cellpadding
+      tr
+        td widthfont faceverdana colorfonttd
+        td width bgcolorfffffftable border width bordercolor
+        cellspacing cellpadding
+          tr
+            td widthfont facearialstrongyou emwillem enjoystrongfontul
+              lifont facearial colorstrong days  nights of st class accomodationsstrongfontli
+              lifont facearial colorstrongvalid for up to  travelersstrongfontli
+              lifont facearial colorstrongrental car withbr
+	unlimited mileagestrongfontli
+              lifont facearial colorstrongadult casino cruisestrongfontli
+              lifont facearial colorstronggreat florida attractionsstrongfontli
+              lifont facearial colorstrongmuch much morestrongfontli
+            ul
+            td
+          tr
+        table
+        td
+        td width
+                p alignrightfont faceverdana colorstronga hrefhttpwwwfastwebsnetcombigclick herebigbr
+                  astronga hrefhttpwwwfastwebsnetcomsmallsmallsmalllimited availabilitysmallsmallsmallafont
+              td
+      tr
+    table
+  tr
+table
+centerdiv
+hr
+pnbspp
+pnbspp
+pnbspp
+pnbspp
+pnbspp
+p aligncentersmallfont faceverdanato no longer receive this or any other offer from us a hrefhttpwwwfastwebsnetcomremovehtmclick herea to unsubscribefontsmallp
+body
+html
+
+ bjkhtgbknkiys
+
+

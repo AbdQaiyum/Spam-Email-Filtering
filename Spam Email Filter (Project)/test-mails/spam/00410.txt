@@ -1,0 +1,250 @@
+this is a multipart message in mime format
+
+nextpartafcecbdff
+contenttype textplain
+	charsetiso
+contenttransferencoding quotedprintable
+
+
+ original message 
+from rathcairn
+to automail script  automail script  astraeaiolie  cse tobin  
+arabenhotmailcom  aofarachaintinetie  
+aofarachaineircomnet  anthony gorman  annmari bergkvist  annemarie 
+meehan  annemarie mcdonnell  annearabiacom  anna swelund  anna 
+ni thuama  ann faherty  anewloanmailru  andy plunkett  andrew 
+delany  andrea nic oscair  an fhiontarlann  amurtaghtinetie  
+amanda ned ghuidhir  alshotmailcom  alphafuncncom  allen 
+moira  allen carberry  alexdoyleieibmcom  alan mcgowan  alain 
+civel  aishling ned raghallaigh  cine meire ned choileein  
+aine guilfoyle  ailinnichuirucdie  ailedn ned hdgein  aileen 
+omeara rte  advisorphysiciansblendnet  adshwebekkerscomau  
+adrianesatclearie  admin  ade kallas  adare productions  
+abqewvbgfiinetnetau  aayahoocom  
+acrotherslooksmartcomau  okyumhjnmsncom  unidiplomamsncom 
+ gbvlljfsolvospbsu  daithi mac carthaigh  dgoru  
+dportugalmailcom
+cc wamscombr  activatede  bbbegenesyspt 
+ lukeuplinese
+sent tuesday may    pm
+subject cd nua do dhamhsaed cheiled
+
+
+a chara
+
+email gairid le cur in ifal duit faoi dhlfathdhiosca nua ate ar 
+feil dona damhsaed cheiled is coitianta i measc daoine fga
+
+te ceol ar dona damhsaed seo a leanas 
+
+ballaed luimned
+briseadh na carraige
+baint an fheir
+ionsaed na hinse
+port an fhfmhair
+cor na sedog
+reiced mhela
+tonnaed thoraed
+droichead ctha luain
+staicedn eorna
+seeinedn
+cor beirte
+shoe the donkey
+waltzes
+agus eile
+
+is feidir an cd a cheannach tredd wwwdamhsacom
+nf  
+
+le meas
+
+
+brian d broin
+
+
+nextpartafcecbdff
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+doctype html public wcdtd html  transitionalen
+htmlhead
+meta contentdtexthtml charsetdiso 
+httpequivdcontenttype
+meta contentdmshtml  namedgenerator
+stylestyle
+head
+body bgcolordffffff
+divnbspdiv
+div styledfont pt arial original message 
+div styledbackground eee fontcolor blackbfromb a
+hrefdmailtorathcairneircomnet 
+titledrathcairneircomnetrathcairna
+div
+divbtob a hrefdmailtonobodytinetie 
+titlednobodytinetieautomail
+scripta  a hrefdmailtonobodyeircomnet 
+titlednobodyeircomnetautomail
+scripta  a hrefdmailtoastraeaiolie
+titledastraeaiolieastraeaioliea  a 
+hrefdmailtoaasvtobionlineno
+titledaasvtobionlinenocse tobina  a
+hrefdmailtoarabenhotmailcom
+titledarabenhotmailcomarabenhotmailcoma  a
+hrefdmailtoaofarachaintinetie
+titledaofarachaintinetieaofarachaintinetiea  a
+hrefdmailtoaofarachaineircomnet
+titledaofarachaineircomnetaofarachaineircomneta  a
+hrefdmailtoanthonygormaneircomnet 
+titledanthonygormaneircomnetanthony
+gormana  a hrefdmailtoannmaribergkvistlhluthse
+titledannmaribergkvistlhluthseannmari bergkvista  a
+hrefdmailtoannemariemeehanbarnardosie
+titledannemariemeehanbarnardosieannemarie meehana  a
+hrefdmailtoannemariemcdonnellirelandcom
+titledannemariemcdonnellirelandcomannemarie mcdonnella  a
+hrefdmailtoannearabiacom
+titledannearabiacomannearabiacoma  a
+hrefdmailtoannaswelundericssoncom 
+titledannaswelundericssoncomanna
+swelunda  a hrefdmailtoannaglornangaelie
+titledannaglornangaelieanna ni thuamaa  a
+hrefdmailtoannfahertyesatclearie 
+titledannfahertyesatclearieann faherty
+a a hrefdmailtoanewloanmailru
+titledanewloanmailruanewloanmailrua  a
+hrefdmailtoplunkettgofreeindigoie 
+titledplunkettgofreeindigoieandy
+plunketta  a hrefdmailtodelanyacstcdie 
+titleddelanyacstcdieandrew
+delanya  a hrefdmailtonaiscoilardmhachacinniorg
+titlednaiscoilardmhachacinniorgandrea nic oscaira  a
+hrefdmailtofntrdanoceanfreenet titledfntrdanoceanfreenetan
+fhiontarlanna  a hrefdmailtoamurtaghtinetie
+titledamurtaghtinetieamurtaghtinetiea  a
+hrefdmailtoamandaeilehotmailcom 
+titledamandaeilehotmailcomamanda ned
+ghuidhira  a hrefdmailtoalshotmailcom
+titledalshotmailcomalshotmailcoma  a
+hrefdmailtoalphafuncncom 
+titledalphafuncncomalphafuncncoma
+ a hrefdmailtohillvieweircomnet 
+titledhillvieweircomnetallen moiraa
+ a hrefdmailtoacarberriolie titledacarberriolieallen 
+carberrya  a
+hrefdmailtoalexdoyleieibmcom
+titledalexdoyleieibmcomalexdoyleieibmcoma  a
+hrefdmailtoalanmcgowankerstenhunikie
+titledalanmcgowankerstenhunikiealan mcgowana  a
+hrefdmailtoamcivelclubinternetfr 
+titledamcivelclubinternetfralain
+civela  a hrefdmailtoaishlingreillyhotmailcom
+titledaishlingreillyhotmailcomaishling ned raghallaigha  a
+hrefdmailtosccmhiolie titledsccmhioliecine meire ned 
+choileeina  a
+hrefdmailtoaineguilfoylenuigalwayie 
+titledaineguilfoylenuigalwayieaine
+guilfoylea  a hrefdmailtoailinnichuirucdie
+titledailinnichuirucdieailinnichuirucdiea  a
+hrefdmailtoaileenhoganyahoocom 
+titledaileenhoganyahoocomailedn ned
+hdgeina  a hrefdmailtoomearaarteie 
+titledomearaarteieaileen
+omeara rtea  a hrefdmailtoadvisorphysiciansblendnet
+titledadvisorphysiciansblendnetadvisorphysiciansblendneta  a 
+
+hrefdmailtoadshwebekkerscomau
+titledadshwebekkerscomauadshwebekkerscomaua  a
+hrefdmailtoadrianesatclearie
+titledadrianesatclearieadrianesatcleariea  a
+hrefdmailtovdkpnjubiipostdk titledvdkpnjubiipostdkadmina 
+ a
+hrefdmailtoadecutee titledadecuteeade kallasa  a
+hrefdmailtoadareeircomnet titledadareeircomnetadare 
+productionsa  a
+hrefdmailtoabqewvbgfiinetnetau
+titledabqewvbgfiinetnetauabqewvbgfiinetnetaua  a
+hrefdmailtoaayahoocom
+titledaayahoocomaayahoocoma  a
+hrefdmailtoacrotherslooksmartcomau
+titledacrotherslooksmartcomauacrotherslooksmartcomaua  a 
+
+hrefdmailtookyumhjnmsncom
+titledokyumhjnmsncomokyumhjnmsncoma  a
+hrefdmailtounidiplomamsncom
+titledunidiplomamsncomunidiplomamsncoma  a
+hrefdmailtogbvlljfsolvospbsu
+titledgbvlljfsolvospbsugbvlljfsolvospbsua  a
+hrefdmailtodaithimaccarthaigheircomnet
+titleddaithimaccarthaigheircomnetdaithi mac carthaigha  a
+hrefdmailtodgoru titleddgorudgorua  a
+hrefdmailtodportugalmailcom
+titleddportugalmailcomdportugalmailcoma div
+divbccb a hrefdmailtowamscombr
+titledwamscombrwamscombra  a
+hrefdmailtoactivatede 
+titledactivatedeactivatedea  a
+hrefdmailtobbbegenesyspt
+titledbbbegenesysptbbbegenesyspta  
+a
+hrefdmailtolukeuplinese 
+titledlukeuplineselukeuplinesea
+div
+divbsentb tuesday may    pmdiv
+divbsubjectb cd nua do dhamhsaed cheileddivdiv
+divbrdiv
+divfont facedbookman old style sizeda charafontdiv
+divnbspdiv
+divfont facedbookman old style sizedemail gairid le cur in 
+ifal duit faoi
+dhlfathdhiosca nua ate ar feil dona damhsaed cheiled is 
+coitianta i measc daoine
+fgafontdiv
+divfont facedbookman old style sizedfontnbspdiv
+divfont facedbookman old style sizedte ceol ar dona 
+damhsaed seo a leanas
+fontdiv
+divnbspdiv
+divfont facedbookman old style sizedballaed 
+luimnedfontdiv
+divfont facedbookman old style sizedbriseadh na 
+carraigefontdiv
+divfont facedbookman old style sizedbaint an 
+fheirfontdiv
+divfont facedbookman old style sizedionsaed na 
+hinsefontdiv
+divfont facedbookman old style sizedport an 
+fhfmhairfontdiv
+divfont facedbookman old style sizedcor na 
+sedogfontdiv
+divfont facedbookman old style sizedreiced 
+mhelafontdiv
+divfont facedbookman old style sizedtonnaed 
+thoraedfontdiv
+divfont facedbookman old style sizeddroichead ctha 
+luainfontdiv
+divfont facedbookman old style sizedstaicedn 
+eornafontdiv
+divfont facedbookman old style sizedseeinednfontdiv
+divfont facedbookman old style sizedcor beirtefontdiv
+divfont facedbookman old style sizedshoe the 
+donkeyfontdiv
+divfont facedbookman old style 
+sizedwaltzesfontnbspdiv
+divfont facedbookman old style sizedagus eilefontdiv
+divnbspdiv
+divfont facedbookman old style sizedis feidir an cd a 
+cheannach tredd a
+hrefdhttpwwwdamhsacomwwwdamhsacomafontdiv
+divfont facedbookman old style sizednf  
+fontdiv
+divnbspdiv
+divfont facedbookman old style sizedle measfontdiv
+divnbspdiv
+divnbspdiv
+divfont facedbookman old style sizedbrian d 
+broinfontdiv
+divnbspdivbodyhtml
+
+nextpartafcecbdff
+

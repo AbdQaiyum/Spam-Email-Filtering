@@ -1,0 +1,44 @@
+i used async io on system v in the   time frame  i did it that
+way cause i thought it was cool to see if i could keep the tape
+spinning
+
+i can believe linux is catching up to this but some ability to do async
+io already existed in the unix world
+
+john hall
+ th ave ne
+kirkland wa 
+
+
+ original message
+ from forkadminxentcom mailtoforkadminxentcom on behalf of
+adam
+ l beberg
+ sent saturday august    pm
+ to forkexamplecom
+ subject gasp
+ 
+ red hat linux advanced server provides many high end features such
+as
+ support for asynchronous io now read io no longer needs to stall
+your
+ application while waiting for completion
+ 
+ could it be after  years without this feature unix finally catches
+up
+ to
+ windows and has io that doesnt totally suck for nontrivial apps no
+way
+ 
+ ok so they do it with signals or a flag which is completely ghetto
+but
+ at
+ least they are trying keep trying guys you got the idea but not the
+ clue
+ 
+  adam l duncan beberg
+   httpwwwmithralcombeberg
+   bebergmithralcom
+
+
+

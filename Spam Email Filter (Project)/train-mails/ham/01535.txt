@@ -1,0 +1,30 @@
+
+kenneth nerhood said
+
+ i too am seeing very weird things with  and awl  i  installed a
+ fresh system and then ran a bunch of test spam through it all from the
+ same user  all messages should have scored over   the awl kept
+ adjusting them down so that after about  message i had a negative
+ score  im using spamcd
+
+thats exactly what is intended the idea is that legit senders who
+habitually score just   will eventually get out of awl hell after
+ messages
+
+note that running a single spam through spamassassin a t will
+eventually whitelist the spammer  but thats why the man page tells you
+not to do it 
+
+j
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

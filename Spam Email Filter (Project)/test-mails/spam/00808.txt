@@ -1,0 +1,34 @@
+
+doctype html public wcdtd html  transitionalen
+meta namead contentlsxicg
+
+html
+head
+titlediscoverreg platinum clear cardtitle
+head
+map nameapply
+area shaperect coords hrefhttpwwwdealsweepscomcasplkemq
+map
+body bgcolorffffff
+img srchttpimgfreezecomhotnumbergif width height usemapapply border
+leftfont sizebrclick a hrefhttpwwwdealsweepscomcasplkemqherea to see information about the apr fees and other
+important informationfont
+disclaimer
+br
+center
+table width border cellspacing cellpadding aligncenter
+  tr
+    tdfont faceverdana arial helvetica sansserif sizebr
+      the preceding message was sent to you as an optin subscriber to dealsweeps
+      we will continue to bring you valuable offers on the products and services
+      that interest you most if you wish to unsubscribe please click here a hrefhttpwwwdealsweepscomremoveaspegibbsmidrangecomhttpwwwdealsweepscomremoveaspegibbsmidrangecomabr
+      fonttd
+  tr
+table
+img srchttpwwwdealsweepscomoaspscqem width height
+center
+gibbsmidrangecom
+disclaimerbody
+html
+
+

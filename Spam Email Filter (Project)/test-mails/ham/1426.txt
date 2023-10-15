@@ -1,0 +1,16 @@
+jmjmasonorg justin mason writes
+
+ actually i want to avoid that  ive already removed spamproxyd
+ from the distro for  heres why
+ 
+ when theyre in the distro we have to support them  which is
+ not necessarily a good thing when we didnt write them in the first
+ place or when the coder in question may not want us to maintain
+ them 
+
+i would be in favor of creating new spamassassin cvs modules and
+bugzilla categories for other clients provided there is sufficient
+interest and a maintainer
+
+dan
+

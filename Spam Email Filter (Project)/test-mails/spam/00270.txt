@@ -1,0 +1,77 @@
+
+doctype html public wcdtd html  transitionalen
+htmlheadtitlemaxim casino adtitle
+meta contenttexthtml charsetiso httpequivcontenttype
+meta contentmshtml  namegeneratorhead
+body alinkffffff backgroundhttpimagestilegif bgcolor 
+linkffffff textffffff vlinkffffff
+table aligncenter border bordercolorffcc cellpadding cellspacing 
+width
+  tbody
+  tr bgcolorfeb
+    td
+      div aligncentera 
+      hrefhttpperlplimg 
+      border height srchttpimagesmaxshowgirlgif 
+      widthadivtdtr
+  tr
+    td bgcolor height valigntop
+      table border cellpadding cellspacing width
+        tbody
+        tr
+          td height width
+            div aligncentera 
+            hrefhttpperlplimg 
+            border height srchttpimagestopmoneyjpg 
+            widthadivtd
+          td height width
+            div aligncentera 
+            hrefhttpperlplimg 
+            border height srchttpimageslogomaximgif 
+            widthadivtd
+          td height width
+            div aligncentera 
+            hrefhttpperlplimg 
+            border height srchttpimagestopmoneyjpg 
+            widthadivtdtr
+        tr
+          td colspan height
+            blockquote
+              p aligncenterfont colorff 
+              facearial helvetica sansserif sizea 
+              hrefhttpperlplfont 
+              colorfdclick here to get your free 
+              fontafontp
+              p aligncenterfont facearial helvetica sansserif 
+              sizeb maxim sportsbook and casino are proud to announce 
+              that you get up to  with every new casino and sportsbook account 
+              created bfontp
+              p aligncenterbfont facearial helvetica sansserif 
+              size we will also honour a free  night vacation for you 
+              and a loved one thats rightnot only do you get a fantastic 
+              betting account at a great book you also get a free vacation 
+              fontbp
+              p aligncenterbfont facearial helvetica sansserif 
+              sizesick of loosing money on casino games then dont be sick 
+              any more as maxim casino has one of the highest payouts in the 
+              industryfontbp
+              p aligncentera 
+              hrefhttpperlplimg 
+              border height srchttpimagesmoneyjpg 
+              widthapblockquote
+            div aligncenter
+            pbfont facearial helvetica sansserif sizea 
+            hrefhttpperlplmaxim 
+            sportsbook and casinoafontbp
+            pfont colorff facearial helvetica sansserif sizea 
+            hrefhttpperlplfont 
+            colorfclick here to get your free 
+            vacationfontafontpdivtdtrtbodytabletdtrtbodytable
+
+pfont size colorwhitethis email is not sent unsolicited you optedin with cnnsi you are receiving it because you requested to receive this email by optingin with our marketing partner you will receive notices of exciting offers products and other options however we are committed to only sending to those people that desire these offers if you do not wish to receive such offers 
+a hrefhttpperlunsubscribeplsbfont size color  yellowclick herefontba or paste the following into any browserp httpperlunsubscribepls brbrp to remove your email name from our list you may contact our company by mail at  se th street suite number  ft lauderdale fl p 
+img srchttpperlropenplserialno
+
+body
+html
+

@@ -1,0 +1,52 @@
+update of cvsrootspamassassinspamassassinrules
+in directory uswprcvstmpcvsservrules
+
+modified files
+	scorescf whitelistcf 
+log message
+fixed bug  r and w were not respecting autowhitelistpath
+
+index scorescf
+
+rcs file cvsrootspamassassinspamassassinrulesscorescfv
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ scorescf	 oct   	
+ scorescf	 oct   	
+   
+ score porngalleries                 
+ score ratwarelcoutlook             
+ score shortreceivedline            
+score safeguardnotice               
+score safeguardnotice               
+ score mailmanconfirm                
+ score significant                    
+ score ratwarediffond                
+
+index whitelistcf
+
+rcs file cvsrootspamassassinspamassassinruleswhitelistcfv
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ whitelistcf	 sep   	
+ whitelistcf	 oct   	
+   
+ 
+  friends reunited popular uk oldschoolnetwork
+ whitelistfromrcvd friendsreunitedcouk                 friendsreunitedcouk
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassincommits mailing list
+spamassassincommitslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassincommits
+
+

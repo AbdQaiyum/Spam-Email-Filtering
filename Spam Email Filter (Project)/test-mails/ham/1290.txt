@@ -1,0 +1,50 @@
+once upon a time hesty wrote 
+
+  where you can see 
+  available rpmbuild rebuild options 
+  with  alsa
+  without  aalib lirc libdv arts
+ 
+ does this mean when rebuilding the package ill
+ simply
+ type 
+  rpmbuild rebuild packagesrcrpm with alsa 
+
+yes it does and if youre missing the dependencies needed for the selected
+options youll even be informed for alsa youll need alsalibdevel for
+example
+
+  id like to aks this on the rpmzzzlist  would a new
+  dependency of k the
+  alsalib package for many packages mplayer ogle
+  xine be a problem for
+  the freshrpmsnet packages users as i really feel
+  like blending alsa in
+  now especially since ive just spent some time
+  recompiling alsakernel
+  package for all the psyche kernels
+  
+ 
+ ill have no problem at all with this and you get my
+ vote on this one 
+ 
+ one problem with alsakernel that ive experienced
+ everytime rh issues a new kernel update i have to
+ rebuild my alsakernel to match the new kernel
+
+yup unfortunately the alsakernel needs to be rebuilt for each kernel
+and theres no way of avoiding it
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

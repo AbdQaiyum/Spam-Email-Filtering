@@ -1,0 +1,60 @@
+doctype html public wcdtd html  transitionalen
+html
+
+
+
+body
+
+div aligndleft
+  table borderd cellpaddingd cellspacingd styledborder
+collapse collapse bordercolord widthd heightd i
+ddautonumber
+    tr
+      td widthd heightd valigndtop bgcolordebebeb
+      p aligndcenterbfont colord sizedshopping f
+or a loan 
+      has never been easierfontbp
+      p aligndcenternbspp
+      p aligndcenterfont colordget a free quote on a ne
+w first 
+      mortgage second mortgage or a credit line with no cost or obligati
+onfontp
+      p aligndcenterfont colordwe can help you get a gr
+eat loan 
+      regardless of your credit situationfontp
+      p aligndcenterfont colordits a great time to buy
+ or 
+      refinance your homefontp
+      p aligndcenterbfont colordwhether you want to
+fontbp
+      p aligndcenterfont colordbuy a new home  consoli
+date your 
+      debtsfontp
+      p aligndcenterfont colordrefinance to lower your 
+paymentsfontp
+      p aligndcenterfont colordtake some equity out of 
+your home 
+      for any reasonfontp
+      p aligndcenterbfont colordwe can helpfont
+bp
+      p aligndcenterfont colord sized
+      a hrefdhttpwwwmoneyhelpscomclick here and get a free quo
+teafontp
+      p aligndcenterfont colordbyou have nothing to l
+osebfontp
+      p aligndcenternbspp
+      p aligndcenterfont colord
+      a hrefdhttpwwwclikyoucomremovesdeptoffhtmto not recei
+ve this 
+      email again click hereafonttd
+    tr
+  table
+div
+
+body
+
+html
+
+
+
+

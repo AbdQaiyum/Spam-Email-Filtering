@@ -1,0 +1,156 @@
+html
+
+head
+meta httpequivcontentlanguage contentenus
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+meta httpequivcontenttype contenttexthtml charsetwindows
+titleanswerustitle
+head
+
+body linkff vlink alink
+
+pnbspp
+
+div aligncenter
+  center
+  table border cellpadding cellspacing stylebordercollapse collapse bordercolor width idautonumber height
+    tr
+      td width
+      p aligncenter
+      font facearialbr
+      a hrefhttpwwwansweruscomemailsanswerusredirecthtm
+      img border srchttpwwwansweruscomemailsanswerusemailjpg width heightap
+      hr width color noshade
+
+center
+    table border cellpadding cellspacing stylebordercollapse collapse bordercolorffffff width
+      tr
+        td width
+        p aligncenteru
+		font facearial size colordfabunlist informationb font
+        uptd
+      tr
+    table
+center
+
+center
+    table border cellpadding cellspacing stylebordercollapse collapse bordercolorffffff width height
+      tr
+        td width height
+        font facearial size colord
+		this message is brought to you by answeruscom in 
+		compliance with current federal laws to find out more about answeruscom visit
+        font
+        font colord size
+        a targetnewwin hrefhttpwwwansweruscomnew
+        font colordfa
+        a hrefhttpwwwansweruscomemailsanswerusredirecthtm
+        font colordfahttpwwwansweruscomfontafontafontfont colordfont facearial size 
+        you are receiving this mailing because you or someone you know has 
+        registered this email address to receive special offers from an answeruscom 
+        marketing partner screening of addresses has been done to the best of 
+        our knowledge we honor all unlist requests within  hours if you
+        have received this email in error we apologize for any inconvenience it 
+        has caused and will not mail further offers to you to be
+        unlisted from our database please do the 
+        following simplyfontfont size font font
+        ba hrefhttpwwwansweruscomunsubscribehtml
+        font size colord
+        font
+        font size colord
+        a hrefhttpwwwansweruscomemailsanswerusredirecthtm
+        font colordfaclick herefontafontafont size colordfa
+        font
+        b
+        font facearial size colord
+         if you have your mail forwarded to a new email address 
+        please provide your old email address
+        font
+        td
+      tr
+    table
+center
+
+center 
+    hr width color noshade
+center
+
+center
+    table cellspacing cellpadding width border stylebordercollapse collapse bordercolor height
+      tr
+        td width bgcolorwhite height border
+        nbsp
+        font
+      font faceverdana
+        table cellspacing cellpadding width border bordercolorb stylebordercollapse collapse height
+          tr
+            td width bgcolorwhite height border
+            p aligncenterfont colordfa sizeafontfont colordfa sizenswerfontfont colorb sizefontfont colordfa sizeusfontbfont color sizebr
+            fontfont colornationwidefontbp
+            font
+      font facearial
+            p aligncenter
+            b
+            font facearial helvetica sansserif colorb size
+            a hrefmailtosupportansweruscomfont colordfasupportansweruscomfontafontbfont colordfabr
+nbspfontptd
+          tr
+        table
+        td
+        td width bgcolorwhite heightnbsptd
+        td width bgcolorwhite height
+        p aligncenter
+        i
+        font facearialhelvetica colorb size
+        br
+        font
+      font facearialhelveticahelvetica color sizeour 
+        email campaigns have produced
+      staggering response ratesfontfont facearialhelveticahelvetica colordarkblue sizebr
+        font
+        font facearialhelvetica colordfabigbigfont sizeresponsive 
+      general or targeted managedfontnobrfont size email listsfontnobrbigbigfontfont sizefont colordfa
+      font
+        font colorffce
+        br
+      font
+        font
+        font facearial sizefont color
+      visitfontfont colorba hrefhttpwwwansweruscomemailsanswerusredirecthtm
+        font colordfa
+      b
+        wwwansweruscombfontafontbfont colordfa
+        fontabfont colortodayfontfontfont facearialhelvetica color size
+        fontiptd
+      tr
+    table
+center
+
+center
+    table cellspacing cellpadding width border stylebordercollapse collapse bordercolorb height
+      tr
+        td width bgcolordfa height border
+        p aligncenter
+        b
+        font faceverdanaarialhelvetica colorffffff sizecopyright 
+          answeruscom all rights reserved font
+        bp
+        td
+      tr
+    table
+centerfont
+      td
+    tr
+  table
+  center
+div
+
+p
+nbspp
+
+body
+
+html
+
+

@@ -1,0 +1,30 @@
+once upon a time roi wrote 
+
+ rpm build errors
+     user dude does not exist  using root
+     user dude does not exist  using root
+     user dude does not exist  using root
+     user dude does not exist  using root
+     user dude does not exist  using root
+
+this i would guess is normal but dont you get it at the very beginning of
+the build isnt this at the end just a reminder
+
+     file not found vartmpxinerootusrbinaaxine
+
+argh i forgot to exclude aaxine from the files when using without
+aalib 
+the current fr spec file fixes this
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel acpi
+load    
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

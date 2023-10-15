@@ -1,0 +1,22 @@
+once upon a time michl wrote 
+
+ has anyone made a working source rpm for dvdrip for red hat 
+
+i dont think ive tried yet but if i did i probably moved on to another
+package after having bumped into one of the problems you mention
+
+if anyone sends me a patch to my spec file and eventually needed patches
+etc id be more than glad to make a new build available
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel acpi
+load    
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

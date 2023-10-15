@@ -1,0 +1,398 @@
+doctype html public wcdtd html  transitionalen
+html
+head
+   meta httpequivdcontenttype contentdtexthtml charsetdiso
+
+   meta namedgenerator contentdmozilla en windows nt  
+u netscape
+   titlespecialized acquired email addressestitle
+head
+body textd bgcolordffffff linkd vlinkd
+ alinkdff
+nbsp 
+center
+  table borderd cellspacingd cellpaddingd widthd bgcolord
+ 
+    tr 
+      td widthdfont colordccfontnbsptd
+      td heightd bgcolordffnbsptd
+      td widthdnbsptd
+    tr
+    tr 
+      tdnbsptd
+      td aligndcenter valigndcenter heightd bgcolordff
+ 
+        center
+          table borderd cellspacingd cellpaddingd widthd 
+
+            tr 
+              td widthd heightdtd
+              td widthd heightd bgcolordffffff valignd
+top 
+                div aligndcenterfont facedverdana arial helvet
+ica sansseriffont colordfffffffont sized colord
+to 
+                  be deleted from our mailing list send us an email messa
+ge to 
+                  a hrefdmailtonotodayexcitecombmailtono
+todayexcitecombafontbr
+                  font sized colordwith the words br
+emovemeb 
+                  in the subject headingfontfontfontdiv
+              td
+              td widthdtd
+            tr
+            tr 
+              td widthdfont facedarial helvetica sansserif 
+sizedfonttd
+              td widthd heightd bgcolordffffff valigndt
+op 
+                table widthd borderd cellspacingd cellp
+addingd
+                  tr 
+                    td widthd heightd 
+                      p aligndcenterfont facedarial helvetica 
+sansserif sized colordffbdont 
+                        delete this message before reading you will fin
+d valuable 
+                        information that could make a difference in how yo
+u advertise 
+                        your business today and in the futurebfont
+p
+                    td
+                  tr
+                  tr 
+                    td widthd heightd 
+                      pfont facedarial helvetica sansserif sized
+ colordccbr
+                        hi my name is daniel and i have been involved in 
+internet 
+                        marketing since its inception emarketing provide
+s individuals 
+                        and businesses with a low cost solution for broad
+based 
+                        advertisingfontp
+                    td
+                  tr
+                  tr 
+                    td widthd heightd 
+                      pfont facedarial helvetica sansserif sized
+ colordccbr
+                        if you are new to this concept do not fret i was 
+too 
+                        it took me over  years of research by scowering t
+he internet 
+                        dealing with false claims hassling with the soc
+alled 
+                        quotbulkmail specialistsquot experiencing the
+ trials 
+                        and errors quotbogusquot software programs and
+ false 
+                        claims they make to truly understand the ins amp
+ outs 
+                        of marketing concepts and principles of email mark
+etingfontp
+                    td
+                  tr
+                  tr 
+                    td widthd heightd 
+                      ul
+                        lifont facedarial helvetica sansserif si
+zedbthese 
+                          processes are time consuming resource intensive
+ frustrating 
+                          and potentially expensive for individuals and co
+mpanies 
+                          to do on their ownbfontli
+                      ul
+                    td
+                  tr
+                  tr 
+                    td widthd heightd 
+                      ul
+                        lifont facedarial helvetica sansserif si
+zed colordlets 
+                          face it most people in business want to make mo
+ney 
+                          their time is consumed by running their business
+ developing 
+                          marketing campaigns and advertisement cashing c
+hecks 
+                          dealing with customers managing their staff and
+ so 
+                          onfontli
+                        lifont facedarial helvetica sansserif si
+zed colordthey 
+                          dont have time to invest in learning  or  d
+ifferent 
+                          software applications learn how to effectively 
+port 
+                          scan for ips socks and smtp relays spend thous
+ands 
+                          of dollars for quotthe bestquot software app
+lications 
+                          spend hours testing applications for the best re
+sults 
+                          or for that matter spending  or more years to 
+learn 
+                          what someone else has already masteredfont
+li
+                      ul
+                    td
+                  tr
+                  tr 
+                    td widthd heightd 
+                      ul
+                        lifont colordccbfont facedarial
+ helvetica sansserif sizedif 
+                          you are interested in increasing your effectiven
+ess 
+                          with email marketing increasing your client bas
+e maximizing 
+                          your target market or boosting you revenue in a 
+specific 
+                          area or geographic territory then this is were 
+we can 
+                          helpfontbfontli
+                      ul
+                    td
+                  tr
+                  tr 
+                    td widthd heightd 
+                      blockquote 
+                        pfont facedverdana arial helvetica sanss
+eriffont sizedbto 
+                          find out more send request bwith the words 
+bfont colordfftell 
+                          me morefontb in the subject line or body 
+tob 
+                          bbfont facedverdana arial helvetica 
+sansseriffont sizeda hrefdmailtohhmiyaharaexcitecommailt
+ohhmiyaharaexcitecomafontfontbfontfontp
+                      blockquote
+                    td
+                  tr
+                  tr 
+                    td widthd heightd 
+                      ul
+                        lifont facedarial helvetica sansserif si
+zed colordcclcm 
+                          provides simple effective lowcost solutions f
+or those 
+                          interested in broadbased marketing by utilizin
+g special 
+                          customdesigned software applications we are ab
+le to 
+                          provide broadbased delivery of your advertiseme
+nts 
+                          to millions of people all over the worldfont
+li
+                      ul
+                    td
+                  tr
+                  tr 
+                    td widthd heightd 
+                      div aligndcenterfont facedarial helvetica
+ sansserif sizedbfont sized colordffwe 
+                        are probably one of the most important assets you 
+will 
+                        needfontfont sized fontb font
+div
+                    td
+                  tr
+                  tr 
+                    td widthd heightd 
+                      ul
+                        lifont facedarial helvetica sansserif si
+zed colordccwhether 
+                          you are trying to promote to  or 
+ consumers 
+                          individuals andor businesses we can assist you
+ in 
+                          launching a successful marketing campaign that c
+an potentially 
+                          generate increased revenue sales and customers
+fontli
+                      ul
+                    td
+                  tr
+                  tr 
+                    td widthd heightd 
+                      ul
+                        lifont facedarial helvetica sansserif si
+zed colordccwe 
+                          also specialize in the acquistion of targeted e
+mail 
+                          addresses our unique service is customized to f
+it your 
+                          needs these addresses are collected on a per re
+quest 
+                          basis which provides you with the most uptodat
+e list 
+                          of email addresses anywhere these addresses ar
+e not 
+                          months or years old they are collected on a p
+er request 
+                          basis in realtime which means they are the most 
+current 
+                          and uptodate addresses periodfontli
+                      ul
+                    td
+                  tr
+                  tr 
+                    td widthd heightd 
+                      ul
+                        lifont facedarial helvetica sansserif si
+zed colordccthe 
+                          average collection time is  working days for 
+up to 
+                           cities or categories all addresses are proces
+sed 
+                          cleaned stripped domain verified with foreign 
+domains 
+                          removed to provide you with clean deliverable e
+mail 
+                          addresses for the bestnbsppossible results for
+ your 
+                          campaignfontli
+                      ul
+                    td
+                  tr
+                  tr 
+                    td widthd heightd 
+                      blockquote 
+                        pfont facedverdana arial helvetica sanss
+eriffont sizedbto 
+                          find out more send request bwith the words 
+bfont colordfftell 
+                          me morefontb in the subject line or body 
+tob 
+                          bbfont facedverdana arial helvetica 
+sansseriffont sizeda hrefdmailtohhmiyaharaexcitecommailt
+ohhmiyaharaexcitecomafontfontbfontfontfont faceda
+rial helvetica sansserif sizedfontp
+                      blockquote
+                    td
+                  tr
+                  tr 
+                    td heightd widthd 
+                      ul
+                        lifont facedarial helvetica sansserif si
+zedevery 
+                          order is handled individually with the greatest 
+amount 
+                          of intregity to ensure clean quality addresses
+nbspunlike 
+                          many of your flyby night companies our product
+ is 
+                          qualitybr
+                          professional and current we can also be contact
+ed during 
+                          normal business hours to answer all of your ques
+tionsfontli
+                        lifont facedarial helvetica sansserif si
+zedwhether 
+                          you have an item to sell a philosophy to share 
+or a 
+                          way conduct surveys on a national scale email 
+marketing 
+                          provides you with the most inexpensive and broad
+est 
+                          targetbr
+                          of any other form of advertising in the world to
+dayfontli
+                      ul
+                    td
+                  tr
+                  tr 
+                    td widthd heightd 
+                      ul
+                        lifont facedarial helvetica sansserif si
+zedthis 
+                          form of marketing has been around since  and
+ has 
+                          grown to be one of the biggest moneymakers of bu
+siness 
+                          today and long into our future fontli
+                        lifont facedarial helvetica sansserif si
+zedthere 
+                          are many fortune  companies that participate 
+in this 
+                          form of advertising because it works just loo
+k at 
+                          your emails fontli
+                        lifont facedarial helvetica sansserif si
+zedby 
+                          placing your ad over the internet and directly i
+nto 
+                          the mailboxes of consumers just like you you ca
+n potentially 
+                          generate hundress of thousands of dollars with a
+lmost 
+                          anythingfontli
+                      ul
+                    td
+                  tr
+                  tr 
+                    td heightd widthd 
+                      ul
+                        lifont facedarial helvetica sansserif si
+zedevery 
+                          year the number of users increases tremendously 
+creating 
+                          a huge market why not become part of this unlim
+ited 
+                          market by participating in the fastest growing f
+orm 
+                          of advertising in the worldfontli
+                      ul
+                    td
+                  tr
+                  tr 
+                    td widthd heightd 
+                      blockquote 
+                        pfont facedverdana arial helvetica sanss
+eriffont sizedbto 
+                          find out more send request bwith the words 
+bfont colordfftell 
+                          me morefontb in the subject line or body 
+tob 
+                          bbfont facedverdana arial helvetica 
+sansseriffont sizeda hrefdmailtohhmiyaharaexcitecommailt
+ohhmiyaharaexcitecomafontfontbfontfontfont faceda
+rial helvetica sansserif sizedfontp
+                      blockquote
+                    td
+                  tr
+                table
+                div aligndcenterfont facedverdana arial helvet
+ica sansseriffont sizedbr
+                  to be deleted from our mailing list send us an email me
+ssage 
+                  to font facedverdana arial helvetica sansserif
+font colordfffffffont sizeda hrefdmailtonotodayexci
+tecombmailtonotodayexcitecombafontfontfont 
+                  with the words bremovemeb in the subject heading
+fontfontdiv
+              td
+              td widthd bgcolordfont facedarial hel
+vetica sansserif sizedfonttd
+            tr
+            tr 
+              td widthd heightd bgcolordcctd
+              td widthd heightd bgcolordtd
+              td widthd heightd bgcolordtd
+            tr
+          table
+        center
+      td
+      tdnbsptd
+    tr
+  table
+center
+
+body
+html
+
+
+

@@ -1,0 +1,18 @@
+hi
+
+matthias saou matthiasegwnnet wrote
+ my main concern is that when rebuilding the recent packages ive made
+ for psyche on valhalla id need to lower the release tag to keep an
+ upgrade working and that would fck up my cvs repository which is on
+ my valhalla box
+
+sorry i dont get it whats wrong with a release tag of fr
+
+ 
+do i look like a freakin people person
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

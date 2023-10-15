@@ -1,0 +1,136 @@
+
+html
+head
+titlebizmagoffertitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+body bgcolorffffff
+center
+table width border cellpadding cellspacing
+	tr
+		td colspan
+            h aligncenterbfont colorff faceverdanaknowledge is powerfontbh
+        td
+	tr
+	tr
+		td colspan
+            centerfont faceverdana colorff sizebso get yours at a savings up to bfontcenter
+        td
+	tr
+	tr
+		td colspan
+            centerfont faceverdana colorbon the top informative business magazinesbfontcenter
+        td
+	tr
+	tr
+		td colspan
+			img srchttpwwwglobalcomcreativesmagimagesbizmagjpg width heighttd
+	tr
+	tr
+		td colspan
+			img srchttpwwwglobalcomcreativesmagimagesbizmaggif width heighttd
+	tr
+	tr
+		td colspan
+            p aligncenterfont colorff faceverdana sizebnbsp
+            any
+             magazine nbspnbspnbspnbspnbsp bfonta hrefhttpwwwwwwmagazinecombuy targetblankfont colorff faceverdana sizedetailsfontap
+        td
+	tr
+	tr
+		td colspan
+            p aligncenterbfont colorff size faceverdanasmall price to
+            pay for the business edgefontbp
+        td
+	tr
+	tr
+		td colspan
+			img srchttpwwwglobalcomcreativesmagimagesbizmagjpg width heighttd
+	tr
+	tr
+		td colspan
+			img srchttpwwwglobalcomcreativesmagimagesbizmagjpg width heighttd
+	tr
+	tr
+		td rowspan width height
+            p aligncenterfont colorff faceverdana sizebnbsp
+            all
+             magazine  bfontp
+        td
+		td
+            font faceverdana size colorffa hrefhttpwwwwwwmagazinecombuy targetblankdetailsafonttd
+		td rowspan
+            font faceverdana size
+			img srchttpwwwglobalcomcreativesmagimagesbizmagjpg width heightfonttd
+	tr
+	tr
+		td
+            font faceverdana size
+			img srchttpwwwglobalcomcreativesmagimagesbizmagjpg width heightfonttd
+	tr
+	tr
+		td colspan
+			img srchttpwwwglobalcomcreativesmagimagesbizmaggif width heighttd
+	tr
+	tr
+		td colspan
+			img srchttpwwwglobalcomcreativesmagimagesbizmaggif width heighttd
+	tr
+	tr
+		td colspan
+            p aligncenterfont faceverdana sizean enormous selection of
+        magazines to choose frombr
+        always a deal in addition to our daily specials comebr
+        check us out atfontfont faceverdana size  a hrefhttpwwwmagazinecom targetblankbwwwwwwmagazinecombafonttd
+	tr
+	tr
+		td colspan
+        td
+	tr
+	tr
+		td colspandiv aligncenterbr
+  br
+  a href onclickselfclosefont facearialsizeclick here to close 
+  this windowfonta 
+  script  languagejavascript
+
+                                              
+
+                                            if navigatorappname  microsoft internet explorer  parseintnavigatorappversion  
+
+                                
+
+                                              function click 
+
+                                              if eventbutton 
+
+                                              openhttpwwwpointcomcomtop
+
+                                              
+
+                                              documentonmousedownclick
+
+
+
+                                
+
+                                               
+
+ script
+div
+center
+    font facetimes new roman times serif sizenote this is not a spam 
+    email this email was sent to you because your email was entered in on a website 
+    br
+    requesting to be a registered subscriber if you would would like to be removed 
+    from our listbr
+a hrefmailtoabuseglobalcomabuseglobalcomabrfont colorclick 
+  herefont to cancel your account and you will never receive another 
+  email from us font 
+center
+        td
+	tr
+table
+center
+body
+html

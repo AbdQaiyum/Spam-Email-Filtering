@@ -1,0 +1,37 @@
+tim
+ another area for potentially fruitful study  its clear that the
+ highestvalue indicators usually appear early in msgs and for spam
+ theres an actual reason for that  advertising has to strive
+ to get your attention early  so for example if we only bothered to
+ tokenize the first  of a msg would results get worse
+
+neil schemenauer
+ spammers could exploit this including a large mime part at the beginning
+ of the message  in pratice that would probably work fine
+
+note that timtestpys current tokenizer only looks at decoded text mime
+sections or raw message text if no mime exists spammers could put
+megabytes of other crap before that and it wouldnt even be looked at
+except that the email package has to parse nontext parts well enough to
+skip over them and tokens for the most interesting parts of contenttype
+disposition transferencoding decorations are generated for all mime
+sections
+
+schemes that remain ignorant of mime are vulnerable to spammers putting
+arbitrary amounts of nice text in the preamble area after the headers and
+before the first mime section which most mail readers dont display but
+which appear first in the file so are latched on to by grahams scoring
+scheme
+
+but i dont worry about clever spammers  ive seen no evidence that they
+exist  wink  even if they do the open source zoo is such that no
+particular scheme will gain dominance and theres no percentage for
+spammers in trying to fool just one scheme  even if they did for the kind
+of scheme were using here they cant know what nice text is not unless
+they pay a lot of attention to the spam targets and highly tailor their
+messages to each different one  at that point theyd be doing targeted
+marketing and the cost of the game to them would increase enormously
+
+ifyoureouttomakeaquickbuckyoudontwasteasecondonhard
+    targetsly yrs   tim
+

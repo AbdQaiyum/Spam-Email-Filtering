@@ -1,0 +1,116 @@
+i wish i could answer your question but my laptop does not have the digital stuff
+hooked up  so i so not know about it i have an excellent ess maestro which oss
+supports pretty lame so i was forced to learn about alsa
+
+i have used these commands to explore alsa and my chip
+
+arecord l   list devices
+arecord l   list pcm decices
+
+i get some output like this
+
+ arecord l
+card  maestro ess allegro pci device  allegro allegro
+  subdevices 
+  subdevice  subdevice 
+
+ arecord l
+pcm list
+ snip  craploads of output
+
+i noticed that the output from this commands kind of maps to what the alsamixer or
+gamix have
+
+for what it is worth here is what i have in modulesconf for my sound stuff
+
+  alsa portion
+ alias charmajor snd
+  ossfree portion
+ alias charmajor soundcore
+
+  alsa portion
+ alias sndcard sndmaestro
+  ossfree portion
+ alias soundslot sndcard
+
+  ossfree portion  card 
+ alias soundservice sndmixeross
+  bad alias soundservice sndseqoss
+ alias soundservice sndpcmoss
+  bad alias soundservice sndseqoss
+ alias soundservice sndpcmoss
+ 
+  alsa options optional
+ options snd sndmajor sndcardslimit snddevicemode
+ options sndmaestro sndindex sndidmaestro sndampgpio
+ 
+  oss options optional
+ alias sndcard off
+ alias sndcard off
+ alias sndcard off
+ alias soundslot off
+ alias soundservice off
+
+  preserve mixer settings
+ postinstall usrsbinalsactl restore maestro
+ preremove usrsbinalsactl store maestro
+ postinstall usrsbinalsactl restore
+ preremove usrsbinalsactl store
+
+hope that helps good luck
+
+
+lance lancettbellsouthnet wrote
+
+hello
+
+thanks for these rpms i removed the binary built from source targz
+and installed your srpm of gamix  one quick question is there a way to
+switch between digital out and analog out with the alsa driver and
+utilities or for that matter with gamix  i know with the oss drivers
+i was using it was as simple as emuconfig d for digital and
+emuconfig a for analog with the emutools package for sblive  i
+noticed there is sb live analogdigital output jack in alsamixer but
+havent figured out the key to use if this is the right control in
+mixer  also i tried to expand gamix to display all possible controls
+but it defaults back to wave and music  with lfe center surround
+and playback under wave this is how i control output of front and rear
+speakers for digital outsurround and playback  under music
+there are two controls but unresponsive  i have a tuner and cassette
+deck hooked up to an audiovideo switch that goes into line in on the
+soundcard  again with the oss drivers it was as simple as emuconfig
+d and emuconfig a  digital out for anything coming from the
+computer analog out for the tuner and cassette deck  i dont know if
+this is necessary to switch inbetween to get line in to work or not
+but an expansion of gamix would help where i could see all the
+controls
+
+any help would be greatly appreciated and thanks again for the gamix
+rpms
+
+kind regards
+
+lance
+
+
+ linux one stanza tip lost 
+
+sub  command line shortcuts clear                 lost 
+
+tired of typing in clear every time you want the screen to
+be cleared  press ctrll  this works for  most shells
+except for ash bsh and ksh
+
+rtorvivsnlnet
+
+
+
+
+thats angle as in geometry
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

@@ -1,0 +1,33 @@
+
+mike bostock said
+
+ received from tracking trackingrovingcom 
+ 	by ccmrovingcom postfix with esmtp id ed
+ 	for mikemydomaincouk sun  sep    edt
+ xmailer roving constant contact
+ patchcpcschedenhancement
+ httpwwwconstantcontactcom
+ 
+ is worthy of attention and a rule  if you go to their web site it
+ would appear that they are in the business of email mass marketing 
+ unfortunately their mailing to me got through spamassassin 
+
+interesting  i havent seen anything from these guys in about a year
+but looking at your hdr theyre still doing it
+
+ok come up with an xmailer rule that hits your mails and well put it
+in testing
+
+j
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

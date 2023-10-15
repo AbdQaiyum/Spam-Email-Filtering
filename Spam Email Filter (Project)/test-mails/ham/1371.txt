@@ -1,0 +1,21 @@
+once upon a time roi wrote 
+
+ mplayer works with dga if i am root and works with x
+ and always worked with sdl but not now with redhat 
+ now it gives black screen window and play the music of the movie
+
+strange because as i said in an earlier post it works for me maybe
+youre missing the sdlimage or something 
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel acpi
+load    
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

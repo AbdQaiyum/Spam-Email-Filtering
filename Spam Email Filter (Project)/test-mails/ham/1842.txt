@@ -1,0 +1,8 @@
+
+    guido why would we care about installing a few extra files as long as
+    guido theyre inside a package
+
+i guess you neednt worry about that  it just doesnt seem clean to me
+
+s
+

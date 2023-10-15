@@ -1,0 +1,77 @@
+heh rtfm sorry about that
+
+yep that did the trick
+
+thanks for the help
+
+regards
+paul fries
+paulcwienet
+
+original message
+from spamassassintalkadminexamplesourceforgenet
+mailtospamassassintalkadminlistssourceforgenet on behalf of
+vince puzzella
+sent thursday september    am
+to paul fries spamassassintalkexamplesourceforgenet
+subject re satalk  spamdspamc problem
+
+defangmime 
+
+original message
+from paul fries mailtopaulcwienet 
+sent thursday september    pm
+to spamassassintalkexamplesourceforgenet
+subject satalk  spamdspamc problem
+
+
+i noticed that after upgrading to  or  from  the f
+option was removed from spamd 
+
+this is fine because all of the html format mail seems to arrive
+properly however messages that get tagged as spam arrive as just html
+source
+
+is there any way around this i would like all htmlrtf messages to
+retain their formatting even if they are flagged as spam i would
+accomplish this on  by using the f  flag when starting spamd
+
+thanks
+
+regards
+paul fries
+paulcwienet
+cwie llc 
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf 
+spamassassintalk mailing list spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

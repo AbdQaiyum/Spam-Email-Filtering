@@ -1,0 +1,48 @@
+
+oacavkqrtzeicu
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on fri aug   at pm  sven willenberger wrote
+ to see all the options compiled into and version of sendmail try the
+ following line
+
+ echo z  pathtosendmail bt d
+
+gives you the same information as sendmail d  devnull which
+doesnt include milter information  actually the d part gives you the
+info the z gives you sendmail version out of the test mode bt so
+its slightly different but not really
+
+
+randomly generated tagline
+be warned that typing fbkillall finamefp may not have the desired
+ effect on nonlinux systems especially when done by a privileged user
+ from the killall manual page
+
+oacavkqrtzeicu
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqezppqauoquewasmrajbajxxndkbqqahbdobdfswmhasxacfxtzk
+pjldqiotsbukhuhgbo
+mtu
+end pgp signature
+
+oacavkqrtzeicu
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+

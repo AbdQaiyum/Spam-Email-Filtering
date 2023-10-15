@@ -1,0 +1,50 @@
+this is a multipart message in mime format
+it has been signed conforming to rfc
+youll need pgp or gpg to check the signature
+
+
+contenttype textplain charsetusascii
+
+
+on thu  sep   pdt siva doriaswamy writes
+recently my incoming mail or spool location moved to another disk
+im not quite clear how to reconfigure procmailrcvstoreexmh to accept
+mail from the new location
+
+how do you feed procmail not with a forward id guess
+
+how does mail enter your system anyway per fetchmail maybe or direct 
+ smtpdelivery or does it just magically hit your spool
+
+lotsa questions
+
+cheers
+rw
+ 
+ booze because one doesnt solve the worlds problems over white wine
+
+
+
+
+contenttype applicationpgpsignature namesignatureng
+contentdisposition inline filenamesignatureng
+contenttransferencoding bit
+
+begin pgp signature
+version gnupg v gnulinux
+
+iddbqedffenzsjroiratvlajdqnjwxkrcwpclwsmcuvjacfcf
+tcsfzzucvnlrvsegufubzu
+gx
+end pgp signature
+
+
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

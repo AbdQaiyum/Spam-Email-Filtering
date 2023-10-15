@@ -1,0 +1,152 @@
+hello all
+firstly id like to thank all of you for the fast and very helpful feedback
+that i got to my question today  i have one more question though  i
+downloaded the w and url files from the server at the first try thanks to
+the help that i received today  then though i tried to build them  i
+started by trying the w program  i used the following lines which produced
+some strange results  would any one be able to set me straight
+
+configure withemacs prefixusrlocalsrcbetaw execprefixusr
+localsrcbetaw withurlurlurl
+that worked fine so i moved to the next step
+make
+at the bottem of the text i got the following messages
+cannot open load file urlurlurlvarsel
+make  customloadel error 
+make leaving directory usrlocalsrcbetawlisp
+make  w error 
+
+when i got around to trying the url package i had no problems  in saying
+that this doesnt necessarily mean that i was doing it right so below are
+the commands i used
+configure withemacs prefixurlurl execprefixurlurl
+followed by the commands make and make install
+there is no text files which contain help on installing the url package so
+im not completely certain if ive used the right method here
+
+thanks again
+
+darragh
+ original message 
+from hunt bryan bhuntemusetechcom
+to macarthyiolie michaelconryucdie
+cc iluglinuxie
+sent thursday september    pm
+subject ot re ilug newby to linux looking for information on cvs
+
+
+
+ speaking of that ide weblogic developer the open source version called
+ eclipse is free from eclipseorg if you are doing java development you
+ need to get this ide  ive been using it for the last month and it is
+ absolutly superb best thing about it is that rather than using swing
+ which is crap is that they have their own native widget set called swt
+
+ when you run it on windows it uses windows widgets but when you run it on
+ linux it uses gtk you should see it on gnome   absolutely stunning 
+
+ b
+
+ original message
+ from justin maccarthy mailtomacarthyiolie
+ sent  september  
+ to michaelconryucdie
+ cc iluglinuxie
+ subject re ilug newby to linux looking for information on cvs
+
+
+ this is the best step by step guide to setting up cvs on redhat
+
+
+httpwwwbsoftwareibmcomwsddlibrarytecharticlesyuyuhtmlopen
+ ltgr
+
+ it is for a particular ibm ide but the setup and testing of the server is
+ the same for any cvs client
+
+ both the using linux and linux in a nutshell book by oreilly have
+ sections on cvs rcs  and both books are a must buy for any linux newbie
+
+
+ justin
+
+
+  original message
+  from ilugadminlinuxie mailtoilugadminlinuxieon behalf of
+  michael conry
+  sent  september  
+  to darragh
+  cc iluglinuxie
+  subject re ilug newby to linux looking for information on cvs
+ 
+ 
+  on   thu sep   at  pm  darragh wrote
+   hello
+   i am very new to linux and need some help on a utility called
+  cvs  as far
+   as im aware its a similar protocol to ftp  i need to use it
+  to download a
+   program from pserveranoncvssubversionsgnuorgcvsrootw
+  i am looking
+   for information on how to use it  ill have another look at
+  the man pages
+   but i think i have to set it up before i can download anything
+  cvs is really a very different kind of thing to ftp but the details of
+  that statement are left as an exercise to the reader wont show up my
+  own ignorance that way 
+  the application you want is cvsclient
+  there is documentation here
+  httpwwwfokusgmddegnudocscvscvsclienttochtml
+ 
+  you might get a quick idea of how it works from here
+  httpwwwscimuniczmikulikgnuplothtml
+  where he explains how to get cvs gnuplot
+  the commands are
+ 
+  export
+  cvsrootpserveranonymouscvsgnuplotsourceforgenetcvsrootgnuplot
+  cvs login
+  cvs z checkout gnuplot
+ 
+  something similar will probably do the job for you  im guessing the
+  following might work
+ 
+  export cvsrootpserveranoncvssubversionsgnuorgcvsrootw
+  cvs login
+  cvs z checkout w
+ 
+  m
+  
+  michael conry   ph web httpwwwacronymchilecom
+  key fingerprint   b  c a  cb b  de c
+ 
+  
+  irish linux users group iluglinuxie
+  httpwwwlinuxiemailmanlistinfoilug for unsubscription
+  information
+  list maintainer listmasterlinuxie
+ 
+ 
+ 
+
+
+ 
+ irish linux users group iluglinuxie
+ httpwwwlinuxiemailmanlistinfoilug for unsubscription
+information
+ list maintainer listmasterlinuxie
+
+ 
+ irish linux users group iluglinuxie
+ httpwwwlinuxiemailmanlistinfoilug for unsubscription
+information
+ list maintainer listmasterlinuxie
+
+
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

@@ -1,0 +1,245 @@
+html
+head
+meta httpequivcontenttype contenttexthtmlcharsetiso
+titlewant to be your own bosstitle
+meta httpequivcontenttype contenttexthtml
+
+head
+body bgcolorffffff topmargin leftmargin marginheight marginwidth link vlink
+font facearialhelveticagenevaswisssunsansregular size font 
+div aligncenter
+			table width border cellspacing cellpadding
+    tr 
+      td heightnbsptd
+    tr
+    tr 
+      tdimg srchttpimagespcdihomestudycomadseunisexheadergif alt height width bordertd
+    tr
+    tr 
+      td table border cellpadding cellspacing width
+							tr
+								td width bgcolorimg srchttpimagespcdihomestudycomadsepixelgif width height bordertd
+								td
+									table border cellpadding cellspacing bgcolorwhite
+										tr
+											td
+												div alignleft
+													font size color facearialhelveticagenevaswisssunsansregularbfont sizetrain now with selfpaced home studybr
+															fontbfontfont size facearialhelveticagenevaswisssunsansregularthousands of people  people just like you  are able to work from home thanks to the convenience of distance learning courses from pcdibr
+														br
+													fontfont size color facearialhelveticagenevaswisssunsansregularbbonus  tuition discount when you enrollbr
+														bfontfont size colorcc facearialhelveticagenevaswisssunsansregularbbr
+														bfont
+													table border cellspacing cellpadding
+														tr
+															td valigntop widthfont size facearialhelveticagenevaswisssunsansregularbpcdib offers over  popular career training programs includingbr
+																	br
+                            font table border cellspacing cellpadding
+                              tr 
+                                td widthtd
+                                tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular 
+                                  medical transcriptionfonttd
+                              tr
+                              tr 
+                                td widthtd
+                                tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular 
+                                  medical billingfonttd
+                              tr
+                              tr 
+                                td widthtd
+                                tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular 
+                                  electricianfonttd
+                              tr
+                              tr 
+                                td widthtd
+                                tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular 
+                                  interior decoratingfonttd
+                              tr
+                              tr 
+                                td widthtd
+                                tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular 
+                                  child day carefonttd
+                              tr
+                              tr 
+                                td widthtd
+                                tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular 
+                                  private investigationfonttd
+                              tr
+                              tr 
+                                td widthtd
+                                tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular 
+                                  and morefonttd
+                              tr
+                            table
+                            font size facearialhelveticagenevaswisssunsansregularbr
+																	bhigh school diplomab start where you left off in th  th gradebr
+																fonttd
+															td valigntop widthimg srchttpimagespcdihomestudycomadsepixelgif alt height width bordertd
+															td valigntop bgcoloraaaaaa widthimg srchttpimagespcdihomestudycomadsepixelgif alt height width bordertd
+															td valigntop widthimg srchttpimagespcdihomestudycomadsepixelgif alt height width bordertd
+															td valigntop widthfont size facearialhelveticagenevaswisssunsansregularbassociates degree programsb take your education further earn your nationally accredited degree inbr
+																	br
+																font
+																table border cellspacing cellpadding
+																	tr
+																		td widthtd
+																		tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular paralegal studiesfonttd
+																	tr
+																	tr
+																		td widthtd
+																		tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular criminal justicefonttd
+																	tr
+																	tr
+																		td widthtd
+																		tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular early childhood educationfonttd
+																	tr
+																	tr
+																		td widthtd
+																		tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular accountingfonttd
+																	tr
+																	tr
+																		td widthtd
+																		tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular health care managementfonttd
+																	tr
+																	tr
+																		td widthtd
+																		tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular small business managementfonttd
+																	tr
+																	tr
+																		td widthtd
+																		tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular human resource managementfonttd
+																	tr
+																	tr
+																		td widthtd
+																		tdfont size color facearialhelveticagenevaswisssunsansregularfontfont size facearialhelveticagenevaswisssunsansregular and morefonttd
+																	tr
+																table
+															td
+														tr
+													table
+													font size facearialhelveticagenevaswisssunsansregularbr
+														a hrefhttpwwwpcdihomestudycomcoursescodeeubclick here nowba order your free career information kit enjoy a  tuition savings when you enroll in any one of our nationally accredited coursesfontdiv
+											td
+										tr
+									table
+								td
+								td width bgcolorimg srchttpimagespcdihomestudycomadsepixelgif width height bordertd
+							tr
+							tr height
+								
+            td bgcolor colspan heightimg srchttpimagespcdihomestudycomadseunisexupjpg alt height width bordertd
+							tr
+							tr
+								td width bgcolor
+									div aligncenter
+										font size facearialhelveticagenevaswisssunsansregularimg srchttpimagespcdihomestudycomadsepixelgif width height fontdiv
+								td
+								td bgcolorffffff
+									table border cellpadding cellspacing bgcolorwhite
+										tr
+											tdfont size color facearialhelveticagenevaswisssunsansregularbfree home study career information kitbr
+													bfontfont size facearialhelveticagenevaswisssunsansregularpcdis nationally accredited home study programs will fit into the busiest lifestyle  without disrupting your work family life or leisure activitiesbr
+													br
+												font
+												table border cellpadding cellspacing
+													tr
+														td width valigntop
+															div alignright
+																font size color facearialhelveticagenevaswisssunsansregularfontdiv
+														td
+														td valigntop
+															div alignleft
+																font size facearialhelveticagenevaswisssunsansregularcomprehensive study materials are mailed to your homefontdiv
+														td
+													tr
+													tr
+														td width valigntop
+															div alignright
+																font size color facearialhelveticagenevaswisssunsansregularfontdiv
+														td
+														td valigntop
+															div alignleft
+																font size facearialhelveticagenevaswisssunsansregularenjoy selfpaced lessons and openbook examsfontdiv
+														td
+													tr
+													tr
+														td width valigntop
+															div alignright
+																font size color facearialhelveticagenevaswisssunsansregularfontdiv
+														td
+														td valigntop
+															div alignleft
+																font size facearialhelveticagenevaswisssunsansregularaffordable interestfree monthly tuitionfontdiv
+														td
+													tr
+													tr
+														td width valigntop
+															div alignright
+																font size color facearialhelveticagenevaswisssunsansregularfontdiv
+														td
+														td valigntop
+															div alignleft
+																font size facearialhelveticagenevaswisssunsansregularno commuting no parking fees no pressurefontdiv
+														td
+													tr
+													tr
+														td width valigntop
+															div alignright
+																font size color facearialhelveticagenevaswisssunsansregularfontdiv
+														td
+														td valigntop
+															div alignleft
+																font size facearialhelveticagenevaswisssunsansregularreceive your diploma at graduationfontdiv
+														td
+													tr
+												table
+												font size facearialhelveticagenevaswisssunsansregularbbr
+													bfontfont size facearialhelveticagenevaswisssunsansregulara hrefhttpwwwpcdihomestudycomcoursescodeeubsend for your free career information kit now b bclick here nowbab bfind out how you can study at home work at home and succeedfonttd
+										tr
+									table
+								td
+								td width bgcolorfont size facearialhelveticagenevaswisssunsansregularimg srchttpimagespcdihomestudycomadsepixelgif width heightfonttd
+          tr
+          tr bgcolor 
+            td height colspanfont size facearialhelveticagenevaswisssunsansregularimg srchttpimagespcdihomestudycomadsepixelgif width heightfonttd
+          tr
+        tabletd
+    tr
+  table
+			br
+		div
+	body
+html
+br
+table idautonumber stylebordercollapse collapse bordercolor 
+cellspacing cellpadding width border
+  tbody
+  tr
+    td width bgcolorffcc colspan heightimg height 
+      srcdotgif width bordertdtr
+  tr
+    td valigntop widtha hrefhttpwwwfrugaljoecomimg  
+            srchttpwwwfrugaljoecomlogojpg  bordera
+
+td
+    td width bgcolorffccimg height 
+      srchttpwwwfrugaljoecomdotgif width border
+
+td
+    td valigntopiifont faceverdana sizebr
+
+you have received this email because you have subscribed 
+      through one of our marketing partners if you would like 
+      to learn more about frugaljoecom then please visit our website 
+      wwwfrugaljoecom if this message was sent to you in error or
+if you 
+      would like to unsubscribe please click a 
+ 
+hrefhttpwwwfrugaljoecomunsubscribephpeidmoccnietontenmjahere aor
+cut and paste the following link into a web browserbr
+ httpwwwfrugaljoecomunsubscribephpeidmoccnietontenmjabr
+thirdparty advertisements from lines and subject lines contained in this email are the sole responsibility of the advertiserbr 
+brafontbr tdtrtbodytablecenterdivbodyhtml
+img srchttpwwwwcomopenopenphpeidjmnetnoteinccomoidprofessionalcareerdevelopmentinstitutehtmlcustidfrugaljoe border height width
+
+

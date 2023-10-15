@@ -1,0 +1,126 @@
+on mon  at  matthias saou wrote
+ once upon a time alvie wrote 
+ 
+  thanks i seem to be having problems with rebuilding transcode from src
+  it gets confused from previous errors and gives up
+ 
+ could you give the output of the error
+
+
+this is only the last part of iti used rpmbuild rebuild without avifile transcodefrsrcrpm
+afdecorecpp waveformatex is used as a type but is not defined
+as a
+   type
+afdecorecpp parse error before if
+afdecorecpp syntax error before  token
+afdecorecpp wvfmt was not declared in this scope
+afdecorecpp avmwaveformatname was not declared in this
+scope
+afdecorecpp wvfmt was not declared in this scope
+afdecorecpp wvfmt was not declared in this scope
+afdecorecpp wvfmt was not declared in this scope
+afdecorecpp iso c forbids declaration of fprintf with no
+type
+afdecorecpp redefinition of int fprintf
+afdecorecpp int fprintf previously defined here
+afdecorecpp initializer list being treated as compound
+expression
+afdecorecpp waveformatex is used as a type but is not defined
+as a
+   type
+afdecorecpp syntax error before  token
+afdecorecpp fmt was not declared in this scope
+afdecorecpp avmwaveformatname was not declared in this
+scope
+afdecorecpp fmt was not declared in this scope
+afdecorecpp fmt was not declared in this scope
+afdecorecpp fmt was not declared in this scope
+afdecorecpp iso c forbids declaration of fprintf with no
+type
+afdecorecpp redefinition of int fprintf
+afdecorecpp int fprintf previously defined here
+afdecorecpp initializer list being treated as compound
+expression
+afdecorecpp parse error before if
+afdecorecpp syntax error before  token
+afdecorecpp iso c forbids declaration of samples with no
+type
+afdecorecpp conflicting types for int samples
+afdecorecpp previous declaration as unsigned int samples
+afdecorecpp fmt was not declared in this scope
+afdecorecpp iso c forbids declaration of buffersize with no
+type
+afdecorecpp conflicting types for int buffersize
+afdecorecpp previous declaration as unsigned int buffersize
+afdecorecpp fmt was not declared in this scope
+afdecorecpp iso c forbids declaration of buffer with no type
+afdecorecpp conflicting types for int buffer
+afdecorecpp previous declaration as charbuffer
+afdecorecpp invalid conversion from char to int
+afdecorecpp parse error before if
+afdecorecpp syntax error before  token
+afdecorecpp iso c forbids declaration of fflush with no type
+afdecorecpp redefinition of int fflush
+
+afdecorecpp previous declaration as unsigned int buffersize
+afdecorecpp fmt was not declared in this scope
+afdecorecpp iso c forbids declaration of buffer with no type
+afdecorecpp conflicting types for int buffer
+afdecorecpp previous declaration as charbuffer
+afdecorecpp invalid conversion from char to int
+afdecorecpp parse error before if
+afdecorecpp syntax error before  token
+afdecorecpp iso c forbids declaration of fflush with no type
+afdecorecpp redefinition of int fflush
+afdecorecpp int fflush previously defined here
+afdecorecpp invalid conversion from iofile to int
+afdecorecpp ipipe was not declared in this scope
+afdecorecpp syncstr was not declared in this scope
+afdecorecpp syncstr was not declared in this scope
+afdecorecpp iso c forbids declaration of pwrite with no
+type
+afdecorecpp redefinition of int pwrite
+afdecorecpp int pwrite previously defined here
+afdecorecpp initializer list being treated as compound
+expression
+afdecorecpp parse error before while
+afdecorecpp syntax error before  token
+make  afdecorelo error 
+make leaving directory
+usrsrcredhatbuildtranscodeimport
+make  allrecursive error 
+make leaving directory
+usrsrcredhatbuildtranscodeimport
+
+
+  using trancode rpm i cant get transcode command line args to
+  workalthough its been a while since i used it  maybe i forgot how
+
+this was a dumb mistake on my part i didnt have libdvdcssdevel the
+transcode command line args work fine now but not so for dvdrip
+thanks for help
+alvie
+ 
+ im encoding a dvd to divx right now on my home computer and it works
+ fine my current red hat  build of transcode has avifile support
+ disabled that may be your problem its because gcc  isnt currently
+ able to recompile avifile 
+ 
+ matthias
+ 
+  
+ clean custom red hat linux rpm packages  httpfreshrpmsnet
+ red hat linux release  valhalla running linux kernel acpi
+ load    
+ 
+ 
+ rpmlist mailing list rpmlistfreshrpmsnet
+ httplistsfreshrpmsnetmailmanlistinforpmlist
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

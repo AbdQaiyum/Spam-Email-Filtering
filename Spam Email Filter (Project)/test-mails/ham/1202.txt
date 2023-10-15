@@ -1,0 +1,38 @@
+
+btw i just a found a quite nice looking apt repositry for all kinds of
+audio apps at
+
+httpccrmawwwstanfordeduplanetccrmasoftware
+
+peter
+
+
+on thu  at  angles puglisi wrote
+ matthias saou matthiasrpmforgenet wrote
+  ive rebuilt a new alsaplayer package based on angles one
+ 
+ cool one less package to maintain 
+ 
+ one interesting thing about alsaplayer is that redhats xmms package in rh will
+ probably not play mp files but alsaplayer does play mps out of the box
+ 
+ also they are developing rapidly in their cvs and looks like their next version
+ of alsaplaer will be pretty cool but i have no idea when it will be ready
+ 
+ 
+ thats angle as in geometry
+ 
+ 
+ 
+ 
+ rpmlist mailing list rpmlistfreshrpmsnet
+ httplistsfreshrpmsnetmailmanlistinforpmlist
+
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

@@ -1,0 +1,34 @@
+on mon  sep  stephen d williams wrote
+
+ its efficientend not low end  at million hour mtbf mbsec
+ and pretty good buffering and speed the only thing going for scsi is
+  rpm vs  and in a very small number of cases slightly
+ better scattergather  actually i think there might be a  rpm
+ ide now
+
+its not just krpm the desktop hds have a higher failure rate but i
+agree eide has high density and eide hardware raid can offer scsi a
+sound beating for reliability performance and storage densityrack units
+for the money if designed for it and if people would actually start 
+buying it
+ 
+ the other issues are pretty much nonissues using multiple drives and
+ controller contention just use many ide channels with extra pci
+ cards up to  in some systems and long cable runs just split
+
+there are not all that many hard drives inside an u enclosure airflow
+blockage you have to fit in x the number of scsi disks with eide will
+soon be a thing of the past due to sata
+
+ storage between nodes  dualport scsi is also a nonissue since it
+ is very expensive doesnt work that well in practice because there
+ are numerous secondary failure modes for shared disk systems and
+ because you still end up with a single point of failure
+
+since rackspace costs dominate and our systems need more or less decent
+io were going with u dells with scsi the hard drive prices dont
+really make a visible difference given the cost of the iron and the
+rackspacemonth plus u dells dont have any space left for lots of eide
+drives
+
+

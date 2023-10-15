@@ -1,0 +1,143 @@
+html
+
+head
+meta httpequivdcontenttype contentdtexthtml charsetdbig
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+titlebccbsaxcwacdaubdawbffdtitle
+head
+
+body
+
+div aligndcenter
+center
+table borderd widthd heightd bgcolordee borde
+rcolorlightd bordercolordarkd
+tr
+td widthd heightd aligndcenter
+p aligndcenterfont sizedbbccbsaxcwacdaubd
+awbffdadaaaaabaabbbefafeadpbdaabaafdbe
+fbfonttd
+tr
+table
+center
+div
+div aligndcenter
+center
+table borderd widthd heightd cellspacingd cellpa
+ddingd
+tr
+td widthd heightd rowspandimg borderd srcdh
+ttpviptocombensucdjpg widthd heightdtd
+center
+td widthd heightd
+p aligndleftimg borderd srcdhttpviptocombensu
+cdjpg widthd heightdtd
+tr
+center
+tr
+td widthd heightdp aligndleft styledlineheight 
+font colordffff sizedbbaaefaaaceaabqb
+ubcadpbiacfafbaaacbdc fontp                
+p aligndleft styledlineheight  margintop font colo
+rd sizedacadaablaabaauacfdaabl
+bvbbobsabcaebdc fontp                
+p aligndleft styledlineheight  margintop font colo
+rd sizedbobccabaxcwbccbsaaeaaba
+abdaqbeaaecaabeaaxaufontp                
+p aligndleft styledlineheight  margintop font colo
+rd sizedaebacfaceaabccbqabadad
+bwccabqbtacfontp                
+td                
+tr                
+tr                
+td widthd heightdp aligndleft styledlineheight 
+font sized font colordffabfont              
+    
+afeacdaubdbeaaecaewacfabaafbubabr   
+               
+ font colordffabfont baadaubadaeeaa
+acalablbhbcdcbababhabcaaeaeabr           
+       
+ font colordffabfont beaaecbbadabce
+abdsbbababdaqawbadabadtbdahabbr           
+       
+nbsp nbspnbsp beaabbcbabaaaabbadfaebc
+abaebaoabr                  
+ font colordffabfont baadbbcbczabacbaee
+axacdbdfaafeaaaeabkbjbmbr                  
+ font colordffabfont beaaecaewaiacdbdfab
+addaefabarbaabacalfontp                  
+p aligndleft styledlineheight  margintop font size
+dfont colordffab fontatakboaafecdaq
+bxaembdacebnceacebcvadbbdbecbncefon
+tp                  
+td                
+tr                
+table                
+center                
+div                
+p aligndcenter styledmargintop img borderd srcdhtt
+pviptocombensucdjpg widthd heightdp    
+             
+form methoddpost actiondhttpwwwxlinecomtwfmfmphpfd
+           
+  p aligndcenter styledmargintop bfont colord
+ sizedbhafahagfontbwebbot botdvalidation s
+displaynamedamaw bvaluerequireddtrue iminimumlengthd
+ imaximumlengthd input ttypedtext namedname sized
+ maxlengthd  
+  font colordbbaabawbadagselect sized n
+amedpro 
+    option selectedaubdadbffdcdoption 
+  selectbfontp  
+  p aligndcenter styledmargintop bfont colord
+ sizedbhafaaaagwebbot botdvalidation bvalue
+requireddtrue iminimumlengthd imaximumlengthd inpu
+t typedtext namedadd  sized maxlengthdfontb   
+
+  p  
+  p aligndcenter styledmargintop bfont colord
+ sizedaedavbqbdcagwebbot botdvalidation bvalu
+erequireddtrue input typedtext namedhometel sized
+nbspnbsp    
+  aibdaaeaaagselect sized namedmoney     
+    optionbfaecaibooption   
+    optionbqbdoption   
+  selectfontbp   
+  p aligndcenter styledmargintop bfont colord
+ sizedabdaqbqbdcaginput typedtext namedoffice
+tel sized maxlengthdnbspfontbbfont colord
+ sized    
+  fontbinput typedsubmit valuedbaawadqcca named
+okbfont colord sized    
+  fontbinput typedreset valuedadabbsbaw namedr
+eset      
+  bfont colord sizednbspfontbp      
+  p aligndcenter styledmargintop bfont colord
+ sizedaebcabqbdcaginput typedtext namedmobil
+tel sizednbspnbspnbsp       
+  fontfont colordred sizedcuabddbbfabatbb
+bofontfont colord sizednbsp       
+  fontbnbsp p      
+form        
+             
+body             
+             
+   
+script languagedjavascriptscriptscript languagedjavascript
+scripthtml
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

@@ -1,0 +1,38 @@
+so do you know my public key  does the guy who wants to buy 
+ licenses of spamassassin pro  do i really want to lose 
+email from either of you
+
+c
+
+on thursday august   at   am tony l svanstrom wrote
+
+ on thu  aug  the voices made craig rhughes write
+
+ trouble is you dont necessarily know ahead of time whos 
+ wanting to send
+ you stuff  i dont have your pgp public key on my keychain  
+ you can do all
+ the signing you want its not going to help  however if you 
+ stick a habeas
+ header in your mail i can hopefully be reasonably sure that 
+ youre not
+ trying to spam me  it is going to be all about enforcement 
+ though well
+ have to see how they do on enforcement
+
+  signing messages to someone s public key isnt impossible 
+ using some
+ creative scripting you could even do it with openpgpcompatible 
+ software
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

@@ -1,0 +1,681 @@
+
+this is a multipart message in mime format
+fbbfabfcaebdcf
+contenttype texthtml charsetgb
+contenttransferencoding quotedprintable
+
+html
+head
+titletravel to chinawelcome to china business traveltitle
+meta nameddescription contentdspecializing in business and personal 
+travel services to china
+meta namedkeywords contentdbusiness travelchina business 
+travelchina travelchina businesschinabusinesstravelan agent for travel 
+to china provide china travel service act as china travel guidefor china 
+busieness help doing business in chinaaacchina olympics china  
+traveling travel air airfare cruises affordable asia east china 
+chinese tibet tibetan mongolia mongolian minority regions ancient silk 
+road beijing xian guilin hangzhou nanjing wuxi kunming guangzhou 
+bangkok singapore bali tokyo kuala lumpur hong kong guangzhou foshan 
+zhongshan macau shenzhen foshan zhaoqing shanghai hothot kashgar 
+urumqi dunhuang harbin jiayuguan qingdao luoyang chngdu leshan lhasa 
+chongqing yangtze river xishuangbanna suzhou hangzhou sanya huang 
+guoshu wuhan huangshan
+meta httpequivdcontenttype contentdtexthtml charsetdgb
+style typedtextcss
+
+aa   fontsize px color eb textdecoration underline 
+fontfamily arial helvetica sansserif
+aahover   color ff
+aa   fontsize px fontweight bold color def textdecoration 
+none fontfamily arial helvetica sansserif
+aahover   color ace
+p   fontsize px fontfamily arial helvetica sansserif
+td   fontsize px fontfamily arial helvetica sansserif
+a   color  textdecoration none lineheight  fontfamily 
+arial helvetica sansserif
+ahover   color fa textdecoration underline
+p   fontsize px color  lineheight 
+select   fontsize px fontfamily arial helvetica sansserif
+
+style
+script languagedjavascript
+
+function mmjumpmenutargselobjrestore v
+  evaltarglocationdselobjoptionsselobjselectedindexvalue
+  if restore selobjselectedindexd
+
+
+script
+head
+body bgcolordffffff textd leftmargind
+pfont facedlucida sansspan langdenuswe are an agency 
+specializing  
+in business and personal travel services to china if you want to take any 
+activity in china please contact us we will try our best to offer you the 
+top services  
+if this email bothers you please forgive us we sincerely hope you will  
+consider using our services spanfontspan langdenus styled
+fontfamilyarialop 
+nbsp
+spanp
+table widthd borderd cellspacingd cellpaddingd alignd
+center
+  tr valigndbottom 
+    tda hrefdhttpwwwchinabusinesstravelcomindexhtmlimg 
+srcdhttpwwwchinabusinesstravelcomimageslogogif borderd 
+widthd heightdatd
+    td aligndrightimg srcd
+httpwwwchinabusinesstravelcomimagesinfojpg widthd heightd
+ borderd usemapdmaptd
+  tr
+table
+table widthd borderd cellspacingd cellpaddingd alignd
+center bgcolordeb
+  tr 
+    td widthdimg srcd
+httpwwwchinabusinesstravelcomimagescornergif widthd 
+heightd borderdtd
+    td aligndcenter widthda hrefd
+httpwwwchinabusinesstravelcombiztourindexhtml classdabiz 
+      touratd                     
+    tdimg srcdhttpwwwchinabusinesstravelcomimagesvlinegif 
+widthd heightd borderdtd
+    td aligndcenter widthda hrefd
+httpwwwchinabusinesstravelcombizconsultindexhtml classd
+abiz 
+      consultingatd
+    tdimg srcdhttpwwwchinabusinesstravelcomimagesvlinegif 
+widthd heightd borderdtd
+    td widthd aligndcentera hrefd
+httpwwwchinabusinesstravelcompackagesindexhtml classdatour 
+
+      packagesatd
+    tdimg srcdhttpwwwchinabusinesstravelcomimagesvlinegif 
+widthd heightd borderdtd
+    td widthd aligndcentera hrefd
+httpwwwchinabusinesstravelcomadventureindexhtml classd
+achina 
+      adventureatd
+    tdimg srcdhttpwwwchinabusinesstravelcomimagesvlinegif 
+widthd heightd borderdtd
+    td widthd aligndcentera hrefd
+httpwwwchinabusinesstravelcomcustomizedindexhtml classd
+acustomized 
+      touratd
+    td widthd aligndrightimg srcd
+httpwwwchinabusinesstravelcomimagescornergif widthd 
+heightd borderdtd
+  tr
+table
+table widthd borderd cellspacingd cellpaddingd alignd
+center
+  tr 
+    td widthd backgrounddimagesbggif valigndtop 
+      table widthd borderd cellspacingd cellpaddingd
+
+
+        tr 
+          tdimg srcd
+httpwwwchinabusinesstravelcomimageslinejpg widthd heightd
+ borderdtd
+        tr
+        tr 
+          tdimg srcd
+httpwwwchinabusinesstravelcomimageslinejpg widthd 
+heightd borderdtd
+        tr
+        tr 
+          tdimg srcd
+httpwwwchinabusinesstravelcomimagespicjpg widthd heightd
+ borderdtd
+        tr
+        tr 
+          tdimg srcd
+httpwwwchinabusinesstravelcomimagespicjpg widthd heightd
+ borderdtd
+        tr
+        tr 
+          td 
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr 
+                td br
+                  a hrefd
+httpwwwchinabusinesstravelcombizguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdthe 
+                  peoples republic of chinaabr
+                  a hrefd
+httpwwwchinabusinesstravelcombizguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdnatural 
+                  conditionsabr
+                  a hrefd
+httpwwwchinabusinesstravelcombizguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdpolitical 
+                  systemabr
+                  a hrefd
+httpwwwchinabusinesstravelcombizguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdindustries 
+                  and infrastructureabr
+                  a hrefd
+httpwwwchinabusinesstravelcombizguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdforeign 
+                  trade lawsabr
+                  a hrefd
+httpwwwchinabusinesstravelcombizguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdimport 
+                  and export proceduresabr
+                  a hrefd
+httpwwwchinabusinesstravelcombizguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdpolicy 
+                  on foreignabr
+                  a hrefd
+httpwwwchinabusinesstravelcombizguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdestablishment 
+                  and terminationabr
+                  a hrefd
+httpwwwchinabusinesstravelcombizguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdestablishment 
+                  of representative img srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdofficesabr                        
+                td
+              tr
+            table
+          td
+        tr
+        tr 
+          tdimg srcd
+httpwwwchinabusinesstravelcomimagespicjpg widthd heightd
+ borderdtd
+        tr
+        tr 
+          td 
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr 
+                tda hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdarrival 
+                  and departureabr
+                  a hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdaa hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlcustoms 
+                  declaration abr
+                  a hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdaa hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlpassports 
+                  and visasa br
+                  a hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdaa hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlright 
+                  of residenceabr
+                  a hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdaa hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlcommunicationsa 
+
+                  br
+                  a hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdaa hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmltransportation 
+                  abr
+                  a hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdaa hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlaccommodation 
+                  and shoppingabr
+                  a hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdaa hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlmedical 
+                  amp healthabr
+                  a hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlimg srcd
+httpwwwchinabusinesstravelcomimagesdotgif widthd heightd
+ borderdaa hrefd
+httpwwwchinabusinesstravelcomtravelguidehtmlsightseeingat
+d
+              tr
+            table
+          td
+        tr
+      table
+    td
+    td widthdtd
+    td valigndtop
+           table widthd borderd cellspacingd cellpaddingd
+ heightd
+        tr 
+          tdtd
+        tr
+      table
+      table widthd borderd cellspacingd cellpaddingd
+        tr 
+          tdobject classiddclsiddcdbeaedcfb 
+codebased
+httpdownloadmacromediacompubshockwavecabsflashswflashcabversion
+d widthd heightd
+              param namedmovie valued
+httpwwwchinabusinesstravelcomimagessuperswf
+              param namedquality valuedhigh
+              embed srcdimagessuperswf qualitydhigh pluginspaged
+httpwwwmacromediacomshockwavedownloadindexcgipprodversiond
+shockwaveflash typedapplicationxshockwaveflash widthd heightd
+ 
+            objecttd
+        tr
+      table
+      br
+      table borderd cellspacingd cellpaddingd widthd
+        tr 
+          td widthdtd
+          td 
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr 
+                td widthda hrefd
+httpwwwchinabusinesstravelcombiztourindexhtmlimg srcd
+httpwwwchinabusinesstravelcomimagesxjpg widthd heightd
+ borderd altdbusiness touratd
+                td valigndtopbspan font colordebchina 
+                  business tourfontspanbbr
+                  today china remains the fastest growing economy in the 
+world 
+                  china is predicted to become the worlds largest economic 
+center 
+                  by the year  if you have not been to china yet the 
+opportunity 
+                  is here the time is now a hrefd
+httpwwwchinabusinesstravelcombiztourindexhtml classdaread 
+
+
+                  the detail gtgtatd                       
+              tr
+            table
+            brbr
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr 
+                td valigndtop widthdnbsptd
+                td valigndtopb font colordebchina business 
+assistantfontbbr
+                  img srcd
+httpwwwchinabusinesstravelcomimageserrorgif widthd heightd
+ borderd 
+                  through our experiences we know the value of facetoface 
+meetings 
+                  in the international arena and how developing trust and 
+respect 
+                  with trading partners goes a long way toward ensuring 
+mutual 
+                  success a hrefd
+httpwwwchinabusinesstravelcombizconsultindexhtml classd
+aread 
+                  the detail gtgtatd                       
+                
+                td widthd aligndrighta hrefd
+httpwwwchinabusinesstravelcombizconsultindexhtmlimg srcd
+httpwwwchinabusinesstravelcomimagesxjpg widthd heightd
+ borderd altdbusiness assistantatd
+              tr
+            table
+            br
+            br
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr 
+                td widthd valigndtop bspan font colord
+ebchina 
+                  customized tourfontspanb 
+                  table widthd borderd cellspacingd 
+cellpaddingd
+                    tr 
+                      tdimg srcd
+httpwwwchinabusinesstravelcomimagesffjpg widthd heightd
+ borderdtd
+                      td valigndtopan itinerary can be arranged to meet 
+your                        
+                        individual requirement to include visiting 
+relatives                        
+                        friends and business contactsbr
+                        a hrefd
+httpwwwchinabusinesstravelcomcustomizedindexhtml classd
+aread 
+                        the detail gtgtatd
+                    tr
+                  table
+                td
+                td valigndtop widthdnbsptd
+                td valigndtop bfont colordebexhibitions of 
+china                                   
+                  fontb
+                  table widthd borderd cellspacingd 
+cellpaddingd
+                    tr 
+                      tdimg srcd
+httpwwwchinabusinesstravelcomimagesffjpg widthd heightd
+ borderdtd
+                      td valigndtop
+                        table widthd borderd cellspacingd 
+cellpaddingd
+                          tr  form namedform
+                            td
+                             
+                                select namedmenu onchanged
+mmjumpmenuparentthis
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionaccessorieshtmlaccessorie
+s 
+                                  option
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionaeronauticshtmlaeronautic
+soption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionagriculturehtml 
+selectedagricultureoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionautomobileshtmlautomobile
+soption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionbuildinghtmlbuildingopt
+ion
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionchemicalhtmlchemical 
+                                  industryoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionclothinghtmlclothingopt
+ion
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionclothingmachineryhtmlclo
+thing 
+                                  machineryoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionconstructionmachineryhtml
+construction 
+                                  machineryoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitioncomputerhtmlcomputer 
+                                   communicationoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitioncosmeticshtmlcosmeticso
+ption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitioncraftsmanhtmlcraftsmans 
+
+
+                                  equipmentoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitioneducationalhtmleducationa
+l 
+                                  materialsoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionelectronicshtmlelectronic
+soption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionenergyhtmlenergyoption
+
+
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionfoodhtmlfood 
+                                   tobacco  wineoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionfoodmachinehtmlfood 
+                                  machines  packagingoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionfurniturehtmlfurnitureo
+ption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionhealthmedicalhtmlhealth 
+
+
+                                   medicaloption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionhotelhtmlhotel 
+                                  and restaurantoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionindustrialhtmlindustrial 
+
+
+                                  equipment option
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitioninteriorhtmlinterior 
+                                  designoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionleatherhtmlleather 
+                                  option
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionlogoshtmllogos 
+                                   advertising  designoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionmachinehtmlmachine 
+                                  toolsoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionnurseryhtmlnursery 
+                                  equipmentoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionpaperhtmlpaper 
+                                   printingoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionrailwayhtmlrailway 
+                                   transportoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionsafetyhtmlsafety 
+                                   fire protectionoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionscintefichtmlscintefic 
+                                  equipmentoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionsportshtmlsports 
+                                  equipmentoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitiontoolshtmltoolsoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitiontoyshtmltoysoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitiontravelhtmltraveloption
+
+
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionwastehtmlwaste 
+                                  technologyoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionotherhtmlother 
+                                  trade fairsoption
+                                  option valued
+httpwwwchinabusinesstravelcomexhibitionfairshtmlfairs 
+                                  for consumer goodsoption
+                                select
+                             
+                            td form
+                          tr
+                        table
+                        we provide information query for all the exhibitions 
+in      
+                        china every year and offer various consulting 
+services      
+                        for potential clients who have the intent to take 
+part      
+                        in exhibitions in china td     
+                    tr
+                  table
+                td
+              tr
+            table
+            brbr
+            table widthd borderd cellspacingd 
+cellpaddingd bgcolordfff
+              tr valigndtop 
+                td widthd heightdimg srcd
+httpwwwchinabusinesstravelcomimagesarcjpg widthd heightd
+td
+                td widthd heightdtd
+                td heightd widthdtd
+                td heightd widthdtd
+                td heightdtd
+                td widthd aligndright heightdimg srcd
+httpwwwchinabusinesstravelcomimagesarcjpg widthd heightd
+ borderdtd
+              tr
+              tr 
+                td widthdnbsptd
+                td widthd valigndtop a hrefd
+httpwwwchinabusinesstravelcompackagesindexhtmlimg srcd
+httpwwwchinabusinesstravelcomimagessightjpg widthd 
+heightd borderdatd
+                td valigndtop widthd a hrefd
+httpwwwchinabusinesstravelcompackagesindexhtmlbspan font 
+colordebchina 
+                  tour packages fontspanba 
+                  table widthd borderd cellspacingd 
+cellpaddingd
+                    tr valigndtop 
+                      td widthd img srcd
+httpwwwchinabusinesstravelcomimagesdotjpga hrefd
+httpwwwchinabusinesstravelcompackagescchtmchina 
+                        civilizationa td 
+                    tr
+                    tr valigndtop 
+                      td widthd img srcd
+httpwwwchinabusinesstravelcomimagesdotjpga hrefd
+httpwwwchinabusinesstravelcompackagesecshtmeast 
+                        china splendora td                     
+                    tr
+                    tr valigndtop 
+                      td widthd img srcd
+httpwwwchinabusinesstravelcomimagesdotjpga hrefd
+httpwwwchinabusinesstravelcompackagesmchtmmemorial 
+                        chinaa td 
+                    tr
+                    tr valigndtop 
+                      td widthd img srcd
+httpwwwchinabusinesstravelcomimagesdotjpga hrefd
+httpwwwchinabusinesstravelcompackagessrahtmsilk 
+                        road adventurea br
+                        img srcd
+httpwwwchinabusinesstravelcomimagesdotjpga hrefd
+httpwwwchinabusinesstravelcompackagesyrchtmyangtze 
+                        river cruisesa br
+                        img srcd
+httpwwwchinabusinesstravelcomimagesdotjpga hrefd
+httpwwwchinabusinesstravelcompackagesmwhtmminority 
+                        wandera br
+                        img srcd
+httpwwwchinabusinesstravelcomimagesdotjpga hrefd
+httpwwwchinabusinesstravelcompackagesmthtmmystical 
+                        tibeta td 
+                    tr
+                  table
+                td
+                td valigndtop widthda hrefd
+httpwwwchinabusinesstravelcomadventureindexhtmlimg srcd
+httpwwwchinabusinesstravelcomimagessightjpg widthd 
+heightd borderdatd
+                td valigndtopa hrefd
+httpwwwchinabusinesstravelcomadventureindexhtmlb font colord
+ebchina 
+                  adventurefontba 
+                  table widthd borderd cellspacingd 
+cellpaddingd
+                    tr
+                      tdimg srcd
+httpwwwchinabusinesstravelcomimagesdotjpga hrefd
+httpwwwchinabusinesstravelcomadventuredriftinghtml targetd
+blankdrifting 
+                        tourabr
+                        img srcd
+httpwwwchinabusinesstravelcomimagesdotjpga hrefd
+httpwwwchinabusinesstravelcomadventurefoothtml targetd
+blanktraveling 
+                        on footabr
+                        img srcd
+httpwwwchinabusinesstravelcomimagesdotjpga hrefd
+httpwwwchinabusinesstravelcomadventureselfdrivinghtml targetd
+blankselfdriving 
+                        tourabr
+                        img srcd
+httpwwwchinabusinesstravelcomimagesdotjpga hrefd
+httpwwwchinabusinesstravelcomadventuremartialhtml targetd
+blankmartial 
+                        arts and fitness tour atd                       
+
+                    tr
+                  table
+                  
+                td
+                td widthd aligndrightnbsptd
+              tr
+              tr valigndbottom 
+                td widthd heightdimg srcd
+httpwwwchinabusinesstravelcomimagesarcjpg widthd heightd
+ borderdtd
+                td widthd heightdtd
+                td heightd widthdtd
+                td heightd widthdtd
+                td heightdtd
+                td widthd aligndright heightdimg srcd
+httpwwwchinabusinesstravelcomimagesarcjpg widthd heightd
+ borderdtd
+              tr
+            table
+          brtd
+        tr
+      table      
+    td
+  tr
+  tr 
+    td widthd valigndbottom backgroundd
+httpwwwchinabusinesstravelcomimagesbggifimg srcd
+httpwwwchinabusinesstravelcomimagescornergif widthd 
+heightd borderdtd
+    td widthdtd
+    td aligndright  map namedmap 
+        area shapedrect coordsd hrefd
+httpwwwchinabusinesstravelcominfosqahtm targetdblank
+        area shapedrect coordsd hrefd
+httpwwwchinabusinesstravelcominfocontacthtm targetdblank
+        area shapedrect coordsd hrefd
+httpwwwchinabusinesstravelcominfoabouthtm targetdblank
+  map 
+      hr noshade sized colordbbc
+      font colord      table widthd borderd 
+cellspacingd cellpaddingd
+        tr aligndright 
+          tdfont colordcopyright copy  
+chinabusinesstravelall                        
+            rights reservedfonttd                       
+          tdfont colordemaila hrefd
+mailtoinfochinabusinesstravelcomfont colord
+infochinabusinesstravelcomfontafonttd
+        tr
+      tablefonttd
+  tr
+table
+body
+html  
+fbbfabfcaebdcf
+
+httpxentcommailmanlistinfofork
+
+

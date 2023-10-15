@@ -1,0 +1,46 @@
+ original message 
+from razorusersrequestexamplesourceforgenet
+to razorusersexamplesourceforgenet
+sent friday august    pm
+subject razorusers digest vol     msgs
+
+
+ subject re razorusers razor with sendmail
+ date fri  aug   
+ from rose bobby brosemedwayneedu
+ to julian bond julianbondvoidstarcom
+ razoruserslistssourceforgenet
+
+ if you didnt add it when compile would be one way  another would be to
+ grep your sendmailcf for the word milter
+
+
+
+ bort paul pborttmwsystemscom wrote
+ if your sendmail has been compiled with milter support you can add
+ smrazor easily weve been using it for a while without problems
+ others on the list have mentioned it as well
+ 
+ httpwwwsaproscomsmrazor
+
+ is there an easy way to tell if milter is compiled in
+
+
+to see all the options compiled into and version of sendmail try the
+following line
+
+echo z  pathtosendmail bt d
+
+sven
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+

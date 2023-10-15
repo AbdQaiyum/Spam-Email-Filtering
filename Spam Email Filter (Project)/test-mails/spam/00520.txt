@@ -1,0 +1,239 @@
+javamailrootsmtp
+contenttype textplain charsetiso
+contenttransferencoding bit
+
+oconnor quickly moved his cursor down the left side of the web
+page then showing a flash of his silky skills he cut across to
+the right hand side and clicked on top ten special offers he zipped
+past the irish chicken breast fillets at  off nipped round the
+hb selections ice cream also at  off and went on with the goal
+firmly in sight
+
+   budweiser  pack ml cans was e now e save e
+
+   guinness  pack ml cans was e now e save e
+
+
+with one of his trademark clicks of the mouse he sent his costprice
+cases of beer straight into the back of his online basket     to
+ireland from there oconnor was unstoppable and went on to make it
+an unforgettable afternoon as he tucked away another four goals
+
+   pringles large tubes g was e each now buy  for e
+
+   hula hoops minis tub g was e now buy one get nd half price
+
+   club twin packs x litre was e each
+    now buy  get nd half price
+
+   twix  pack was e now buy  get nd half price
+
+
+to take advantage of these fantastic world cup offers click here
+httpixcaddedfdaada 
+
+
+ offer ends june th you cant miss it
+
+why not get everyone behind our boys and send this email on to a
+friend so they can enjoy these great offers too
+because were selling cases at costprice we can only offer a
+maximum of  cases of guinness and  cases of budweiser per household
+
+
+
+all products are subject to availability while stocks last
+
+online prices may vary from those charged instore
+
+prices in this email are correct at the time of production and are
+subject to change please see website for latest prices
+
+if you would prefer not to receive emails with news and special
+offers from tescoie please click here
+httpwwwtescoieregisterunsubscribeaspfromjmjmasonorg
+
+this may take up to five working days to unsubscribe
+
+
+
+javamailrootsmtp
+contenttype texthtml charsetiso
+contenttransferencoding bit
+
+
+
+
+
+
+html
+head
+titleirelands first great world cup resulttitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+
+body bgcolorffffff text linkcc vlinkcc alinkff
+div aligncenter 
+  table width border cellspacing cellpadding bordercolor aligncenter
+    tr
+      td
+        table width border cellspacing cellpadding
+          tr
+            tda hrefhttpixcaddebcbbe img srchttptescomailrealtimecoukirelandytopgif width height borderatd
+          tr
+        table
+      table width border cellspacing cellpadding
+          tr
+            td bgcolorccimg srchttptescomailrealtimecoukirelandytitlegif width height altcostprice cases of beer now at tescoieimg srchttptescomailrealtimecoukirelandyresultgif width heightimg srchttptescomailrealtimecoukirelandyfootballframesgif width heighttd
+          tr
+        table
+        table width border cellspacing cellpadding
+          tr
+            tdimg srchttptescomailrealtimecoukirelandyspacergif width heighttd
+          tr
+        table
+        table width border cellspacing cellpadding
+          tr 
+            td rowspanimg srchttptescomailrealtimecoukirelandyspacergif width heighttd
+            td rowspan valigntop 
+              pfont size faceverdana arial helvetica sansserifoconnor 
+                quickly moved his cursor down the left side of the web page then 
+                showing a flash of his silky skills he cut across to the right 
+                hand side and clicked on top ten special offersfontp
+              pfont size faceverdana arial helvetica sansserif 
+                he zipped past the irish chicken breast fillets at  off nipped 
+                round the hb selections ice cream also at  off and went on 
+                with the goal firmly in sightfontp
+              pfont size faceverdana arial helvetica sansserifwith 
+                one of his trademark clicks of the mouse he sent his costprice 
+                cases of beer straight into the back of his online basket   
+                 to ireland from there oconnor was unstoppable and went 
+                on to make it an unforgettable afternoon as he tucked away another 
+                four goalsfontp
+            td
+            td rowspanimg srchttptescomailrealtimecoukirelandyspacergif width heighttd
+            td valigntop 
+              table width border cellspacing cellpadding
+                tr 
+                  td bfont size faceverdana arial helvetica sansserifbudweiser 
+                    pack mlbr
+                    font colorccsave eurofont sizefontfontfont colorffimg srchttptescomailrealtimecoukirelandyspacergif width heightfont colorwas 
+                    eurofontbr
+                    a hrefhttpixcaddecfaffedae buy nowa font colorcceurofontfontfontbtd
+                tr
+                tr
+                  td valigntopimg srchttptescomailrealtimecoukirelandyspacergif width heightbr
+                    img srchttptescomailrealtimecoukirelandybudcasegif width height altbudweiser packbr
+                    img srchttptescomailrealtimecoukirelandyspacergif width heighttd
+                tr
+              table
+            td
+          tr
+          tr
+            td valigntop
+              table width border cellspacing cellpadding
+                tr 
+                  td bfont size faceverdana arial helvetica sansserifguinness 
+                    pack mlbr
+                    font colorccsave eurofont sizefontfontfont colorffimg srchttptescomailrealtimecoukirelandyspacergif width heightfont colorwas 
+                    eurofontbr
+                    a hrefhttpixcaddeefabbede buy nowa font colorcceurofontfontfontbtd
+                tr
+                tr 
+                  td valigntopimg srchttptescomailrealtimecoukirelandyspacergif width heightbr
+                    img srchttptescomailrealtimecoukirelandyguinnesscasegif width height altguinness packtd
+                tr
+              table
+            td
+          tr
+        table
+      table width border cellspacing cellpadding
+          tr
+            td
+              div aligncenterimg srchttptescomailrealtimecoukirelandyproductsjpg width height altpringles twix hula hoops and club orangediv
+            td
+          tr
+        table
+        table width border cellspacing cellpadding
+          tr 
+            td widthbfont size faceverdana arial helvetica sansserifpringles 
+              large tubes g was euro each font colorcca hrefhttpixcaddecdcafee now 
+              buy  for euroafont sizefontfontfontbtd
+          tr
+          tr 
+            td widthbfont size faceverdana arial helvetica sansseriftwix 
+               pack was euro a hrefhttpixcaddefddbddf now 
+              buy  get nd half priceafont colorcc sizefontfontbtd
+          tr
+          tr 
+            td widthbfont size faceverdana arial helvetica sansserifhula 
+              hoops minis tubg was euro a hrefhttpixcaddefcaaaeee now 
+              buy one get nd half priceafont colorcc sizefontfontbtd
+          tr
+          tr 
+            td widthbfont size faceverdana arial helvetica sansserifclub 
+              twin packs x litre was euro each a hrefhttpixcaddebfdceffa now 
+              buy  get nd half priceafont colorcc sizefontfontbtd
+          tr
+        table
+        table width border cellspacing cellpadding
+          tr
+            tdimg srchttptescomailrealtimecoukirelandyspacergif width heightbr
+              font size faceverdana arial helvetica sansserifto take 
+              advantage of these fantastic world cup offers click herebr
+              a hrefhttpixcaddebbddab httpwwwtescoiesuperstore 
+              afonttd
+          tr
+        table
+        table width border cellspacing cellpadding
+          tr
+            td 
+              pimg srchttptescomailrealtimecoukirelandyspacergif width heightbr
+                img srchttptescomailrealtimecoukirelandyofferbandgif width height altoffer ends june th you cant miss itbr
+                img srchttptescomailrealtimecoukirelandyspacergif width heightbr
+                font size faceverdana arial helvetica sansserifwhy 
+                not get everyone behind our boys and send this email on to a friend 
+                so they can enjoy these great offers toofontp
+              pfont size faceverdana arial helvetica sansserifbecause 
+                were selling cases at costprice we can only offer a maximum 
+                of  cases of guinness and  cases of budweiser per householdbr
+                img srchttptescomailrealtimecoukirelandyspacergif width heightfontp
+            td
+          tr
+        table
+      td
+    tr
+  table
+  table width border cellspacing cellpadding
+    tr 
+      td valignmiddle widthimg srchttptescomailrealtimecoukirelandyclubcardgif width height alttesco ireland clubcardtd
+      td valignmiddle widthfont faceverdana arial helvetica sansserif sizeremember 
+        you earn clubcard points on every purchasefonttd
+    tr
+  table
+  table width border cellspacing cellpadding
+    tr
+      td
+        pfont size faceverdana arial helvetica sansserifall products 
+          are subject to availability while stocks lastfontp
+        pfont size faceverdana arial helvetica sansserifonline 
+          prices may vary from those charged instorefontp
+        pfont size faceverdana arial helvetica sansserifprices 
+          in this email are correct at the time of production and are subject 
+          to change please see website for latest pricesbr
+          fontp
+        pfont size faceverdana arial helvetica sansserifif you 
+          would prefer not to receive emails with news and special offers from 
+          tescoie please click here bra hrefhttpwwwtescoieregisterunsubscribeaspfromyyyyspamassassintaintorg httpwwwtescoieregisterunsubscribeaspfromyyyyspamassassintaintorgabr
+          fontp
+        pfont size faceverdana arial helvetica sansserifthis may 
+          take up to five working days to unsubscribefontp
+      td
+    tr
+  table
+div
+img srchttpsefcadaaa border altbody
+html
+
+javamailrootsmtp
+

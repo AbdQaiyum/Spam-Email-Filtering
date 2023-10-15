@@ -1,0 +1,120 @@
+html
+head
+titledigital publishing tools  free software alerttitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+body bgcolorffffff text
+center
+table width border cellspacing cellpadding bordercolorcc
+tr
+td colspan width aligncenter bgcolorccmtdfpbl
+a hrefhttpdpageturningebookcom styletextdecorationnone
+bfont faceverdana arial helvetica sansserif size colorffffffpublish like a professional with digital publishing toolsfontb
+a
+td
+tr
+
+tr
+td colspan width valigntop
+bfont faceverdana arial helvetica sansserif color sizeeasily create professionalfontb
+font faceverdana arial helvetica sansserif size color
+ul
+liebooksli
+liebrochuresli
+liecatalogsli
+liresumesli
+linewslettersli
+lipresentationsli
+limagazinesli
+liphoto albumsli
+liinvitationsli
+limuch much moreli
+ul
+font
+td
+
+td colspan width valigntop aligncenter
+bfont faceverdana arial helvetica sansserif color sizesave money  save treesfontb
+br
+br
+font faceverdana arial helvetica sansserif size colorcc
+save on printing postage and advertising costsfont
+br
+br
+a hrefhttpdpageturningebookcom styletextdecorationnone
+bfont faceverdana arial helvetica sansserif color sizedigital publishing toolsfont
+br
+br
+font faceverdana arial helvetica sansserif color sizedownload new free version nowfontb
+a
+br
+font faceverdana arial helvetica sansserif size colorcclimited time offerfont
+td
+
+td width valigntopb
+font faceverdana arial helvetica sansserif size colorchoose from thesebr
+display stylesfontb
+font faceverdana arial helvetica sansserif size color
+ul
+lid page turnli
+lislide showli
+lisweepwipeli
+ul
+font
+font faceverdana arial helvetica sansserif size colorccembed hyperlinks and link to anywhere online 
+
+such as your website order page or contact form
+br
+br
+distribute via floppy cdrom email or online
+font
+td
+tr
+
+trtd colspan width aligncenter bgcolorcc 
+font colorffffff faceverdana arial helvetica sansserif sizeb
+take your marketing to the next levelbfont
+td
+tr
+
+tr
+td colspan width 
+font size faceverdana arial helvetica sansserif color
+for bmore infob bsamplesb or a bfree downloadb click the appropriate link to the right nbsp
+server demand is extremely high for this limited time bfree softwareb offer nbsp
+bplease try these links periodically if a site seems slow or unreachableb
+font
+td
+
+td colspan width aligncenter 
+bfont size faceverdana arial helvetica sansserif
+a hrefhttpdpageturningebookcomwebsite abr
+a hrefhttptheygocomfreesoftwarewebsite abr
+a hrefhttpwwwdigitalpublishingtoolscomwebsite abr
+fontb
+td
+tr
+
+tr
+td colspan width aligncenter
+form actionhttpwwwdpageturningebookcomunsubscribeasp methodpost
+font size faceverdana arial helvetica sansserif color
+if you wish to be removed from our mailing list please cick the unsubscribe button
+font
+br
+input size namee valuezzzzjmasonorg
+ nbspinput typesubmit valueunsubscribe
+input typehidden namec valueunsub
+form
+font faceverdana arial helvetica sansserif color sizecopyright    affiliate id br
+free version is fully functional with no expiration and has a  page  page spread limitfont
+td
+tr
+
+table
+
+center
+body
+html
+
+

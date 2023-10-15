@@ -1,0 +1,197 @@
+ 
+ipogea  
+si vous ne pouvez lire le format html vous pouvez visualiser ce message  ladresse 
+httpwwwipogeacomnewsphpprovslag
+
+si vous ne souhaitez plus recevoir ce message il vous suffit dy repondre avec le sujet remove
+
+html
+head
+titlenews ipogeatitle
+head
+body bgcolorffffff
+table width border cellpadding cellspacing aligncenter
+  tr 
+    td img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+    td img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+    td img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+    td img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+	td img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+  tr
+  tr 
+    td colspan height 
+      div aligncenterfont facearial sizefont facearial color size fontbsi 
+        vous ne souhaitez plus recevoir ce courrier a hrefmailtodesabonnementipogeacomsubjectremovecliquez 
+        iciabfont br
+        nbsp font div
+    td
+  tr
+  tr 
+    td colspan rowspan img srchttpwwwipogeacomimagesnewsipojpg width heighttd
+    td colspan img srchttpwwwipogeacomimagesnewsipojpg width heighttd
+ 	td img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+  tr
+  tr 
+    td colspan height 
+      div alignrightbfont size faceverdana arial helvetica sansserif color 
+           fontbdiv
+    td
+ 	td img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+tr
+  tr 
+    td colspan height 
+      div aligncenterfont faceverdana arial helvetica sansserif sizebfont colorcfun 
+        mois de maintenance offertfontbfont colorcffontfontdiv
+    td
+  	td height img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+tr
+  tr 
+    td colspanimg srchttpwwwipogeacomimagesnewsipojpg width heighttd
+ 	td img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+  tr
+  tr 
+    td rowspan  img srchttpwwwipogeacomimagesnewsipojpg width heighttd
+    td colspan bfont colora faceverdana arial helvetica sansserif sizeoubliez 
+      vos problemes informatiques du quotidienfontbbr
+    td
+    td colspan rowspan img srchttpwwwipogeacomimagesnewsipojpg width heighttd
+ 	td rowspanimg srchttpwwwipogeacomimagesnewsspacergif width heighttd
+  tr
+  tr 
+    td colspan  
+      pfont faceverdana arial helvetica sansserif size colora 
+        nbspnbspnbspnbspnbspnbspnbspordinateurs bloqueacutes 
+        virus informatique perte de donneacutees connexion internet br
+        nbspnbspnbspnbspnbspnbspnbspdeacutefectueuse imprimante 
+        deacuteconfigureacutee serveur en panne  bvotre entreprise 
+        ne peut bbr
+        nbspnbspnbspnbspnbspnbspnbspbplus rester bloqueacutee 
+        pendant plusieurs heures voire plusieurs joursbbr
+        fontp
+    td
+  tr
+  tr 
+    td colspan font colora faceverdana arial helvetica sansserif sizebbr
+      profitez dun informaticien a temps partagebfonttd
+  tr
+  tr 
+    td colspan backgroundhttpwwwipogeacomimagesnewsipojpg height 
+      table width border
+        tr 
+          td valigntop height colspan font faceverdana arial helvetica sansserif size 
+coloranbspnbspnbspnbspnbspnbspnbspvotre 
+            spcialiste informatique ipogea vous rend visite plusieurs fois par 
+            mois br
+            nbspnbspnbspnbspnbspnbspnbspet assure une bmaintenance 
+            adapteb de votre systme informatique vous bnficiez br
+            nbspnbspnbspnbspnbspnbspnbspdeb lassistance tlphonique 
+            ipogeab pour vous aider dans votre gestion quotidienne br
+            nbspnbspnbspnbspnbspnbspnbspen cas durgence les techniciens 
+            ipogea interviennent dans les bmeilleurs dlais sur sitebr
+            br
+            br
+            bfonttd
+        tr
+        tr 
+          td valigntop rowspannbsptd
+          td valigntop height colspan 
+            pfont colorcf faceverdana arial helvetica sansserif sizebfaites 
+              des economies bfont br
+              font size faceverdana arial helvetica sansserif colorenbspnbspnbspgracircce 
+              agrave ipogea votre entreprise br
+              nbspnbspnbspse dote dun veacuteritable service br
+              nbspnbspnbspinformatique sans pour autant br
+              nbspnbspnbspsupporter les coucircts dun br
+              nbspnbspnbsprecrutement agrave temps completbr
+              fontp
+          td
+          td valigntop colspan heightfont colorcf size faceverdana arial helvetica sansserifbun 
+            regard objectif  b fontbr
+            font colore size faceverdana arial helvetica sansserifnbspnbspnbspipogea 
+            est indeacutependant des constructeurs br
+            nbspnbspnbspet des eacutediteurs ce qui vous garanti la br
+            nbspnbspnbspparfaite objectiviteacute de nos conseilsbr
+            br
+            fonttd
+        tr
+        tr 
+          td valigntop widthnbsptd
+          td valigntop font size faceverdana arial helvetica sansserif colorcfbbr
+            des tarifs sans surprises  bfontbr
+            font size faceverdana arial helvetica sansserif colorenbspnbspnbspla 
+            facturation de nos services br
+            nbspnbspnbspest mensuelle et forfaitairefonttd
+          td valigntop width nbsptd
+          td valigntop bfont size faceverdana arial helvetica sansserif colorcftester 
+            nos services fontb br
+            font size faceverdana arial helvetica sansserif colorenbspnbspnbspvous 
+            pouvez tester nos servicesbr
+            nbspnbspnbsppendant  mois et rompre le br
+            nbspnbspnbspcontrat agrave tout moment pendant br
+            nbspnbspnbspcette peacuteriodebr
+            br
+            fonttd
+        tr
+      table
+    td
+ 	td img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+  tr
+	tr
+		td colspan
+			img srchttpwwwipogeacomimagesnewsipojpg width heighttd
+		td
+			img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+	tr
+	tr
+		td rowspan
+			img srchttpwwwipogeacomimagesnewsipojpg width heighttd
+		td colspan
+			img srchttpwwwipogeacomimagesnewsipojpg width heighttd
+		td
+			img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+	tr
+	tr
+		
+    td colspan rowspan
+      div aligncenterfont colora faceverdana arial helvetica sansserifbfont sizevous 
+        souhaitez plus dinformations fontfont sizebr
+        br
+        a hrefhttpwwwipogeacomappelindexphpprovslagimg srchttpwwwipogeacomimagesnewsboutongif 
+height bordera 
+        br
+        font sizeun conseiller vous appellefontfontbfontdiv
+    td
+		td rowspan
+			img srchttpwwwipogeacomimagesnewsipojpg width heighttd
+		td
+			img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+	tr
+	tr
+		td
+			img srchttpwwwipogeacomimagesnewsipojpg width heighttd
+		td
+			img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+	tr
+	tr
+		td colspan
+			img srchttpwwwipogeacomimagesnewsipojpg width heighttd
+		td
+			img srchttpwwwipogeacomimagesnewsspacergif width heighttd
+	tr
+  tr 
+    td colspan height 
+      div aligncenter 
+        p alignrightfont size faceverdana arial helvetica sansserif colorepour 
+          toute signature dun contrat de  mois avant le fontp
+        pfont facearial sizefont faceverdana arial helvetica sansserif color size fontisi 
+          vous ne souhaitez plus recevoir ce courrier a 
+hrefmailtodesabonnementipogeacomsubjectremovecliquez iciaifont 
+          br
+          nbsp font p
+      div
+    td
+  tr
+table
+body
+html
+

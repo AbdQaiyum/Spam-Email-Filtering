@@ -1,0 +1,30 @@
+on thu  at  ville skytt wrote
+
+  thanks a lot   the rpms seem to be fine they worked for me out of
+  the box on vanilla valhalla wlatest errata
+ 
+ except that i dont see an init script in the rpms a sample one
+ designed for rh is supposed to be in utilsalsasound  could you take
+ a look if it can be included
+
+ok some more nits alsaxmms doesnt work if i dont have
+alsalibdevel installed but xmms dies on startup telling me
+
+   cannot load alsa library libasoundso cannot open shared object
+   file no such file or directory
+
+libasoundso is part of alsalibdevel if i install it the alsa xmms
+output plugins works fine
+
+i cant install the xine stuff because xinelibs needs libglcoreso
+which i cant find anywhere nvidia stuff  i have radeon 
+
+ 
+ille skytt
+villeskytta at ikifi
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

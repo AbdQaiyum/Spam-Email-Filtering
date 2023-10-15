@@ -1,0 +1,214 @@
+this is a multipart message in mime format
+
+nextpartfccedef
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+
+ financial power you can depend on
+
+ very competitive ratesa
+guaranteed  years
+
+ let aigs annuity portfolio work for you
+am best company	 a superior	
+standard  poors corp	 aa very strong	
+fitch	 aa very strong	
+moodys investors service	 aa excellent	
+call today for more information
+ 
+ or 
+
+please fill out the form below for more information	
+name	  	 
+email	  
+phone	  
+city	  	state	  
+ 	    
+
+
+ aig annuity insurance company
+we dont want anyone to receive our mailings who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here insuranceiqcomoptout
+httpwwwinsuranceiqcomoptout
+
+legal notice httpwwwinsiqcomlegalhtm
+
+nextpartfccedef
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlefinancial power you can depend ontitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolord textd
+font facedarial helvetica sansserif
+table widthd borderd aligndcenter cellpaddingd 
+cellspacingd bordercolord bgcolordffffff
+  tr
+    td
+			img srcdhttpiiqusimagesaigsetratejpg 
+widthd heightdbr
+			img srcdhttpiiqusimagesaigsetratejpg 
+widthd heightd altdfinancial power you can depend 
+onbr
+			img srcdhttpiiqusimagesaigsetratejpg 
+widthd heightdbr
+      img srcdhttpiiqusimagesaigsetratejpg 
+altdvery competitive ratesguaranteed  years widthd 
+heightdbr
+			table widthd cellpaddingd cellspacingd 
+bgcolord
+        tr
+          td
+            table widthd borderd cellpaddingd 
+cellspacingd bordercolordffffff bgcolordcccccc
+              tr
+                td colspand aligndcenter 
+bgcolordffffffimg 
+srcdhttpiiqusimagesaigsetrateagif altdlet 
+aigs annuity portfolio work for you widthd heightdtd
+              tr
+              tr aligndcenter
+                td widthdbfont sizedam best 
+companyfontbtd
+                td widthdbfont sizedquotaquot 
+superiorfontbtd
+              tr
+              tr aligndcenter
+                tdbfont sizedstandard amp poors 
+corpfontbtd
+                tdbfont sizedquotaaquot very 
+strongfontbtd
+              tr
+              tr aligndcenter
+                tdbfont sizedfitchfontbtd
+                tdbfont sizedquotaaquot very 
+strongfontbtd
+              tr
+              tr aligndcenter
+                tdbfont sizedmoodys investors 
+servicefontbtd
+                tdbfont sizedquotaaquot 
+excellentfontbtd
+              tr
+            table
+          td
+        tr
+        tr
+          td aligndcenter
+            bfont colordffffff sizedcall today for more 
+informationbr
+            img srcdhttpiiqusimagesaigsetrategif 
+altd widthd heightdbr
+             or fontbbr
+            table widthd borderd cellpaddingd 
+cellspacingd bordercolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordeeeeee
+                      tr bgcolordb
+                        td colspand aligndcenterbfont 
+colordffffff sizedplease fill out the form below for more 
+informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                        td rowspand valigndmiddle 
+aligndcenterimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd colspand
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          input typedhidden 
+namedhdnrecipienttxt valuedjerryliversaigannuitycom
+                          input typedhidden namedhdnsubjecttxt 
+valuedaig setrate ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            br
+            img srcdhttpiiqusimagesaigsetrategif 
+altdaig annuity insurance company widthd heightd
+          td
+        tr
+      table
+		td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+			pfont facedarial helvetica sansserif sizedwe dont 
+want anyone to receive our mailings who does not
+			wish to receive them this is a professional communication
+			sent to insurance professionals to be removed from this mailing
+			list bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptout
+			insuranceiqcomoptoutafontp
+    td
+  tr
+table
+center
+  a hrefdhttpwwwinsiqcomlegalhtmfont sized 
+facedarial helvetica sansseriflegal notice fonta
+center
+font
+body
+html
+
+
+nextpartfccedef
+
+

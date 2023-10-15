@@ -1,0 +1,366 @@
+this is a multipart message in mime format
+
+nextpartcebcdaf
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ lock in marketlike gains without risk of market loss	 lock in
+marketlike gains without risk of market loss	 lock in marketlike
+gains without risk of market loss
+ 
+a winning combination the market choice iiism from north american
+company for life  health insurance and safe harbor financial 
+	 choose from up to five different index accounts sp ae
+djiasm sp midcap ae russell ae  nasdaqae 
+	 or choose the security of the fixed account	
+	  commission    participation rate 	
+	 no risk of loss from market declines
+your clients will love the security of this outstanding product 
+	 annual transfer options available change premium allocation
+after each contract anniversary 
+	 two different annual reset crediting methods daily average or
+annual pointtopoint no average 
+ call safe harbor financiala
+	 ask about the 
+contracting bonus from safe harbor
+ or 
+
+please fill out the form below for more information	
+name	  	 
+email	  
+phone	  
+city	  	state	  
+ 	  	 	   
+
+
+ safe harbor financial in wwwsafeharborfinancialcom
+for agent use only not intended for consumer solicitation purposes the
+market choice iiism annuity is issued on form series lc group and
+lsa individual and state variations by north american company for
+life and health insurance chicago illinois this product and its
+features may not be available in all states dow jones dow jones
+industrial average sm and djiasm are service marks of dow jones
+and company inc and have been licensed for use for certain purposes by
+north american company russell  index is a trademark of frank
+russell company and has been licensed for use by north american company
+standard  poorsae spae sp ae standard  poors 
+indexae sp midcap  indexae and standard  poors midcap 
+indexae are trademarks of the mcgrawhill companies inc and have 
+been
+licensed for use by north american company the nasdaqae 
+nasdaq
+indexae and nasdaqae are registered marks of the nasdaq stock market 
+inc
+which with its affiliates are the corporations and are licensed for
+use by north american company the market choice iiism annuities are
+not issued endorsed sold or promoted by the corporations or any of the
+indexes listed above the corporations make no warranties and bear no
+liability with respect to the market choice iiism commissions are
+based upon rates as of  commissions may vary by state and are
+subject to change participation rates are based upon rates as of
+ and are subject to change participation rate is based on the sp
+ae and djiasm and the daily average crediting method call safe
+harbor for additional details on other indexes and participation rates
+nasdaqae is available on the pointtopoint index crediting option
+only contracting bonus will be paid once contracting with safe harbor
+is complete and formal
+ndfzadii prt  exp 	
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet
+
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+nextpartcebcdaf
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlelock in your clients gainstitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+font facedarial helvetica sansserif
+table widthd cellpaddingd cellspacingd 
+aligndcenter bgcolordffffff bordercolord 
+borderd
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffcc
+        tr
+          tdimg srcdhttpiiqusimagesshgif 
+widthd heightd altdlock in marketlike gains without 
+risk of market losstd
+          tdimg srcdhttpiiqusimagesshgif 
+widthd heightd altdlock in marketlike gains without 
+risk of market losstd
+          tdimg srcdhttpiiqusimagesshgif 
+widthd heightd altdlock in marketlike gains without 
+risk of market losstd
+        tr
+        tr
+          td colspand bgcolordffimg 
+srcdhttpiiqusimagesshspacergif widthd 
+heightdtd
+        tr
+        tr
+          td colspand widthd bgcolordffcc
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                td colspand aligndcenterba winning 
+combination the market
+                  choice iiisupsmsup from north americanbr
+                  company for life amp health insurance and safe 
+harbor financialb
+                td
+              tr
+              tr
+                td widthd aligndright 
+valigndbaselinebfont sizedfontbtd
+                td widthdfont sizedchoose from up to 
+five different
+                  index accounts sampp supregsup 
+djiasupsmsup
+                  sampp midcap supregsup russell 
+supregsup
+                  amp nasdaqsupregsupfont
+                td
+              tr
+              tr
+                td widthd aligndright 
+valigndbaselinebfont sizedfontbtd
+                td widthdfont sizedor choose the 
+security of the fixed accountfonttd
+              tr
+              tr
+                td widthd aligndright 
+valigndbaselinebfont sizedfontbtd
+                td widthdfont sized commission  
+amp  participation rate fonttd
+              tr
+              tr
+                td widthd aligndright 
+valigndbaselinebfont sizedfontbtd
+                td widthdfont sized 
+colordccbuno risk of loss from market declinesbr
+                  your clients will love the security of this 
+outstanding productubfont
+                td
+              tr
+              tr
+                td widthd aligndright 
+valigndbaselinebfont sizedfontbtd
+                td widthdfont sizedannual transfer 
+options available
+                  change premium allocation after each contract 
+anniversaryfont
+                td
+              tr
+              tr
+                td widthd aligndright 
+valigndbaselinebfont sizedfontbtd
+                td widthdfont sizedtwo different annual 
+reset crediting
+                  methods daily average or annual pointtopoint no 
+averagefont
+                td
+              tr
+            table
+          td
+        tr
+        tr bgcolordffcc
+          td colspand
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                tdimg 
+srcdhttpiiqusimagesshgif widthd 
+heightd altdcall safe harbor financialtd
+                tdimg 
+srcdhttpiiqusimagesshgif widthd 
+heightd altdask about the  contracting bonus from safe 
+harbortd
+              tr
+            table
+          td
+        tr
+        tr bgcolordffcc aligndcenter
+          td colspandfont sizedb or 
+bfontbr
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordffffff
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont sized colordffffffplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                        td rowspand valigndmiddle 
+aligndcenterimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedinfosafeharborfinancialcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedsafe harbor ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            nbspbr
+            img srcdhttpiiqusimagesshgif 
+widthd heightd altdsafe harbor financial in 
+wwwsafeharborfinancialcom
+          td
+        tr
+        tr bgcolordffcc
+          td colspandfont sizedbfor agent use only not 
+intended for
+            consumer solicitation purposes bthe market choice 
+iiism annuity
+            is issued on form series lc group and lsa 
+individual and
+            state variations by north american company for life and 
+health insurance
+            chicago illinois this product and its features may not be 
+available
+            in all states quotdow jonesquot quotdow jones 
+industrial average
+            smquot and quotdjiasmquot are service marks of dow 
+jones
+            and company inc and have been licensed for use for certain 
+purposes
+            by north american company russell  index is a trademark 
+of frank
+            russell company and has been licensed for use by north 
+american company
+            quotstandard amp poorsregquot 
+quotsamppregquot
+            quotsampp regquot quotstandard amp poors 
+ indexregquot
+            quotsampp midcap  indexregquot and quotstandard 
+amp
+            poors midcap  indexregquot are trademarks of the 
+mcgrawhill
+            companies inc and have been licensed for use by north 
+american company
+            the nasdaqreg nasdaq indexreg and nasdaqreg 
+are registered
+            marks of the nasdaq stock market inc which with its 
+affiliates are
+            the quotcorporationsquot and are licensed for use by 
+north american
+            company the market choice iiism annuities are not issued 
+endorsed
+            sold or promoted by the corporations or any of the indexes 
+listed
+            above the corporations make no warranties and bear no 
+liability with
+            respect to the market choice iiism commissions are based 
+upon
+            rates as of  commissions may vary by state and are 
+subject
+            to change participation rates are based upon rates as of 
+
+            and are subject to change participation rate is based on 
+the sampp
+            reg and djiasm and the daily average crediting 
+method call
+            safe harbor for additional details on other indexes and 
+participation
+            rates supsupnasdaqreg is available on the 
+pointtopoint
+            index crediting option only supsupcontracting bonus 
+will be
+            paid once contracting with safe harbor is complete and 
+formalbr
+            ndfzadii prt  exp fonttd
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+font
+body
+html
+
+nextpartcebcdaf
+
+

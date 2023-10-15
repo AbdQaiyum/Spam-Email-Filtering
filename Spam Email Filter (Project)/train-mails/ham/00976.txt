@@ -1,0 +1,18 @@
+is there a way to do a global sort command heres the situation i like to 
+sort by date every folder im cleaning up my inbox from most recent to oldest 
+since i find this direction most efficient i guess because it helps me 
+recognize the significance of individual old messages but this adds messages 
+to my other folders in the wrong order when im done id like to resort all 
+the folders ive changed
+
+
+rick
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

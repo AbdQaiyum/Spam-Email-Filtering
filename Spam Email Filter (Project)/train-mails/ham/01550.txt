@@ -1,0 +1,36 @@
+bonjour
+
+ always for my script if i run it manually in console all is ok
+ whether is the user
+ but if i try to implement it in my general script filter running
+ whith qmailq uid  
+
+ ive got  has exit status and in my mail log 
+ cant call method log on unblessed reference at
+  usrlibperlsiteperlrazorclientagentpm line 
+
+  my log file is in homeuserrazorrazoragentlog
+  and have write permission for qmailq user
+
+  any idea 
+
+
+toorop 
+lorsque que vous avez limin limpossible ce qui reste 
+mme si cest improbable doit tre la vrit
+wwwspoonsdesigncom
+
+
+mail scann par protecmail filter 
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+

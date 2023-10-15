@@ -1,0 +1,199 @@
+this is a multipart message in mime format
+
+nextpartaccdbe
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ get a kick out of our huge annuity bonuses
+ earn a  cash bonusa
+for every  annuity applicationsa
+with any of
+our four top carriersa
+by a
+deadline too soon no problema
+earn an
+ cash bonusa
+for every  annuity applicationsa
+with any of our four
+top carriersa
+by 
+ 	 
+ 	
+get your bonus call mo marketing today
+ 
+ or 
+
+please fill out the form below for more information 
+name	 	  
+email	 	
+phone	 	
+city	 	 state	 	
+ 	    
+
+
+bonuses awarded from mo marketing on paid issued business for agent
+use only offer subject to change without notice offer starts 
+offer ends  offer good in all states except wi in de not
+available with all carriers
+
+we dont want anyone to receive our mailings who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsuranceiqcomoptout
+httpwwwinsuranceiqcomoptout
+
+legal notice httpwwwinsiqcomlegalhtm
+
+nextpartaccdbe
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlemore cash for the business you already write  
+immediatelytitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolord textd
+font facedarial helvetica sansserif
+table widthd borderd aligndcenter cellpaddingd 
+cellspacingd bordercolord bgcolordffffff
+  tr
+    td
+       table widthd cellpaddingd cellspacingd 
+borderd bgcolord
+        tr
+          td colspand aligndrightimg 
+srcdhttpiiqusimagesmandoannuitygif 
+altdget a kick out of our huge annuity bonuses widthd 
+heightdtd
+        tr
+        tr
+          td widthd heightd valigndtop
+            img 
+srcdhttpiiqusimagesmandoannuitygif 
+widthd heightd altdearn a  cash bonusfor 
+every  annuity applicationswith any of our four top 
+carriersby deadline too soon no problemearn an 
+ cash bonusfor every  annuity applicationswith any of 
+our four top carriersby br
+	          img 
+srcdhttpiiqusimagesmandoannuitygif 
+widthd heightd
+	        td
+          td widthdimg 
+srcdhttpiiqusimagesmandoannuityjpg 
+widthd heightdtd
+        tr
+        tr
+          td colspandnbsptd
+        tr
+        tr
+          td colspand aligndcenter
+            font colordffffff sizedbget your bonus call 
+mampo marketing todaybr
+            img 
+srcdhttpiiqusimagesmandoannuitygif 
+altd widthd heightd
+            br
+             or bfontbr
+            table widthd borderd cellpaddingd 
+cellspacingd bordercolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordcccccc
+                      tr
+                        td colspand aligndcenter 
+bgcolordfont colordffffff sizedbplease fill 
+out the form below for more informationbfont
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbnamebfonttd
+                        td colspandinput typedtext 
+namedcontactname sizedtd
+                        td rowspand valigndmiddle 
+aligndcenterimg srcdhttpiiqusimagesqgraygif 
+widthd heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbemailbfonttd
+                        td colspand input typedtext 
+namedemail sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbphonebfonttd
+                        td colspand input typedtext 
+namedphone sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+sizedbcitybfonttd
+                        td widthd input typedtext 
+namedcity sizedtd
+                        td widthd aligndrightfont 
+sizedbstatebfonttd
+                        td widthd input typedtext 
+namedstate sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd colspand
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          input typedhidden 
+namedhdnrecipienttxt valuedmarketingmandomarketingcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedmo annuity ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            p aligndleftfont sized 
+colordffffffbonuses awarded from
+              mampo marketing on paid issued business for agent use 
+only
+              offer subject to change without notice offer starts 
+ offer
+              ends  offer good in all states except wi in 
+de not
+              available with all carriersfontp
+          td
+        tr
+      table
+		td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+			pfont sizedwe dont want anyone to receive our mailings who 
+does not
+			wish to receive them this is a professional communication
+			sent to insurance professionals to be removed from this mailing
+			list bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptout
+			httpwwwinsuranceiqcomoptoutafontp
+    td
+  tr
+table
+center
+  a hrefdhttpwwwinsiqcomlegalhtmfont sizedlegal 
+notice fonta
+centerfont
+body
+html
+
+nextpartaccdbe
+

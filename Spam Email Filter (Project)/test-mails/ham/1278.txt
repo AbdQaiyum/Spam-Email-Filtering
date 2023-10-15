@@ -1,0 +1,35 @@
+hi
+
+ on sun  sep  thomas vander stichele wrote
+ 
+  info  gstxmlregistryrebuild plugin 
+  usrlibgstlibgstwincodecso failed to load error loading plugin 
+  usrlibgstlibgstwincodecso reason usrliblibaviplayso 
+  undefined symbol ztvncxxabivsiclasstypeinfoe
+
+ are you using the same version of gcc to compile the plugin as its c
+ dependencies
+
+yes i am  everything is built inside a chroot  i think it isnt linking 
+to a lib somewhere im just not sure what lib it should preloading here  
+anyway to find out which one it is 
+
+thomas
+
+  
+
+the davedina project  future tv today   httpdavedinaapestaartorg
+                      
+you came in just like smoke
+with a little come on come on 
+come on in your walk
+come on
+ thomasapestaartorg 
+urgent the best radio on the internet     httpurgentrugacbe
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

@@ -1,0 +1,62 @@
+hi gianni
+
+a very good resource for this is
+httplinuxlaptopnet
+or
+httpwwwmobilixorg
+
+they have walk through guides for an umber of latops highlighting what
+to look out for
+
+have a look there and let us know if you succeed
+
+cheers
+
+phil trickett
+
+on wed  at  gianni ponzi wrote
+ hi all
+ 
+ 
+ i have a prob when trying to install linux tried redhat suse on my
+ laptop i can start the install but after about min the whole pc just
+ dies
+ i know its not a linux prob and here is what i have encountered
+ 
+ i had the same problem when installing win on it and eventually sorted it
+ out by disabling the infrared port im guessing this might be same prob
+ although im not sure i am very new to linux so its not that easy for me
+ to work it out i did manage to follow the setup procedure at one stage
+ using images on disks and it cuts out either as its trying to verify what
+ cdrom i have or just after hence my suspicion of the infrared port again
+ 
+ can anyone help 
+ 
+ thanks
+ gianni
+ 
+ 
+ 
+ this email and any files transmitted with it are confidential
+ and intended solely for the use of the individual or entity to
+ which they are addressed if you have received this email
+ in error please notify the epa postmaster  postmasterepaie
+ 
+ the opinions contained within are personal to the sender and 
+ do not necessarily reflect the policy of the environmental 
+ protection agency
+ 
+ this footnote also confirms that this email message has been
+ swept by mimesweeper for the presence of computer viruses
+ 
+ 
+ 
+philip trickett philtechworksie
+techworks marine ltd
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+
+

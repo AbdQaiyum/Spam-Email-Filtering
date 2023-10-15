@@ -1,0 +1,12 @@
+url httpscriptingnewsuserlandcombackissueswhenam
+date wed  sep   gmt
+
+jon hanna on the rssdev list says that rss was not designed to be of 
+any particular use to bloggers aggregators or metadata providers this is 
+not true half of rss  was scriptingnews format which was totally 
+designed to model a weblog in xml 
+
+ httpgroupsyahoocomgrouprssdevmessage
+ httpmyuserlandcomstoriesstoryreader
+
+

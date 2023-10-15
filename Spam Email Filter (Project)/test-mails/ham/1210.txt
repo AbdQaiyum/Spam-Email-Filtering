@@ -1,0 +1,130 @@
+oops  turns out i wasnt careful installing it so the exmhlibrary
+variable was pointing at my old installation  im surprised it worked
+as well as it did
+
+in any case i removed the old library directory and edited exmh
+exmhbg exmhstrip etc to point at the right one  now im getting
+another traceback on startup
+
+cant read mhprivpubseqfamilycur no such variable
+    while executing
+mhseq folder seq add mhprivpubseqfolderseq mhseqexpand
+folder msgids
+    procedure mhreadseqs line 
+    invoked from within
+mhreadseqs folder seqs
+    procedure mhsequences line 
+    invoked from within
+mhsequences folder
+    procedure flistunseenupdate line 
+    invoked from within
+flistunseenupdate folder
+    procedure folderchange line 
+    invoked from within
+folderchange family msgshow cur
+    invoked from within
+time list  folderchange folder msgshowproc
+    procedure folderchange line 
+    invoked from within
+folderchange exmhfolder
+    procedure exmh line 
+    invoked from within
+exmh
+    after script
+
+
+family is the folder i was in when i quit exmh
+
+im on a remote display right now and its really slow  ill have to
+play with it more tonight when i get home to see if there are any
+other problems 
+
+scott
+
+  from  scott lipcon slipconmerceanet
+  date  sun  sep   
+ 
+  i just updated to the latest cvs  i had been running a build from june  
+  hitting the flist button gives the following traceback
+  
+  syntax error in expression int
+      while executing
+  expr intminlinemsgidminmsgmaxlineminlinemaxmsgminms
+  g
+      procedure ftocfindmsg line 
+      invoked from within
+  ftocfindmsg i
+      procedure ftocshowsequences line 
+      invoked from within
+  ftocshowsequences f
+      procedure scanfolder line 
+      invoked from within
+  scanfolder inbox 
+      invoked from within
+  time list scanfolder f adjustdisplay
+      procedure scanfolder line 
+      invoked from within
+  scanfolder exmhfolder ftocshownew
+      procedure incpresortfinish line 
+      invoked from within
+  incpresortfinish
+      invoked from within
+  fopsflist invoke
+      uplevel body line 
+      invoked from within
+  uplevel  list w invoke
+      procedure tkbuttonup line 
+      invoked from within
+  tkbuttonup fopsflist
+  
+      command bound to event
+  
+  
+  it seems to only happen in a folder with no unseen messages
+  
+  chris is this related to your recent changes
+ 
+ curious  i changed the arguments to ftocshowsequences to drop the folder 
+ argument and instead have an optional msgids argument  somehow your version 
+ of scanfolder is still trying to pass f  you seem to have the latest 
+ ftoctcl  but not the latest scantcl 
+ 
+ i dont know how that happened but try getting your source tree completely 
+ up to date
+ 
+ chris
+ 
+  
+ chris garrigues                 httpwwwdeepeddycomcwg
+ vircio                          httpwwwvirciocom
+  congress suite 
+ austin tx  		   
+ 
+   world war iii  the wrongdoers vs the evildoers
+ 
+ 
+ 
+ 
+ exmhp
+ contenttype applicationpgpsignature
+ 
+ begin pgp signature
+ version gnupg v gnulinux
+ comment exmh version  
+ 
+ iddbqejygskbhriuiraixajcorkpwnkatpbqytcyrmvpqcfdd
+ cbvusxwabobtcdtvhmfly
+ xjhj
+ end pgp signature
+ 
+ exmhp
+ 
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

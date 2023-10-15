@@ -1,0 +1,13 @@
+jeremy hylton
+ heres clarification of why i did
+
+thats pretty much what i had guessed  thanks  one more to try
+
+ first test results using tokenizertokenizertokenizeheaders
+ unmodified 
+ 
+ second test results using mboxtestmytokenizertokenizeheaders
+ this uses all headers except received data and xfrom
+ 
+
+try the latter again but call the base tokenizeheaders too

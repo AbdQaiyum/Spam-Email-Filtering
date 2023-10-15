@@ -1,0 +1,21 @@
+on thu aug   at am  clayton nik it wrote
+ have the uppercase rules been tested on messages in nonenglish 
+ character sets andor where the message is mime encoded in some way
+ 
+ im getting a lot of false positives on japanese mail and i think the 
+ encoding is responsible for triggering this rule
+
+like justin said this is fixed in cvs
+
+dan
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

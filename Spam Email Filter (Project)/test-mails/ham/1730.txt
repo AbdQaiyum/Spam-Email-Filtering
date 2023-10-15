@@ -1,0 +1,31 @@
+ ben mord said
+ 
+ ah in that case you can use something considerably less powerful than
+ vmware all you need is a machine configured to boot from cdrom and use
+ a ram disk for scratch space numerous linux distros are available that
+ let you boot a stateless but functional system from cdrom
+ 
+ but ram is expensive and the directory structures of many systems eg
+ windows are not sufficiently organized and standardized to make this
+ combination of bootable cds and ram drives practical even if you are
+ fortunate enough to be using linux or another fhscompliant nix you
+ still cant fit a lot on a cd its not unusual today to have gigabytes of
+ static multimedia content on the web server this particular problem can be
+ alleviated somewhat by using dvds but this is a temporary solution at best
+ which will become outdated quickly as our data requirements grow and hard
+ drives become cheaper
+
+so just writeprotect the hard disk for partitions that are static
+i seem to recall an article on this early s byte magazine perhaps
+for bbs systems or for testing unknown perhaps trojan horse software
+
+  george
+
+ 
+ 
+  george dinwiddie                             gdinwiddiealbergorg
+  the gods do not deduct from mans allotted span those hours spent in
+  sailing                                    httpwwwalbergorg
+ 
+
+

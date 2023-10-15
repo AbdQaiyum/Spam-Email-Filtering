@@ -1,0 +1,52 @@
+begin pgp signed message
+hash sha
+
+on tuesday  august   am justin mason wrote
+ tony svanstrom on spamassassintalk noted this us patent
+
+ httpappftusptogovnetacginphparsersectptosecthitoffunetah
+tmlptosearchadvhtmlrfgldpgsspamposhaikursspam
+
+   method of antispam
+
+   abstract
+
+   a method of antispam is to set an optional trustcode or a trustlist or
+   at least a trustweb based on online mail delivery at a recipients email
+   address a mail sender is compelled at the first time to deliver a mail
+ by way of taking the way of visiting trustweb and sending online or
+ enclosing the recipients trustcode in the mail and sending in another way
+ other than the mentioned after the senders email address has been stored
+ automatically in the recipients trustlist the sender may send mails to
+ the same recipient in whatever the ways feasible
+
+
+ sounds a lot like tmda to me   filing date is july    granted
+ may  
+
+ tmdaers have you seen this before  id presume tmda is prior art but
+ still it could be troublesome
+
+
+i took a bit of time to review what is on the above url  if i were a news 
+editor the headline would be
+
+inventor from country that ignores patents and copyrights seeks patent for 
+inventing the wheel
+  
+ 
+robin lynn frankdirector of operationsparadigm omega llc
+httpparadigmomegacom              httpparadigmomeganet
+   all rights reserved  no duplicationdissemination permitted
+use of pgpgpg encrypted mail preferred no htmlattachments accepted
+fingerprint  e c cc  dbd  d f dd ea 
+key server  httpparadigmomegacomkeymasterhtml
+ 
+begin pgp signature
+version gnupg v gnulinux
+
+iddbqebeckdjxfqnxqramtfakdmbdsepbgfborexusjbtwcfbtcw
+pbxqxopeiflijgdc
+pnjx
+end pgp signature
+

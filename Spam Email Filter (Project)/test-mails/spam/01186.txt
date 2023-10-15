@@ -1,0 +1,231 @@
+doctype html public wcdtd html  transitionalen
+html xmlnshttpwwwsqlcarecomtrrechtml xmlnsv  
+urnschemasmicrosoftcomvml xmlnso  
+urnschemasmicrosoftcomofficeoffice xmlnsw  
+urnschemasmicrosoftcomofficewordheadtitlemessagetitle
+meta httpequivcontenttype contenttexthtml charsetiso
+meta contentfrontpageeditordocument nameprogid
+meta contentmicrosoft frontpage  namegenerator
+meta contentmicrosoft word  nameoriginatorlink 
+hrefhasslefreemicrosoftsqlserverremotedatabase
+administrationfilesfilelistxml 
+relfilelistlink 
+hrefhasslefreemicrosoftsqlserverremotedatabase
+administrationfileseditdatamso 
+reledittimedataif mso
+style
+v behaviorurldefaultvml
+o behaviorurldefaultvml
+w behaviorurldefaultvml
+shape behaviorurldefaultvml
+style
+endifif gte mso xml
+ oofficedocumentsettings
+  odonotrelyoncss
+ oofficedocumentsettings
+xmlendifif gte mso xml
+ wworddocument
+  wspellingstatecleanwspellingstate
+  wgrammarstatecleanwgrammarstate
+  wdocumentkinddocumentemailwdocumentkind
+  wenvelopevis
+  wbrowserlevelmicrosoftinternetexplorerwbrowserlevel
+ wworddocument
+xmlendif
+style
+
+  style definitions 
+ pmsonormal limsonormal divmsonormal
+	msostyleparent
+	marginin
+	marginbottompt
+	msopaginationwidoworphan
+	fontsizept
+	fontfamilytimes new roman
+	msofareastfontfamilytimes new roman
+alink spanmsohyperlink
+	colorblue
+	textdecorationunderline
+	textunderlinesingle
+avisited spanmsohyperlinkfollowed
+	colorblue
+	textdecorationunderline
+	textunderlinesingle
+pmsoautosig limsoautosig divmsoautosig
+	marginin
+	marginbottompt
+	msopaginationwidoworphan
+	fontsizept
+	fontfamilytimes new roman
+	msofareastfontfamilytimes new roman
+p
+	msomargintopaltauto
+	marginrightin
+	msomarginbottomaltauto
+	marginleftin
+	msopaginationwidoworphan
+	fontsizept
+	fontfamilytimes new roman
+	msofareastfontfamilytimes new roman
+spanemailstyle
+	msostyletypepersonal
+	msostylenoshowyes
+	msoansifontsizept
+	msobidifontsizept
+	fontfamilyarial
+	msoasciifontfamilyarial
+	msohansifontfamilyarial
+	msobidifontfamilyarial
+	colornavy
+spanemailstyle
+	msostyletypepersonal
+	msostylenoshowyes
+	msoansifontsizept
+	msobidifontsizept
+	fontfamilyarial
+	msoasciifontfamilyarial
+	msohansifontfamilyarial
+	msobidifontfamilyarial
+	colornavy
+page section
+	sizein in
+	marginin in in in
+	msoheadermarginin
+	msofootermarginin
+	msopapersource
+divsection
+	pagesection
+
+style
+if gte mso 
+style
+  style definitions 
+ tablemsonormaltable
+	msostylenametable normal
+	msotstylerowbandsize
+	msotstylecolbandsize
+	msostylenoshowyes
+	msostyleparent
+	msopaddingaltin pt in pt
+	msoparamarginin
+	msoparamarginbottompt
+	msopaginationwidoworphan
+	fontsizept
+	fontfamilytimes new roman
+style
+endifif gte mso xml
+ oshapedefaults vextedit spidmax
+xmlendifif gte mso xml
+ oshapelayout vextedit
+  oidmap vextedit data
+ oshapelayoutxmlendifhead
+body langenus styletabinterval in vlinkblue linkblue 
+bgcolorwhite
+div classsection
+div
+table classmsonormaltable 
+stylemarginleft in width pt msocellspacing in msopaddingalt in in 
+in in 
+cellspacing cellpadding width border
+  tbody
+  tr stylemsoyftiirow  msoyftilastrow yes
+    td 
+    stylepaddingright in paddingleft in paddingbottom in 
+paddingtop in 
+    valigntop
+      p classmsonormalfont facetimes new roman sizespan 
+      stylefontsize ptimg idxi height 
+      srchttpwwwsqlcarecomimagessqlgif width border 
+      nosendbra 
+      hrefhttpwwwsqlcarecompixelclickphpref
+ampgohttpwwwsqlcarecomspan 
+      styletextdecoration none textunderline noneimg idxi 
+      height srchttpwwwsqlcarecomimagessqlgif width 
+      border nosendspanabra 
+      hrefhttpwwwsqlcarecompixelclickphpref
+ampgohttpwwwsqlcarecomcompletehtmspan 
+      styletextdecoration none textunderline noneimg idxi 
+      height srchttpwwwsqlcarecomimagessqlgif width 
+      border nosendspanabra 
+      hrefhttpwwwsqlcarecompixelclickphpref
+ampgohttpwwwsqlcarecomprofilehtmspan 
+      styletextdecoration none textunderline noneimg idxi 
+      height srchttpwwwsqlcarecomimagessqlgif width 
+      border nosendspanabra 
+      hrefhttpwwwsqlcarecompixelclickphpref
+ampgohttpwwwsqlcarecomserviceshtmspan 
+      styletextdecoration none textunderline noneimg idxi 
+      height srchttpwwwsqlcarecomimagessqlgif width 
+      border nosendspanabra 
+      hrefhttpwwwsqlcarecompixelclickphpref
+ampgohttpwwwsqlcarecomfaqshtmspan 
+      styletextdecoration none textunderline noneimg idxi 
+      height srchttpwwwsqlcarecomimagessqlgif width 
+      border nosendspanabra 
+      hrefhttpwwwsqlcarecompixelclickphpref
+ampgohttpwwwsqlcarecomcontacthtmspan 
+      styletextdecoration none textunderline noneimg idxi 
+      height srchttpwwwsqlcarecomimagessqlgif width 
+      border nosendspanabrimg idxi height 
+      srchttpwwwsqlcarecomimagessqlgif width border 
+      nosendspanfontptd
+    td 
+    stylepaddingright in paddingleft in paddingbottom in 
+paddingtop in 
+    valigntop
+      pfont facetimes new roman sizespan stylefontsize pt
+img 
+      idxi height srchttpwwwsqlcarecomimagessqlgif 
+      width border nosendspanfontp
+      div aligncenter
+      table classmsonormaltable 
+      stylewidth  msocellspacing in msopaddingalt in in in in 
+      cellspacing cellpadding width border
+        tbody
+        tr stylemsoyftiirow  msoyftilastrow yes
+          td 
+          stylepaddingright in paddingleft in paddingbottom in 
+paddingtop in
+            pfont facearial color sizespan 
+            stylefontsize pt color  fontfamily arialimg 
+            idxi height 
+            srchttpwwwsqlcarecomimagessqljpg width border 
+            nosendbrbrimg idxi height 
+            srchttpwwwsqlcarecomimagessqljpg width border 
+            nosendspanfontp
+            div aligncenter
+            table classmsonormaltable 
+            stylewidth pt msocellspacing in msopaddingalt in in in in 
+            cellspacing cellpadding width border
+              tbody
+              tr stylemsoyftiirow  msoyftilastrow yes
+                td 
+                stylepaddingright in paddingleft in paddingbottom in 
+paddingtop in
+                  p styletextalign center aligncenterbfont facearial 
+                  sizespan 
+                  stylefontweight bold fontsize pt fontfamily ariala 
+                  hrefhttpwwwsqlcarecompixelclickphpref
+ampgohttpwwwsqlcarecomfont 
+                  colorff sizespan 
+                  stylefontsize pt color ffvisit us at 
+                  wwwsqlcarecomspanfontaspanfontbbfont 
+                  facearial sizespan 
+                  stylefontweight bold fontsize pt fontfamily arialbror 
+                  call us at  spanfontb p
+                  p styletextalign center aligncenterfont 
+                  facetimes new roman sizespan 
+                  stylefontsize ptspanfontnbspptdtr
+tbodytablediv
+            p classmsonormalfont facetimes new roman sizespan 
+            stylefontsize ptopopspanfontptdtr
+tbodytablediv
+      p classmsonormalfont facetimes new roman sizespan 
+      stylefontsize ptopopspanfontptdtr
+tbodytablediv
+p classmsonormal stylemarginleft infont facetimes new roman 
+sizespan stylefontsize ptbrto be removed reply with remove in 
+the
+subject linespanfontpdivbodyhtml
+
+

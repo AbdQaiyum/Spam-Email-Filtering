@@ -1,0 +1,36 @@
+html
+head
+titleviaprotitle
+head
+body bgcolordffffff
+centertable borderd cellpaddingd
+cellspacingd widthd
+tr
+td valigndtop
+a hrefdhttpwwwthepillucomvhtml
+img srcdhttpwwwthepillucommailjpg
+widthd heightd borderdatd
+td valigndtop
+a hrefdhttpwwwthepillucomvhtml
+img srcdhttpwwwthepillucommailgif
+widthd heightd borderdatd
+tr
+tr
+td colspand valigndtop
+a hrefdhttpwwwthepillucomvhtml
+img srcdhttpwwwthepillucommailgif
+widthd heightd borderdatd
+trtablecenterbrbr
+font facedarialverdana sized colordabp
+aligndcenter
+a hrefdhttpwwwherbsyounetservicehtmlexit
+list instructionsapfont
+
+body
+html
+pmoney
+
+
+
+
+

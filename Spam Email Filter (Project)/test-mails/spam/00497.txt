@@ -1,0 +1,302 @@
+this is a multipart message in mime format
+
+nextpartcfb
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ would you like to fill a room with  of these people	
+ 	
+ thats what we do	
+
+
+end all senior market prospecting problems instantly and painlessly 
+    
+
+get record breaking results with the usa financial turnkey worryfree
+autopilot client seminar marketing system and formula use the same
+methods we used to get  rsvps in only  short months learn our
+secret assetcycle sales presentation that earns  per
+client and get free attendance to our day coaching adacemy learn our
+coveted secrets to easily and consistently collect millions  millions
+in assets 
+	 average of  rsvps per seminarover  seminars conducted
+
+	 average of  attendance ratio   appointment ratio
+
+	 some actual sample rsvps  il  fl  tx  wi 
+ca  pa  ga	 
+	 shared statistics on over a years worth of seminar performance
+
+	  testimonials from other financial advisors reps  agents
+
+    
+
+call our hour automated response line 
+for your free report and audiotape  value
+  ext 	
+ or 
+
+please fill out the form below for your free report and audiotape
+
+name	  	
+email	  	
+phone	  	
+fax	  	
+address	  	
+city	  	state  	zip  	 	
+ 	  	 	   	
+ 
+ 
+usa financial  wwwusafinancialcom httpwwwusafinancialcom  
+we dont want anybody to receive our mailings who does not wish to
+receive them this is professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+httpwwwinsurancemailnet 
+
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+
+nextpartcfb
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlefree report and audio tapetitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolord textd
+table widthd cellpaddingd cellspacingd 
+bgcolord aligndcenter
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          tdimg srcdhttpiiqusimagesusafgif 
+widthd heightd altdwould you like to fill a room with 
+ of these peopletd
+        tr
+        tr
+          td aligndcenterimg 
+srcdhttpiiqusimagesusafajpg widthd 
+heightdtd
+        tr
+        tr
+          td aligndrightimg 
+srcdhttpiiqusimagesusafgif widthd 
+heightd altdthats what we dotd
+        tr
+        tr
+          tdfont facedarial helvetica sansserif sized 
+colordbibr
+            center
+              end all senior market prospecting problems instantly and 
+painlessly
+            center
+            ib
+            hr widthd sized colord noshade
+            font sized colordget record breaking 
+results with the
+            i font colordccbusabfont bfont 
+colordfffinancialfontbi
+            turnkey worryfree autopilot client seminar marketing 
+system and
+            formula use the same methods we used to get  rsvps 
+in only
+             short months learn our secret assetcycle sales 
+presentation that
+            earns  per client and get free attendance to 
+our day
+            coaching adacemy learn our coveted secrets to easily and 
+consistently
+            collect millions amp millions in assetsfontfont
+          td
+        tr
+        tr
+          td
+            font facedverdana arial helvetica sanserif
+            table widthd aligndcenter cellpaddingd 
+cellspacingd
+              tr
+                td widthd aligndright valigndtopbfont 
+sizedfontbtd
+                td widthdbfont sized 
+colordaverage of  rsvps per seminarover  seminars 
+conductedfontbtd
+              tr
+              tr
+                td widthd aligndright valigndtopbfont 
+sizedfontbtd
+                td widthdbfont sized 
+colordaverage of  attendance ratio amp  appointment 
+ratiofontbtd
+              tr
+              tr
+                td widthd aligndright valigndtopbfont 
+sizedfontbtd
+                td widthdbfont sized 
+colordsome actual sample rsvps  il  fl  tx  
+wi  ca  pa  gafontbtd
+              tr
+              tr
+                td widthd aligndright valigndtopbfont 
+sizedfontbtd
+                td widthdbfont sized 
+colordshared statistics on over a years worth of seminar 
+performance fontbtd
+              tr
+              tr
+                td widthd aligndright valigndtopbfont 
+sizedfontbtd
+                td widthdbfont sized 
+colord testimonials from other financial advisors reps 
+amp agentsfontbtd
+              tr
+            table
+            font
+            hr widthd colord sized noshade
+          td
+        tr
+        tr
+          td aligndcenter
+            bfont facedarial helvetica sansserif 
+sizedcall our hour automated response line br
+            for your font colordfffreefont report and 
+audiotape font colordff
+            valuefontfontbbr
+            img srcdhttpiiqusimagesusafgif 
+widthd heightd altd ext 
+          td
+        tr
+        tr
+          td aligndcenterb or bbbbr
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd bgcolordcccccc
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont sized facedverdana arial 
+helvetica sansserif colordffffffplease fill out the form below 
+for your free report and audiotapefontbtd
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizednamefonttd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedemailfonttd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedphonefonttd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedfaxfonttd
+                        td colspand
+                          input typedtext namedfax sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedaddressfonttd
+                        td colspand
+                          input typedtext namedaddress 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedcityfonttd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedstate
+                          input typedtext namedstate 
+sized
+                          fonttd
+                        td widthd aligndrightfont 
+facedarial helvetica sansserif sizedzip
+                          input typedtext namedzipcode 
+maxlengthd sized
+                          fonttd
+                        td rowspand aligndcenter 
+valigndmiddle widthdimg srcdhttpiiqusimagesqgif 
+widthd heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedusausafinancialcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedinsuranceiq ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            nbspbr
+            a hrefdhttpwwwusafinancialcomimg 
+srcdhttpiiqusimagesusafgif widthd 
+heightd borderd altdusa financial  
+wwwusafinancialcoma
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolord aligndcenter
+      pfont facedarial helvetica sansserif sized 
+colordffffff we
+        dont want anybody to receive our mailings who does not wish to 
+receive
+        them this is professional communication sent to insurance 
+professionals
+        to be removed from this mailing list bdo not replyb to 
+this message
+        instead go here a hrefdhttpwwwinsurancemailnetfont 
+colordffffhttpwwwinsurancemailnetfontafontp
+    td
+  tr
+table
+p aligndcenterfont facedarial helvetica sansserif 
+sizeda hrefdhttpwwwinsuranceiqcomlegalhtmfont 
+colordfffflegal noticefontafontp
+body
+html
+
+nextpartcfb

@@ -1,0 +1,90 @@
+
+heres a message that works fine for me
+
+
+
+xmailer exmh version   with nmh
+to kevincdoinkcom
+subject gpg test
+mimeversion 
+contenttype textxpgp formatmime xactionencrypt
+	xrecipientsdccc dccc
+contenttransferencoding bit
+date wed  sep   
+from kevin cosgrove kevincdoinkcom
+messageid feabjosephdoinkcom
+xspamstatus no hits required testsawl version
+
+begin pgp message
+version gnupg v gnulinux
+comment exmh version  
+
+blah blah blah
+
+end pgp message
+
+
+
+
+
+it could be that your content type of textplain is messing you up
+your config stuff looks substantially the same as mine
+
+cheers
+
+
+
+
+
+
+
+on  september  at  hacksaw hacksawhacksaworg wrote
+
+you may assume the xs were originally a valid address
+
+xemversion    
+xemregistration eb
+xpriority 
+xmailer my own email v
+mimeversion 
+contenttype textplain charsetusascii
+subject discussion
+from xxxxxxx xxxxxxxxxxxxxxxxcom
+date tue  sep     edt
+to hacksawhacksaworg
+
+
+gpgrfc     
+gpgchoosekey  
+gpgruntwice   
+gpgcacheids   persistent
+gpgminmatch   
+gpgshowinline none
+gpgshortmessages      
+gpgautoextract        
+gpgkeyserver  pgppublickeyskeyspgpnet
+gpgkeyquerymethod     hkp
+gpghkpkeyserverurl    keyspgpcom
+gpgkeyserverurl       httpwwwswissaimiteduhtbinpksextractkeyplop
+getsearchxs
+gpgkeyothermethod     exec echo cant find id  tmp
+gpgcomment    exmh version  
+gpgmodulepath usrlibgnupg
+gpgciphermods skipjack idea
+gpgdigestmods tiger
+gpgpubkeymods rsa
+gpgpgpcompatibility  
+gpgcipheralgo des
+gpgdigestalgo sha
+gpgcompressalgo       zip
+
+
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

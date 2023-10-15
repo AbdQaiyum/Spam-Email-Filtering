@@ -1,0 +1,26 @@
+on tue oct   at pm  matthias saou wrote
+ two new things today 
+ 
+  ive had to install a red hat linux  server because of an old
+ proprietary ivr software that doesnt work on newer releases  so
+ ive recompiled both the latest apt and openssh packages for it and
+ they are now available with a complete os updates  freshrpms apt
+ repository at aptfreshrpmsnet for those who might be interested
+
+oh neat
+
+i have similiar thing in my hands though it might be migratable if i
+had the time to try ive been using another x repository though
+httpaptrpmtuxfamilyorgapt
+
+anyone tried distupgrade from x to  theoretically it should drop
+in some compats notably libc and upgrade the rest and after a reboot
+and maybe a new kernel and grub but i have long before put those to
+vs  run just fine havent had a spare machine to try it on myself
+though
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

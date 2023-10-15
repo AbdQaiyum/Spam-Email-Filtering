@@ -1,0 +1,266 @@
+html
+
+head
+
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+
+meta httpequivdcontentlanguage contentdenus
+
+meta namedgenerator contentdmicrosoft frontpage 
+
+meta namedprogid contentdfrontpageeditordocument
+
+titleserious professionals onlytitle
+
+head
+
+body
+
+div aligndcenter
+
+center
+
+table borderd widthd heightd
+
+tr
+
+td valigndtop widthd heightd
+
+p aligndcentermarquee widthd scrolldelayd behaviordal
+ternate   dow jones under     nasdaq remains under    
+ tech industry layoffs    fed cuts rates again to avoid recession   
+ aol lays off    marqueetd
+
+td widthd heightdtd
+
+td widthd heightdtd
+
+td widthd heightdtd
+
+td widthd heightdtd
+
+tr
+
+tr
+
+td valigndtop rowspand widthd heightd bgcolord
+edab
+
+
+p aligndcenterfont sized colordffare you a trained p
+rofessional who works
+
+hard to provide for your familyfontp
+
+p aligndcenterfont sizedare you at all concerned aboutfont
+p
+
+blockquote
+
+blockquote
+
+ul
+
+li
+
+p aligndleftfont sizedthe current economyfontli
+
+li
+
+p aligndleftfont sizedthe current job marketfontli
+
+li
+
+p aligndleftfont sizedyour familys futurefontli
+
+li
+
+p aligndleftfont sizedyour retirementfontli
+
+ul
+
+p aligndleftnbsp
+
+blockquote
+
+blockquote
+
+p aligndcenterfont sized colordffdoes this also desc
+ribe
+
+youfontp
+
+pnbspp
+
+blockquote
+
+ul
+
+lia working professional providing for your familyli
+
+licollege educated and over  years of professional experienceli
+
+lilooking to add extra income  by working from homeli
+
+linot interested in any multi level marketing effort or expensive franch
+iseli
+
+linot interested in contacting anyone you know to sell any product
+
+or opportunityli
+
+liconcerned about the recent softness in the economy and the job
+
+marketli
+
+liinterested in adding significant extra income to improve the
+
+quality of your lifeli
+
+liwilling to put in the hours investment and time needed if you
+
+were sure that this was for youli
+
+ul
+
+blockquote
+
+p aligndcenternbspp
+
+blockquote
+
+p aligndcenterfont colordffif you can identify with what 
+we
+
+are talking about and you are a skilled professional looking to
+
+maximize whatever spare time you might have to increase your incomefont
+p
+
+p aligndcenterfont colordffthen take a moment and fill ou
+t
+
+the form belownbsp i would like to show you how you can make an
+
+additional  per year from the comfort ofnbsp your homenbsp
+
+without mlms money games or pyramid
+
+schemesnbspfontp
+
+p aligndcenterfont colordffthis is a professional home
+
+based business opportunitynbsp you will be fully trained and
+
+supported in your new enterprisenbsp we have a state of the art
+
+marketing system for your usenbsp which will help you in your
+
+effortsfontp
+
+p aligndcenternbspp
+
+p aligndlefti am looking to teach a handful of people what i have
+
+learned about making a significant monthly profit through desire and
+
+direct salesnbsp this is a serious financial product and it will
+
+create serious income for you if you have the drive to create itp
+
+p aligndleftwe have no quotas silly commission charts to learn
+
+or gimmicky tricksnbsp this is serious business for the serious
+
+personp
+
+p aligndcenterp
+
+p aligndcentercall todayp
+
+p aligndcenterfont sizedfontp
+
+p aligndcenterp
+
+p aligndcenternbspp
+
+blockquote
+
+pnbsp
+
+pnbsp
+
+pnbsp
+
+pa hrefdmailtodeenapacohotmailcomremove click hereatd
+
+td rowspand widthd heightdtd
+
+td aligndcenter valigndtop widthd heightdtd
+
+td rowspand widthd heightdtd
+
+td valigndtop rowspand widthd heightdtd
+
+tr
+
+tr
+
+td aligndcenter valigndtop widthd heightdafter  
+years on wall street
+
+as a vp i am glad i started this home based businessnbsp this is a
+
+serious financial product that changes the lives of those i introduce it
+
+tonbsp i no longer work on wall streetnbspnbsp i make the money
+
+i made and morenbsp im finally living the life of my dreams    
+
+pkevin from nycp
+
+pnbspp
+
+pcall todayp
+
+pp
+
+pp
+
+pnbspp
+
+td
+
+tr
+
+tr
+
+td aligndcenter valigndtop widthd heightdtd
+
+tr
+
+tr
+
+td aligndcenter valigndtop widthd heightdtd
+
+tr
+
+tr
+
+td aligndcenter valigndtop widthd heightdtd
+
+tr
+
+table
+
+center
+
+div
+
+body
+
+html
+
+
+

@@ -1,0 +1,34 @@
+jesse keating wrote
+
+on fri  oct   
+vincent cultfreefr wrote
+
+ hello
+ 
+ im looking for the package kb for the redhat  does anyone know
+ 
+ where to get it  i tried to compile but it did an error message
+
+ive been working on a srcrpm for it  their rpm and spec file is
+very dirty so im cleaning it up  i think i have all the buildreqs
+and the install reqs sorted out but i need more testers
+
+httpgeekjsolutionsnetrpmskb
+
+please try it
+
+  
+
+if i get troubles with the targz source file compilation will it work 
+with the srcrpm source file compilation 
+if it will how do i manage with a srcrpm file sorry i dont remeber 
+
+thanks
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

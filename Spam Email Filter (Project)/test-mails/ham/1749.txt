@@ -1,0 +1,42 @@
+anthony baxter
+ ive got a test set here thats the last  and a bit years email to
+ infoekitcom and infoeknocom  its a really ugly set of 
+ messages currently broken into  spam  ham  currently
+ unclassified these addresses are all over the some different
+ ekiteknoisiconnect websites so they get a lot of spam
+
+ as well as the usual spam it also has customers complaining about
+ credit card charges it has people interested in the service and
+ asking questions about long distance rates c c c lots and lots
+ of commercial speech in other words stuff that sa gets pretty
+ badly wrong
+
+can this corpus be shared  i suppose not
+
+ im currently mangling it by feeding all parts text html whatever
+ else  into the filters as well as both a selected number of headers
+ to from contenttype xmailer and also a list of header
+ countofheader this is showing up some nice stuff  eg the
+ xuidl that stoopid spammers blindly copy into their messages
+
+if we ever wink have a shared corpus an easy refactoring of timtest
+should allow to plug in different tokenizers  ive only made three changes
+to grahams algorithm so far well ive made dozens  only three survived
+testing as proven winners all the rest has been refining the tokenization
+to provide better clues
+
+ i did have received in there but its out for the moment as it causes
+ rates to drop
+
+thats ambiguous  accuracy rates or error rates ham or spam rates
+
+ im also stripping out html tags except for href and src  theres
+ so so much goodness in them note that im only keeping the contents of
+ the attributes
+
+mining embedded httphttpsftp thingies cut the false negative rate in half
+in my tests not keying off href just scanning for anything that looked
+like one that was the single biggest fn improvement ive seen  it
+didnt change the false positive rate  so you know whether src added
+additional power or did you do both at once
+

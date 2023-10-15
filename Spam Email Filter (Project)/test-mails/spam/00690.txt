@@ -1,0 +1,252 @@
+this is a multipart message in mime format
+
+nextpartdcacec
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ fight inflation	
+ its tame	 for now	
+ the new spia inflation fighter
+immediate annuity payments that increase 
+each year to keep pace with inflation 	
+    
+
+  	single premium immediate annuity	 
+  	medicaid friendly 	
+  	commissions ranging from  to 	 
+  	payment increases    per year	 
+    
+
+call or email mailtostandardlifesmancorpcom  us today
+ call us at 
+ or 
+
+please fill out the form below for more information	 
+name	  	
+email	  	
+phone	  	
+city	  	state	  	 	
+ 	  	 	   	
+ 
+
+ httpwwwstandardlifeofindianacom  
+  
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsurancemailnet httpwwwinsurancemailnet 
+
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+nextpartdcacec
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlethe inflation fightertitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+table widthd cellpaddingd cellspacingd 
+aligndcenter bgcolordffffff
+  tr
+    td
+      table widthd borderd cellspacingd 
+cellpaddingd
+        tr
+          td colspandimg 
+srcdhttpiiqusimagessliigif widthd 
+heightd altdfight inflationtd
+        tr
+        tr
+          tdimg srcdhttpiiqusimagessliijpg 
+widthd heightd altdits tametd
+          tdimg srcdhttpiiqusimagessliijpg 
+widthd heightd altdfor nowtd
+        tr
+      table
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          td aligndcenter
+            img srcdhttpiiqusimagessliigif 
+widthd heightd altdthe new spia inflation fighterbr
+            bfont facedverdana arial helvetica sansserif 
+sized
+            immediate annuity payments that increase br
+            each year to keep pace with inflation fontb
+          td
+        tr
+        tr
+          td aligndcenter
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                td colspand
+                  hr widthd sized colord
+                td
+              tr
+              tr
+                td widthd heightd aligndright 
+valigndmiddleimg srcdhttpiiqusimagessliigif 
+widthd heightdimg 
+srcdhttpiiqusimagessliispacergif widthd 
+heightdtd
+                td widthdbfont facedarial helvetica 
+sansserifsingle premium immediate annuityfontbtd
+              tr
+              tr
+                td widthd heightd aligndright 
+valigndmiddleimg srcdhttpiiqusimagessliigif 
+widthd heightdimg 
+srcdhttpiiqusimagessliispacergif widthd 
+heightdtd
+                td widthdbfont facedarial helvetica 
+sansserifmedicaid friendly fontbtd
+              tr
+              tr
+                td widthd heightd aligndright 
+valigndmiddleimg srcdhttpiiqusimagessliigif 
+widthd heightdimg 
+srcdhttpiiqusimagessliispacergif widthd 
+heightdtd
+                td widthdbfont facedarial helvetica 
+sansserifcommissions ranging from  to fontbtd
+              tr
+              tr
+                td widthd heightd aligndright 
+valigndmiddleimg srcdhttpiiqusimagessliigif 
+widthd heightdimg 
+srcdhttpiiqusimagessliispacergif widthd 
+heightdtd
+                td widthdbfont facedarial helvetica 
+sansserifpayment increases    per yearfontbtd
+              tr
+              tr
+                td colspand
+                  hr widthd sized colord
+                td
+              tr
+            table
+          td
+        tr
+        tr
+          td aligndcenter
+            font facedarial helvetica sansserif 
+sizedbcall or
+            a hrefdmailtostandardlifesmancorpcomemaila us 
+todaybr
+            img srcdhttpiiqusimagessliigif 
+widthd heightd altdcall us at 
+            br
+             or br
+            table widthd bgcolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordffffff
+                      tr
+                        td colspand aligndcenter 
+bgcolordbfont colordffffff sizedplease fill 
+out the form below for more informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspand
+                          input typedtext namedcontactname 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspand
+                          input typedtext namedemail 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspand
+                          input typedtext namedphone 
+sized
+                        td
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthd
+                          input typedtext namedcity 
+sized
+                        td
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthd
+                          input typedtext namedstate 
+sized
+                        td
+                        td rowspand aligndcenter 
+valigndmiddleimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                        td
+                        td widthd aligndrightnbsptd
+                        td widthd
+                          input typedhidden 
+namedhdnrecipienttxt valuedstandardlifesmancorpcom
+                          input typedhidden namedhdnsubjecttxt 
+valuedsli ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            br
+            a hrefdhttpwwwstandardlifeofindianacomimg 
+srcdhttpiiqusimagesslijpg widthd 
+heightd borderda
+            br
+            bfontnbsp
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordcccccc aligndcenter
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsurancemailnet
+        httpwwwinsurancemailnetafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+body
+html
+
+nextpartdcacec

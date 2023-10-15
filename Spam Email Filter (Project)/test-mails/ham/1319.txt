@@ -1,0 +1,49 @@
+
+itcwxyrfswqcmqfalkh
+contenttype textplain
+contenttransferencoding quotedprintable
+
+on thu  at  mark derricutt wrote
+ anyone know where one could get rpms for alot of the python libraries for
+
+ 
+
+ its darn annoying the way rh ship python  and python  as python
+
+ and libs that only work with one or the other 
+
+ esp the pgdb and xml modules
+
+ anyone know why red hat insist on sticking with python 
+
+
+they are on python  for   but they dont like to break
+compatibility during major releases
+
+therefore x was  bc that was current
+x was  bc that was current when  was released
+
+sv
+
+
+itcwxyrfswqcmqfalkh
+contenttype applicationpgpsignature namesignatureasc
+contentdescription this is a digitally signed message part
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqaneqhajxmibmcragfajmnwavhzprgjkmggtgujfkidqqcgkze
+dlqvaibjhkmhzbyzsxb
+gia
+end pgp signature
+
+itcwxyrfswqcmqfalkh
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

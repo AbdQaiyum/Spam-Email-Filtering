@@ -1,0 +1,31 @@
+html
+head
+titletoytitle
+head
+body bgcolordffffff textd
+div aligndcenter
+  pabcs good morning america ranks it the  christmas toy of the seaso
+n p
+  pbquotthe new inch mini remote control cars are out of stock eve
+rywhere 
+    parents are searching frantically but having no luck there are millio
+ns of 
+    kids expecting these for the holiday season lets hope somebody gets t
+hem 
+    in or santa may be in troublequot bdianne sawyer nov p
+  psold out in all stores accross the country retail price is  w
+e have 
+    limited stock and bfreeb shipping for only p
+  pa hrefdhttpaffilcheck out this years hott
+est toyap
+  pnbspp
+  pfont sizeda hrefdhttpaffilunsubs
+cribea 
+    forever fontp
+div
+body
+html
+
+
+
+

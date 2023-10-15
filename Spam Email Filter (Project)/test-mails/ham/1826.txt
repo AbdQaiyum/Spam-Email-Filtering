@@ -1,0 +1,25 @@
+neale pickett
+ 
+ if you can spare the memory you might get better performance in this
+ case using the pickle store since it only has to go to disk once but
+ boy does it ever go to disk  i cant think of anything obvious to
+ speed things up once its all loaded into memory though
+
+on my box the current system scores about  msgs per second starting in
+memory of course  while that can be a drag while waiting for one of my
+full test runs to complete one of those scores a message more than 
+times and trains more than  times ive got no urge to do any speed
+optimizations  if i were using this for my own email id never notice the
+drag  guido will bitch like hell about waiting an extra second for his
+msg batches to score but hes the boss so he bitches about everything
+wink
+
+ thats profiler territory and profiling is exactly the kind of
+ optimization i just said i wasnt going to do 
+
+i havent profiled yet but suspect there arent any egregious hot spots
+graming of long words with highbit characters is likely overly expensive
+when it happens but it doesnt happen that often and as an approach to
+nonenglish languages it sucks anyway ie theres no point speeding
+something that ought to be replaced entirely
+

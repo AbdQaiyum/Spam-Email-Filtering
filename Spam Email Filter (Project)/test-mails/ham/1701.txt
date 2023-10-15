@@ -1,0 +1,30 @@
+ date mon  sep    edt
+ from dayv gastonguay noghrinauticomnet
+
+ i just installed razor  on a freebsd release box and having
+ problems with razorcheck  any time razorcheck is run with or without
+ arguments i get this error
+
+ cant use an undefined value as a symbol reference at
+ usrlocallibperlsiteperlifreebsdrazorclientagentpm
+ line 
+
+ try installing the latest perl at least  port on freebsd and make
+sure you set the system to use perl from ports ie in the
+portslangperlfiles directory run useperl port reinstall the relevant
+perl modules needed by razor and try again
+
+sven
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

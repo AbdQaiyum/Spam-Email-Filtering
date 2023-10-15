@@ -1,0 +1,30 @@
+im still seeing razor reporting bomb out with a small variety of messages
+would reinitializing something here help or does razor do that as needed
+anyway and this just reflects trouble at the servers
+
+also since these are reports im making from within mutt its annoying
+that the error messages garble the x window a bit if theres nothing
+constructive to do about razor failing can i at least turn off the failure
+messages one way or the other id rather not see them
+
+whit 
+
+on wed sep   at pm  whit blauvelt wrote
+ im getting no servers available about half the time in the last few days
+ this is with razor  is there something i need adjust in the installation
+ here or are the servers just downoverloaded
+ 
+ thanks
+ whit
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

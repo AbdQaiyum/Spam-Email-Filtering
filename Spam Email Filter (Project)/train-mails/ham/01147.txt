@@ -1,0 +1,24 @@
+ive had this binding in my exmhexmhbindings for years
+
+set bindingskeyflistfindunseen   incpresortfinish keyf
+
+after updating to the current code in cvs i get bad key f when 
+i hit the f key  i can open the bindings commands window 
+and define the binding  it then works until i restart exmh
+
+i suspect a parsing problemchange  ill try to look into this 
+tomorrow unless someone knows where the problem might be
+
+hal
+
+
+
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

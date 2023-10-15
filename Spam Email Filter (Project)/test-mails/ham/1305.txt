@@ -1,0 +1,23 @@
+matthias saou wrote
+ well i dont really find it consistent at all to use an rpm package
+ built against something that wasnt installed through rpm 
+
+oh well  fair enough
+
+ what id recommend in your case 
+
+ugh way too much manual labor  
+
+what ive done instead is to create a tiny little kernelspec that
+installs no files but claims to produce a kernel package having version
+number uname r for architecture uname p  it also claims to
+provide kernelsources at the same version  that is enough to make
+alsadriverspec happy and at least forms a reasonable representation
+of what my homemade kernel provides to the system  i should have
+thought of this approach sooner
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

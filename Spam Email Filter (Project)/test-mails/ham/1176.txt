@@ -1,0 +1,69 @@
+
+bgwkrsydhxbjb
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on wed feb   at pm  peter peltonen wrote
+ two issues
+
+ snip
+ sorry but the following packages have unmet dependencies
+   openssh depends openssl d a but b is installed
+   phppgsql depends postgresql but it is not installed
+              depends libpqso
+ e unmet dependencies try using f
+ snip
+
+  i have the following openssl packages installed
+
+ snip
+ opensslperlb
+ opensslb
+ opensslaa
+ openssldevelb
+ snip
+
+ the openssla package should provide the openssla compatibility
+
+ but apt doesnt think so
+
+i believe thats just a matter of string parsing if someone were to fix
+the openssh package removing the explicit requires i believe the
+automagic binary handler would figure the right libraries to use and
+install i havent met an openssh like that and in worst case ive had 
+different openssl libraries wtf cant they just bump a major version if
+its incompatible
+
+  i have postgresql installed from the source so thats why i need
+ phppgsql is there a way to tell apt about packages i dont want it to
+
+ complain about
+
+i have a few such things with jdk imlib kernel dri version
+something and ive just made dummy packages with verbose warning
+attached  that explicitly provide those capabilities or claim to
+that is
+
+
+if you only want to go  miles can you begin with a halfstep
+
+bgwkrsydhxbjb
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqeytqfoixnckraunpajbeuzlkqprkyzwpriidcwacdhqd
+tbgzvvivawrozqpsugc
+hff
+end pgp signature
+
+bgwkrsydhxbjb
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

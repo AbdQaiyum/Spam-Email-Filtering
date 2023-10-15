@@ -1,0 +1,27 @@
+
+bob sully said
+
+ spamassassin  has been tossing my daily logwatch  reports into 
+ the spam bucket  a recent one generated the folowing hits 
+
+fixed in cvs i think or at least my logwatches get through fine  if it
+is not fixed in cvs then report it using the correct bugreporting
+procedure
+
+     open a bugzilla bug httpbugzillaspamassassinorg
+
+     attach a sample mail message as an attachment with all
+    headers intact
+
+j
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

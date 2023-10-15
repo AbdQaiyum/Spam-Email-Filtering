@@ -1,0 +1,212 @@
+this is a multipart message in mime format
+
+nextpartbcfabc
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ save  on ce credits  prelicensing courses
+ 
+ state ce clu cfp cpa and securities
+ unlimited courses  credits for  months
+ regular price iq price	
+
+	no hidden fees
+	over  credits
+	over  courses
+
+	 internet based
+	high quality courses
+	unlimited access
+
+complete this form for a free guest demo	 
+name	 	 
+email	 	 
+phone	 	 
+city	 	 state	 	  	
+ 	     	
+ 
+ 
+we dont want anybody to receive our mailing who does not wish to
+receive them to be removed from this mailing list do not reply to this
+message instead go here httpwwwinsuranceiqcomoptout
+legal notice httpwwwinsuranceiqcomlegalhtm  
+
+
+nextpartbcfabc
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlesave  on ce creditstitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+
+body bgcolordffffff textd
+p aligndcenter
+  table widthd borderd cellspacingd cellpaddingd 
+bordercolord heightd
+    tr
+      td heightd aligndcenter
+          table widthd borderd cellspacingd 
+cellpaddingd
+            tr
+              td aligndcenter
+                img srcdhttpiiqusimagesiqcampheadergif 
+widthd heightd altdsave  on ce credits  
+prelicensing coursesbr
+                img srcdhttpiiqusimagesiqcampimagesjpg 
+widthd heightdbr
+                img srcdhttpiiqusimagesiqcamptaggif 
+widthd heightd altdstate ce clu cfp cpa and 
+securitiesbr
+                img srcdhttpiiqusimagesiqcampmonthsgif 
+widthd heightd altdunlimited courses  credits for  
+monthsbr
+                img srcdhttpiiqusimagesiqcamppricegif 
+widthd heightd altdregular price iq price
+              td
+            tr
+          table
+          table widthd borderd cellspacingd 
+cellpaddingd
+            tr
+              td aligndcenter
+                table widthd borderd cellspacingd 
+cellpaddingd
+                  tr
+                    td widthd
+                      bfont sized facedverdana arial 
+helvetica sansserif
+                      ul
+                          lino hidden feesli
+                          liover  creditsli
+                          liover  coursesli
+                      ul
+                      fontb
+                    td
+                    td widthd
+                      bfont sized facedverdana arial 
+helvetica sansserif
+                      ul
+                          li internet basedli
+                          lihigh quality coursesli
+                          liunlimited accessli
+                      ul
+                      fontb
+                    td
+                  tr
+                table
+              td
+            tr
+          table
+          table widthd borderd cellspacingd 
+cellpaddingd
+            tr
+              td heightd aligndcenter
+                  table widthd borderd cellspacingd 
+cellpaddingd
+                    tr
+                      td
+                        table widthd bgcolordffffff
+                          tr
+                            form methoddpost 
+actiondhttpresponseresponseasp
+                              td
+                                table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordffffff
+                                  tr bgcolord
+                                    td colspand 
+aligndcenterfont sized facedverdana arial helvetica 
+sansserif colordffffffbcomplete this form for a free guest 
+demobfonttd
+                                  tr
+                                  tr
+                                    td widthd 
+aligndrightfont facedverdana arial helvetica sansserif 
+sizedbnamebfonttd
+                                    td colspandinput 
+typedtext namedcontactname sizedtd
+                                  tr
+                                  tr
+                                    td widthd 
+aligndrightfont facedverdana arial helvetica sansserif 
+sizedbemailbfonttd
+                                    td colspandinput 
+typedtext namedemail sizedtd
+                                  tr
+                                  tr
+                                    td widthd 
+aligndrightfont facedverdana arial helvetica sansserif 
+sizedbphonebfonttd
+                                    td colspandinput 
+typedtext namedphone sizedtd
+                                  tr
+                                  tr
+                                    td widthd 
+aligndrightfont facedverdana arial helvetica 
+sansserifbcitybfonttd
+                                    td widthdinput 
+typedtext namedcity sizedtd
+                                    td widthd 
+aligndrightfont facedverdana arial helvetica sansserif 
+sizedbstatebfonttd
+                                    td widthdinput 
+typedtext namedstate sizedtd
+                                    td rowspand aligndcenter 
+valigndmiddle widthdimg srcdhttpiiqusimagesqgif 
+widthd heightdtd
+                                  tr
+                                  tr
+                                    td widthd 
+aligndrightnbsptd
+                                    td widthd colspand
+                                      input typedsubmit 
+namedbtnsubmit valuedsubmit
+                                      input typedhidden 
+namedhdnrecipienttxt valuediqcampusinsiqcom
+                                      input typedhidden 
+namedhdnsuccesspagetxt valuedhttpinsiqfinancialcampuscom
+                                      input typedhidden 
+namedhdnsubjecttxt valuediq campus inquiry
+                                    td
+                                  tr
+                                table
+                              td
+                            input typedhidden namedsentto 
+valued
+form
+                          tr
+                        table
+                      td
+                    tr
+                  table
+                  img srcdhttpiiqusimagesiqcamplogogif 
+widthd heightd
+              td
+            tr
+          table
+          font facedverdana arial helvetica sansserif 
+sized colordwe
+          dont want anybody to receive our mailing who does not wish to 
+receive
+          them to be removed from this mailing list do not reply to 
+this message
+          instead go here a 
+hrefdhttpwwwinsuranceiqcomoptouthttpwwwinsuranceiqcomopt
+outabr
+          a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafont
+      td
+    tr
+  table
+p
+body
+html
+
+nextpartbcfabc
+

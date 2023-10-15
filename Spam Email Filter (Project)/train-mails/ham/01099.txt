@@ -1,0 +1,37 @@
+once upon a time peter wrote 
+
+ on wed feb   at pm  matthias saou wrote
+  strange all my openssh packages dont explicitly requires a version
+  of openssl what version of openssh do you have is it an official red
+  hat package i suppose it isnt and using red hats rpms will solve
+  your problem
+ 
+ opensshp
+ 
+ i think that is directly from openssh site its from the rh  that i 
+ upgraded to   doesnt ship with openssh 
+
+that explains
+
+ i probably should downgrade to the versoin rh provides except i cant do 
+ that as i dont have physical access to that box and downgrading ssh 
+ packages over ssh doesnt sound like a bright idea
+
+well with  ive seen a few problems with doing that but as of 
+its really wonderful ever tried of completely uninstalling all openssh
+related packages while being connected through ssh well it works of
+course if the connection cuts at that moment youre stuck but a simple
+upgrade with official red hat packages also works like a charm 
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

@@ -1,0 +1,31 @@
+on wed  oct    cest thomas vander stichele thomasurgentrugacbe wrote
+
+  matthias saou matthiasegwnnet wrote
+  as red hat does i really dont recommend trying to upgrade between betas
+  or from a beta to a final release either simply backup your home etc
+  and root andor usrlocal if needed then reinstall cleanly itll
+  probably save a few hassles and youll get the cleanest possible system 
+
+    yeah i need to work this out too i just learned my lesson about living on the bleeding edge lesson learned  no more ximian under any circumstances  man that was annoying
+
+    anyway i have returned to redhat  on my root filesystem saved my home directories music and games on other partitions and while i have the  stuff in the list everything i want to upgrade requires  rpms
+
+    im not opposed to this but apt is  aptget distupgrade dumps core
+
+    whats the inside secret here or do i just start searching mirrors for the iso and get over it
+
+  
+
+brian fahrlnder              linux zealot conservative and technomad
+evansville in                    my voyage httpwwwcountermooncom
+icq  
+
+just machines to make big decisions programmed by fellas with
+compassion and vision  well be clean when that work is done
+eternally free and eternally young  linux
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

@@ -1,0 +1,39 @@
+vernon
+
+im changing the instructions in the spamassassin install file 
+right now to
+
+tar xfvz dccdccproctarz
+cd dccdccprocxxx
+configure  make  make install
+cdcc info
+
+
+let me know asap if thats innapropriate since were shipping 
+ today
+
+c
+
+on monday september   at   am vernon schryver wrote
+
+ here are the instructions in the spamassassin readme
+
+      tar xfvz dccdccproctarz
+      cd dccdccprocxxx
+      configure  make  make install
+      cdcc new map
+      cdcc add dccrhyolitecom
+      cdcc info
+
+ thats ok except that the new map and add dccrhyolitecom
+ are respectively unnecessary and wrong  the map file that comes
+ with the source points to localhost and dccdccserversnet  those
+ two shipped entries usually do the right thing if there is a local
+ server  if there is no local server or if the local server fails
+ requests are instantly sent to one of the public server names listed
+ in the main dcc web page at
+ httpwwwrhyolitecomantispamdcc and httpwwwdcc
+ serversnetdcc
+ dccrhyolitecom has not been listed for months
+
+

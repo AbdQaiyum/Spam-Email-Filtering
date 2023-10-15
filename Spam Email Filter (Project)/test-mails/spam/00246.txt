@@ -1,0 +1,13 @@
+html
+scriptopenhttpwwwcnnetgirlsscript
+body bgcolorffffff text
+div aligncenter
+  pa hrefhttpwwwcnnetgirlsimg srchttpwwwvirtuagirlcomdatatourpostcardpostcardgif bordera 
+  p
+  pa hrefhttpwwwcnnetgirlsclick here to see moreap
+  pa hrefhttpwwwcnnetgirlsap
+div
+body
+html
+
+

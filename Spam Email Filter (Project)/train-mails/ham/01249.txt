@@ -1,0 +1,40 @@
+once upon a time brian wrote 
+
+ 
+     i have a fresh new  install  id like to go alsa but i worry
+     about screwing it up  is this fear founded  if i could get alsa i
+     could run a bunch of games ive been waiting for years to come
+     outlike search  rescue available on a mandrake rpm and maybe
+     flightgear flight simulator
+
+well im sure you can recompile those game packages without alsa anyway
+also note that alsa x has just appeared in mandrake  and that all
+previous mandrake releases were using the incompatible aging and now
+unsupported x series unless ive misunderstood
+
+     how much hacking is likely required to make it work for an
+     sbliveemuk soundcard
+
+near to none it should be quite straightforward 
+httpfreshrpmsnetdocsalsa
+
+the only tricky part is editing the etcmodulesconf file but the alsa
+soundcard matrix has a page for every supported card with a section you can
+most of the time simply copy and paste
+
+i really think that with my alsa packages alsa on red hat linux has never
+been so easy 
+
+cheers
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel 
+load     ac online battery charging  
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

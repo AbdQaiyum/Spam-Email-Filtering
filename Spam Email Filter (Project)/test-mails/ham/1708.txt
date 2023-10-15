@@ -1,0 +1,24 @@
+trying to report spam razor chooses hubris i timeout on the connection
+which seems to have gotten slower all morning and receive the following
+error message
+
+razorreport error connect nextserver discover error reading socket
+connect nextserver discover error reading socket
+
+i then try to run razoradmin discover and receive the same error 
+problems with the servers today only one discovery server
+
+sven
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

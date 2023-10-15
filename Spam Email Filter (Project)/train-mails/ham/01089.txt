@@ -1,0 +1,20 @@
+mark derricutt wrote
+ hiya i just myself an rpm and when i did uvh to upgrade the earlier 
+ version i had installed also from my rpm i got
+ 
+ rootspawn i rpm uvh mulberrybirpm
+ preparing                 
+ 
+   mulberry                
+ 
+ error db error from dbclose dbincomplete cache flush was 
+ unable to complete
+
+its not the rpm its the rpmsystem with you the cache seems to have 
+rottened try removing varlibrpmdb
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

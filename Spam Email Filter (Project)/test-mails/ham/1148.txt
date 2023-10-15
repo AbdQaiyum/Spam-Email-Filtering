@@ -1,0 +1,23 @@
+once upon a time harri wrote 
+
+ title page has a login screen and i cant seem to get the apt indexes
+ anymore is it just me or is something going on there
+
+you cant get the file index from here either
+httpaptnixianoaptfiles
+
+during the past few days ive experienced connection problems with that
+site from time to time but for me right now its working
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

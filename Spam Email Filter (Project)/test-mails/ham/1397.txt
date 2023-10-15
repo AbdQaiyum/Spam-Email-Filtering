@@ -1,0 +1,31 @@
+hello
+
+has anyone made a working source rpm for dvdrip for red hat 
+matthias has a spec file on the site for  and there are a couple of
+spec files lying around on the dvdrip website including one i patched
+a while ago but it appears that the makefile automatically generated is
+trying to install the perl libraries into the systems and also at the
+moment dvdrip needs to be called with perliostdio as it seems to not
+work with perlio on rhs perl
+
+not too sure what the cleanest way to fix this is  anyone working on
+this
+
+thanks
+
+ 
+michl alexandre salim
+web		httpsalimmafreeshellorg
+gpgpgp key	httpsalimmafreeshellorgfilescryptopublickeyasc
+
+
+do you yahoo
+everything youll ever need on one web page
+from news and sport to email and music charts
+httpukmyyahoocom
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

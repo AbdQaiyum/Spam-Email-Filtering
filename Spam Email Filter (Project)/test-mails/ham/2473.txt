@@ -1,0 +1,8 @@
+url httpjeremyzawodnycomblogarchiveshtml
+date t
+
+for the past week ive been waiting for one of my freebsd servers to reproduce 
+a problem weve been seeing with mysql  linuxthreads this particular machine 
+is running a custom build of mysql  or mysql  as i
+
+

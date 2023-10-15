@@ -1,0 +1,22 @@
+       remove jeremyalummitedu
+
+     tim yuck it got two s from embedding your email address at the
+     tim bottom here
+
+ which suggests that tagging email addresses in tocc headers should be
+ handled differently than in message bodies
+
+i dont know whether it suggests that but they would be tagged differently
+in tocc if i were tagging them at all right now  if i were tagging to
+addresses for example the tokens would look like
+
+    toemail addrmit
+
+instead of
+
+    email addrmit
+
+as they appear when an emaillike thingie is found in the body  whether
+email addresses should be stuck in as one blob or split up as they are now
+is something i havent tested
+

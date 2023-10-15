@@ -1,0 +1,128 @@
+doctype html public wcdtd html  transitionalen
+
+html
+head
+	titletitle
+head
+style typedtextcss
+ayellowlink textdecoration none color fff
+ayellowvisited textdecoration none color fff
+ayellowactive textdecoration none color efefc
+ayellowhover textdecoration none color ffffff
+style
+body topmargind bgcolordffffff
+div aligndcenterbr
+  table widthd borderd cellspacingd cellpaddingd bo
+rdercolord
+    tr
+      td
+        table widthd borderd cellspacingd cellpaddingd
+ aligndcenter
+          tr 
+            td bgcolordfont sized colordffffff face
+darial helvetica sansserif 
+              u n i v e r s i t y  d i p l o m a s fonttd
+          tr
+          tr 
+            td bgcolord heightd valigndmiddle 
+              div aligndcenterfont facedverdana arial helvetic
+a sansserif sized colordffffffido 
+                you want for a prosperous future increased money earning 
+power 
+                and the respect of allibr
+                fontdiv
+            td
+          tr
+          tr 
+            td bgcolordcc 
+              div aligndcenter 
+                pbifont facedverdana arial helvetica sansser
+if sizedwe 
+                  can assist with diplomas from prestigious nonaccredited
+ universities 
+                  based on your present knowledge and life experiencefo
+ntibp
+              div
+            td
+          tr
+          tr 
+            td backgrounddimagesbgjpg 
+              div aligndcenterfont facedverdana arial helvetic
+a sansserif sizedbr
+                bfont colordffno required tests classes boo
+ks or 
+                interviewsfontbfont div
+              p aligndcenterfont facedverdana arial helvetica
+ sansserif sizedibachelors 
+                masters mba and doctorate phd diplomas available in th
+e field 
+                of your choice  thats right you can become a doctor la
+wyer or accountant and receive 
+                all the benefits and admiration that comes with itif
+ontp
+              p aligndcenterfont facedverdana arial helvetica
+ sansserif sizedbfont sized colordffno 
+                one is turned downfontbfontp
+              p aligndcenterfont facedverdana arial helvetica
+ sansserif sizediconfidentiality 
+                assured  change your life todayifontbr
+                br
+              p
+            td
+          tr
+          tr 
+            td bgcolord 
+              div aligndcenter 
+                pfont sized facedarial helvetica sansserif 
+colordffffffbr
+                  either ba hrefdhttpjfdiplomadipl
+omahtm classdyellowclick hereaba hrefdhttp
+jfdiplomadiplomahtm aor 
+                  you can call us  hours a day  days a week font siz
+edincluding 
+                  sundays and holidaysfontfontp
+                pfont sized facedarial helvetica sansserif 
+colordffffffbfont sized      fontb fo
+nt font sized facedarial helvetica sansserif colordfffff
+f
+                  br
+                  bfontp
+              div
+            td
+          tr
+          tr 
+            td bgcolord 
+              div aligndcenterfont sized colordffffff fac
+edarial helvetica sansserifba classdyellow hrefdhttp
+jfdiplomadiplomahtmcontact 
+                us nowa to receive your diploma within days and start 
+improving 
+                your lifebfontdiv
+            td
+          tr
+        table
+      td
+    tr
+  table
+div
+table aligndcenter widthd cellspacingd cellpaddingd 
+borderd classdfooter
+  trtd colspandfont facedverdana arial helvetica sansseri
+f sizedbr
+ font colordedcdid you receive an email advertisement in error
+font our goal is to only target individuals who would like to take advant
+age of our offers if youd like to be removed from our mailing list plea
+se click on the link below you will be removed immediately and automatica
+lly from all of our future mailingsbrbrfonttd
+trtr tdfont facedverdana arial helvetica sansserif sized
+we protect all email addresses from other third parties thank youf
+onttd
+td aligndrighta hrefdhttpremoveremovehtmfon
+t facedverdana arial helvetica sansserif sizedplease remove 
+mefontatdtrtable
+body
+html
+
+
+
+

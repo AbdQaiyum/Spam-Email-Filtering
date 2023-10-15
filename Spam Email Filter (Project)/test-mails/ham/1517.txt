@@ -1,0 +1,18 @@
+
+ anthony baxter wrote
+ im currently mangling it by feeding all parts text html whatever 
+ else  into the filters as well as both a selected number of headers 
+ to from contenttype xmailer and also a list of 
+ headercountofheader this is showing up some nice stuff  eg the 
+ xuidl that stoopid spammers blindly copy into their messages
+
+the other thing on my todo list probably tonights tram ride home is
+to add all headers from nontext parts of multipart messages if nothing
+else itll pick up most virus email real quick
+
+
+
+ 
+anthony baxter     anthonyinterlinkcomau   
+its never too late to have a happy childhood
+

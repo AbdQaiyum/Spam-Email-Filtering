@@ -1,0 +1,24 @@
+scott mackenzie wrote
+
+there is a software package that is used or was up through wk 
+on microsloth for this purpose ghost or some such one essentially 
+takes a picture of the machines proper config and then upon 
+schedule or demand replaces the machines current config with the 
+proper picture it essentially overwrites the entire disk drive 
+especially good for student access machines at libraries etc
+
+and it is pretty common practice in some environments with public 
+workstations to just wipe and reinstall windows machines on a weekly 
+or even daily basis its easier than trying to maintain windows
+
+crispin
+
+ 
+crispin cowan phd
+chief scientist wirex                      httpwirexcomcrispin
+security hardened linux distribution       httpimmunixorg
+available for purchase httpwirexcomproductsimmunixpurchasehtml
+
+
+
+

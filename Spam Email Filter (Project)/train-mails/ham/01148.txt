@@ -1,0 +1,56 @@
+exmhp
+contenttype textplain charsetusascii
+
+ from  hal devore haldevoreacmorg
+ date  tue  oct   
+
+ ive had this binding in my exmhexmhbindings for years
+ 
+ set bindingskeyflistfindunseen   incpresortfinish keyf
+ 
+ after updating to the current code in cvs i get bad key f when 
+ i hit the f key  i can open the bindings commands window 
+ and define the binding  it then works until i restart exmh
+ 
+ i suspect a parsing problemchange  ill try to look into this 
+ tomorrow unless someone knows where the problem might be
+
+flistfindunseen has changed to flistfindseqs  it takes the same arguments 
+but i changed the name because it looks for all the sequences not just the 
+unseen sequence
+
+chris
+
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqemvskkbhriuirasiqajcqegocfbtzgfijkldfanacffhn
+rngnjznzeuziqllgmcw
+bceq
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

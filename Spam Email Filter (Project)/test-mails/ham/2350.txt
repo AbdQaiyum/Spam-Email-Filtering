@@ -1,0 +1,40 @@
+url httpdiveintomarkorgarchiveshtmlcatchingup
+date t
+
+ phil ringnalda hey radio this pres for you you did update 
+radioroot after yesterdays fix for the doubledecoding bug in the aggregator 
+didnt you 
+ brad choate sanitize plugin sanitize is a movable type plugin 
+that allows you to clean html and other markup that might exist in an comment 
+entry 
+ scott ambler the process of database refactoring via john beimler 
+a database refactoring is a simple change to a database schema that 
+improves its design while retaining both its behavioral and informational 
+semantics 
+ mac os x hints convert windows outlook mail to mailapp 
+converting the corporate windows user who has all their old email in 
+pst files for years back help them on their way by getting their mail out of 
+the proprietary pst format and into standards based mbox format 
+ shelley powers rdf queryomatic light and rdf queryomatic light 
+explained i slaved away this afternoon persevering in my work in 
+spite of numerous obstacles sunshine cat on lap languor to bring you rdf 
+queryomatic light 
+ bill kearney rdfroot this is a tool for radio userland using 
+it will allow your radio install to produce rss xml feeds 
+ paul ford borrowing a car give me a turkey sandwich 
+
+
+
+
+
+ httpphilringnaldacomarchivesphp
+ httpwwwbradchoatecompastmtsanitizephp
+ httpwwwagiledataorgessaysdatabaserefactoringhtml
+ httpjohnbeimlerorgarchiveshtml
+ httpwwwmacosxhintscomarticlephpstory
+ httpweblogburningbirdnetclassrdqlqueryhtm
+ httpweblogburningbirdnetarchivesphp
+ httpwwwideaspacenetuserswkearneymiscradioradiordfcurrent
+ httpftraincomsecondtoothpastehtml
+
+

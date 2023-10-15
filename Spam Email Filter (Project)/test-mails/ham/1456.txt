@@ -1,0 +1,37 @@
+update of cvsrootspamassassinspamassassinmasses
+in directory uswprcvstmpcvsserv
+
+modified files
+      tag b
+	parserulesformasses 
+log message
+fix for bug 
+
+index parserulesformasses
+
+rcs file cvsrootspamassassinspamassassinmassesparserulesformassesv
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ parserulesformasses	 aug   	
+ parserulesformasses	 aug   	
+   
+ 
+ if defined outputfile 
+   outputfile  tmprulespl
+  mkdir tmp 
+ 
+ 
+ my rules   
+
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassincommits mailing list
+spamassassincommitslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassincommits
+

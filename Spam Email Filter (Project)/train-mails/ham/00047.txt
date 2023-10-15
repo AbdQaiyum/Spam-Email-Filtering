@@ -1,0 +1,37 @@
+it will function as a router if that is what you wish
+
+it even looks like the modems embedded os is some kind of linux being that
+it has interesting interfaces like eth
+
+i dont use it as a router though i just have it do the absolute minimum
+dsl stuff and do all the really fun stuff like pppoe on my linux box
+
+also the manual tells you what the default password is
+
+dont forget to run pppoe over the alcatel speedtouch i as in my case you
+have to have a bridge configured in the routermodems software
+this lists your vci values etc
+
+
+ also does anyone know if the highend speedtouch with
+  ethernet ports can act as a full router or do i still
+ need to run a pppoe stack on the linux box
+
+ regards
+
+ vin
+
+
+ 
+ irish linux users group iluglinuxie
+ httpwwwlinuxiemailmanlistinfoilug for unsubscription
+information
+ list maintainer listmasterlinuxie
+
+
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

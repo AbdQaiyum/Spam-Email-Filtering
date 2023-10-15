@@ -1,0 +1,18 @@
+matthias haase wrote
+ the recompile of the sprm failed for me with
+ 
+ rpm build errors
+     file not found by glob
+ vartmpfreetyperootusrliblibttfso
+     file not found vartmpfreetyperootusrliblibttfso
+
+weird  i had no problems at all rebuilding from the srpm with specfile
+modified to enable the bytecode interpreter  the checkfiles test
+warns that usrshareaclocalfreetypem was not included in any
+package but other then that its all perfectly clean
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

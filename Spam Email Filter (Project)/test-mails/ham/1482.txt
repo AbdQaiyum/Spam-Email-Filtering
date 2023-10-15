@@ -1,0 +1,35 @@
+urban boquist wrote
+
+ it seems to hang memory usage goes up to mb and stays there i have
+ let it run for an hour before i killed it this was on a
+ pentiumii yes i know a bit slow but still
+ 
+ can anyone else confirm this hang maybe i should just upgrade
+ 
+ my environment is sa perl running on netbsdf
+
+version cvs from today on netbsdi  athlon 
+
+  aug   silence spamd processing message
+  agrodaboquistnet for kh expecting
+   bytes 
+  aug   silence spamd clean message  for
+  kh in   seconds  bytes 
+
+resident size about mb according to top
+
+ciao
+     klaus
+
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

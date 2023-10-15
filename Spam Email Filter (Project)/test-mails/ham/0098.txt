@@ -1,0 +1,102 @@
+severity security
+product gaim
+keywords gaim hyperlink manual
+references 
+  can 
+    httpcvemitreorgcgibincvenamecginamecan
+  gaim changelog
+    httpgaimsourceforgenetchangelog
+
+gaim is an instant messaging client based on the published toc
+protocol from aol the developers of gaim an instant messenger client
+that combines several different networks found a vulnerability in the
+hyperlink handling code the manual browser command passes an
+untrusted string to the shell without escaping or reliable quoting
+permitting an attacker to execute arbitrary commands on the users
+machine unfortunately gaim doesnt display the hyperlink before the
+user clicks on it users who use other inbuilt browser commands arent
+vulnerable
+
+the fixed version of gaim no longer passes the users manual browser
+command to the shell commands which contain the s in quotes will
+need to be amended so they dont contain any quotes the manual
+browser command can be edited in the general pane of the
+preferences dialog which can be accessed by clicking options from
+the login window or tools and then preferences from the menu bar
+in the buddy list window
+
+please download gaim  or later using red carpet you may also
+obtain this update from the ximian ftp site
+
+debian potato
+ftpftpximiancompubximiangnomedebianpotatoigaimximianideb
+ftpftpximiancompubximiangnomedebianpotatoigaimcommonximianideb
+ftpftpximiancompubximiangnomedebianpotatoigaimgnomeximianideb
+
+mandrake 
+ftpftpximiancompubximiangnomemandrakeigaimximianirpm
+
+mandrake 
+ftpftpximiancompubximiangnomemandrakeigaimximianirpm
+
+mandrake 
+ftpftpximiancompubximiangnomemandrakeigaimximianirpm
+
+redhat 
+ftpftpximiancompubximiangnomeredhatigaimximianirpm
+ftpftpximiancompubximiangnomeredhatigaimappletximianirpm
+
+redhat 
+ftpftpximiancompubximiangnomeredhatigaimximianirpm
+ftpftpximiancompubximiangnomeredhatigaimappletximianirpm
+
+redhat 
+ftpftpximiancompubximiangnomeredhatigaimximianirpm
+ftpftpximiancompubximiangnomeredhatigaimappletximianirpm
+
+redhat 
+ftpftpximiancompubximiangnomeredhatigaimximianirpm
+ftpftpximiancompubximiangnomeredhatigaimappletximianirpm
+
+redhat 
+ftpftpximiancompubximiangnomeredhatigaimximianirpm
+ftpftpximiancompubximiangnomeredhatigaimappletximianirpm
+
+solaris 
+ftpftpximiancompubximiangnomesolarissungaimximiansparcrpm
+
+suse 
+ftpftpximiancompubximiangnomesuseigaimximianirpm
+ftpftpximiancompubximiangnomesuseigaimappletximianirpm
+
+suse 
+ftpftpximiancompubximiangnomesuseigaimximianirpm
+ftpftpximiancompubximiangnomesuseigaimappletximianirpm
+
+suse 
+ftpftpximiancompubximiangnomesuseigaimximianirpm
+ftpftpximiancompubximiangnomesuseigaimappletximianirpm
+
+suse 
+ftpftpximiancompubximiangnomesuseigaimximianirpm
+ftpftpximiancompubximiangnomesuseigaimappletximianirpm
+
+yellowdog 
+ftpftpximiancompubximiangnomeyellowdogppcgaimximianppcrpm
+ftpftpximiancompubximiangnomeyellowdogppcgaimappletximianppcrpm
+
+yellowdog 
+ftpftpximiancompubximiangnomeyellowdogppcgaimximianppcrpm
+ftpftpximiancompubximiangnomeyellowdogppcgaimappletximianppcrpm
+
+yellowdog 
+ftpftpximiancompubximiangnomeyellowdogppcgaimximianppcrpm
+ftpftpximiancompubximiangnomeyellowdogppcgaimappletximianppcrpm
+
+
+
+
+updates maillist    updatesximiancom
+to unsubscribe from this list or to change your subscription options follow the link below
+httplistsximiancommailmanlistinfoupdates
+

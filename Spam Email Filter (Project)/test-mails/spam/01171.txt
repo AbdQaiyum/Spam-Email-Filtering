@@ -1,0 +1,194 @@
+html
+head
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titlethe money control systemtitle
+head
+
+body
+
+p aligncenterspan stylebackgroundcolor vshapetype idxt coordsize   ospt   path  
+ m l m l e adj  
+ vformulas
+vf eqn  
+sum    
+vf
+vf eqn  prod    
+vf
+vf eqn  
+sum    
+vf
+vf eqn  sum    
+vf
+vf eqn  
+sum    
+vf
+vf eqn  if    
+vf
+vf eqn  
+if    
+vf
+vf eqn  if    
+vf
+vf eqn  
+if    
+vf
+vf eqn  mid   
+vf
+vf eqn  
+mid   
+vf
+vf eqn  mid   
+vf
+vf eqn  
+mid   
+vf
+vf eqn  sum    
+vf
+vformulas
+vpath 
+oconnectangles 
+oconnectlocs textpathok  t 
+oconnecttype  custom
+vpath
+vtextpath on  t fitshape  
+t
+vtextpath
+vhandles
+vh xrange 
+positionbottomright
+vh
+vhandles
+olock vextedit text  t 
+shapetype  t
+olock
+vshapetype
+vshape idxs 
+stylewidth pt height pt type  xt coordsize  
+ alt  the money control system fillcolor  red strokecolor  
+white strokeweight  pt adj  
+vfill 
+rotatet
+vfill
+vshadow on  t color  
+vshadow
+vtextpath 
+stylefontsize pt fontfamily impact vtextkern t fitpath  t 
+trim  t string  
+the money control system
+vtextpath
+vshape
+spanp
+table height cellspacing cellpadding width aligncenter border
+  tbody
+    tr
+      td width heighttd
+    tr
+    tr
+      td width bgcolor heightnbsptd
+    tr
+  tbody
+table
+table height cellspacing cellpadding width aligncenter border
+  tbody
+    tr
+      td width heighttd
+    tr
+    tr
+      td width bgcolor heightnbsptd
+    tr
+  tbody
+table
+p aligncentervshapetype idxt coordsize   ospt  
+ path   m l m l e adj  
+
+vformulas
+vf eqn  sum    
+vf
+vf eqn  
+prod    
+vf
+vf eqn  sum    
+vf
+vf eqn  
+sum    
+vf
+vformulas
+vpath oconnectangles 
+oconnectlocs textpathok  t 
+oconnecttype  custom
+vpath
+vtextpath on  t fitshape  
+t
+vtextpath
+vhandles
+vh positiontopleft 
+yrange
+vh
+vhandles
+olock vextedit text  t shapetype  
+t
+olock
+vshapetype
+vshape idxs 
+stylewidth pt height pt type  xt coordsize  
+ alt  how big can you dream fillcolor  yellow strokecolor  
+red adj  
+vfill rotatet
+vfill
+vshadow color  
+
+vshadow
+vtextpath 
+stylefontweight bold fontsize pt fontfamily franklin gothic heavy vtextkern t 
+fitpath  t trim  t string  
+live your dreams
+vtextpath
+vshape
+font size colorffthe money control systemfont img height srchttpbookhomejpg width borderbr
+font facearial black sizewould your lifestyle change if you had an
+extra  each and every month find out ubfont colorcca hrefhttpbookhtmnowafontbubr
+nbspfontp
+p aligncenterspan styleletterspacing ptfont facetimes new roman colorff sizethe
+money control systemfontspanp
+p aligncenterfont faceoldcentury sizehow you can get rich stay
+rich amp enjoy being richbr
+with the money control systemfontp
+p aligncenteruibfont sizeheres what people are sayingfontbiup
+div stylebackgroundcolor ffffcc
+  p aligncenterifont sizequoti dont have any financial
+  worriesi can now pursue the interests andbr
+  hobbies and the things i want to doquotbr
+  br
+  quot the mutual funds we are into are rated among the top fivebr
+  we are looking at probably  returnquotbr
+  br
+  quot my goal was specifically to take the  that i managedbr
+  to accumulate through savings invest that and in a period ofbr
+  nine months to a year come back with at least br
+  i came back with br
+  br
+  quoti saved in taxes alone what i paid forbr
+  nbspmy kids first year of collegequotbr
+  br
+  quotanyone who can learn from money control would be crazy to pass up the
+  chance the control steps work so well that anyone can become a millionaire
+  im not a millionaire yet but im living like one i call my time my own and
+  work whenever i decide to i am only  years old so i plan to work another
+  five years and retire with the income from a million dollars worth of
+  investments before the money control systemnbsp showed me the way i would
+  never have believed it possible me a millionairequotnbspbr
+  nbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp
+nbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp
+nbspnbsp
+  bh salt lake city utfontip
+div
+p aligncenterfont faceoldcentury sizea hrefhttpbookhtmfont colorffnbspclick
+here to learn more and change your lifefontafontp
+
+body
+
+html
+
+

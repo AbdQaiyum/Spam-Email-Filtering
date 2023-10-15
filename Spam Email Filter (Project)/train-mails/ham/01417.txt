@@ -1,0 +1,45 @@
+tim peters wrote
+ ive run no experiments on training set size yet and wont hazard a guess
+ as to how much is enough  im nearly certain that the hs ive been
+ using is way more than enough though
+
+okay i believe you
+
+ each call to learn and to unlearn computes a new probability for every
+ word in the database  theres an official way to avoid that in the first
+ two loops eg
+ 
+     for msg in spam
+         gblearnmsg true false
+     gbupdateprobabilities
+
+i did that  its still really slow when you have thousands of messages
+
+ in each of the last two loops the total  of ham and total  of spam in the
+ learned set is invariant across loop trips and you could break into the
+ abstraction to exploit that  the only probabilities that actually change
+ across those loop trips are those associated with the words in msg  then
+ the runtime for each trip would be proportional to the  of words in the msg
+ rather than the number of words in the database
+
+i hadnt tried that  i figured it was better to find out if all but
+one testing had any appreciable value  it looks like it doesnt so
+ill forget about it
+
+ another area for potentially fruitful study  its clear that the
+ highestvalue indicators usually appear early in msgs and for spam
+ theres an actual reason for that  advertising has to strive to get your
+ attention early  so for example if we only bothered to tokenize the first
+  of a msg would results get worse
+
+spammers could exploit this including a large mime part at the beginning
+of the message  in pratice that would probably work fine  
+
+ sometimes an ontopic message starts well but then rambles
+
+never  i remember the time when i was ten years old and went down to
+the fishing hole with my buddies  this guy named gordon had a really
+huge head  wait maybe that was joe  well no matter  as i recall it
+was a hot day and everyone was tiredhuman growth hormonegirl with
+huge breastsblah blah blah
+

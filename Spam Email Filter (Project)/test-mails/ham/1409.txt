@@ -1,0 +1,32 @@
+
+on thursday august   at   am justin mason wrote
+
+
+ craig rhughes said
+
+ i thought wed sort of decided that after  wed switch the
+ meaning of the lang prefix to actually mean run these rules
+ if language matches where language is what textcat spits out
+ for a message as opposed to using the locale which is how
+ things currently work
+
+ ah right  id forgotten that  
+
+ doesnt help with the findingbrokenrules qa case though
+
+it does if you have a corpus of german spam and nonspam to feed 
+it and youre not in a de locale
+
+c
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

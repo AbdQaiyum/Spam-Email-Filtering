@@ -1,0 +1,21 @@
+
+	ill have to try it with another window manager and see if i can
+get exmh to put it back inside of sane boundaries i dont have this
+problem with any other windows though just the exmhunseen window
+
+
+how about enabling the show unseen message count in folder cache
+option it displays the number of unseen messages next to each folder name
+if greater than  so you dont really need the unseen window unless
+youre using more sequences than just unseen
+
+paul
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

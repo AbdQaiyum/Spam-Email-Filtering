@@ -1,0 +1,53 @@
+hi dermot if have a look at one of the dists like wwwsmoothwallorg it
+will save you lots of time and effort and should do eveything you want
+
+justin
+
+ original message
+ from ilugadminlinuxie mailtoilugadminlinuxieon behalf of
+ dermot daly
+ sent monday september    am
+ to iluglinuxie
+ subject ilug what howtos for soho system
+
+
+ hi all
+ im trying to set up the following
+
+  a linux server running with a modem for internet connectivity and an
+ ethernet card for lan connectivity
+  other lan pcs with ethernet cards using the linux server for
+ dnsdhcp etc
+
+ basically i want to route any non lan traffic through the ppp
+
+ ive got some of the way but like a similar post earlier about modem
+ problems when i am connected to the internet with eht up the routing
+ is all incorrect and noting goes out through ppp eh must be the
+ default route or something
+
+ is there standard out of the box linux tools that will carry out
+ portmapping on behalf of the lan pcs   im planning on non routable
+ addresses xx for the lan routed outwards via the ppp
+ interface
+
+ can someone point me at the right howtos or routing documentation i need
+ to follow 
+ thanks
+ dermot
+
+ 
+ irish linux users group iluglinuxie
+ httpwwwlinuxiemailmanlistinfoilug for unsubscription
+ information
+ list maintainer listmasterlinuxie
+
+
+
+
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

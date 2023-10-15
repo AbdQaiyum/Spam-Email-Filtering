@@ -1,0 +1,32 @@
+david neary wrote
+ padraig brady wrote
+ 
+paul jakma wrote
+
+chars in hex to plain ascii
+
+eg given
+   httpweofumntremovehtml
+
+is there an easy way to turn it into
+
+   httpwwwoptoriumnetremovehtml
+eg whether by piping through some already available tool or 
+programmatically printf  but i dont see how
+
+actually the following would be in some way sensible
+echo e echo enc  sed safafxg
+ 
+ 
+ why  why not 
+
+me being silly thats all
+
+pdraig
+
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

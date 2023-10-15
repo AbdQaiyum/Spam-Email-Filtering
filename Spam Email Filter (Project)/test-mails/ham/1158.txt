@@ -1,0 +1,68 @@
+once upon a time mark wrote 
+
+ hiya i always seem to get errors when i do an apt update is this a 
+ problem on the repository itself or on my end or possibly a timeout in 
+ the connection due to my connection being a crappy modem
+ 
+ rootspawn root aptget update
+ hit httpaptnixiano redhatibasepkglistgnomehide
+ hit httpaptfreshrpmsnet redhatibasepkglistos
+ ign httpaptfreshrpmsnet redhati releaseos
+ err httpaptfreshrpmsnet redhatibasepkglistupdates
+   bad header line
+ hit httpaptfreshrpmsnet redhati releaseupdates
+ err httpaptfreshrpmsnet redhatibasepkglistfreshrpms
+    bad request
+ err httpaptfreshrpmsnet redhati releasefreshrpms
+   bad header line
+ hit httpaptfreshrpmsnet redhatibasesrclistfreshrpms
+ ign httpaptnixiano redhati releasegnomehide
+ ign httpaptnixiano redhatibasemirrors
+ hit httpaptfreshrpmsnet redhati releasefreshrpms
+
+
+it works for me it should works with or without the en subdirectory
+does it always give you the same error each time do you use an proxy
+server
+
+rootpython root aptget update
+hit httpaptfreshrpmsnet redhatenibasesrclistos
+hit httpaptfreshrpmsnet redhateni releaseos
+hit httpaptfreshrpmsnet redhatenibasesrclistupdates
+hit httpaptfreshrpmsnet redhateni releaseupdates
+get httpaptfreshrpmsnet redhatenibasepkglistos kb
+hit httpaptfreshrpmsnet redhateni releaseos
+get httpaptfreshrpmsnet redhatenibasepkglistupdates
+kb hit httpaptfreshrpmsnet redhateni releaseupdates
+hit httpaptfreshrpmsnet redhatenibasepkglistfreshrpms
+hit httpaptfreshrpmsnet redhateni releasefreshrpms
+hit httpaptfreshrpmsnet redhatenibasesrclistos
+hit httpaptfreshrpmsnet redhateni releaseos
+hit httpaptfreshrpmsnet redhatenibasesrclistupdates
+hit httpaptfreshrpmsnet redhateni releaseupdates
+hit httpaptfreshrpmsnet redhatenibasesrclistfreshrpms
+hit httpaptfreshrpmsnet redhateni releasefreshrpms
+ign httpaptfreshrpmsnet redhatenarchbasemirrors
+ign httpaptfreshrpmsnet redhatenarchbasemirrors
+ign httpaptfreshrpmsnet redhatenarchbasemirrors
+fetched kb in ms kbs
+processing file dependencies done
+reading package lists done       
+building dependency tree done
+w httpaptfreshrpmsnet will not be authenticated
+w httpaptfreshrpmsnet will not be authenticated
+w httpaptfreshrpmsnet will not be authenticated
+rootpython root 
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

@@ -1,0 +1,103 @@
+update of cvsrootspamassassinspamassassint
+in directory uswprcvstmpcvsservt
+
+modified files
+	dbbasedwhitelistt dbbasedwhitelistipst 
+log message
+fixed bug  r and w were not respecting autowhitelistpath
+
+index dbbasedwhitelistt
+
+rcs file cvsrootspamassassinspamassassintdbbasedwhitelisttv
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ dbbasedwhitelistt	 sep   	
+ dbbasedwhitelistt	 oct   	
+   
+ 
+ use lib  use lib t
+ use satest satinitdbbasedwhitelist
+use test begin  plan tests   
+use test begin  plan tests   
+ 
+  
+ 
+   
+ patterns  isnonspampatterns
+ scrtestargs  m mailspamassassindbbasedaddrlist
+ 
+sarun removeaddrfromwhitelist whitelisttestwhitelistspamassassintaintorg patternsruncb
+ok sarun removeaddrfromwhitelist whitelisttestwhitelistspamassassintaintorg patternsruncb
+ 
+   times to get into the whitelist
+sarun l a t  datanice patternsruncb
+sarun l a t  datanice patternsruncb
+sarun l a t  datanice patternsruncb
+ok sarun l a t  datanice patternsruncb
+ok sarun l a t  datanice patternsruncb
+ok sarun l a t  datanice patternsruncb
+ 
+  now check
+ ok sarun l a t  datanice patternsruncb
+ okallpatterns
+ 
+ patterns  isspampatterns
+sarun l a t  dataspam patternsruncb
+ok sarun l a t  dataspam patternsruncb
+ okallpatterns
+
+index dbbasedwhitelistipst
+
+rcs file cvsrootspamassassinspamassassintdbbasedwhitelistipstv
+retrieving revision 
+retrieving revision 
+diff b w u d r r
+ dbbasedwhitelistipst	 sep   	
+ dbbasedwhitelistipst	 oct   	
+   
+ 
+ use lib  use lib t
+ use satest satinitdbbasedwhitelistips
+use test begin  plan tests   
+use test begin  plan tests   
+ 
+  
+ 
+   
+ 
+ patterns  isnonspampatterns
+ 
+sarun removeaddrfromwhitelist whitelisttestwhitelistspamassassintaintorg patternsruncb
+ok sarun removeaddrfromwhitelist whitelisttestwhitelistspamassassintaintorg patternsruncb
+ 
+   times to get into the whitelist
+sarun l a t  datanice patternsruncb
+sarun l a t  datanice patternsruncb
+sarun l a t  datanice patternsruncb
+ok sarun l a t  datanice patternsruncb
+ok sarun l a t  datanice patternsruncb
+ok sarun l a t  datanice patternsruncb
+ 
+  now check
+ ok sarun l a t  datanice patternsruncb
+ okallpatterns
+ 
+ patterns  isspampatterns
+sarun l a t  dataspam patternsruncb
+ok sarun l a t  dataspam patternsruncb
+ okallpatterns
+ 
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassincommits mailing list
+spamassassincommitslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassincommits
+
+

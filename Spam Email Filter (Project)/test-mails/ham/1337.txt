@@ -1,0 +1,21 @@
+matthias haase wrote
+ rh ships the code with the bytecode hinter disabled which makes 
+ nonaa fonts really ugly
+ this reqiures only a small change for includefreetypeconfigftoptionh
+ it is very well documented
+
+red hat  ships with the bytecode hinter enabled i think  may have 
+as well
+
+the enabling change to ftoptionh is made by red hats srpm before 
+building  take a look at freetypeenableftbcipatch from the 
+srpm its pretty clear that this does exactly what needs to be done
+
+so if your fonts look ugly lack of bytecode hinting is not the cause
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

@@ -1,0 +1,19 @@
+    
+ hello
+   
+         i just installed redhat  and i think i have everything 
+working properly  anyway i want to install mplayer because i heard it 
+can play quicktime movs  i aptget source mplayer and dld it to 
+usrsrc 
+
+         i tried to just rpm rebuild mplayerfrsrcrpm 
+then i get  mplayerfrsrcrpm no such file or directory
+
+         any help or a link to some document would be appreciated thanks
+rob
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

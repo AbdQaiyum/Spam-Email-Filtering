@@ -1,0 +1,134 @@
+htmlheadtitletake control of your conference callstitle
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+meta contentdmshtml  namedgeneratorhead
+body vlinkdccc linkdccc bgcolordffffff leftmargindfon
+t 
+facedtimes new roman
+p
+center
+table widthd borderd
+  tbody
+  tr
+    td aligndmiddlebfont colord sizedcrystal clear  
+      conference callsbronly u centsu per minutebfonttd
+trtbodytable
+pfont colord sizedbanytimeanywherebfont 
+p
+table widthd borderd
+  tbody
+  tr
+    tdfont colord sizedb
+      lino setup fees 
+      lino contracts or monthly fees 
+      licall anytime from anywhere to anywhere 
+      liconnects up to  participants 
+      liinternational dial in  cents per minute
+      lisimplicity in set up and administration 
+      lioperator help available  bfontlitdtrtbody
+table
+p
+table widthd borderd
+  tbody
+  tr
+    td aligndmiddlefont colord sizedbfont sizedg
+et the best 
+      quality the easiest to use and lowest rate in the 
+      industrybfontfonttdtrtbodytable
+p
+table widthd borderd
+  tbody
+  tr
+    td aligndmiddlefont colord sizedif you like saving m
+oney fill 
+      out the form below and one of our consultants will contact 
+  youfonttdtrtbodytable
+pfont colord sizedrequired input fieldfont colord
+ 
+sizedfontfont 
+p
+table cellspacingd bordercolordarkd cellpaddingd widthd
+ 
+bordercolorlightdffffcc
+  tbody
+  tr
+    td aligndmiddle
+      form actiondmailtoinbocksyahoocomsubjectdconferenceinqu
+iry 
+      methoddpost enctypedtextplain
+      table widthd
+        tbody
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord
+          sizednamefontfont 
+            facedarial helvetica sansserif colord 
+            sizedfonttd
+          tdinput namednametdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord sized
+web 
+            addressfonttd
+          tdinput valuedhttp namedurltdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord sized
+company 
+            namefontfont 
+            facedarial helvetica sansserif colord
+            sizedfonttd
+          tdinput namedcompanynametdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord sized
+
+            statefontfont 
+            facedarial helvetica sansserif colord 
+            sizedfonttd
+          tdinput sized namedstatetdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord sized
+business 
+            phonefontfont 
+            facedarial helvetica sansserif colord 
+            sizedfonttd
+          tdinput namedbusphonetdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord sized
+home 
+            phonefonttd
+          tdinput namedhomephonetdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord sized
+email 
+            addressfontfont 
+            facedarial helvetica sansserif colord 
+            sizedfonttd
+          tdinput namedemailtdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord sized
+type of 
+            businessfonttd
+          tdinput namedtypeofbusinesstdtrtbodytable
+      pinput typedsubmit valuedsubmit information namedsubmit 
+    formptdtrtbodytable
+brbr
+table widthd
+  tbody
+  tr
+    td aligndmiddlefont facedarial helvetica sansserif colord
+
+      sizedffffffa  ccfl br to be removed from our distri
+bution lists please  
+      a hrefdmailtodleteeudoramailcomsubjectdremoveconferenc
+ingclick 
+      herefont colordafontfonttdtrtbodyta
+blepcenterbodyhtml
+
+
+

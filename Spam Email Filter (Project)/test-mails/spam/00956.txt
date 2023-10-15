@@ -1,0 +1,129 @@
+
+html
+
+head
+meta httpequivcontentlanguage contentenus
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+meta httpequivcontenttype contenttexthtml charsetwindows
+titlemailingtitle
+head
+
+body topmargin
+img srchttpservicebfastcombfastservebfmidsiteidbfpagevm border width height nosave 
+div aligncenter
+  center
+  table border cellpadding cellspacing stylebordercollapse collapse bordercolor width height
+    tr
+      td width bgcoloraeef height
+      a hrefhttptrackmarketingontargetnetcgibinppale
+          img border srchttpwwwprintpalnetimagesmailfgif width heightimg border srchttpwwwprintpalnetimagesmailggif width heightatable border cellpadding cellspacing stylebordercollapse collapse bordercoloraeef width height
+            tr
+              td width height
+              table border cellpadding cellspacing stylebordercollapse collapse bordercolor width height bgcoloraeef
+                tr
+                  td width height bgcoloraeef
+                  p aligncenterbr
+                  a hrefhttptrackmarketingontargetnetcgibinppale
+                  img border srchttpwwwprintpalnetimagesmailhgif width heightap
+                  table border cellpadding cellspacing stylebordercollapse collapse bordercolor width height
+                    tr
+                      td width aligncenter height
+                      a hrefhttptrackmarketingontargetnetcgibinppale
+                      img border srchttpwwwprintpalnetimagesmailcgif width heightatd
+                      td width height
+                      table border cellpadding cellspacing stylebordercollapse collapse bordercolor width
+                        tr
+                          td widthnbsptd
+                          td width
+                      a hrefhttptrackmarketingontargetnetcgibinppale styletextdecoration none
+                      font color size faceverdanawe offer the highest quality 
+                          inkjet cartridges and laser toners at super low 
+                          prices all of our products are  guaranteed and 
+                          factory tested to meet the quality specifications set 
+                          forth by the original equipment manufacturer oem 
+                          our cartridges and refill kits will give you images 
+                          equivalent to those produced by oem cartridges but 
+                          they cost much lessfonttda
+                        tr
+                      table
+                      td
+                    tr
+                    tr
+                      td width aligncenter height
+                      a hrefhttptrackmarketingontargetnetcgibinppale styletextdecoration none
+                      img border srchttpwwwprintpalnetimagesmaildgif width heightatd
+                      td width height valigntop
+                      p aligncenterfont stylefontsize pt
+                      a hrefhttptrackmarketingontargetnetcgibinppale styletextdecoration none
+                      img border srchttpwwwprintpalnetimagesmailbgif width heightafonttd
+                    tr
+                    tr
+                      td width aligncenter height
+                      a hrefhttptrackmarketingontargetnetcgibinppale styletextdecoration none
+                      img border srchttpwwwprintpalnetimagesmailegif width heightatd
+                      td width height
+                      ul
+                        li
+                        font faceverdana color stylefontsize pt
+                        a hrefhttptrackmarketingontargetnetcgibinppale styletextdecoration none
+                        font colorsave up to  off retail prices
+                        fonta fontli
+                        li
+                        font faceverdana color stylefontsize pt
+                        a hrefhttptrackmarketingontargetnetcgibinppale styletextdecoration none
+                        font colorall our products are  satisfaction guaranteed
+                        fonta
+                        fontli
+                        li
+                        font color faceverdana stylefontsize pt
+                        a hrefhttptrackmarketingontargetnetcgibinppale styletextdecoration none
+                        font colorwe offer free 
+                        shipping on all us 
+                        orders over  fonta font
+                        li
+                        li
+                        font faceverdana color stylefontsize pt
+                        a hrefhttptrackmarketingontargetnetcgibinppale styletextdecoration none
+                        font colorall orders are sent priority mail with online tracking
+                        fonta
+                        fontli
+                        li
+                        font faceverdana color stylefontsize pt
+                        a hrefhttptrackmarketingontargetnetcgibinppale styletextdecoration none
+                        font colorwe fully protect your privacy and security
+                        fonta fontli
+                        li
+                        font faceverdana color stylefontsize pt
+                        a hrefhttptrackmarketingontargetnetcgibinppale styletextdecoration none
+                        font colorwere dedicated to your satisfactionfontafontli
+                      ul
+                      td
+                    tr
+                    tr
+                      td width aligncenter height colspan
+                      a hrefhttptrackmarketingontargetnetcgibinppale
+                      img border srchttpwwwprintpalnetimagesmailagif width heightabfont faceverdana sizebr
+                      a hrefhttptrackmarketingontargetnetcgibinppale styletextdecoration none
+                      font colorwe offer a  satisfaction guaranteefontafontbtd
+                    tr
+                  table
+                  td
+                tr
+                table
+              td
+            tr
+          table
+        td
+    tr
+  table
+  center
+div
+pnbspp
+pnbspp 
+pfont facearial sizeyou received this email because you signed up at one of consumer medias websites or you signed up with a party that has contracted with consumer media to unsubscribe from our email newsletter please visit a hrefhttpoptoutmarketingontargetnetejmnetnoteinccomhttpoptoutmarketingontargetnetejmnetnoteinccoma font
+body
+html
+        
+
+

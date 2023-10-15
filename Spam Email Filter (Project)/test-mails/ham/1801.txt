@@ -1,0 +1,9 @@
+skip montanaro to anthony baxter
+ 
+ accordingly i wrote unheaderpy which is mostly a ripoff of something
+ someone else posted to pythondev or clpy within the last week or so to
+ strip out sagenerated headers
+
+unless ive grown senile tonight you got it from anthony to begin with
+please check it in to project and add a short blurb to readmetxt
+

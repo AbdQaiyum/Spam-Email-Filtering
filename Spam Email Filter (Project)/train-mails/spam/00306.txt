@@ -1,0 +1,130 @@
+htmlheadtitlelowest rate servicestitle
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+meta contentdmshtml  namedgeneratorhead
+body vlinkdccc linkdccc bgcolord leftmargindfon
+t 
+facedarialhelvetica
+p
+center
+table widthd borderd
+  tbody
+  tr
+    td aligndmiddlebfont colord sizedconferencing made
+ easyfontbr
+font colord sizedonly u centsu per minutebfont
+tdtrtbodytable
+pfont colordff sizedbincluding long distancebfont
+ 
+p
+table widthd borderd
+  tbody
+  tr
+    tdfont colord sizedb
+      lino setup fees 
+      lino contracts or monthly fees 
+      licall anytime from anywhere to anywhere 
+      liconnects up to  participants 
+      lisimplicity in set up and administration 
+      lioperator help available  bfontlitdtrtbody
+table
+p
+table widthd borderd
+  tbody
+  tr
+    td aligndmiddlefont colordff sizedbfont sizedt
+he highest quality service for the lowest rate in the industrybfont
+fonttdtrtbodytable
+p
+table widthd borderd
+  tbody
+  tr
+    td aligndmiddlefont colord sizedfill out the form be
+low to find out how you can lower your phone bill every monthfonttd
+trtbodytable
+pfont colord sizedrequired input fieldfont colordff
+ 
+sizedfontfont 
+p
+table cellspacingd bordercolordarkd cellpaddingd widthd
+ 
+bordercolorlightdffffcc
+  tbody
+  tr
+    td aligndmiddle
+      form actiondmailtoaudconfbbmailnetsubjectdaudiocinquiry
+ 
+      methoddpost enctypedtextplain
+      table widthd
+        tbody
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord
+          sizednamefontfont 
+            facedarial helvetica sansserif colordff 
+            sizedfonttd
+          tdinput namednametdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord sized
+web 
+            addressfonttd
+          tdinput valuedhttp namedurltdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord sized
+company 
+            namefontfont 
+            facedarial helvetica sansserif colordff 
+            sizedfonttd
+          tdinput namedcompanynametdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord sized
+
+            statefontfont 
+            facedarial helvetica sansserif colordff 
+            sizedfonttd
+          tdinput sized namedstatetdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord sized
+business 
+            phonefontfont 
+            facedarial helvetica sansserif colordff 
+            sizedfonttd
+          tdinput namedbusphonetdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord sized
+home 
+            phonefonttd
+          tdinput namedhomephonetdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord sized
+email 
+            addressfontfont 
+            facedarial helvetica sansserif colordff 
+            sizedfonttd
+          tdinput namedemailtdtr
+        tr
+          td aligndright widthdfont 
+            facedarial helvetica sansserif colord sized
+type of 
+            businessfonttd
+          tdinput namedtypeofbusinesstdtrtbodytable
+      pinput typedsubmit valuedsubmit information namedsubmit 
+    formptdtrtbodytable
+brbr
+table widthd
+  tbody
+  tr
+    td aligndmiddlefont facedarial helvetica sansserif colord
+ 
+      sizedto be removed from this list send an email to uremoveb
+bmailnetubrtype the word remove in the subject line
+      fontfonttdtrtbodytablepcenterbodyhtml
+
+
+

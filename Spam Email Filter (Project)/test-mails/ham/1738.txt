@@ -1,0 +1,37 @@
+on  september  tim peters said
+ greg ward is
+ currently capturing a stream coming into pythonorg and i hope we can get a
+ more modern and cleaner test set out of that
+
+not yet  still working on the required config changes  but i have a
+cunning plan
+
+ but if that stream contains
+ any private email it may not be ethically possible to make that available
+
+it will  part of my cunning plan involves something like this
+
+  if folder  accepted              ie not suspected junk mail
+      if lenrecipients   and
+          recipients in guidopythonorg barrypythonorg 
+          folder  personal
+
+if you and guido barry et al prefer i could change that last
+statement to folder  none so the mail wont be saved at all  i
+might also add a and sender doesnt look like bounce request
+admin  clause to that if statement
+
+ can you think of anyplace to get a large shareable ham sample apart from a
+ public mailing list  everyones eager to share their spam but spam is so
+ much alike in so many ways thats the easy half of the data collection
+ problem
+
+i believe the spamassassin maintainers have a scheme whereby the corpus
+of nonspam is distributed ie several people have bodies of nonspam
+that they use for collectively evolving the sa score set  if that
+sounds vague it matches my level of understanding
+
+        greg
+ 
+greg ward gwardpythonnet                         httpwwwgergca
+reality is for people who cant handle science fiction

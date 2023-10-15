@@ -1,0 +1,287 @@
+this is a multipart message in mime format
+
+nextpartcecdc
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ no term insurance
+ permanent insurance is in
+
+ diversified makes it better
+   
+
+ better products
+ better commissions
+ better case design
+ better service
+ better marketing concepts
+   
+
+aggressive underwriting programs such as	
+ 	table  to standard on permanent cases	
+other company term to permanent life insurance with
+nonmed underwriting	
+simplified and guarantee issue programs for multilife cases	
+low cost lifetime guarantees	
+underwriting events	
+
+diversified brokerage specialists has been combining
+the very best in technology and personal service since 
+make sure to ask about our full line of disability  ltc products
+if we cant do it it cant be done 
+
+call diversified brokerage specialists today  
+ or 
+
+please fill out the form below for more information	
+name	 	  
+email	 	
+phone	 	
+city	 	 state	 	
+ 	    
+
+
+ diversified brokerage specialists inca
+better service through
+technology
+
+visit us online at wwwdbscom httpwwwdbscom 
+ 
+we dont want anyone to receive our mailings who does not wish to this
+is professional communication sent to insurance professionals to be
+removed from this mailing list do not reply to this message instead
+go here httpwwwinsuranceiqcomoptout
+httpwwwinsuranceiqcomoptout
+
+legal notice httpwwwinsuranceiqcomlegalhtm 
+
+nextpartcecdc
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titleterm insurance is outtitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+font facedarial helvetica sansserif
+table widthd cellpaddingd cellspacingd 
+aligndcenter bgcolordffffff
+  tr
+    td
+      table widthd cellpaddingd cellspacingd 
+borderd bgcolordffffff
+        tr
+          td aligndcenterimg 
+srcdhttpiiqusimagesdbsgif widthd 
+heightd altdno term insurancebr
+            img srcdhttpiiqusimagesdbsjpg 
+altdpermanent insurance is in widthd heightdbr
+            img srcdhttpiiqusimagesdbsgif 
+widthd heightdbr
+            img srcdhttpiiqusimagesdbsgif 
+altddiversified makes it better widthd heightd
+          td
+        tr
+        tr
+          td
+            table widthd aligndcenter cellpaddingd 
+cellspacingd
+              tr
+                tdhr widthd sized colordtd
+              tr
+              tr
+                tdimg 
+srcdhttpiiqusimagesdbsgif altdbetter 
+widthd heightdimg 
+srcdhttpiiqusimagesdbsgif altdproducts 
+widthd heightdtd
+              tr
+              tr
+                tdimg 
+srcdhttpiiqusimagesdbsgif altdbetter 
+widthd heightdimg 
+srcdhttpiiqusimagesdbsgif 
+altdcommissions widthd heightdtd
+              tr
+              tr
+                tdimg 
+srcdhttpiiqusimagesdbsgif altdbetter 
+widthd heightdimg 
+srcdhttpiiqusimagesdbsgif altdcase 
+design widthd heightdtd
+              tr
+              tr
+                tdimg 
+srcdhttpiiqusimagesdbsgif altdbetter 
+widthd heightdimg 
+srcdhttpiiqusimagesdbsgif altdservice 
+widthd heightdtd
+              tr
+              tr
+                tdimg 
+srcdhttpiiqusimagesdbsgif altdbetter 
+widthd heightd aligndtopimg 
+srcdhttpiiqusimagesdbsgif altdmarketing 
+concepts widthd heightdtd
+              tr
+              tr
+                tdhr widthd sized colordtd
+              tr
+            table
+          td
+        tr
+        tr
+          td
+            table widthd borderd cellspacingd 
+cellpaddingd
+              tr
+                td colspand aligndcenterbfont 
+sizedaggressive underwriting programs such asfontbtd
+              tr
+              tr
+                td widthd rowspand aligndright 
+valigndtopimg srcdhttpiiqusimagesdbsgif 
+widthd heightdtd
+                td widthdbtable  to standard on permanent 
+casesbtd
+              tr
+              tr
+                tdbother company term to permanent life insurance 
+with br
+                  nonmed underwritingbtd
+              tr
+              tr
+                tdbsimplified and guarantee issue programs for 
+multilife casesbtd
+              tr
+              tr
+                tdblow cost lifetime guaranteesbtd
+              tr
+              tr
+                tdbunderwriting eventsbtd
+              tr
+            table
+          td
+        tr
+        tr
+          td aligndcenter
+            font sized colordbbr
+            diversified brokerage specialists has been combiningbr
+            the very best in technology and personal service since  
+bfontbr
+            bmake sure to ask about our full line of disability amp 
+ltc productsbr
+            ifont colordff sizedif we cant do it 
+it cant be donefontib
+          td
+        tr
+        tr
+          td aligndcenterbr
+            bfont sizedcall diversified brokerage specialists 
+todayfont
+            img srcdhttpiiqusimagesdbsgif 
+altd widthd heightdbr
+            font sized or br
+            table widthd borderd cellpaddingd 
+cellspacingd bordercolord
+              tr
+                form methoddpost 
+actiondhttpresponseresponseasp
+                  td
+                    table widthd borderd cellspacingd 
+cellpaddingd aligndcenter bgcolordeeeeee
+                      tr bgcolordccff
+                        td colspand aligndcenterbfont 
+sizedplease fill out the form below for more 
+informationfontbtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizednamefontbtd
+                        td colspandinput typedtext 
+namedcontactname sizedtd
+                        td rowspand valigndmiddle 
+aligndcenterimg srcdhttpiiqusimagesqgif widthd 
+heightdtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedemailfontbtd
+                        td colspandinput typedtext 
+namedemail sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedphonefontbtd
+                        td colspandinput typedtext 
+namedphone sizedtd
+                      tr
+                      tr
+                        td widthd aligndrightbfont 
+sizedcityfontbtd
+                        td widthdinput typedtext 
+namedcity sizedtd
+                        td widthd aligndrightbfont 
+sizedstatefontbtd
+                        td widthdinput typedtext 
+namedstate sizedtd
+                      tr
+                      tr
+                        td widthdnbsptd
+                        td widthd colspand
+                          input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          input typedhidden 
+namedhdnrecipienttxt valuedinfodbscom
+                          input typedhidden namedhdnsubjecttxt 
+valueddbs ad inquiry
+                        td
+                      tr
+                    table
+                  td
+                input typedhidden namedsentto valued
+form
+              tr
+            table
+            fontbbr
+            img srcdhttpiiqusimagesdbsgif 
+altddiversified brokerage specialists incbetter service 
+through technology widthd heightdbrbr
+            bfont sizedvisit us online at a 
+hrefdhttpwwwdbscomwwwdbscomafontb
+            brnbsp
+          td
+        tr
+      table
+    td
+  tr
+  tr
+    td widthd bgcolordffffff
+      pfont facedarial helvetica sansserif sized we 
+dont want anyone
+        to receive our mailings who does not wish to this is 
+professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        bdo not replyb to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptout
+        httpwwwinsuranceiqcomoptoutafontp
+    td
+  tr
+table
+center
+  font facedarial helvetica sansserif sizeda 
+hrefdhttpwwwinsuranceiqcomlegalhtmlegal noticeafont
+center
+font
+body
+html
+
+nextpartcecdc
+
+

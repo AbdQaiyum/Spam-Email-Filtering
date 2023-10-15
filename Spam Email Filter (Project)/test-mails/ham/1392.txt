@@ -1,0 +1,19 @@
+after installing and enabling xosdxmms i get the following error when
+trying to start xmms
+
+xlib unexpected async reply sequence x
+
+xmms starts but it does not detect mouse commands
+
+thanks
+mike
+ 
+d michael basinger
+dbasingespeakeasynet
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

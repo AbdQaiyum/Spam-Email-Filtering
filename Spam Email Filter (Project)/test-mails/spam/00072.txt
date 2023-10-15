@@ -1,0 +1,93 @@
+
+html
+body
+doctype html public wcdtd html  transitionalen
+html
+
+head
+titlecmortgagehtmlhtmtitle
+meta contentdtexthtml charsetdwindows httpequivdcontent
+type
+style fprolloverstyleahover 
+	color ff
+
+style
+meta contentdmicrosoft frontpage  namedgenerator
+head
+
+body background bgpropertiesdfixed bgcolordffffff
+
+p aligndcenterfont facedarial sized ptsizedif you wo
+uld like to be removed
+from future mailings please reply with the word remove in the subject or 
+call
+fontp
+
+hr
+
+p aligndcenterbfont sized facedarial colordff p
+tsizedlet lenders
+compete forfontfont sized facedarial colord ptsize
+dbr
+uiyouriu fontfont sized facedarial colordff
+ ptsizedbusinessfontbfont
+sized ptsized colord facedarialbr
+br
+fonta hrefdhttpquotesfreehostcomspjfont ptsized
+ facedarial
+sized colordffbclick herebfontafont facedari
+al langd sized
+ptsized familydsansserifbr
+br
+fontfont colord facedarial langd ptsized fam
+ilydsansserif sizedbcash
+back refinancesbr
+no equity nd trust deedsbr
+debt consolidationbr
+no income verificationbr
+the most competitive interest ratesbfontfont colord fac
+edarial sized
+ptsizedbr
+fontfont colord sized ptsized facedarialbr
+
+fontbfont facedarial ptsized sizedfill in our quick 
+a
+hrefdhttpquotesfreehostcomspjprequalification forma an
+d you br
+will fontfont facedarialfont sizedfont ptsizedget 
+competing loan offers
+oftennbspbr
+within minutes from up tofontfont facedtahoma ptsized uthr
+eeu lendersfontfontbfont
+facedtahoma sized ptsizedbr
+fontfont sized ptsizedbr
+a hrefdhttpquotesfreehostcomspjfont colordffb
+click herebfontafontfont
+facedarial langd sized ptsized familydsansserifb
+r
+fontfontbfont colord sized ptsized faceda
+rialbr
+fontfont facedarialfont colord facedarial sized
+ ptsizedthere isfontfont
+colord facedarial sized ptsized neverfontfo
+nt colord
+facedarial sized ptsized any fee to consumers for using th
+is servicefontb
+font colord facedtahoma ptsizedbr
+fontfontp
+
+p aligndcenterfont facedarial sizedcopyright ffffffa 
+  eworld marketing
+incbr
+br
+this is not a solicitation or offer to lend moneynbsp br
+eworld marketing is not a lender broker or br
+other financial intermediarynbsp we are a marketing company br
+that provides services to the mortgage industryfont p
+body
+html
+
+
+
+
+

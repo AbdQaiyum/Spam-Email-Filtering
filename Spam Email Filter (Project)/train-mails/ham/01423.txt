@@ -1,0 +1,50 @@
+
+ tim peters wrote
+  ive actually got a bunch of spam like that the textplain is something
+  like
+ 
+  this is a html message
+ 
+  and nothing else
+ 
+ are you sure thats in a textplain mime section  ive seen that many times
+ myself but its always been in the prologue between mime sections  so
+ its something a nonmime aware reader will show you
+
+nod i know  on my todo is to feed the prologue into the system as well
+
+a snippet hopefully not enough to trigger the spamfilters
+
+
+to intojginelaxekorpcom
+xmailer microsoft outlook express 
+xmimeole produced by microsoft mimeole vd
+mimeversion 
+date sun  jan   
+contenttype multipartmixed boundarynextpartfbdfcfabac
+b
+contenttransferencoding bit
+
+this is a mime message
+
+nextpartfbdfcfabacb
+contenttype multipartalternative boundarynextpartbdfc
+fabacb
+
+nextpartbdfcfabacb
+contenttype textplain charsetiso
+contenttransferencoding quotedprintable
+
+ this is an html message  
+
+
+nextpartbdfcfabacb
+contenttype texthtml charsetiso
+contenttransferencoding quotedprintable
+
+doctype html public wcdtd html e
+ transitionalen
+ html
+ head
+    
+

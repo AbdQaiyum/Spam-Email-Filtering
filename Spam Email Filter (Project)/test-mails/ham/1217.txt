@@ -1,0 +1,21 @@
+
+it seems that something changed during the last  weeks
+
+ in a folder msgs n is read ncurrent n upwards is unread
+ change to another folder
+ change back to the original folder and youll see msg n being 
+highlighted as current for a split second that it changes back to 
+ncurrent
+
+kind of annoying since it marks msg n as read
+
+anders
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

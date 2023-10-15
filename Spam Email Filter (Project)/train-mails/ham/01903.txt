@@ -1,0 +1,11 @@
+url httpscriptingnewsuserlandcombackissueswhenam
+date wed  sep   gmt
+
+ken dow reports that the current version of omnioutliner can read and write 
+opml this means for example with a little radio script or an applescript 
+you could use omni as an instant outliner
+
+ httpradioweblogscomimagesomnioutlinerwithopmljpg
+ httpdavenetuserlandcomjonudelloninstantoutlining
+
+

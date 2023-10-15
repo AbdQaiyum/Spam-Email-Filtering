@@ -1,0 +1,48 @@
+im not sure if this is really a razor problemissue or a sendmail
+problem heres the scenario my mail server is a mhz pc funning
+freebsd  ordinarily the machine is quite idle it supports my
+wifes web site with apache server running on it and a few other
+services jabber etc between the various members of our family we
+get a fair amount of email coming in mailing lists etc on
+occasion our dslbased isp dies for a number of hours when we get a
+reconnection to the internet i get a huge flow of emails coming in
+which are then filtered via razor as a result i will sometimes see
+over  sendmail processes running at the same time after such an
+occasion the machine is then really slow
+
+i noticed that my etcprocmailrc file had had no arguments associated
+with the call to razorcheck there was something in the log though
+to make me suspicious that it was possibly not seeing all my razor
+files so i have just added home etcrazor as an argument i
+havent had any down time since then so i cannot comment on whether
+this change has sped up my razor processing a noticable amount this
+paragraph may be an aside to my real problem the first paragraph
+above but i thought i should be complete in my description
+
+at any rate has anyone else suffered from a backlog of email
+processing creating lots and lots of sendmail processes  is there
+perhaps a way to limit the number of sendmail processes
+
+any ideas would be welcome
+
+thanks
+joe
+
+joe berry
+joetopshotcom
+aim joe topshot
+yahoo msgr joetopshot
+jabber joetopshottopshotcom
+baltimore md
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+

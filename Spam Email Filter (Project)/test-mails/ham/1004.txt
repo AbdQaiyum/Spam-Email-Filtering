@@ -1,0 +1,45 @@
+at  pm   justin mason wrote
+justin shore said
+
+  i just ran across a false positive that scored   the message was
+  a solicited ad from applecom on educator deals  i can send a copy
+  if anyone wants it
+
+yes please do send it on and ill add it to the nonspam corpus
+
+to any particular address  i checked the lists page but didnt see 
+an address to see a fp to
+
+to date the scores evolved by spamassassin are very biased towards
+nonhtml nonnewsletterish mail  this release should be different as
+ive been spending the last month signing up a nonspamtrap to every
+legit newsletter i can find 
+
+thats understandable  html mail is the worst thing since female 
+shoe sales at the mall   signup for the cruisercustomizingcom 
+newsletter  great place to find and review motorcycle parts 
+
+this should mean that tests which match commonenough newsletter practices
+will no longer get such high scores once we rerun the ga
+
+sound pretty slick  if i come across any more legit newsletters 
+ill send them your way
+
+thanks for the info
+  justin
+ 
+
+
+justin shore esss esssr                pittsburg state university
+network  systems manager                 httpwwwpittstateeduois
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

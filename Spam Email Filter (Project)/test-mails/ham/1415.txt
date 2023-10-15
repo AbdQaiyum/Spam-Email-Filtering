@@ -1,0 +1,26 @@
+
+luiz felipe ceglia said
+
+ 	fw
+ 	 usrbinspamassassin c 
+ 			etcmailspamassassinrules
+
+are you using exactly that  with the line break  or is it like this
+
+  fw
+   usrbinspamassassin c etcmailspamassassinrules
+
+all on one line  it should be the latter
+
+j
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

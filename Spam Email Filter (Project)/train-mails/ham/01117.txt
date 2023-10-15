@@ -1,0 +1,27 @@
+once upon a time jesse wrote 
+
+ have you thought of bumping up sylpheedclaws  i see sylpheed got a
+ bump show some claws love  
+
+well in sylheeds claws branch you need to wait a bit for the developers
+to backport all the updates from the main branch before getting a release
+with the same version number
+
+right now the latest claws release is still claws 
+httpsourceforgenetprojectshowfilesphpgroupid
+
+but as its the primary mailer i use you can be sure that as soon as its
+updated to  ill update my build 
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel 
+load     ac online battery charging  
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

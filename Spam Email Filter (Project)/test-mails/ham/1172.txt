@@ -1,0 +1,33 @@
+do i need to do anything to recreate anything after deleting this
+
+i did notice an rpm i made the other day didnt work and just sat there 
+for ages  seemingly doing nothing which probably did this 
+
+ok now i get
+
+
+fetched kb in ms bs
+error cannot get exclusive lock on varlibrpmpackages
+error cannot open packages index using db  operation not permitted 
+e could not open rpm databasecannot open packages index using db  
+operation not permitted 
+
+arrrrg
+
+on tuesday february     roymagne mo 
+rmosunnmorenet wrote
+
+ its not the rpm its the rpmsystem with you the cache seems to have
+ rottened try removing varlibrpmdb
+
+
+
+                                     m 
+  if i seem super human i have been misunderstood c dream theater
+         marktalioscom  icq  jid taliosmyjabbernet
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

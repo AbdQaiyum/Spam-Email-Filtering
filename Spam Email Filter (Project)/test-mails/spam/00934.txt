@@ -1,0 +1,279 @@
+xhtml
+html
+
+head
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titlefree computer with merchant account setuptitle
+head
+
+body
+
+center
+pbcomplete credit card processing systems for your business internet   home
+based   mail order   phone orderbp
+pbdo you accept credit cards your competition doesbp
+pnbspp
+peveryone approved  credit problems okbr
+approval in less than  hoursbr
+increase your sales by br
+start accepting credit cards on your websitebr
+free information no risk  confidentialbr
+your name and information will not be sold to third partiesbr
+home businesses ok  phonemail order okbr
+no application fee no setup feebr
+close more impulse salesbr
+br
+p
+div aligncenter
+  table border cellspacing width
+    tr
+      td width
+        p aligncenterbfont facetimes new roman size colorcceveryone approvedfontbp
+        pbfont facetimes new roman good credit or badnbsp to apply today please fill out
+        the express form below it
+contains all the information we need to get your account approved for areas
+that do not apply to you please put quotnaquot in the boxbr
+br
+upon receipt well fax you with all of the all bank card application
+documents necessary to establish your merchant account once returned we can
+have your account approved within  hoursbrnbspfontb
+        p
+      td
+    tr
+  table
+div
+table border cols width
+  tbody
+    tr
+      td aligncenter bgcolor widthbfont colorffff facearialhelvetica sizeservicefontbtd
+      td aligncenter bgcolor widthbfont colorffff facearialhelvetica sizeindustry
+        standardfontbtd
+      td aligncenter bgcolor width
+        p aligncenterbfont colorffff facearialhelvetica sizeusfontbp
+      td
+    tr
+    tr
+      td bgcolorffff widthbfont facearialhelvetica sizesite
+        inspectionfontbtd
+      td alignmiddle widthbfont size  fontbtd
+      td widthbfont colorff facearialhelvetica sizefreefontbtd
+    tr
+    tr
+      td bgcolorffff widthbfont facearialhelvetica sizeshippingfontbtd
+      td alignmiddle widthbfont size  fontbtd
+      td widthbfont colorff facearialhelvetica sizefreefontbtd
+    tr
+    tr
+      td bgcolorffff widthbfont facearialhelvetica sizewarrantyfontbtd
+      td alignmiddle widthbfont size per monthfontbtd
+      td widthbfont colorff facearialhelvetica sizefreefontbtd
+    tr
+    tr
+      td bgcolorffff widthbfont facearialhelvetica sizesales
+        receiptsfontbtd
+      td alignmiddle widthbfont size  nbspfontbtd
+      td widthbfont colorff facearialhelvetica sizefreefontbtd
+    tr
+    tr
+      td bgcolorffff widthbfont facearialhelvetica sizefraud
+        screeningfontbtd
+      center
+    td alignmiddle width
+      p alignleftfont sizeb  bbr
+      bper transactionbfontp
+    td
+center
+td widthbfont colorff facearialhelvetica sizefreefontbtd
+    tr
+    tr
+      td bgcolorffff widthbfont facearialhelvetica sizeamex set
+        upfontbtd
+      td alignmiddle widthbfont size  fontbtd
+      td widthbfont colorff facearialhelvetica sizefreefontbtd
+    tr
+    tr
+      td bgcolorffff widthbfont facearialhelvetica size hournbsphelp
+        linefontbtd
+      td alignmiddle widthbfont size monthfontbtd
+      td widthbfont colorff facearialhelvetica sizefreefontbtd
+    tr
+    tr
+      td bgcolorffff widthbfont facearialhelvetica sizesecurity
+        bondfontbtd
+      td alignmiddle widthfont sizeb bbr
+        bor morebfonttd
+      td widthbfont colorff facearialhelvetica sizenonefontbtd
+    tr
+  tbody
+tablep
+div aligncenter
+  table border cellspacing width
+    tr
+      td width
+        pfont facearialhelvetica sizebthis is a font colorffno
+        obligation qualification formfont and is your first step tofont colorcc
+        accepting credit cardsfont by filling out this form you will font colorffquotnot
+        enterquotfont in to any font colorobligations or
+        contracts fontwith us we will use it to determine the best program
+        to offer you based on the information you provide you will be contacted by one of our representatives within  business days to go over the rest of your account set upbfont
+        p aligncenterfont facearialhelvetica sizebfont colorccnotefontnbsp
+        all information provided to us font colorccwill remain 
+        confidentialfont
+        nbspbfonttd
+    tr
+  table
+div
+table border
+  tbody
+    tr
+      td width
+        p aligncenterbfont color facearial sizeapply
+        free with no riskfontbp
+      td
+    tr
+  tbody
+table
+  center
+form
+div alignleft
+  table border width
+    tr
+      td width
+        p aligncenterbifont size colorccplease fill out the
+        express application form completelybrincomplete information may prevent us from properly
+        processing your applicationfontibp
+      td
+    tr
+  table
+div
+form nameform
+  methodpost
+  actionmailtoiegyahoocomsubjectform
+  enctypetextplain
+  
+ 
+ tr
+div alignleft
+  table border width
+    tr
+      td width alignrightfont sizebyour full email addressbbr
+        font colorffbe sure to use your full address fontiefont colorff
+        fontuserdomaincomfonttd
+      td width aligncenterinput typetext nameuseremail sizetd
+    tr
+    tr
+      td width alignrightbfont sizeyour namefontbtd
+      td width aligncenterinput typetext nameapplicantname sizetd
+    tr
+    tr
+      td width alignrightbfont sizebusiness namefontbtd
+      td width aligncenterinput typetext namebusinessname sizetd
+    tr
+    tr
+      td width alignrightbfont sizebusiness phone numberfontbtd
+      td width aligncenterinput typetext namebusinessphone sizetd
+    tr
+    tr
+      td width alignrightbfont sizehome phone numberfontbtd
+      td width aligncenterinput typetext namehomephone sizetd
+    tr
+    tr
+      td width alignrightbfont sizetype of businessfontbtd
+      td width
+        div alignleft
+          table border width
+            tr
+              td width aligncenterinput typeradio valueretail nametypebusinesstd
+              td widthfont sizebretail businessbfonttd
+            tr
+            tr
+              td width aligncenterinput typeradio valuemailorder nametypebusinesstd
+              td widthfont sizebmail order businessbfonttd
+            tr
+            tr
+              td width aligncenterinput typeradio valueinternet nametypebusinesstd
+              td widthfont sizebinternet based businessbfonttd
+            tr
+          table
+        div
+      td
+    tr
+    tr
+      td width alignrightbfont sizepersonal credit ratingfontbtd
+      td width
+        div alignleft
+          table border width
+            tr
+              td width aligncenterinput typeradio valueexcellent namecreditranktd
+              td widthexcellenttd
+            tr
+            tr
+              td width aligncenterinput typeradio valuegood namecreditranktd
+              td widthgoodtd
+            tr
+            tr
+              td width aligncenterinput typeradio valuefair namecreditranktd
+              td widthfairtd
+            tr
+            tr
+              td width aligncenterinput typeradio valuepoor namecreditranktd
+              td widthpoortd
+            tr
+          table
+        div
+      td
+    tr
+    tr
+      td width alignrightbfont sizehow soon would you like a merchant
+        accountfontbtd
+      td width
+        p aligncenterinput typetext namehowsoon sizep
+      td
+    tr
+    tr
+      td width colspan
+        div aligncenter
+          center
+          table border width
+            tr
+              td width
+                p aligncenterinput typesubmit valuesubmit namebtd
+            tr
+          table
+          center
+        div
+      tdform
+    tr
+  table
+divbr
+div aligncenter
+  center
+  table border cellspacing width bgcoloreee bordercolorccc
+    tr
+      td width bgcoloreeefont sizebyour information is confidential it will not be sold or used for any other purpose and you are under no obligation
+        your information will be used solely for the purpose of evaluating your business or website for a merchant account so that you may begin accepting credit card paymentsbfont
+      td
+    tr
+  table
+  center
+div
+
+form
+
+p aligncenter
+brbfont size colorfflist
+ removaloptout optionfontb
+ brbfont colorfont sizea
+ hrefmailtoiegyahoocomsubjectremoveclick
+ hereafontfontbm
+
+body
+
+
+html
+
+
+xhtml
+

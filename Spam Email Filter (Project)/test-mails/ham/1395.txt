@@ -1,0 +1,22 @@
+should i expect problems if my apt server is running rh apt  and
+some clients are coming on line and will be running rh apt  do
+the two different version interoperate
+
+thanks
+
+tjb
+ 
+
+ thomas baker                                  email tjbunhedu    
+ systems programmer                                                  
+ research computing center                     voice   
+ university of new hampshire                     fax   
+  morse hall                                                      
+ durham nh  usa              httpwintermutesrunhedutjb 
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

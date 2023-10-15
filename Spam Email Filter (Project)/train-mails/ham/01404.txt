@@ -1,0 +1,27 @@
+bort paul pborttmwsystemscom wrote
+if your sendmail has been compiled with milter support you can add smrazor
+easily weve been using it for a while without problems others on the list
+have mentioned it as well
+
+httpwwwsaproscomsmrazor
+
+is there an easy way to tell if milter is compiled in
+
+ 
+julian bond emailmsm julianbondvoidstarcom
+webmaster              httpwwwecademycom
+personal weblog       httpwwwvoidstarcom
+cvresume          httpwwwvoidstarcomcv
+m       t    
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+

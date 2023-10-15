@@ -1,0 +1,14 @@
+
+ microsoft has announced that they plan to remove java from windows
+ they took it out of xp already and it has to be installed with a
+ service pack  somehow i cant imagine them removing the ability to
+ run c programs
+they removed their java vm they didnt remove the ability to run java
+programs
+anybody is free to develop their own java vm and make it kick ass as
+someone said earlier in the thread nobody is capable or willing to do that
+
+ive done a bunch of java and havent run into huge problems running the
+same bytecode across solaris or wink
+what actual problems have people actually run into actually
+

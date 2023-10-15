@@ -1,0 +1,58 @@
+on   thu sep   at pm  darragh wrote
+ the help that i received today  then though i tried to build them  i
+ started by trying the w program  i used the following lines which produced
+ some strange results  would any one be able to set me straight
+ 
+ configure withemacs prefixusrlocalsrcbetaw execprefixusr
+ localsrcbetaw withurlurlurl
+one thing i think you might be doing slightly wrong is your
+specification of prefixes  prefix is the directory to be used as root
+for installing files  typically packages use usrlocal as default
+so binaries might then go in usrlocalbin documentation in
+usrlocaldoc and so forth
+normally i find it sufficient to put prefixusrlocal and do not
+further specify things like execprefix
+
+maybe you have a special reason for using the prefixes you chose in
+which case ignore me
+ that worked fine so i moved to the next step
+ make
+ at the bottem of the text i got the following messages
+ cannot open load file urlurlurlvarsel
+ make  customloadel error 
+ make leaving directory usrlocalsrcbetawlisp
+ make  w error 
+ 
+ when i got around to trying the url package i had no problems  in saying
+ that this doesnt necessarily mean that i was doing it right so below are
+ the commands i used
+ configure withemacs prefixurlurl execprefixurlurl
+id make the same remarks about prefixes here  i would use the command
+    configure withemacs prefixusrlocal
+
+to get w to compile i think the withurl flag you should use is
+    withurlusrlocalshareemacssitelisp
+assuming you compiledinstalled url with prefixusrlocal
+since you appear to have installed url in urlurl configure w with
+configure withemacs prefixusrlocal withurlurlurlshareemacssitelisp
+
+a command you would have found useful would have been
+    find  name urlvarsel print
+which would have told you where the urlvarsel file was installed
+
+a program which is very useful is checkinstall
+httpasiclinuxcommxiztocheckinstall
+it allows you to install packages from source while still registering
+them in the package management system of your distro rpmdebtgz
+instead of make install type checkinstall and a package is put
+together and installed for you  makes uninstallation simpler than it
+might otherwise be
+ 
+michael conry   ph web httpwwwacronymchilecom
+key fingerprint   b  c a  cb b  de c
+
+ 
+irish linux users group iluglinuxie
+httpwwwlinuxiemailmanlistinfoilug for unsubscription information
+list maintainer listmasterlinuxie
+

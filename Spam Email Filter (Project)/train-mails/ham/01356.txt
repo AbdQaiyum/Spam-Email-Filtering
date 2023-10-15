@@ -1,0 +1,40 @@
+ i may be dense but why would anyone want to utilize habeus  to
+ me it looks like a potential backdoor to anyones defenses against spam
+
+youre not dense im going to zero the habeas scores on my copy of
+spamassassin i think they were added to sa quite prematurely to me its
+simple
+
+ people who send me legitimate email have absolutely no motivation to use
+habeas at least until it gets lots more press and even then only
+bulkmailing companies like amazon or ebay are going to bother and i
+already whitelist them individuals wont bother
+
+ spammers have lots of motivation to forge the habeas headers and a good
+percentage of them are completely out of the legal reach of habeas
+
+i think it should be subjected to the same testing and scrutiny as any other
+potential new rule when i test against my corpus heres what i get
+
+overall     spam  nonspam     so   score  name
+                      all messages
+                               habeasswe
+
+the score of  is pretty harmless right now but it still looks like a
+useless rule so far
+
+
+michael moncur  mgm at starlingtechcom  httpwwwstarlingtechcom
+never interrupt your enemy when he is making a mistake napoleon
+
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

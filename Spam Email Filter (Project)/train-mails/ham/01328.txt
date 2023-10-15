@@ -1,0 +1,27 @@
+on mon  aug  the voices made certaintytech write
+
+ recently i have been receiving spam where both the from and to address are
+ set to my address therefore getting thru due to awl  any suggestions on
+ this one  i could turn off awl but it does have advantages  btw i use a
+ sitewide awl
+
+ use cron to remove your address from the awl daily
+
+	tony
+ 
+ per scientiam ad libertatem  through knowledge towards freedom 
+ genom kunskap mot frihet  c  tonysvanstromcom  
+
+     perl eprint for sortlynx dump svanstromcomt
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

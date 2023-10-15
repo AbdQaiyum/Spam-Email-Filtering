@@ -1,0 +1,50 @@
+exmhp
+contenttype textplain charsetusascii
+
+ from  j w ballantine jwbhomerattcom
+ date  wed  aug   
+
+ i cvsed the unseensequences changes and installed them and have only one 
+ real issue
+ 
+ i use the unseen window rather than the exmh icon and with the new code
+ i cant seem to be able to  how many unseen when when i have the main window open
+ is not really necessary
+
+hmmm i stole the code from unseenwin but i never tested it since i dont use 
+that functionality  consider it on my list of things to check
+
+chris
+
+ 
+chris garrigues                 httpwwwdeepeddycomcwg
+vircio                          httpwwwvirciocom
+ congress suite 
+austin tx  		   
+
+  world war iii  the wrongdoers vs the evildoers
+
+
+
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqezpfakbhriuirakjyajjjjhavrxfiwucmaqbwsbbejqcaajx
+nhigyqnxwvdsgesqhmiu
+vak
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+

@@ -1,0 +1,264 @@
+this is a multipart message in mime format
+
+nextparteacdacbdf
+contenttype textplain
+	charsetwindows
+contenttransferencoding bit
+
+ let the tba doctor save your tough cases healthy clients need not
+apply
+sex	 age	 face amt	 condition	 other cos	 tba
+
+female	 	 	 high blood pressure	 standard
+preferred	 
+male	 	 	 aneurysm  treated surgically	 decline
+standard	 
+male	 	 	 heart attack   pacemaker	 table 
+standard	 
+female	 	 	 diabetic for  years	 table 
+standard	 
+male	 	 	 alcohol abuse dry  year	 decline
+standard	 
+male	 	 	  pack a day cigarette smoker
+pref smoker	 pref nonsmoker	 
+male	 	 	 tobacco chewer	 smoker	 pref
+nonsmoker	 
+
+visit us at wwwtbacom or x
+httpnettracipipelinecomaskdoctordoctoraspgaid 
+
+please fill out the form below for more information	 
+name	  	
+email	  	
+phone	  	
+city	  	state	  	
+ 	  	 	   	
+
+we dont want anybody to receive our mailings who does not wish to
+receive them this is professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsuranceiqcomoptout 
+
+ 
+
+nextparteacdacbdf
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlelet the tba doctor save your tough casestitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+body bgcolordffffff textd
+table widthd borderd cellspacingd cellpaddingd 
+aligndcenter bgcolordcc
+  tr
+    td aligndcenter bgcolordffffff img 
+srcdhttpimagestbatbadocjpg widthd 
+heightd altdlet the tba doctor save your tough cases healthy 
+clients need not apply
+      table borderd cellspacingd bgcolord 
+widthd
+        tr bgcolordcc
+          tdbfont facedarial helvetica sansserif 
+sizedsexfontbtd
+          tdbfont facedarial helvetica sansserif 
+sizedagefontbtd
+          tdbfont facedarial helvetica sansserif 
+sizedface amtfontbtd
+          tdbfont facedarial helvetica sansserif 
+sizedconditionfontbtd
+          tdbfont facedarial helvetica sansserif 
+sizedother cosfontbtd
+          tdbfont facedarial helvetica sansserif 
+sizedtbafontbtd
+        tr
+        tr bgcolordffffff
+          tdfont facedarial helvetica sansserif 
+sizedfemalefonttd
+          tdfont facedarial helvetica sansserif 
+sizedfonttd
+          tdfont facedarial helvetica sansserif 
+sizedfonttd
+          tdfont facedarial helvetica sansserif 
+sizedhigh blood pressurefonttd
+          tdfont facedarial helvetica sansserif 
+sizedstandardfonttd
+          tdbfont facedarial helvetica sansserif sized 
+colordffpreferredfontbtd
+        tr
+        tr bgcolordffffff
+          tdfont facedarial helvetica sansserif 
+sizedmalefonttd
+          tdfont facedarial helvetica sansserif 
+sizedfonttd
+          tdfont facedarial helvetica sansserif 
+sizedfonttd
+          tdfont facedarial helvetica sansserif 
+sizedaneurysm  treated surgicallyfonttd
+          tdfont facedarial helvetica sansserif 
+sizeddeclinefonttd
+          tdbfont facedarial helvetica sansserif sized 
+colordffstandardfontbtd
+        tr
+        tr bgcolordffffff
+          tdfont facedarial helvetica sansserif 
+sizedmalefonttd
+          tdfont facedarial helvetica sansserif 
+sizedfonttd
+          tdfont facedarial helvetica sansserif 
+sizedfonttd
+          tdfont facedarial helvetica sansserif 
+sizedheart attack   pacemakerfonttd
+          tdfont facedarial helvetica sansserif 
+sizedtable fonttd
+          tdbfont facedarial helvetica sansserif sized 
+colordffstandardfontbtd
+        tr
+        tr bgcolordffffff
+          tdfont facedarial helvetica sansserif 
+sizedfemalefonttd
+          tdfont facedarial helvetica sansserif 
+sizedfonttd
+          tdfont facedarial helvetica sansserif 
+sizedfonttd
+          tdfont facedarial helvetica sansserif 
+sizeddiabetic for  yearsfonttd
+          tdfont facedarial helvetica sansserif 
+sizedtable fonttd
+          tdbfont facedarial helvetica sansserif sized 
+colordffstandardfontbtd
+        tr
+        tr bgcolordffffff
+          tdfont facedarial helvetica sansserif 
+sizedmalefonttd
+          tdfont facedarial helvetica sansserif 
+sizedfonttd
+          tdfont facedarial helvetica sansserif 
+sizedfonttd
+          tdfont facedarial helvetica sansserif 
+sizedalcohol abuse dry  yearfonttd
+          tdfont facedarial helvetica sansserif 
+sizeddeclinefonttd
+          tdbfont facedarial helvetica sansserif sized 
+colordffstandardfontbtd
+        tr
+        tr bgcolordffffff
+          tdfont facedarial helvetica sansserif 
+sizedmalefonttd
+          tdfont facedarial helvetica sansserif 
+sizedfonttd
+          tdfont facedarial helvetica sansserif 
+sizedfonttd
+          tdfont facedarial helvetica sansserif sized 
+pack a day cigarette smoker fonttd
+          tdfont facedarial helvetica sansserif 
+sizedpref smokerfonttd
+          tdbfont facedarial helvetica sansserif sized 
+colordffpref nonsmokerfontbtd
+        tr
+        tr bgcolordffffff
+          tdfont facedarial helvetica sansserif 
+sizedmalefonttd
+          tdfont facedarial helvetica sansserif 
+sizedfonttd
+          tdfont facedarial helvetica sansserif 
+sizedfonttd
+          tdfont facedarial helvetica sansserif 
+sizedtobacco chewerfonttd
+          tdfont facedarial helvetica sansserif 
+sizedsmokerfonttd
+          tdbfont facedarial helvetica sansserif sized 
+colordffpref nonsmokerfontbtd
+        tr
+      table
+      br
+      a 
+hrefdhttpnettracipipelinecomaskdoctordoctoraspgaiddi
+mg srcdhttpimagestbanumbersgif widthd 
+heightd borderd altdvisit us at wwwtbacom or 
+xabr
+      form methoddpost 
+actiondhttpresponseresponseasp
+        table widthd borderd cellspacingd 
+cellpaddingd aligndcenter
+          tr
+            td colspand aligndcenter heightdfont 
+facedarial helvetica sansserif sizedplease fill out the 
+form below for more informationfonttd
+          tr
+          tr
+            td widthd aligndrightfont facedarial 
+helvetica sansserif sizednamefonttd
+            td colspand font facedarial helvetica 
+sansserif sized
+              input typedtext namedname sized
+              fonttd
+          tr
+          tr
+            td widthd aligndrightfont facedarial 
+helvetica sansserif sizedemailfonttd
+            td colspand font facedarial helvetica 
+sansserif sized
+              input typedtext namedemail sized
+              fonttd
+          tr
+          tr
+            td widthd aligndrightfont facedarial 
+helvetica sansserif sizedphonefonttd
+            td colspand font facedarial helvetica 
+sansserif sized
+              input typedtext namedphone sized
+              fonttd
+          tr
+          tr
+            td widthd aligndrightfont facedarial 
+helvetica sansserif sizedcityfonttd
+            td widthd font facedarial helvetica 
+sansserif sized
+              input typedtext namedcity sized
+              fonttd
+            td widthd aligndrightfont facedarial 
+helvetica sansserif sizedstatefonttd
+            td widthd font facedarial helvetica 
+sansserif sized
+              input typedtext namedstate sized
+              fonttd
+          tr
+          tr
+            td widthd aligndrightnbsptd
+            td widthd
+              input typedsubmit namedbtnsubmit 
+valuedsubmit
+            td
+            td widthd aligndrightnbsptd
+            td widthd
+              input typedhidden namedhdnrecipienttxt 
+valuedimpairedrisktbacom
+              input typedhidden namedhdnsubjecttxt valuedtba 
+form response
+            td
+          tr
+        table
+      form
+      p aligndleftfont facedarial helvetica sansserif 
+sized
+        we dont want anybody to receive our mailings who does not wish
+        to receive them this is professional communication
+        sent to insurance professionals to be removed from this mailing 
+list
+        do not reply to this message instead go here a 
+hrefdhttpwwwinsuranceiqcomoptouthttpwwwinsuranceiqcomopt
+outa
+        fontp
+    td
+  tr
+table
+img heightd widthd borderd srcd
+body
+html
+
+nextparteacdacbdf

@@ -1,0 +1,24 @@
+back when i had regular rh there was nothing better than aptget upgrade but
+now im running null beta and i have these questions
+
+which version of apt can i use the rh version or the rawhide version
+
+is there a way to use apt to update null with the rpms available for null
+through update since i prefer apt to that
+
+if i can use apt can i use it to get updates from these  different places
+ the null update redhat upgrades
+ the null files at freshrpmsnet
+ the regular rh files from freshrpmsnet
+
+am i asking for too much simplicity in this complicated world
+
+
+thats angle as in geometry
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

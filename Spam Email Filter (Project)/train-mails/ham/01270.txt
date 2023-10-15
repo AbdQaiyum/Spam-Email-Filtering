@@ -1,0 +1,24 @@
+on mon  at  matthias saou wrote
+
+  thank you that was exactly what i needed
+  dvd works great now
+ 
+ btw i think ill kake it so that my ogle package automatically inserts
+ this options idecd dma to etcmodulesconf it currently creates the
+ devdvd link to devcdrom which will work most of the time if theres
+ only one drive if no devdvd exists
+
+eek  maybe its just me but i dont think thats a good idea 
+outputting a message in post and providing a readme of some kind would
+be better as well as perhaps adding a note in description
+
+ 
+ille skytt
+villeskytta at ikifi
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

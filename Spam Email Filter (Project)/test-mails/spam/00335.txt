@@ -1,0 +1,293 @@
+this is a multipart message in mime format
+
+nextpartddecfcffa
+contenttype textplain
+	charsetwindows
+contenttransferencoding quotedprintable
+
+ stock to casha
+keep your clients money working in two places at the
+same timea
+eliminate downside risk while keeping their upside intact
+ what is emc stock to cash
+ 	your client receives  of their stock portfolio
+up front and in cash
+
+ 	you invest this money in either an
+annuity life policyor both 
+ 	if the portfolio decreases in value
+your clients investment remains intact 
+ 	if the portfolio increases in value
+your clients receive the upside appreciation
+
+ 	reduces capital gains and estate taxes
+
+
+ annuities protect stocks
+sc allows you to wrap your favorite fixed annuities around your
+clients existing stock portfolios combining the safety features of
+taxdeferred annuities with the high growth potential of the nations
+leading stock indices annuities can also be used to fund fixed life
+insurance policies 
+   
+
+call tim armstrong or email mailtoinsuranceiqemergingmoneycom  us
+today
+
+ x
+please fill out the form below for more information	
+name	  
+email	  
+phone	  
+city	  	state	  	 
+ 	  	 	   
+
+we dont want anybody to receive our mailing who does not wish to
+receive them this is a professional communication sent to insurance
+professionals to be removed from this mailing list do not reply to
+this message instead go here httpwwwinsurancemailnet
+legal notice httpwwwinsuranceiqcomlegalhtm
+
+
+nextpartddecfcffa
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+html
+head
+titlewhat is emc stock to cashtitle
+meta httpequivdcontenttype contentdtexthtml 
+charsetdiso
+head
+
+body bgcolordffffff textd
+  table widthd borderd cellspacingd cellpaddingd 
+bordercolord aligndcenter
+    tr
+      td
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            tdimg srcdhttpimagesemcheaderjpg 
+widthd heightd altdstock to cashkeep your clients 
+money working in two places at the same timeeliminate downside 
+risk while keeping their upside intacttd
+          tr
+          tr
+            tdimg srcdhttpimagesemcbandgif 
+widthd heightd altdwhat is emc stock to cashtd
+          tr
+          tr
+            td
+              table widthd borderd cellspacingd 
+cellpaddingd
+                tr
+                  td widthd valigndtop aligndrightimg 
+srcdhttpimagesemcbulletgif widthd 
+heightdtd
+                  td widthd valigndtop
+                    pbfont sized colord 
+facedgeorgia times new roman times serif
+                      your client receives  of their stock 
+portfoliobr
+                      up front and in cashfontbp
+                  td
+                tr
+                tr
+                  td widthd valigndtop aligndrightimg 
+srcdhttpimagesemcbulletgif widthd 
+heightdtd
+                  td widthd valigndtop
+                    pbfont sized colord 
+facedgeorgia times new roman times serif
+                    you invest this money in either anbr
+                    annuity life policyor bothfontb
+                  td
+                tr
+                tr
+                  td widthd valigndtop aligndrightimg 
+srcdhttpimagesemcbulletgif widthd 
+heightdtd
+                  td widthd valigndtop
+                    pbfont sized colord 
+facedgeorgia times new roman times serif
+                    if the portfolio decreases in valuebr
+                    your clients investment remains intactfontb
+                  td
+                tr
+                tr
+                  td widthd valigndtop aligndrightimg 
+srcdhttpimagesemcbulletgif widthd 
+heightdtd
+                  td widthd valigndtop
+                    pbfont sized colord 
+facedgeorgia times new roman times serif
+                      if the portfolio increases in value br
+                      your clients receive the upside 
+appreciationfontbp
+                  td
+                tr
+                tr
+                  td widthd valigndtop aligndrightimg 
+srcdhttpimagesemcbulletgif widthd 
+heightdtd
+                  td widthd valigndtop
+                    pbfont sized colord 
+facedgeorgia times new roman times serif
+                    reduces capital gains and estate taxes 
+fontbp
+                  td
+                tr
+              table
+            td
+          tr
+          tr
+            tdbrimg 
+srcdhttpimagesemcbandgif widthd 
+heightd altdannuities protect stockstd
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenter
+              bfont facedgeorgia times new roman times serif 
+sizedisfont sizedfontc
+                allows you to wrap your favorite fixed annuities around 
+your clients
+                existing stock portfolios combining the safety features 
+of taxdeferred
+                annuities with the high growth potential of the nations 
+leading
+                stock indices annuities can also be used to fund fixed 
+life insurance
+                policiesifontb
+            td
+          tr
+          tr
+            td aligndcenter
+              hr widthd
+              font facedverdana arial helvetica sansserif 
+colordb
+                call tim armstrong or a 
+hrefdmailtoinsuranceiqemergingmoneycomemaila us 
+todaybfontbr
+              br
+              img srcdhttpimagesemcphonegif 
+widthd heightd altdx
+            td
+          tr
+          tr
+            td
+              table widthd bgcolord aligndcenter
+                tr
+                  form methoddpost 
+actiondhttpresponseresponseasp
+                    td
+                      table widthd borderd 
+cellspacingd cellpaddingd aligndcenter 
+bgcolordffffff
+                        tr bgcolord
+                          td colspand aligndcenterfont 
+facedverdana arial helvetica sansserif 
+colordffffffbplease fill out the form below for more 
+informationfontbtd
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif sized 
+colordbnamebfonttd
+                          td colspand
+                            input typedtext namedcontactname 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif sized 
+colordbemailbfonttd
+                          td colspand
+                            input typedtext namedemail 
+sized
+                          td
+                        tr
+                        tr
+                           td widthd aligndrightfont 
+facedverdana arial helvetica sansserif sized 
+colordbphonebfonttd
+                          td colspand
+                            input typedtext namedphone 
+sized
+                          td
+                        tr
+                        tr
+                          td widthd aligndrightfont 
+colord facedverdana arial helvetica sansserif 
+sizedbcitybfonttd
+                          td widthd
+                            input typedtext namedcity 
+sized
+                          td
+                          td widthd aligndrightfont 
+facedverdana arial helvetica sansserif sized 
+colordbstatebfonttd
+                          td widthd
+                            input typedtext namedstate 
+sized
+                          td
+                          td rowspand aligndcenter 
+valigndmiddleimg srcdhttpimagesqgif 
+widthd heightdtd
+                        tr
+                        tr
+                          td widthd aligndrightnbsptd
+                          td widthd
+                            input typedsubmit namedbtnsubmit 
+valuedsubmit
+                          td
+                          td widthd aligndrightnbsptd
+                          td widthd
+                            input typedhidden 
+namedhdnrecipienttxt valuedinsuranceiqemergingmoneycom
+                            input typedhidden 
+namedhdnsubjecttxt valuedemcs iq inquiry
+                          td
+                        tr
+                      table
+                    td
+                  input typedhidden namedsentto 
+valued
+form
+                tr
+              table
+            td
+          tr
+        table
+        table widthd borderd cellspacingd 
+cellpaddingd
+          tr
+            td aligndcenter
+              p font facedverdana arial helvetica sansserif 
+sizedwe
+                dont want anybody to receive our mailing who does not 
+wish to
+                receive them this is a professional communication sent 
+to insurance
+                professionals to be removed from this mailing list do 
+not reply
+                to this message instead go here a 
+hrefdhttpwwwinsurancemailnethttpwwwinsurancemailnetabr
+
+                a hrefdhttpwwwinsuranceiqcomlegalhtmlegal 
+noticeafontp
+            td
+          tr
+        table
+      td
+    tr
+  table
+body
+html
+
+nextpartddecfcffa

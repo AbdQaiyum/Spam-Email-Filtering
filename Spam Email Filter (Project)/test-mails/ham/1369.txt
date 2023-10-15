@@ -1,0 +1,22 @@
+humbertohpcfupredu wrote
+
+redhat  disables all support for mp files relinking xmms with a zzmp 
+module does anyone have a fixed spec file for xmms one that can play mps 
+would be best
+
+  
+
+oh xmms didnt work for me also
+i used mpg i tought its something from me
+like mplayer not working also and gives black screen
+
+
+
+
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

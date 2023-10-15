@@ -1,0 +1,36 @@
+on wed  oct    matthias saou matthiasrpmforgenet wrote
+
+ i dont think gpg signing my repositories will help anything as it will
+ just ensure that my passphrase was typed to confirm the md signatures of
+ all pgklists and srclists basically youll then just be sure that its me
+ who generated the files and this will of course prevent automating the
+ process of updating the apt repository when red hat updates show up
+
+    isnt there a packagerkey thats concealed inside the rpm  things have changed a bit since i used to work withem but i thought there was some internal number that must be compared to be correct or presumably return an error
+ 
+ in red hat linux  though the warnings about no key appear until you
+ import the right gpg public keys directly with rpm for example 
+ rpm import usrsharedocaptcncrpmgpgkey
+ this will import my key which is used to sign all freshrpmsnet packages
+
+    hey cool wether it protects me or not i feel better about it
+ 
+ hopefully it is possible to the tell rpm to install only packages who
+ verify against an imported gpg key this for me would be the optimal way to
+ ensure integrity with the way things curently work
+
+    yeah surely theres a flag for that there is for everything else aye  
+
+
+brian fahrlnder              linux zealot conservative and technomad
+evansville in                    my voyage httpwwwcountermooncom
+icq  
+
+angegangen schlangehften sein es ganz rber jetzt bgel innen fest
+weil es eine lange ssse fahrt ist 
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

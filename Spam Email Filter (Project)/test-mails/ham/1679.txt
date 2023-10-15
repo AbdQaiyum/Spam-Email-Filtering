@@ -1,0 +1,46 @@
+or you could do this g
+
+on mon  sep  david rees wrote
+
+ on mon sep   at pm  rob wrote
+  i just set up razor and spamassassin but i keep getting this error in my 
+  mail log file
+  
+  razor check skipped no such file or directory cant call method log on 
+  unblessed reference at 
+  usrlocallibperlsiteperlrazorclientagentpm line 
+  
+  i have looked through the archived list and the only thing i have seen 
+  about this error is a possible permission problem on the log file
+ 
+ yeah the answer isnt here in this list its on the spamassassinusers
+ list  i just asked it late last week
+ 
+ hint  add h to the spamd startup flags using the latest version of
+ spamassassin
+ 
+ dave
+ 
+ 
+ 
+ this sfnet email is sponsored by osdn  tired of that same old
+ cell phone  get a new here for free
+ httpswwwinphoniccomrasprsourceforgerefcodevs
+ 
+ razorusers mailing list
+ razoruserslistssourceforgenet
+ httpslistssourceforgenetlistslistinforazorusers
+ 
+
+
+
+
+this sfnet email is sponsored by osdn  tired of that same old
+cell phone  get a new here for free
+httpswwwinphoniccomrasprsourceforgerefcodevs
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

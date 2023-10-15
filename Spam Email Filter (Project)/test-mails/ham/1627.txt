@@ -1,0 +1,23 @@
+
+randy bush said
+
+  freebsd stable
+  spamassassin 
+      spamasassin r
+  results in
+  razor report failed no such file or directory razor reporting requires 
+ authentication at usrlocallibperlsiteperlmailspamassassinrepo
+ rterpm line 
+  used to work until upgrade
+  
+  using spamd  try the h switch 
+ 
+ no pipinng the message to spamassassin r from within my mail
+ user agent vm under emacs
+
+oops sorry  didnt notice the report bit  yes you need to register
+for razor  razorregister or razoradmin register if i recall
+correctly
+
+j
+

@@ -1,0 +1,52 @@
+
+trimmed cc list
+
+daniel quinlan said
+
+  these messages could end up being falsely or incorrectly reported
+    to razor dcc pyzor etc  certain rbls too  i dont think the
+    results for these distributed tests can be trusted in any way
+    shape or form when running over a public corpus
+
+ill note that in the readme
+
+  these messages could also be submitted more than once to projects
+    like spamassassin that rely on filtering results submission for ga
+    tuning and development
+ the second problem could be alleviated somewhat by adding a nilsimsa
+ signature or similar to the masscheck file the results format used
+ by spamassassin and giving the message files unique names md or
+ sha of each file
+
+ok maybe rewriting the messageids will help here that should allow
+us to pick them out  ill do that
+
+  spammers could adopt elements of the good messages to throw off
+    filters  and of course theres always progression in technology
+    by both spammers and nonspammers
+ the third problem doesnt really worry me
+
+nah me neither
+
+ these problems and perhaps others i have not identified are unique
+ to spam filtering  compression corpuses and other performancerelated
+ corpuses have their own set of problems of course
+ 
+ in other words i dont think theres any replacement for having
+ multiple independent corpuses  finding better ways to distribute
+ testing and collate results seems like a more viable longterm solution
+ and im glad were working on exactly that for spamassassin  if
+ youre going to seriously work on filter development building a corpus
+ of  messages half spamhalf nonspam is not really that
+ much work  if you dont get enough spam creating multitechnique
+ spamtraps web usenet replying to spam is pretty easy  and who
+ doesnt get thousands of nonspam every week  
+
+yep  the primary reason i released this was to provide a good big
+corpus for academic testing of filter systems it allows results to
+be compared between filters using a known corpus
+
+for spamassassin development everyone has to maintain their own corpus
+
+j
+

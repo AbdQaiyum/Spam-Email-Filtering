@@ -1,0 +1,42 @@
+hiya i always seem to get errors when i do an apt update is this a 
+problem on the repository itself or on my end or possibly a timeout in 
+the connection due to my connection being a crappy modem
+
+rootspawn root aptget update
+hit httpaptnixiano redhatibasepkglistgnomehide
+hit httpaptfreshrpmsnet redhatibasepkglistos
+ign httpaptfreshrpmsnet redhati releaseos
+err httpaptfreshrpmsnet redhatibasepkglistupdates
+  bad header line
+hit httpaptfreshrpmsnet redhati releaseupdates
+err httpaptfreshrpmsnet redhatibasepkglistfreshrpms
+   bad request
+err httpaptfreshrpmsnet redhati releasefreshrpms
+  bad header line
+hit httpaptfreshrpmsnet redhatibasesrclistfreshrpms
+ign httpaptnixiano redhati releasegnomehide
+ign httpaptnixiano redhatibasemirrors
+hit httpaptfreshrpmsnet redhati releasefreshrpms
+ign httpaptfreshrpmsnet redhatibasemirrors
+ign httpaptfreshrpmsnet redhatibasemirrors
+ign httpaptfreshrpmsnet redhatibasemirrors
+ign httpaptfreshrpmsnet redhatibasemirrors
+failed to fetch 
+httpaptfreshrpmsnetredhatibasepkglistupdates
+  bad header line
+failed to fetch 
+httpaptfreshrpmsnetredhatibasepkglistfreshrpms
+   bad request
+failed to fetch 
+httpaptfreshrpmsnetredhatibasereleasefreshrpms
+  bad header line
+
+                                     m 
+  if i seem super human i have been misunderstood c dream theater
+         marktalioscom  icq  jid taliosmyjabbernet
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

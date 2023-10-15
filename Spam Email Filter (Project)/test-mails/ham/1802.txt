@@ -1,0 +1,12 @@
+
+      choose something with a different prefix than xspam so that
+     people dont confuse it with spamassassin 
+
+    neale how about xspambayesdisposition or xhammiedisposition if
+    neale therell be other classifier frontends
+
+i kinda like hammie  your front end was there first so i suspect it will
+rule the front end roost
+
+s
+

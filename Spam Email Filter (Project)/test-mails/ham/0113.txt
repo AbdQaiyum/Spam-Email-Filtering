@@ -1,0 +1,8 @@
+
+
+   hardware is getting so fast that im not sure if the performance
+ difference between java and cc are relevant any more
+
+when outofthebox parsing  transform of xml in java is x slower than
+c on the same hardware then it does matter
+

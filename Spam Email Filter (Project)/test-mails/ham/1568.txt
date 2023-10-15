@@ -1,0 +1,64 @@
+
+hlhaiwflczwgcpw
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on thu sep   at pm  jeremy kusnetz wrote
+ when running
+ spamc c  samplespamtxt
+ i get    which looks correct but
+ doing an echo  returns a  instead of 
+
+can you submit this to bugzilla  it definately is a bug i mean i do
+a packet trace and heres what i get with one of my spams
+
+the request
+
+  b e     b     d  f  e   check spamc
+   d a     a    c       user felicit
+   d a  f e   e  d c  e     ycontentlengt
+   a      d a d a                  h 
+
+the spam removed for brevity
+
+the response
+
+  b f    d  f  e         spamd  ex
+  f f b d a    d a    c     okspam false
+   b    e   f   e  d a d       
+
+
+so spamd is definately returning false incorrectly
+
+
+
+randomly generated tagline
+pu gnikcab yb naem uoy tahw siht si
+
+hlhaiwflczwgcpw
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqegjgnauoquewasmragocakdjgozwxyvwzuqiraffyjhawtbqcgtv
+iwtyybtybfpquyifzpc
+el
+end pgp signature
+
+hlhaiwflczwgcpw
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

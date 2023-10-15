@@ -1,0 +1,102 @@
+html
+head
+titletitle
+meta httpequivcontenttype contenttexthtml charsetiso
+head
+
+body bgcolordeea text
+base hrefhttpimageseekercenternet
+table width border cellspacing cellpadding
+  tr 
+    td bgcolorffffffnbsp td
+  tr
+  tr 
+    td bgcolorffffff aligncenter 
+      table width border cellspacing cellpadding
+        tr
+          td
+            table border cellspacing cellpadding
+              tr 
+                td widtha hrefhttpwwwseekercentercom targetblankimg srcimageemgif width height borderatd
+                td widtha hrefhttpwwwseekercentercom targetblankimg srcimageemgif width height borderatd
+                td widtha hrefhttpwwwseekercentercom targetblankimg srcimageemgif width height borderatd
+              tr
+              tr 
+                td widtha hrefhttpwwwseekercentercom targetblankimg srcimageemgif width height borderatd
+                td widtha hrefhttpwwwseekercentercom targetblankimg srchttpimageseekercenternettempsnajpg width height borderatd
+                td widtha hrefhttpwwwseekercentercom targetblankimg srcimageemgif width height borderatd
+              tr
+              tr 
+                td widtha hrefhttpwwwseekercentercom targetblankimg srcimageemgif height borderatd
+                td widtha hrefhttpwwwseekercentercom targetblankimg srcimageemgif height borderatd
+                td widtha hrefhttpwwwseekercentercom targetblankimg srcimageemgif width height borderatd
+              tr
+            table
+          td
+        tr
+        tr
+          tda hrefhttpwwwseekercentercom targetblankimg srcimageemgif width height borderatd
+        tr
+      table
+      
+    td
+  tr
+  tr
+    td bgcolorffffffnbsptd
+  tr
+  tr 
+    td bgcolorffffff
+      table width border cellspacing cellpadding
+        tr 
+          td 
+            table width border cellspacing cellpadding
+              tr 
+                td width 
+                  pfont facegeneva arial helvetica sanserifbr
+                    font p
+                td
+                tdfont facegeneva arial helvetica sanserif size colorhi 
+                  jm font 
+                  pfont facegeneva arial helvetica sanserif size colorthanks 
+                    for visiting a hrefhttpwwwseekercenternet targetblankhttpwwwseekercenterneta 
+                    fontp
+                  pfont facegeneva arial helvetica sanserif size colorover 
+                     web surfers use search engines to locate their needed 
+                    info nowadays so your web site is only effective when people 
+                    can find it if you are not listed on search engines  you 
+                    lose nobody shows up no matter how attractive you made your 
+                    site as well the investment you made in building it will 
+                    not yield any dividends at allfontp
+                  pfont facegeneva arial helvetica sanserif size coloras 
+                    a popular site promotion tool seekercenter uniquely submits 
+                    your website to  search engines and directories worldwide 
+                    attracting great traffic to your business website fontp
+                  pfont facegeneva arial helvetica sanserif size colorif 
+                    you wish someone could step you through seekercenter webpromoter 
+                    program you can check at a hrefhttpwwwseekercenternetfaqphp targetblankhttpwwwseekercenternetfaqphpa 
+                    fontp
+                  pfont facegeneva arial helvetica sanserif size colorif 
+                    youd like to view to which search engines amp directories 
+                    we submit your web site please check a hrefhttpwwwseekercenternetenginesphp targetblankhttpwwwseekercenternetenginesphpa 
+                    fontp
+                  pfont facegeneva arial helvetica sanserif size colorquestions 
+                    or comments contact a hrefmailtovanessaseekercenternetvanessaseekercenterneta 
+                    for more informationfontp
+                  pfont facegeneva arial helvetica sanserif size colorsincerelybr
+                    vanessa linterbr
+                    customer servicebr
+                    a hrefhttpwwwseekercenternet targetblankhttpwwwseekercenternet 
+                    afontfont facegeneva arial helvetica sanserif colorfontp
+                td
+              tr
+            table
+          td
+        tr
+      table
+    pnbspptd
+  tr
+table
+body
+html
+
+

@@ -1,0 +1,47 @@
+
+html
+head
+titleslim factorstitle
+meta httpequivcontenttype contenttexthtml charsetiso
+style typetextcss
+
+t   fontfamily times new roman times serif fontsize px color 
+
+style
+head
+
+body bgcolorffffff
+table width border cellspacing cellpadding aligncenter
+  tr 
+    td colspanimg srchttpglobalzenmarketingnetcimagesslimajpg width heighttd
+  tr
+  tr 
+    tdimg srchttpglobalzenmarketingnetcimagesslimbjpg width heighttd
+    tdimg srchttpglobalzenmarketingnetcimagesslimcjpg width heighttd
+    tdimg srchttpglobalzenmarketingnetcimagesslimdjpg width heighttd
+  tr
+  tr 
+    td colspanimg srchttpglobalzenmarketingnetcimagesslimejpg width height usemapmap bordermap namemaparea shaperect coords hrefhttpglobalzenmarketingnetslinkphpnurlhttpwwwslimfactorsnetemailzzzzspamassassintaintorg altslim factors  a totally new approach to weight loss titleslim factors  a totally new approach to weight lossmaptd
+    tda hrefhttpglobalzenmarketingnetslinkphpnurlhttpimmunetreecomshowprodphpidemailzzzzspamassassintaintorgimg srchttpglobalzenmarketingnetcimagesslimfjpg width height altbuy slim factors now borderatd
+  tr
+  tr 
+    td colspannbsptd
+  tr
+  tr
+    td colspan classtthis email is intended to be a benefit to the recipient 
+      if you would like to optout and not receive any more a hrefhttpglobalzenmarketingnetunsubphpemailzzzzspamassassintaintorgnamefriendclick 
+      herea your address will be removed immediately we sincerely apologize 
+      for any inconvenience this email is not spam under the federal regulatory 
+      laws of the united states this message is being sent to you in compliance 
+      with the proposed federal legislation for commercial email hrsection 
+       paragraph e  a and bill s title iii passed by the th 
+      us congress this message is not intended for residents of wa nv ca va 
+      screening of addresses has been done to the best of our technical ability 
+    td
+  tr
+table
+body
+html
+
+
+

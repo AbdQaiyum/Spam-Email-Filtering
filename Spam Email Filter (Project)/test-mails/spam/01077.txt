@@ -1,0 +1,78 @@
+this is a multipart message in mime format
+
+nextpart
+contenttype textplain
+	charsetusascii
+contenttransferencoding bit
+
+special situation trading advisory
+
+dear valued subscribers
+
+we sometimes approach our analysts for their thoughts on emerging market sectors were interested in on certain occasions they come to us with intriguing insights of certain aspects of the market that have caught their attention
+
+as you know our track record speaks for itself we are happy to bring you another situation with huge upside potential we think this could be the one that when we look back shortly everyone will be saying i should have more
+
+
+for more info httpterraespersonalinvdaily
+
+remember nothing ventured nothing gained
+
+
+nextpart
+contenttype texthtml
+	charsetiso
+contenttransferencoding quotedprintable
+
+htmlhead
+doctype html public wcdtd html  transitionalen
+head
+meta httpequivdcontenttype contentdtexthtml charsetdiso
+meta contentdmshtml  namedgenerator
+head
+body bgcolordffffff
+
+table widthd
+trtd
+font facedarial helvetica sansserif
+
+p aligndleftdear readerbrbr 
+we sometimes approach our analysts for their thoughts on emerging market 
+sectors were interested in on certain occasions they come to us with 
+intriguing insights of certain aspects of the market that have caught their 
+attentionbrbr
+
+as you know our track record speaks for itself we are happy to bring you 
+another situation with huge upside potential we think this could be the one 
+that when we look back shortly everyone will be saying i should have more
+brbr
+
+for more info a hrefdhttpterraespersonalinvdaily targetdclick 
+hereabrbr
+
+remember nothing ventured nothing gainedbrbr
+
+fontp
+
+tdtr
+table
+
+body
+
+html
+
+nextpart
+
+deathtospamdeathtospamdeathtospam
+
+
+
+this sfnet email is sponsored by jabber  the worlds fastest growing 
+realtime communications platform dont just im build it in 
+httpwwwjabbercomosdnxim
+
+spamassassinsightings mailing list
+spamassassinsightingslistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassinsightings
+
+

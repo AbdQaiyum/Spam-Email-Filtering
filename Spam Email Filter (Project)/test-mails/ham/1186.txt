@@ -1,0 +1,29 @@
+once upon a time dtd wrote 
+
+ 
+ thanks for the great work mathias but i would like to point out that this
+ list is fastly become the aptrpmlist instead of the rpmlist the
+ discussion concerning apt is overwhelming maybe another list is in order
+ for those having trouble with aptrpm aptrpmhotlinefreshrpmsnet  
+ 
+ though i think aptrpm is a great tool i dont use it and would like to
+ get back to talk of new packages and rpm building techniques
+
+hmmm know what on httplistsfreshrpmsnet the aptlist has been up
+for a while now  there is almost no traffic though since i wanted to
+keep that list for aptrpm on the server side mirrors building
+repositories etc but hey it could be a good place for general aptrpm
+questions 
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

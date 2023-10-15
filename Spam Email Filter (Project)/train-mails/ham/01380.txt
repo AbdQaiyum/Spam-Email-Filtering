@@ -1,0 +1,41 @@
+don newcomer wrote
+ im a new user or about to be hopefully of sa but ive run into some
+ compilation errors that prevent me from installing  rather than picking
+ through the code i thought id avoid reinventing the wheel and ask here
+ when i run the make i get the following
+ 
+ cc error spamdspamcc line  in this declaration inaddrt has no
+ linka
+ ge and has a prior declaration in this scope at line number  in file
+ usrinc
+ ludesystypesh nolinkage
+ typedef unsigned long   inaddrt       base type for internet address
+ 
+
+dont worry about the warnings to fix the error edit spamcc and right 
+after the line that says
+
+define exmax 
+
+add
+
+if defined osf
+extern char optarg
+typedef unsigned long   inaddrt       base type for internet address 
+endif
+
+youre adding the two lines that start with 
+
+rick
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+

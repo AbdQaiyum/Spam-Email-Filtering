@@ -1,0 +1,50 @@
+
+how is this any different from attaching an infobot or alice
+through licqs consolehook  people have been doing that for years
+and for over a decade in irc and the muds
+
+ and the one thing i think weve learned in all that time is that
+as a helpdesk it doesnt work  people just dont like talking to
+robots especially when the robots once confused become imbeciles
+i think the humans may feel cheated deceived and tricked when they
+discover as with the seattle answer that they are talking to a
+machine theres no real intelligence behind that simulatedfriendly
+and therefore empty thx
+
+aiml is clever and cute but for practical applications as a first
+line of technical support  its been tried over and over and while i
+also think that it should work for the most part people wont
+use it  whats worse as we make the nl processing more and more
+clever it only means it fails more dramatically alice doesnt just
+stumble a bit it starts to drool  and alice is the best we have
+
+like a dalek all very impressive when things are going well but all
+it takes to betray the chickenbrain inside is a towel over its
+illplaced eye or a spin off the metal surface 
+
+in all the prologbased nl database query systems of the s and
+other later chatterbot helpdesk projects like shallow red even
+simpler tries like ask jeeves people very quickly know theyre
+talking to a robot and the queries anneal to short truncated and
+terse databaselike verbnoun or just nounkeyword requests  
+
+people are just too quick to adapt and too impatient to forgive a
+clunky interface and for now especially when the average computer
+user still cant type more than maybe wpm nl is a painfully slow
+clunky interface
+
+put it this way would you login wake the bot and ask for the seattle
+weather or would you do as we all do and just click the weather
+icon sitting there on your desktop
+
+just for fun heres an interesting conversation between shallow red
+alice and eliza as they decide to play the turing game
+
+httpwwwbotspotcombesthtm
+
+ 
+gary lawrence murphy  garymteledyncom  teledynamics communications
+  blog httpwwwauracomcomteledyn  biz httpteledyncom 
+  computers are useless they can only give you answers picasso
+
+

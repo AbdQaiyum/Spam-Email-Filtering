@@ -1,0 +1,42 @@
+on sun  sep  reza bfar ebuilt wrote
+
+   c and c forces the developer to solve problems such as memory
+ management over and over again  imho java is superior because the problem
+ of programming in the future is not about s and s making the compiler
+  faster or making your code take  less memory its about design
+ patterns architecture high level stuff
+
+considering  of the fake job posting i see are for embedded systems or
+device drivers  c still rules the world
+
+   java is not just a programming language its also a platform there
+ is nothing like the standard apis in java in c and c  everyone defines
+ their own apis people end up solving the same problems ten different ways
+
+the problem is the problem youre trying to solve is never the same java
+will soon suffer apirot alot of poeple are already complaining about it
+its just new c was clean in the beginning too apirot is purely a
+function of age
+
+   if you have a program of any type of high complexity written in c you
+ cant possibly think that you could port it to different platforms within
+ the same magnitude of cost as java
+
+i do this all the time its alot easier then you think if the original
+programmer had a clue at all java does remove the clue requirement tho
+just adds a huge testing requirement qa guys arent as cheap 
+
+   makes no sense for a scientific or a business project to depend on a
+ person java imho reduces the dependence of these entities on the
+ individual developer as it is much easier to reverse engineer java as it is
+ to reverse engineer c large applications
+
+no its not but you can hire teams of javites for cheap at your local high
+school java is about cutting costs and commoditizing programming  and its
+working
+
+ adam l duncan beberg
+  httpwwwmithralcombeberg
+  bebergmithralcom
+
+

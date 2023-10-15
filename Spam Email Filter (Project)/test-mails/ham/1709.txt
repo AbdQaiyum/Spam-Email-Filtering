@@ -1,0 +1,72 @@
+
+eynybuxmfhi
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+folks
+
+     there have been several major internet outages this morning
+     across major providers uunet genuity and god knows who else
+     various routes across the internet backbones have been
+     disappearing repropagating and disappearing again
+
+     this has caused and exacerbated several problems which we are
+     working on correcting right now  we apologize for the
+     inconvenience
+
+best
+
+jordan
+
+
+
+on thu oct   at pm  sven willenberger wrote
+ trying to report spam razor chooses hubris i timeout on the connection
+ which seems to have gotten slower all morning and receive the following
+ error message
+
+ razorreport error connect nextserver discover error reading socket
+ connect nextserver discover error reading socket
+
+ i then try to run razoradmin discover and receive the same error 
+ problems with the servers today only one discovery server
+
+ sven
+
+
+
+ 
+ this sfnet email is sponsored bythinkgeek
+ welcome to geek heaven
+ httpthinkgeekcomsf
+ 
+ razorusers mailing list
+ razoruserslistssourceforgenet
+ httpslistssourceforgenetlistslistinforazorusers
+
+eynybuxmfhi
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+
+iddbqenicfpwqdavebuoraiwajwrzagmeskgcmbivflkgceotgc
+vcgzuskupyhyjwhsym
+dzej
+end pgp signature
+
+eynybuxmfhi
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

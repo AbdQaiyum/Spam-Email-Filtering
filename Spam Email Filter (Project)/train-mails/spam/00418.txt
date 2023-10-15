@@ -1,0 +1,19 @@
+doctype html public wcdtd html  transitionalen
+htmlheadtitletitle
+meta httpequivdcontenttype contentdtexthtml charsetdiso
+head
+body
+centera hrefdhttpuserindexhtm
+img srcdhttplifeadgif borderda centerbr
+br
+table widthd aligndcentertbodytr
+td aligndmiddlefont facedarialhelvetica colord sizedff
+ffffa
+copyright   all rights reservedbrbrif you would no longer like us
+to contact you or feel that you havebrreceived this email in error
+please a hrefdhttplightfirstaspclick here to
+unsubscribeafonttdtrtbodytablebodyhtml
+
+
+
+

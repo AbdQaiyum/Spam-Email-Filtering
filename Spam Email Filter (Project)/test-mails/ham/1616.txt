@@ -1,0 +1,78 @@
+httpwwwhughesfamilyorgbugzillashowbugcgiid
+
+
+
+
+
+ additional comments from spamassassincontribmsquadratde    
+ ive thought about this and pmfilter needs to die ive now tried  
+ multiple ways to make it just transparently work on  and failed  
+ if anyone has any bright ideas please jump in 
+  
+ you see anyone upgrading from the cpan shell will get a failure on the line 
+  
+    use extutilsmakemaker  
+ 
+quite some modules from cpan do have a line like this nowadays i think or 
+read so somewhere respectively and the perl error message is very clear 
+extutilsmakemaker version  requiredthis is only version  at 
+makefilepl line  
+ 
+ because it never gets chance to reach a writemakefile line with a  
+ prereqpm   extutilsmakemaker    option so the cpan shell  
+ cant automatically upgrade this module i cannot think of any way  
+ around this 
+ 
+i could think of a solution we could remove the use line and add the 
+version to prereqpm after writemakefile we could add the lines 
+  require extutilsmakemaker 
+  extutilsmakemakerversion 
+to do per hand what use extutilsmakemaker  does automagically perl 
+makefilepl will die with a uncaught exception from user code 
+extutilsmakemaker version  requiredthis is only version  at 
+makefilepl line  there but weve got a makefile but i dont know if 
+cpan will run the make anyway 
+ 
+ to add insult to injury the pmfilter part gets run during pmtoblib  
+ which would be fine except extutilsmakemaker doesnt let you write a  
+ mypmtoblib  its nonoverridable so even though we could  
+ potentially copy the  extutilsinstallpmtoblib code somewhere  
+ into the spamassassin codebase i tried that first we cant cause the  
+ makefile to call our code  
+ 
+we could call the preprocessor on install time thats not a very clean 
+approach but could work 
+ 
+we can also overwrite pmtoblib in the makefile directly per postamble we 
+already have a useless line pmtoblib spamassassin docmade there adding 
+some commands in this section gives some make warnings makefile 
+warning overriding commands for target pmtoblib makefile warning 
+ignoring old commands for target pmtoblib but does work not a very good 
+solution either 
+ 
+ so im strongly against the current use of extutilsmakemaker   
+ usage if this were an apache project this would be my veto vote and  
+ really hope we can find another way 
+ 
+the use makemaker error message is imho quite clear so i think its ok 
+to require the user to do a manual update of extutilsmakemaker before the sa 
+installation but thats just my opinion  
+ 
+ill ask on makemakerperlorg for the best solution they should know 
+
+
+
+ you are receiving this mail because 
+you are on the cc list for the bug or are watching someone who is
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+
+

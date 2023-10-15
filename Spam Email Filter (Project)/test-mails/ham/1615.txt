@@ -1,0 +1,44 @@
+httpwwwhughesfamilyorgbugzillashowbugcgiid
+
+jmjmasonorg changed
+
+           what    removed                     added
+
+             statusnew                         assigned
+
+
+
+ additional comments from jmjmasonorg    
+ use of config is gradually being removed thankfully  i dont want
+to see any of that stuff in there if it acn be avoided as different
+perl versions jsut vary so much in that stuff
+
+ perl has no concept of where the rules could be  unless theyre in
+the perl libdir usrlibperlsiteperlxxfoo  perl does not
+know about the existence of usrshare or etc  used to use usrlibperl
+for storing rules and it was actually much worse than it is now so
+we need an outofband way to tell sa where to find this stuff thats
+the problem
+
+ try perl makefilepl  devnull to allow bots to build it
+
+i think i might be missing some details of what youre peeved about
+though could you elaborate specifically
+
+
+
+
+ you are receiving this mail because 
+you are the assignee for the bug or are watching the assignee
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassindevel mailing list
+spamassassindevellistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassindevel
+
+

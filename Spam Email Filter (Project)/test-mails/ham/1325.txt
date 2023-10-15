@@ -1,0 +1,26 @@
+once upon a time ville wrote 
+
+ how about applying this to the default aptconf shipped with the
+ freshrpmsnet apt package  i found it a bit weird when the behaviour
+ changed between the old x and the new x versions so that when
+ doing a aptget upgrade it wouldnt tell me which packages were to
+ be upgraded just that it was about to upgrade something
+
+indeed i found that strange too then i noticed the u switch and used
+that but your solution is much better  the next apt build will
+incorporate this change not worth a rebuild for this and as some
+relatively important cnc bugs are currently being fixed id say cnc
+isnt far off
+
+matthias
+
+ 
+clean custom red hat linux rpm packages  httpfreshrpmsnet
+red hat linux release  valhalla running linux kernel acpi
+load    
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

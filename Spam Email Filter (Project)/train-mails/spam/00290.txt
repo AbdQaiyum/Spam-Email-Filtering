@@ -1,0 +1,371 @@
+
+doctype html public wcdtd html  transitionalen
+html
+head
+  titlethis email is being sent to zzzzjmasonorg to unsubscribe please
+visit httpwwwventurereporternetmyaccount  if you ever have a problem
+removing or changing your email subscriptions on our newsletters or getting
+in touch with us please dont hesitate to email supportventurereporternet
+and a human will get in touch with you immediately venture reporter 
+west th street th floor new york new york  phoe 
+the online content businesstitle
+      
+  meta httpequivcontenttype
+ contenttexthtml charsetiso
+head
+  body text bgcolorffffff link vlink
+ alink
+    
+pfont classbodyfont size classtitleimg
+ srchttpwwwcmsummitcomimagesrightgif altcms width
+ height
+ img srchttpwwwcmsummitcomimagescmstitlegif altcms
+ width height
+ br
+ fontfontp
+    
+p stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizedear friendsbr
+ br
+ font colorbthe online content business is doing fantasticbfontfontfontfontp
+    
+p stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizesound crazy perhaps  with 
+advertisingspan langenus online spanand off  taking it on the chin
+for the past two years  online content sites have been shutting down  laying
+off staff and pulling back on their offeringsfontfontfontp
+    
+p stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizehowever  this horrible environment
+has resulted in an undeniable trend  content businesses are challenging
+people to pay for content  finally  after five years of free  people arespan
+ langenus beginning spanto understand that online  as in the real
+world  you get what you pay for and they are taking out their credit cards
+ us  consumers spent  millionnbspon paidnbsponline content last
+year  a  percent increase over  spending levels  according to online
+publishers association  and that figure is expected to increase exponentially
+this year  look at these success storiesfontfontfontp
+    
+ul
+   li      
+    div stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizenew york times digital has 
+been steadily increasing its paid content services over the last year  and 
+registered a  percent increase in its total revenues for the latest quarterfontfontfontdiv
+  li
+   li      
+    div stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizethestreetcom brought over 
+ million in subscriptions last quarter  an increase of almost  percent 
+over the yearago quarterfontfontfontdiv
+  li
+   li      
+    div stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizeconsumerreportscom will 
+reach over a million paying subscribers by the end of this yearfontfontfontdiv
+  li
+   li      
+    div stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizerealnetworks consumer multimedia 
+subscription service has more than  subscribers  bringing in  
+million in the last quarterfontfontfontdiv
+  li
+   li      
+    div stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizethe wall street journal online
+added over  new paying customers last quarter  bringing its subscriber
+base to fontfontfontdiv
+  li
+   li      
+    div stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizeftcom has signed up  
+subscribers in three months since it launched its premium site in mayfontfontfontdiv
+  li
+ 
+ul
+    
+p stylemarginbottom cmfont classbodyfont sizefont
+ faceverdana 
+
+
+
+
+
+sansserifin recognition of this trend were hosting 
+the third installation of our innovative a class
+ hrefhttpwwwcmsummitcomcontent management summit on october  
+a  the event charts the changes in the content industry from free 
+to paid subscription services  and the technologies that arespan
+ langenus enabling spanthe management and monetizing of contentfontfontfontp
+    
+p stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizeour previous content management 
+summit aka digital rights summit on october  last year in new york city 
+and january  in los angeles were unqualified successesfontfontfontp
+    
+p stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizethe content management summit 
+iii  taking place in new york at the millennium broadway on october  
+  will bring together the  executives from the leading content and 
+distribution firms for a focused day of networking and discovering practical 
+solutionsfontfontfontp
+    
+p stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizethe event will feature presentations 
+from software and servicesspan langenus companies spanproviding services
+and solutions for selling  distributing  managing  and protecting contentfontfontfontp
+    
+p stylemarginbottom cmfont classbodyfont sizefont
+ faceverdana 
+
+
+
+
+
+sansserifwerespan langenus thrilled spanthat 
+microsoft  teleknowledge  emeta  and liquify will all be demonstrating 
+their latest products and servicesfontfontfontp
+    
+p stylemarginbottom cmfont classbodyfont sizefont
+ faceverdana 
+
+
+
+
+
+sansserifthe event will also feature six intimatespan
+ langenus round tables spanfocusing on various aspects of online content
+ these panels are meant to provide an informal forum to discuss the challenges
+facing these specific vertical markets  the changes in the sectors since
+the dotcom downfall  and best practices in the industry  the panels will
+feature leading practitioners in each sector  and will also include an interactive
+question and answer session with the audiencefontfontfontp
+    
+p stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizeamong thespan
+ langenus round table spantopics will befontfontfontp
+    
+ul
+   li      
+    div stylemarginbottom cmfont classbodyfont sizefont
+ faceverdana 
+
+
+
+
+
+sansserifweblogs  how they are affecting big media 
+companies  editorially as well as in content deliveryproduction mechanismsfontfontfontdiv
+  li
+   li      
+    div stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizefinancial news and information 
+companies  how they are using technologies to deliver content to users 
+and how the economics have changed since the stock market downfallfontfontfontdiv
+  li
+   li      
+    div stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizebusiness information services 
+such as hoovers  lexisnexis and others  best practices in the industry 
+ niche product launches and revenue streamsfontfontfontdiv
+  li
+   li      
+    div stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizedaily newsnewspaper companies 
+publishing online  how speed dictates technology choices  and the move towards
+paid content and its implications  among other issuesfontfontfontdiv
+  li
+   li      
+    div stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizeconsumer and entertainment 
+publishers  how do publishers determine the value of entertainment content 
+ the push towards paid subscriptions  online advertising and other issuesfontfontfontdiv
+  li
+ 
+ul
+    
+p stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizejoin us on october supthsup 
+for this very important event  if you are directlyspan langenus responsible 
+spanfor content management at a major content site you may qualify for 
+a vip ticket  please email your request with your name  title and bio to
+a hrefmailtoinvitecmsummitcominvitecmsummitcoma  if you are
+with a software or services provider  or anyone not directly responsible 
+for the purchase of content management software or solutions  you can purchase 
+a ticket to this event for  at a
+ hrefmailtoinvitecmsummitcominvitecmsummitcoma  fontfontfontp
+    
+p stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizebest regardsfontfontfontp
+    
+p stylemarginbottom cmfont classbodyfont
+ faceverdana 
+
+
+
+
+
+sansseriffont sizejason mccabe calacanisbr
+  efontfontfont faceverdana 
+
+
+
+
+
+sansseriffont sizeditorinchief 
+amp  ceo  fontfontfont faceverdana 
+
+
+
+
+
+sansseriffont
+ sizeventure reporter amp  silicon alley reporter fontfontfontp
+             
+hr width size           
+p classbodysmallfont facehelvetica arial sansserifthis email
+ is being   sent to zzzzjmasonorg fontsmallp
+ 
+p classbodysmallfont facehelvetica arial sansserifif you would
+ rather   not receive  these infrequent updates simply click a
+ hrefhttpventurereporternetmyaccountkaspezzzzjmasonorg    
+  herea        and you will be removed instantly fontsmallp
+ smallfont facehelvetica arial sansserifyou can also click   the
+ link here or cut and paste it into your browserbr
+ a hrefhttpventurereporternetmyaccountkaspezzzzjmasonorg httpventurereporternetmyaccountkaspejmjmasonorga 
+      nbspfontsmall 
+p classbodysmallfont facehelvetica arial sansserifbr
+     fontsmallp
+               
+div aligncentersmallfont facehelvetica arial sansserif venture 
+     reporter fontsmallbr
+     div
+               
+div aligncentersmallfont facehelvetica arial sansserif  
+west th street th floorfontsmallsmallbr
+     smallsmallfont facehelvetica arial sansserifnew york new 
+ york      fontsmallsmallbr
+     smallsmallfont facehelvetica arial sansserifphoe fontsmalldiv
+p stylemarginbottom cmbr
+ font classbodybr
+ fontp
+ br
+ br
+body
+html
+
+

@@ -1,0 +1,38 @@
+html
+body bgcolordffffff textd
+table widthd borderd cellspacingd cellpaddingd alig
+ndcenter
+  tr
+    td aligndcenter
+      hfont facedverdana arial helvetica sansserifa hrefd
+httpsharworldenterlhtmfont sizedsecretly 
+        attract women or menbr
+        add some spice to your lifefontafonth
+    td
+  tr
+  tr
+    td aligndcentera hrefdhttpsharworldenterl
+htmimg srcdhttpsharworldimageswomanjpeg width
+d heightdatd
+  tr
+  tr
+    td aligndcenter
+      hfont facedverdana arial helvetica sansserifa hrefd
+httpsharworldenterlhtmfont sizedsecretlyattra
+ct 
+        women or menfontafonth
+      
+    td
+  tr
+table
+p aligndcenterfont colord backdffffff styledback
+groundcolor ffffffdffffff sized ptsized familydsanss
+erif facedarial langda hrefdmailtobambiuolcomarsubje
+ctddeletenowfont sizeddeletefontafontfont colord
+ backdffffff styledbackgroundcolor ffffff sized ptsized 
+familydsansserif facedarial langdfontp
+body
+html
+
+
+

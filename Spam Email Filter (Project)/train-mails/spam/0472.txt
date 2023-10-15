@@ -1,0 +1,111 @@
+html
+head
+titletell me where to send your health cardtitle
+meta httpequivcontenttype contenttexthtml charsetiso
+headimg srchttpwwwahahealthcomimagesxpixelwhitegifqg
+
+body bgcolorffffff text
+font facearial sizeyou requested to receive this mailing by registering at send great offersfont
+table width bordercolor border
+  tr
+    td height valigntop bordercolorffffff
+      table width height
+        tr
+          td width heightimg border srchttpwwwahahealthcomassocimageseedladydocjpg width heighttd
+          td width height
+            pimg border srchttpwwwahahealthcomassocimageseedsamtotegif width heightp
+           im your healthy advantagesupfont sizesmfontsup
+              bpersonal advocate bim br
+              available  hours a day  days a week to help you with insurancebr
+              claims finding a specialist helping you cut through red tape
+            table width
+              tr
+                td
+                  div alignleftimg border srchttpwwwahahealthcomassocimageseedsamtotegif width heightdiv
+                td
+              tr
+            table
+
+            bfont colorcc
+            a hrefhttptheadmanagercomservercaspadkeyxrhlssuamyvxext
+            freefont for one full monthabtd
+        tr
+        tr
+          td width height td
+          td width height valigntop
+            ul
+              lib off bdoctor visits and medical careli
+              lib offb dental careli
+              lib offb prescription drugsli
+              libno commitmentsb no hasslesli
+              libandb font colorccbmuch morebr
+                font colorbest of allb you cannot be turned downbfontbfontli
+            ul
+
+          td
+        tr
+        tr
+          td colspan height
+            table width
+              tr
+                td width height valignmiddle
+                  pbfont colorfontfont colorccspecial
+                    bonus offerfontb get a bfont colorccfreefontb
+                    bsamsonite toteb with accompanying bcosmetic caseb and bpiece
+                    manicure setb yours to keep free with your
+                    a hrefhttptheadmanagercomservercaspadkeyxrhlssuamyvxext
+                    free trial membershipa
+                    in healthy advantagep
+                  p p
+                td
+                td width height
+                  div alignleft
+                  a hrefhttptheadmanagercomservercaspadkeyxrhlssuamyvxext
+                  img border srchttpwwwahahealthcomassocimageseedtotesgif width heightadiv
+                td
+              tr
+              tr
+                td width height
+                  div aligncenter
+                  a hrefhttptheadmanagercomservercaspadkeyxrhlssuamyvxext
+                  img border srchttpwwwahahealthcomassocimageseedsamtotegif width heightadiv
+                td
+                td width height
+                a hrefhttptheadmanagercomservercaspadkeyxrhlssuamyvxext
+                img border srchttpwwwahahealthcomassocimageseedsamtotegif width heightatd
+              tr
+            table
+
+          td
+        tr
+      table
+    td
+  tr
+tr
+  	td cellpadding valigntop width bgcolorffff height
+	      pbfont faceverdana sizeno spam policyfontbfont faceverdana size
+	      bryour privacy is important to us you received this message because you have agreed to
+	      receive offers from send great offers or one of our
+	      carefully selected marketing partners brwe abide by a no spam policy
+	      if you believe that you are receiving this message in error or would no
+	      longer like to receive email from send great offers
+	      please click on the link belowfontp
+	td
+   tr
+table
+img srchttpadmanmailcomservertaspadkeyxrhlssuamyvx width height hspace vspace border altt
+hr size noshade
+font facearial size color
+you are receiving this mailing because you are a
+member of sendgreatofferscom and subscribed asjmnetnoteinccom
+to unsubscribe a hrefhttpadmanmailcomsubscriptionaspemjmnetnoteinccomlsgo
+font facearial size colorclick herea
+httpadmanmailcomsubscriptionaspemjmnetnoteinccomlsgo
+or reply to this email with remove in the subject line  you must
+also include the body of this message to be unsubscribed any correspondence about
+the productsservices should be directed to
+the company in the ad
+emjmnetnoteinccomem
+brfont body html
+
+

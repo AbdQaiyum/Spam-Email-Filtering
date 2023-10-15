@@ -1,0 +1,16 @@
+i recently transfered my exmh setup to a new system and now
+all my email ends up in mailmyincerrors folder  this is true for 
+inbox or presort options  im having difficulty finding this condition
+in the documention  suggestions
+
+cheers
+karl
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+

@@ -1,0 +1,142 @@
+html
+
+head
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta namegenerator contentmicrosoft frontpage 
+meta nameprogid contentfrontpageeditordocument
+titleselling travel in todays economytitle
+head
+
+body
+
+div
+  font sizegood morningfont
+div
+div
+  nbsp
+div
+div
+  font sizesince it may have been awhile since you visited us
+atnbspa hrefhttpwwwmailpoundcomwwwmailpoundcomanbspi
+  wanted to update you on what is happening when we launched the mailpound
+  almost two years ago our focus was on saving quottime toner and
+  treesquotnbspby providing an alternative fornbsporganizing the huge
+  number of faxes suppliers sent travel agents each week our most popular
+  feature was the fam section followed by the weekly sweepstakesfont
+div
+div
+  nbsp
+div
+div
+  font sizebut that has changedfont
+div
+div
+  nbsp
+div
+div
+  font sizelike many involved in selling retail travel we have been
+  striving to find ways to succeed in a challenging environment additional
+  commission cuts the aftermath of  and the drop in the stock
+market has
+  had a cumulative effect on all of us to survive to succeed we know
+that we
+  will need to work harder work smarter and work together we have
+gotten a
+  tremendous amount of support from travel agents and this has translated
+into
+  the ability to get more support for travel agents from suppliersfont
+div
+div
+  nbsp
+div
+div
+  font sizeour focus has expanded from providing a resource for
+searching supplier
+  special offers to providing a suite of tools and services that can create
+  sales and raise commissions almost all of these services are supplier
+  supported and free to travel agents
+div
+ul
+  lifont sizeactively seek out the bestnbspecommerce
+valuesfont
+  lifont sizehelpnbspyou market special offers to your
+clientsfont
+  lifont sizehost personal web sites for travel agents with
+mailpound
+    contentfont
+  lifont sizeoffernbsphigher commissions through
+consolidationfont
+  lifont sizeorganize sales incentives from suppliersfont
+  lifont sizeprovide new technology for fast and easynbsponline
+    bookingsfont
+  lifont sizeprovide your clients with the ability to book through
+you
+    onlinefontli
+ul
+div
+  font sizenbspmpemdirectem services are offered for
+monthfont
+div
+div
+  nbsp
+div
+div
+  font sizewe invite you to visit us soon at a
+hrefhttpwwwmailpoundcomwwwmailpoundcomanbspor
+  check out the links shown below see how the free services we offer the
+travel
+  agent community can help you succeed the summer is almost over now is
+the
+  time to prepare for the upcoming selling seasonfont
+div
+div
+  nbsp
+div
+ul dirltr stylemarginright px
+  ul
+    lifont sizefor more information regarding higher commissions
+and booking online a
+hrefhttpwwwmailpoundcomblissintrohtm
+wwwmailpoundcomblissintrohtma
+    lifor more information about your personal web sitebr
+      a
+hrefhttpwwwmailpoundcommpdirectwwwmailpoundcommpdirecta
+    lito register free at mailpoundbr
+      a
+hrefhttpwwwmailpoundcomregistration
+wwwmailpoundcomregistrationali
+  ul
+ul
+div dirltr
+  br
+  font sizesincerelyfont
+div
+div
+  nbsp
+div
+div
+  font sizebob maier presidentbr
+  smart travel technologies incfont
+div
+div
+  font sizea
+hrefmailtormaiersmartcomrmaiersmartcomabr
+  nbsp ext br
+   east stow road suite br
+  marlton new jersey font
+div
+pnbspp
+pnbspp
+pnbspp
+pnbspp
+pfont color sizeif you do not want to receive these
+messages
+in the future please reply to this message with remove in the subject
+linefontp
+
+body
+
+html
+httpxentcommailmanlistinfofork
+
+

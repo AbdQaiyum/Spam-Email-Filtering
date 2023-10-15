@@ -1,0 +1,268 @@
+htmlcentertabletrtd bgcolorcctable width cellpadding cellspacing bordertrtd aligncenterfont facearial color sizei
+
+table border cellpadding  width  cellspacing cellpadding width bgcolorcc
+
+td aligncenter width bgcolorcc bordercolorccfont faceverdana colorblue sizebfree debt consolidation information
+
+fonttdtrtablebr
+
+free  minute debt consolidation quoteibfontbr
+font facearial coloraa size quickly and easily reduce your monthly debt payments up to  brbrfonttdtr
+
+trtd aligncenterfont face arial size colorwe are a c nonprofit organizationb that has helped s consolidate theirbr debts into one easy affordable monthly payment for a free  no obligationbbr quote to see how much money we can save you please read onfonttdtrtablecentertable cellpadding cellspacingtrtd aligncenterfont size colorblue facearialhelveticaibecome debt freeget your life back on trackfontitdtrtabletable cellpadding cellspacingtrtd aligncenterfont size color facearialhelveticaall credit accepted and home 
+ownership is not requiredfonttdtrtrtd aligncenterfont size color facearialhelvetica
+trtd aligncenterfont size color facearialhelvetica not another loan to dig you deeper in to debtfonttdtrtabletable cellpadding cellspacingtrtd aligncenterfont facearial size colorbluefont color size font confidential  no obligation  free quote font color size fontfonttdtrtrtd aligncenterfont facearial size
+tdtrtablehtml
+
+titlefree debt consolidation quotetitle
+
+body bgcolorffffff text linkff alinkff vlinkcc
+
+table cellpadding cellspacing border width
+trtd aligncenter bgcolorcc
+tdtrtr
+td aligncenter bgcolorccfont faceverdana color sizeif you have  or more in debt a trained professionalbr will negotiate with your creditors tofontbtdtrtr
+center
+table cellpadding cellspacing border width
+td aligncenter bgcolorccfont faceverdana color size
+lower your monthly debt payments up to fontbtdtrtr
+
+td aligncenter bgcolorccfont faceverdana color size
+end creditor harassmentfontbtdtrtr
+
+td aligncenter bgcolorccfont faceverdana color size
+save thousands of dollars in interest and late chargesfontbtdtrtr
+
+td aligncenter bgcolorccfont faceverdana color size
+start improving your credit ratingbrbr
+
+table border cellpadding  width  cellspacing cellpadding width bgcolor
+td aligncenter width bgcolorcc bordercolorccfont faceverdana colorblue sizebcomplete
+our quickform and submit it for your free analysisfontb
+tdtr
+tdtr
+
+table  cellspacing cellpadding border width
+tr bgcolorcc
+
+		  form namefrmlogin
+			input typehidden namenick valueguest
+																												input typehidden nameicq value
+			input typehidden nameinfo value
+			input typehidden namebut valuechat
+			
+
+			 form
+		
+          td
+
+
+          td rowspan valigntop width height
+		  form namemyform
+			input typehidden namecharcount value
+		form
+
+
+            form namepagerform actionhttpwwpicqcomwhitepagespagemehtml methodpost		
+																													input typehidden nameto value
+              table width border aligncenter
+                tr 
+
+         tr 
+                  td 
+                    
+                  td
+                  td 
+
+                  td
+                tr
+                tr
+       
+                tr 
+                tr
+				tr
+					td colspan
+						 
+					td
+				tr
+
+			input typehidden namecharcount value																						      
+
+input typehidden namefrom valueddcom
+input typehidden namefromemail valueddcom
+
+td alignright width height bgcolorcc
+font faceverdana color sizeimg srccleargif height widthbrname fonttd
+input typehidden namebody valuename
+td bgcolorccinput typetext size  namebody maxlengthtdtrtr
+
+td alignright width bgcolorcc
+font faceverdana color sizestreet address fonttd
+input typehidden namebody valueaddress
+td bgcolorccinput typetext size namebody maxlengthtdtrtr
+
+td alignright width bgcolorcc
+input typehidden namebody valuecity
+font faceverdana color sizecity fonttd
+td bgcolorccinput namebody size maxlengthtdtrtr
+
+td alignright  width bgcolorcc
+input typehidden namebody valuestate
+font faceverdana color sizestate  zip fonttd
+td bgcolorcc
+select namebody
+option valueoption
+option valueal alabama
+option valueak alaska
+option valueaz arizona
+option valuear arkansas
+option valueca california
+option valueco colorado
+option valuect connecticut
+option valuede delaware
+option valuedc dist of columbia
+option valuefl florida
+option valuega georgia
+option valuehi hawaii
+option valueid idaho
+option valueil illinois
+option valuein indiana
+option valueia iowa
+option valueks kansas
+option valueky kentucky
+option valuela louisiana
+option valueme maine
+option valuemd maryland
+option valuema massachusetts
+option valuemi michigan
+option valuemn minnesota
+option valuems mississippi
+option valuemo missouri
+option valuemt montana
+option valuene nebraska
+option valuenv nevada
+option valuenh new hampshire
+option valuenj new jersey
+option valuenm new mexico
+option valueny new york
+option valuenc north carolina
+option valuend north dakota
+option valueoh ohio
+option valueok oklahoma
+option valueor oregon
+option valuepa pennsylvania
+option valueri rhode island
+option valuesc south carolina
+option valuesd south dakota
+option valuetn tennessee
+option valuetx texas
+option valueut utah
+option valuevt vermont
+option valueva virginia
+option valuewa washington
+option valuewv west virginia
+option valuewi wisconsin
+option valuewy wyoming select
+
+input typehidden namebody valuezip
+
+input typetext namebody size maxlengthtdtrtr
+input typehidden namebody valuehphone
+td alignright width bgcolorcc
+font faceverdana color sizehome phone fontfont sizewith area code fonttd
+td bgcolorccinput typetext size namebody maxlengthtdtrtr
+
+td alignright width bgcolorcc
+input typehidden namebody valuewphone
+font faceverdana color sizework phone fontfont size colorwith area code fonttd
+td bgcolorccinput typetext size namebody maxlengthtdtrtr
+
+td alignright width bgcolorcc
+input typehidden namebody valuebtime
+font faceverdana color sizebest
+time to contact fontfonttd
+td bgcolorccselect size namebody
+option valuemorning at homemorning at homeoption
+option valuemorning at workmorning at workoption
+option valueafternoon at homeafternoon at homeoption
+option valueafternoon at workafternoon at workoption
+option valueevening at homeevening at homeoption
+option valueevening at workevening at work option
+option valueweekendweekendoptionselecttdtrtr
+
+input typehidden namebody valueemail
+td alignright width bgcolorcc
+font faceverdana color sizeemail
+address fonttd
+td bgcolorccinput typetext namebody size
+tdtr
+
+input typehidden namebody valuetdebt
+td alignright width bgcolorcc
+font faceverdana color sizetotal
+debt fonttd
+td bgcolorcc
+select namebody
+option valueoption
+option value    
+option value    
+option value    
+option value    
+option value    
+option value    
+option value    
+option value    
+option value    
+option value    
+option value    
+option value    
+option value    
+option value    
+option valueselect
+
+
+tdtr
+
+
+table
+center
+pinput typesubmit valueclick here to submitinput typereset valueresetcenterform
+
+table border cellspacing cellpadding width 
+tr
+td width
+centerfont faceverdana size colorplease click the submit button
+just once  process will take  secondsfontcenter
+td
+tr
+
+tr
+td widthtd
+tr
+table
+br
+table border cellpadding  width  cellspacing cellpadding width bgcolor
+td aligncenter width bgcolorcc bordercolorccfont faceverdana colorblue sizebor please reply to the email with the following for your free analysisfontb
+br
+tdtr
+tdtr
+table
+br
+center
+table border cellpadding  width  cellspacing cellpadding width bgcolor
+font faceverdana color size
+namebr
+addressbr
+citybr
+state zipbr
+home phone     br
+work phone     br
+best timebr
+emailbr
+total debtbr
+table
+
+htmlbr
+not interested  please send and email to a hrefmailtomiguelstgermaineswirvecommiguelstgermaineswirvecoma
+
+esiroomkozucxfpo

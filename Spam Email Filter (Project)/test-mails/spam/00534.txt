@@ -1,0 +1,122 @@
+html
+head
+body
+
+table bgcolordffffff borderd bordercolord cellpaddin
+gd cellspacingd styledbordercollapse collapse widthd
+
+  tbody
+    tr
+      td aligndright bgcolordcc heightd valigndtop
+
+        table borderd cellpaddingd cellspacingd widthd
+
+          tbody
+            tr
+              td
+                div aligndleft
+                  p aligndcenterfont facedverdana arial helvet
+ica sansserif sizedbfont colord facedverdana ar
+ial helvetica sansserif sizedbr
+                  fontbfontbfont facedverdana arial helve
+tica sansserif sized colordffffffsave
+                  up to  on your life insurancefontb
+                div
+                div aligndleft
+                  p aligndcenterfont sizedbfont colord
+font facedarialgetfontfont facedarial
+                  fontfontfont facedarial colordfffffffre
+efontfont colordfont facedarial
+                  fontfont facedariallife insurance quotes from
+fontfontfont facedarial colord
+                  fontfont colord facedarialthe very b
+est
+                  companies atfontfont colord facedarial
+ fontfont facedarial colordthe
+                  lowest ratesfontbfontfont colord
+br
+                  font
+                div
+                div aligndleft
+                  p aligndcenterbfont facedverdana ptsized
+ sizedyou
+                  cant predict the future but you can always prepare for
+ itfontb
+                div
+                div aligndleft
+                  div aligndleft
+                    p aligndcenterfont facedverdana ptsized
+ sizedcompare
+                    rates from top insurance companies around the country
+br
+                    in our life and times its important to plan for your
+                    familys future while being comfortable financially 
+choose
+                    the right life insurance policy todayfont
+                  div
+                  div aligndleft
+                    p aligndcenterbfont colordffffff faced
+verdana styledfontsize ptinsurance
+                    companies compete for your insurancefontbp
+                    p aligndleft
+                  div
+                  div aligndleft
+                    p aligndcenterbfont colord faced
+arial sizedits
+                    fast easy and best of all free fontbbr
+                  div
+                div
+                font sized colordff facedverdana arial
+ helvetica sansserif styledfontsize ptfonttd
+            tr
+            tr
+              td
+                div aligndleft
+                  p aligndleftnbspp
+                  bfont facedverdana arial helvetica sansserif 
+sized
+                  table borderd cellpaddingd cellspacingd 
+heightd widthd
+                    tbody
+                      tr
+                        td heightd styledborderbottom px soli
+d borderleft px solid borderright px solid bordertop px solid
+ widthdtd
+                        td bgcolordff heightd styledbor
+derleft px solid widthd
+                          p aligndcenterba hrefdhttpwwwchi
+naniconlinecomsavequote styledtextdecoration nonefont colord
+ffffff sizedclick
+                          herefontabfonta hrefdhttpwww
+chinaniconlinecomsavequote styledtextdecoration nonebfont co
+lordffffff sized facedverdana arial helvetica sansserif
+                          for your free quotefontbap
+                      td
+                    tr
+                  tbody
+                  table
+                  b
+                div
+              td
+            tr
+          tbody
+        table
+      td
+    tr
+  tbody
+table
+p aligndleftif you are in receipt of this email in error andor wish
+ to be
+removed from our list a hrefdmailtojcbtamailnetcnplease click 
+herea
+and type remove if you reside in any state which prohibits email solicit
+ations
+for insurance please disregard this emailbr
+p
+
+body
+
+html
+
+
+

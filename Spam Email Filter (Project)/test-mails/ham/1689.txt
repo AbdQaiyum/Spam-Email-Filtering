@@ -1,0 +1,46 @@
+razor wont filter empty emails what version of the agents are you using
+
+cheers
+vipul
+
+on mon sep   at pm  raido kurel wrote
+ hi
+ 
+ is it possible to use razor without filtering empty mails as spamm
+ an mail with an attachment is considered spamm is this normal
+ or i mysqlf like to send emails to myself where all important is said in
+ subject and body is empty for remaining smth
+ 
+ thanks
+ raido kurel
+ 
+ 
+ 
+ 
+ 
+ this sfnet email is sponsored bythinkgeek
+ welcome to geek heaven
+ httpthinkgeekcomsf
+ 
+ razorusers mailing list
+ razoruserslistssourceforgenet
+ httpslistssourceforgenetlistslistinforazorusers
+
+ 
+
+vipul ved prakash             the future is here its just not 
+software design artist         widely distributed
+httpvipulnet                         william gibson
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+razorusers mailing list
+razoruserslistssourceforgenet
+httpslistssourceforgenetlistslistinforazorusers
+
+

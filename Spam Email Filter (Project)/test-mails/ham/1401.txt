@@ -1,0 +1,19 @@
+i never claimed it could learn all combinatorial 
+possibilities but it certainly can learn some
+
+c
+
+on thursday august   at   pm scott a crosby wrote
+
+ on thu  aug    craig rhughes 
+ craigdeersoftcom writes
+
+ it can learn combinatorial stuff in a more subtle way  imagine
+
+ no it cant
+
+ it can learn a few examples that happen to be linearily seperable
+ like those you gave it cannot learn the example i gave below which
+ is not linearily seperable
+
+

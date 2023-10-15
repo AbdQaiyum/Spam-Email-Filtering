@@ -1,0 +1,110 @@
+
+ tim peters wrote
+ weve not only reduced the fp and fn rates in my test runs weve also
+ made the score distributions substantially sharper  this is bad news for
+ greg because the nonexistent middle ground is becoming even less
+ existent wink
+
+well ive finally got around to pulling down the sf code starting
+with it and absolutely zero local modifications i see the following
+
+ham distribution for all runs
+   items
+    
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+      
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+      
+     
+
+spam distribution for all runs
+   items
+      
+       
+       
+       
+       
+       
+      
+      
+      
+       
+       
+      
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+      
+       
+       
+       
+       
+       
+       
+       
+      
+       
+       
+      
+      
+      
+      
+      
+   
+
+
+my next current task is to complete the corpus ive got  its currently
+got   ham  spam and about  currently unsorted im tossing 
+up using either hammie or spamassassin to do the initial sort   previously
+ive used various forms of grep for keywords and a little gui thing to 
+pop a message up and let me say spamham but thats just getting too too
+tedious
+
+i cant make it available en masse but i will look at finding some of
+the more interesting uglies one thing ive seen consider this 
+anecdotal for now is that the skip tokens end up in a lot of the 
+fps
+
+anthony

@@ -1,0 +1,36 @@
+on thu  at  matthias saou wrote
+
+   thanks a lot   the rpms seem to be fine they worked for me out of
+   the box on vanilla valhalla wlatest errata
+  
+  except that i dont see an init script in the rpms a sample one
+  designed for rh is supposed to be in utilsalsasound  could you take
+  a look if it can be included
+ 
+ it doesnt need to as red hat linux already sets correct permissions on all
+ alsa audio devices for locally logged in users through the consoleperms
+ file and the modulesconf files takes care of loading the right modules on
+ demand also aumix and the scripts that come with red hat linux still work
+ for controlling the volume so its still saved and restored when the
+ computer is halted even using alsa
+
+ah  the mixer stuff was what made me look for an init script in the
+first place i didnt bother to check whether the existing stuff would
+have worked with that  will try that out you can assume silence 
+success 
+
+ from what i can tell after only  days using it  alsa rocks especially
+ since having a full oss compatibility results that it breaks nothing at
+ all 
+
+agreed  though with only  hours experience
+
+ 
+ille skytt
+villeskytta at ikifi
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

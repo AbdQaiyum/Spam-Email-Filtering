@@ -1,0 +1,36 @@
+meta httpequivcontenttype contenttexthtml charsetwindows
+meta contentmshtml  namegeneratorhead
+body text vlink alink link bgcolorffffffoo saved from urlhttpinternetemail  
+fontbr
+center
+table cellspacing cellpadding width bgcolor border
+  tbody
+  tr
+    td
+      table cellspacing cellpadding width bgcolorffffff 
+      backgroundwebcreditfilesbackgroundarrowgif border
+        tbody
+        tr
+          tda 
+            hrefhttpwwwwebcreditcomcidampmidimg 
+            srcwebcreditfilesbanneremailgif borderabrimg 
+            srcwebcreditfileslinegifbrbra 
+            hrefhttpwwwwebcreditcomcidampmidimg 
+            alt srcwebcreditfilesbodyemailgif bordera brfont 
+            faceverdana sizethank youfontbrimg 
+            srcwebcreditfilesthankyougif brtdtr
+        tr
+          tdimg srcwebcreditfileslinegifbrbrfont faceverdana 
+            sizeyour email address was obtained from a purchased list 
+            reference  ampmidnbspnbspif you wish to unsubscribe 
+            from this list please a 
+            hrefhttpphpremovephpclick herea and enter 
+            your name into the remove box if you have previously unsubscribed 
+            and are still receiving this message you may email our a 
+            hrefmailtosolutionsrunsaacomsubjectabuse reportabuse 
+            control centera or call  or write us at nospam 
+             coral way miami fl fontbrbrimg 
+            srcwebcreditfileslinegifbrfont faceverdana size  
+            web credit inc all rights reservedfontfont faceverdana 
+            sizefonttdtrtbodytabletdtrtbodytablecenterbrbodyhtml
+

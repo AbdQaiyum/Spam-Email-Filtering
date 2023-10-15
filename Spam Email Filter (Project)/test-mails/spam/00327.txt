@@ -1,0 +1,229 @@
+html
+hey i am forwarding you the ad they sent me
+i tried the leads and think we should use them for our team
+what do you think
+thanks
+john
+head
+meta httpequivdcontenttype contentdtexthtml charsetdwindows
+
+meta namedgenerator contentdmicrosoft frontpage 
+meta namedprogid contentdfrontpageeditordocument
+titlelead sale extendedtitle
+head
+
+body textd
+
+form methoddpost enctypedtextplain actiondmailtothekeybtam
+ailnetcnsubjectdneed leads
+  pb you have been invited to join the coopbp
+  table borderd widthd bordercolord bgcolord
+
+    tr
+      td widthdbfont sized colordfffffflead sale 
+extendedfontbtd
+    tr
+  table
+  table borderd widthd
+    tr
+      td widthd
+        p aligndcenterbfont sized colordwe have
+ recently put
+        together a lead coop specifically for your groupnbsp we have 
+been
+        able to lock the price at as little as  cents per leadnbsp 
+leads
+        are normally  perfontbtd
+    tr
+  table
+  table borderd widthd
+    tr
+      td widthd bordercolordffffff bgcolordffffffnbsp
+td
+      td widthd
+        ul
+          li
+            p aligndleftbfont sized colordso
+fontbli
+          li
+            p aligndleftbfont sized colordsign 
+up todayfontbli
+          li
+            p aligndleftbfont sized colordget o
+ur leadsfontbli
+          li
+            p aligndleftbfont sized colordand g
+et to workfontbli
+        ul
+        table borderd widthd bordercolord bgcolo
+rd
+          tbody
+            tr
+              td bgcolord widthd
+                bfont colordff sizedhere is what we hav
+e
+        to offer youfontb
+              td
+            tr
+          tbody
+        table
+        table borderd widthd
+          tbody
+            tr
+              td widthd
+                bunetwork marketer or gifter contactsub
+                ul
+                  liball leads guaranteed to be network marketers  o
+r
+                    giftersb
+                  libguaranteed to be current active and experienced
+b
+                  libleads have either responded to a internet quest
+ionnaire or
+                    are already on our contact list of current active
+                    networkers open to opportunityb
+                  libleads includenbspnbspnbspnbspat least
+ name phone and emailbli
+                ul
+                pnbsp
+              td
+            tr
+          tbody
+        table
+      td
+    tr
+  table
+  p aligndcenterbuse us as a tool to build your businessnbs
+p refer
+  as many people as you cannbsp earn a true residual income by the
+  duplication of your team cause rememberbp
+  table borderd widthd
+    tr
+      td widthd bgcolord bordercolord
+        p aligndcenterbfont colordffremember font
+font colordffffffnbsp
+        fontbfont colordffffff sizedbyour system now
+        includes a proven lead systemnbsp bfontbfont sized
+ colordffffffnbspnbspnbsp
+        fontfont colordfffont sizedfontremember
+fontbtd
+    tr
+  table
+  p
+p
+  table borderd widthd
+    tr
+      td widthd
+        p aligndcenterbfont colordff sizedreplace
+ment policy
+        our leads are guaranteedfontbp
+        ul
+          li
+            p aligndleftbany unusable leadnbspnbsp ie missin
+g info
+            invalid info any just real negative response towards you on 
+the
+            phone font colordffreplacedfontbp
+          li
+        ul
+        table borderd widthd
+          tr
+            td widthd bgcolord bordercolord
+
+              p aligndcenterbfont colordffreplacement 
+leads given
+              nbsp no questions askednbsp just let us know what you
+ need
+              and we will get it handledfontbtd
+          tr
+        table
+        p aligndcenterbfont colordplease complete th
+e following formnbspfontbp
+      td
+    tr
+  table
+  table borderd widthd bordercolord bgcolord
+
+    tr
+      td widthd
+        table borderd widthd
+          tr
+            td widthd aligndrightbfont sized colord
+ffffffnamefontbtd
+            td widthd aligndleft
+              p aligndleftfont colordffffffinput typedte
+xt namedname sizedfonttd
+            td widthd aligndrightbfont sized colord
+ffffffphonefontbtd
+            td widthdfont colordffffffinput typedtext
+ namedphone sizedfonttd
+          tr
+          tr
+            td widthd aligndrightbfont sized colord
+ffffffemailfontbtd
+            td widthd aligndleftfont colordffffffinp
+ut typedtext namedemail sizedfonttd
+            td widthd aligndrightbfont sized colord
+fffffftime
+              to callfontbtd
+            td widthdfont colordffffffinput typedtext
+ namedtimecall sizedselect sized namedtimezone
+                optionpstoption
+                optionmntoption
+                optioncstoption
+                optionestoption
+                optionotheroption
+              selectfonttd
+          tr
+          tr
+            td widthd aligndrightbfont sized colord
+ffffffcompany
+              you are withfontbtd
+            td widthd aligndleft colspandfont colord
+ffffffinput typedtext namedcompany sizedfonttd
+          tr
+          tr
+            td widthd aligndrightfont colordffffffin
+put typedtext nameddownlinemembers sizedfonttd
+            td widthd aligndleft colspandbfont color
+dffffffhow
+              many downline members do you have that may also need leads
+fontbtd
+          tr
+        table
+        p aligndcenterinput typedsubmit valuedsubmit named
+binput typedreset valuedreset namedbp
+        nbsptd
+    tr
+  table
+  p aligndcenternbspp
+  p aligndcenternbspp
+  p aligndcenternbspp
+  p aligndcenternbspp
+  p aligndcenternbspp
+  p aligndcenternbspp
+  p aligndcenternbspp
+  p aligndcenterbfont sizedfont colordyou hav
+e received this
+  message because of a past clientservice relationship we had with you 
+if this
+  might be inaccurate or you simply wish to be removed from all future n
+otices
+  thenfontfont colordff  a hrefdmailtoremovesbtamail
+netcnsubjectdremove targetdblankclick
+  hereafontfontbp
+  table borderd widthd
+    tr
+      td widthd bgcolord bordercolordfon
+t sizednbspfonttd
+    tr
+  table
+form
+
+body
+
+html
+
+
+
+

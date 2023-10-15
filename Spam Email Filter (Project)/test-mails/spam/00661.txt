@@ -1,0 +1,68 @@
+ saved from urldhttpinternetemail 
+doctype html public wcdtd html  transitionalen
+html
+head
+	titleno money down merchant accountstitle
+head
+style typedtextcssmain   fontfamily verdana arial helvetica 
+sansserif fontsize px color 
+footer   fontfamily verdana arial helvetica sansserif fontsize 
+px color 
+alink textdecoration none color f
+avisited textdecoration none color f
+aactive textdecoration none color ff
+ahover textdecoration none color bstyle
+
+body topmargind leftmargindtable widthd aligndcente
+r cellspacingd cellpaddingd  borderd bordercolorda
+
+tr
+	tdtable widthd bgcolordeef borderd
+tr
+	tdtable
+tr
+	tdimg srcdhttpimagesaddgif altd widthd
+ heightd borderdtd
+    td aligndjustify valigndtop classdmainstrongfont size
+d facedverdana colordacenterno money down merchant a
+ccountscenterfontstrongp
+if you own your own business youre starting a new business or know someo
+ne who is being able to accept major credit cards can make all the diff
+erence in the worldp
+centerstrongfont sized colordedca hrefdhttpwww
+bpmerindexhtmlclick herea
+fontstrongcentertd
+tr
+tabletable
+tr
+	td aligndjustify valigndtop classdmain backgrounddhttp
+imagesaddgifjust the fact that you accept credit cards
+ adds credibility to your business especially if you are a new small or 
+home based businessp
+blockquotefont colordfcalino payment for the first monthli
+br
+lisetup within  dayslifontblockquotep
+approval is quick and our set up times range from    days guaranteed a
+pproval on all leases for equipment or software bad credit no credit no
+ problemp
+centerfont sized colordfcaaccept credit cards online or of
+fline fontpbr
+font sized colordfcaa hrefdhttpwww
+bpmerindexhtmlclick hereacenterfont
+pbrtd
+	tdtd
+tr
+tabletable bgcolordffffff
+tr
+	td classdfooter aligndjustify valigndtop
+if youd like to be removed from our mailing list please click on the lin
+k below p
+we protect all email addresses from third parties thank you a hrefdh
+ttpremoveremovehtmplease remove meatd
+tr
+tabletdtrtable
+body
+html
+
+
+

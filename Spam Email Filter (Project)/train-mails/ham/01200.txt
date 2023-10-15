@@ -1,0 +1,48 @@
+once upon a time hesty wrote 
+
+ i know theyre all included in the freshrpms alsanull
+ directory
+
+now that psyche is released that directory was erased
+
+ i was worried that with the new mplayerpre these
+ packages might break something is there any mplayer
+ package which includes all the options for vo and
+ ao is that because alsa is not included in rh hence
+ the lack of alsa option for mplayer from freshrpms
+ or is there some swtiches to enable these options
+ during 
+ rpm build
+
+for all my recent packages that support with and without options ive
+put them in the description section see for instance 
+httppsychefreshrpmsnetrpmhtmlid
+
+where you can see 
+available rpmbuild rebuild options 
+with  alsa
+without  aalib lirc libdv arts
+
+the ogle package has also a with alsa option and ive had a bug report
+about xine that i apparently unintentionally compiled with alsa directly
+
+
+id like to aks this on the rpmzzzlist  would a new dependency of k the
+alsalib package for many packages mplayer ogle xine be a problem for
+the freshrpmsnet packages users as i really feel like blending alsa in
+now especially since ive just spent some time recompiling alsakernel
+package for all the psyche kernels
+
+matthias
+
+ 
+matthias saou                                world trade center
+                                edificio norte  planta
+system and network engineer                   barcelona spain
+electronic group interactive                 phone      
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+
+

@@ -1,0 +1,43 @@
+
+this may be a little off topic but thought people here would have a better
+response to this elsewhere
+
+i have setup two mx records mail and bmail for my mail server the one i
+gave a  bmail the other a  mail
+
+bmail i gave a  because i want all mail to go through this server to
+be scanned for spam and viruses and then relayed to the mail server for
+delivery
+
+as i understand it dns a records are used in a rotating fashion for load
+balancing but dns mx records are used in order or prority meaning the 
+before the  and only  if the  isnt available
+
+but only some of the mail is actually being scanned which leads me to
+believe that not all of the mail is actually hitting that box and the 
+never goes down why have i got something confused here
+
+thanks
+v
+ end of forwarded message 
+
+
+
+
+ 
+this message has been scanned for viruses and
+dangerous content by mailscanner at compwizcom
+and is believed to be clean
+
+
+
+
+this sfnet email is sponsored bythinkgeek
+welcome to geek heaven
+httpthinkgeekcomsf
+
+spamassassintalk mailing list
+spamassassintalklistssourceforgenet
+httpslistssourceforgenetlistslistinfospamassassintalk
+
+

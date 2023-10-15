@@ -1,0 +1,44 @@
+
+ylvhuolxipkzbkt
+contenttype textplain charsetusascii
+contentdisposition inline
+contenttransferencoding quotedprintable
+
+on fri feb   at pm  matthias saou wrote
+ once upon a time harri wrote 
+
+  title page has a login screen and i cant seem to get the apt indexes
+  anymore is it just me or is something going on there
+
+ you cant get the file index from here either
+ httpaptnixianoaptfiles
+
+the requested url aptfiles was not found on this server
+
+ during the past few days ive experienced connection problems with that
+ site from time to time but for me right now its working
+
+maybe its temporary 
+
+
+win a live rat for your motherinlaw
+
+ylvhuolxipkzbkt
+contenttype applicationpgpsignature
+contentdisposition inline
+
+begin pgp signature
+version gnupg v gnulinux
+comment for info see httpwwwgnupgorg
+
+iddbqewqwpqfoixnckramdlajvdnwlecyedkpmdwwnykfaoqcfzxjc
+frkwdoazvrgrpdmw
+oxj
+end pgp signature
+
+ylvhuolxipkzbkt
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

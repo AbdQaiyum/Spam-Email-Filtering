@@ -1,0 +1,49 @@
+on fri feb   at pm  brian french wrote
+ hey i have a problem
+ i have a rpms that i have installed that i want to uninstall i do it
+ like so
+ rpm e rpm package
+ and it gives the error package not installed so i install it like
+ so
+its a little confusing but you install rpms like
+rpm ivh packagenamerpm 
+uninstalls must be done without the version info like
+rpm e packagename   ie rpm e sendmail or 
+rpm e sendmaildevel 
+
+give that a go and it should work np 
+
+phil 
+
+
+ rpm i rpm package
+ and it gives the error package already installed so i force it to
+ install like so
+ rpm i force rpm package
+ this installs it and then i try to uninstall it again and it still
+ gives me the same error package not installed
+  
+ how can i get it to recognize that the package is indeed installed it
+ andor get it to unstall it
+  
+ thanx in advance
+ brian french
+ 
+ french
+ 
+ 
+ 
+ rpmlist mailing list rpmlistfreshrpmsnet
+ httplistsfreshrpmsnetmailmanlistinforpmlist
+
+ 
+i say bring on the brand new renaissance cause i
+think im ready ive been shaking all night long
+but my hands are steady  
+gord downie    httpwwwthehipcom
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

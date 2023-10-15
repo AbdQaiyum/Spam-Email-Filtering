@@ -1,0 +1,45 @@
+exmhp
+contenttype textplain charsetusascii
+
+on wed  sep   pdt brent welch said
+
+ hacksaw said
+
+   when i receive a gpg encrypted message and it asks me for a passphrase 
+ it
+   first tries to ask me via the tty under which exmh is running it tells 
+
+hmm ive seen the opposite issue  if i go to send a signed message
+sometimes exmh will put up the dialog box but fail to set keyboard focus
+there so no passphrase can be entered  of course hitting return doesnt
+work so you need to click the ok box at which point it finds that the
+passphrase that wasnt entered doesnt work and asks again this time with
+proper focus set
+
+i suspect some variablecodepath is getting hosed for the focus or possibly
+some borkedness with notty andor statusfd flags to gnupg
+
+valdis
+
+exmhp
+contenttype applicationpgpsignature
+
+begin pgp signature
+version gnupg v gnulinux
+comment exmh version  
+
+iddbqefcclwbttarapkakdptodpgdcdorebwjqvakfmdgccdrsa
+hqcpirzrsxfvaqbemaqmy
+lxe
+end pgp signature
+
+exmhp
+
+
+
+
+exmhworkers mailing list
+exmhworkersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhworkers
+
+

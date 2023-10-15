@@ -1,0 +1,24 @@
+about aptconf there are these lines
+
+snip
+rpm 
+
+    leave list empty to disable
+   allowedduppkgs kernel kernelsmp kernelenterprise 
+   holdpkgs kernelsource kernelheaders 
+
+snip
+
+how do i tell apt hold all kernel packages can i use syntax like 
+kernel  
+
+and i dont quite understand what the part kernel means
+
+ 
+peter
+
+
+
+rpmlist mailing list rpmlistfreshrpmsnet
+httplistsfreshrpmsnetmailmanlistinforpmlist
+

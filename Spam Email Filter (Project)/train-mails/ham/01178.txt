@@ -1,0 +1,51 @@
+james this is not an exmh problem but an interaction between sendmail
+james solaris and mh
+
+correct
+
+james your sysadmin is wrong  it is the responsibility of the receiving mail
+james server to escape lines beginning with from  if they choose to turn
+james on that facility  it is not the responsibility for email clients to
+james cater to the stupid design of the unix mail spool and suns even more
+james stupid decision to rely on contentlength instead of dealing with
+james this problem  since mh is unaware of contentlength rcvstore gags
+james trying to parse messages from the spool
+
+also correct  in fairness though i cannot defend the contentlength header
+as i consider it brain damage in the extreme sun inherited this from att
+
+james get your mail administrator to add the e flag to your sendmail
+james this means you will never see a line beginning with from  any such
+james line will look like from 
+
+specifically you will need to find a line in etcmailsendmailcf that
+starts with mlocal such as
+
+ grep mlocal etcmailsendmailcf
+mlocal         pusrlibmaillocal flsdfmawqpsxfmnze senvfromsmtphdrfroml renvtolhdrtol
+ 
+
+and make sure that e appears in the long list of flags following f
+if your sysadmin uses m to generate sendmailcf and any good sysadmin
+should then here is the magic line for the mc file
+
+modifymailerflagslocal ednl
+
+james you can learn to use procmail invoking rcvstore directly instead of 
+james letting sendmail put your incoming mail into the spool  this avoids
+james the whole issue  rcvstore only deals with a single message at a time
+james and everything works
+
+also correct though procmail per se is not needed as other filters such
+as slocal which is part of the nmh distribution do the trick just as well
+
+ john
+
+
+
+
+exmhusers mailing list
+exmhusersredhatcom
+httpslistmanredhatcommailmanlistinfoexmhusers
+
+
